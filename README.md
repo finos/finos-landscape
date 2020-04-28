@@ -2,7 +2,7 @@
 
 # FINOS Landscape
 
-![FINOS Landscape Logo](https://github.com/finos/artwork/raw/master/FINOS-landscape/FINOS-landscape.svg?sanitize=true)
+![FINOS Landscape Logo](https://github.com/finos/finos-landscape/raw/master/images/left-logo.svg?sanitize=true)
 
 - [FINOS Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
