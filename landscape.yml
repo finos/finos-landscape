@@ -203,15 +203,10 @@ landscape:
             logo: apollo-graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/meteor'
           - item:
-            name: Dgraph Labs (member)
-            homepage_url: 'https://dgraph.io/'
-            logo: dgraph-labs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
-          - item:
-            name: Elementl (member)
-            homepage_url: 'https://www.elementl.com/'
-            logo: elementl.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elementl'
+            name: Capital One (member)
+            homepage_url: 'https://capitalone.com/'
+            logo: capital-one.svg
+            crunchbase: 'https://www.crunchbase.com/organization/capital-one'
           - item:
             name: Expedia Group (member)
             homepage_url: 'https://expediagroup.com'
@@ -224,70 +219,10 @@ landscape:
             logo: facebook.svg
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
-            name: Fauna (member)
-            homepage_url: 'https://fauna.com/'
-            logo: fauna.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fauna'
-          - item:
-            name: Gatsby (member)
-            homepage_url: 'https://www.gatsbyjs.org/'
-            logo: gatsby.svg
-            crunchbase: 'https://www.crunchbase.com/organization/gatsby-e828'
-          - item:
-            name: Hasura (member)
-            homepage_url: 'https://hasura.io'
-            logo: hasura.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: IBM (member)
-            homepage_url: 'https://www.ibm.com/'
-            logo: ibm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
-            name: Intuit (member)
-            homepage_url: 'https://www.intuit.com/'
-            logo: intuit.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intuit'
-          - item:
-            name: Neo4j (member)
-            homepage_url: 'https://neo4j.com/'
-            logo: neo4j.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
-          - item:
-            name: Novvum (member)
-            homepage_url: 'https://novvum.io/'
-            logo: novvum.svg
-            crunchbase: 'https://www.crunchbase.com/organization/novvum'
-          - item:
-            name: PayPal (member)
-            homepage_url: 'https://paypal.com/'
-            logo: paypal.svg
-            crunchbase: 'https://www.crunchbase.com/organization/paypal'
-          - item:
-            name: Prisma (member)
-            homepage_url: 'https://prisma.io/'
-            logo: prisma.svg
-            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
-          - item:
-            name: Salsify (member)
-            homepage_url: 'https://www.salsify.com'
-            logo: salsify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/salsify'
-          - item:
-            name: Shopify (member)
-            homepage_url: 'https://www.shopify.com'
-            logo: shopify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
-          - item:
-            name: The Guild (member)
-            homepage_url: 'https://the-guild.dev/'
-            logo: the_guild.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: Twitter (member)
-            homepage_url: 'https://twitter.com/'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            name: GitLab (member)
+            homepage_url: 'https://gitlab.com/'
+            logo: gitlab.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
   - category:
     name: FINOS Adopter
     subcategories:
