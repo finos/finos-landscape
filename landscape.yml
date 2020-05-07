@@ -198,11 +198,6 @@ landscape:
             logo: amazon-web-services.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
-            name: Apollo GraphQL (member)
-            homepage_url: 'https://www.apollographql.com/'
-            logo: apollo-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
-          - item:
             name: Capital One (member)
             homepage_url: 'https://capitalone.com/'
             logo: capital-one.svg
@@ -228,6 +223,11 @@ landscape:
             homepage_url: 'https://gitlab.com/'
             logo: gitlab.svg
             crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
+          - item:
+            name: IBM (member)
+            homepage_url: 'https://www.ibm.com/'
+            logo: ibm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
   - category:
     name: FINOS Adopter
     subcategories:
