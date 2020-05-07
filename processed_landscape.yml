@@ -1540,7 +1540,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-04-21T16:53:02.000Z
   - category:
-    name: GraphQL Foundation Member
+    name: FINOS Foundation Member
     subcategories:
       - subcategory:
         name: General
@@ -1692,87 +1692,87 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-04-22T03:59:02.000Z
           - item:
-            name: Apollo GraphQL (member)
-            homepage_url: 'https://www.apollographql.com/'
-            logo: apollo-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            name: Capital One (member)
+            homepage_url: 'https://capitalone.com/'
+            logo: capital-one.svg
+            crunchbase: 'https://www.crunchbase.com/organization/capital-one'
             crunchbase_data:
-              name: Apollo
-              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.apollographql.com'
-              city: San Francisco
-              region: California
+              name: Capital One
+              description: 'Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.capitalone.com'
+              city: Mclean
+              region: Virginia
               country: United States
-              twitter: 'http://twitter.com/apollographql'
-              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              twitter: 'http://twitter.com/CapitalOne'
+              linkedin: 'https://www.linkedin.com/company/capital-one/'
               acquisitions:
-                - date: '2014-10-07'
-                  acquiree: FathomDB
+                - date: '2019-08-19'
+                  acquiree: KippsDeSanto & Co.
+                - date: '2019-08-16'
+                  acquiree: United Income
+                - date: '2019-06-24'
+                  acquiree: BlueTarp Financial
+                - date: '2019-06-19'
+                  acquiree: Jewel Commerce
+                - date: '2018-11-20'
+                  acquiree: Wikibuy
+                - date: '2018-05-11'
+                  acquiree: Confyrm
+                - date: '2018-01-05'
+                  acquiree: 'Notch, Co.'
+                - date: '2016-10-06'
+                  acquiree: Paribus
+                - date: '2016-03-10'
+                  acquiree: Critical Stack
+                - date: '2015-07-08'
+                  acquiree: Monsoon Company
+                - date: '2015-01-12'
+                  acquiree: Level Money
+                - date: '2014-10-02'
+                  acquiree: Adaptive Path
+                - date: '2013-11-04'
+                  acquiree: Beech Street Capital
+                - date: '2012-11-30'
+                  acquiree: Bundle
+                - date: '2012-05-12'
+                  acquiree: Bankons
+                - date: '2012-02-17'
+                  acquiree: ING Direct
+                - date: '2009-02-27'
+                  acquiree: Chevy Chase Bank
+                - date: '2006-12-01'
+                  acquiree: North Fork Bancorporation
+                  price: 14600000000
+                - date: '2005-11-16'
+                  acquiree: Hibernia Corporation
+                - date: '2004-12-14'
+                  acquiree: eSmartloan
+                - date: '2004-11-03'
+                  acquiree: HFS Group
+                - date: '2004-09-22'
+                  acquiree: Onyx Acceptance Corporation
+                - date: '2001-09-21'
+                  acquiree: PeopleFirst.com
+                - date: '2001-05-09'
+                  acquiree: AmeriFee
+                - date: '1998-07-01'
+                  acquiree: Summit Acceptance Corp.
               parents: []
-              kind: funding
-              funding: 53200000
+              ticker: COF
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 27691954176
+              effective_ticker: COF
             image_data:
-              fileName: apollo-graph-ql-member.svg
-              hash: tHRhDNJjHVZKSDWv/b/UwuRDxTeCvssKzKAAo++Mbvs=
+              fileName: capital-one-member.svg
+              hash: KYeCDoBRZPxxAcwDpeTUvT6uJqXbEv2rAHXlAu3LHIc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-04-21T18:57:13.000Z
-          - item:
-            name: Dgraph Labs (member)
-            homepage_url: 'https://dgraph.io/'
-            logo: dgraph-labs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
-            crunchbase_data:
-              name: Dgraph Labs
-              description: 'Dgraph is a fast, transactional, native and distributed graph database.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://dgraph.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://www.twitter.com/dgraphlabs'
-              linkedin: 'https://www.linkedin.com/company/dgraph-labs/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 14450000
-            image_data:
-              fileName: dgraph-labs-member.svg
-              hash: jbD5QoHRu6twWSQXOo17PP5dpeNvfKFIhaAEptVAsW4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-21T07:05:20.000Z
-          - item:
-            name: Elementl (member)
-            homepage_url: 'https://www.elementl.com/'
-            logo: elementl.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elementl'
-            crunchbase_data:
-              name: Elementl
-              description: 'Building Dagster, an open-source Python library for building data applications.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.elementl.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: elementl-member.svg
-              hash: OyYYeNssdVs/QSnhivxas/yxwoAxh9FpxGdGTm3g7Tk=
-            best_practice_data:
-              badge: false
-              percentage: null
+              latest_tweet_date: 2020-04-10T17:51:47.000Z
           - item:
             name: Expedia Group (member)
             homepage_url: 'https://expediagroup.com'
@@ -2075,89 +2075,85 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-04-21T20:52:02.000Z
           - item:
-            name: Fauna (member)
-            homepage_url: 'https://fauna.com/'
-            logo: fauna.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fauna'
+            name: GitHub (member)
+            homepage_url: 'https://github.com/'
+            logo: github.svg
+            crunchbase: 'https://www.crunchbase.com/organization/github'
             crunchbase_data:
-              name: Fauna
-              description: Serverless cloud database that offers fast global access to data via modern APIs like GraphQL without sacrificing data consistency.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://fauna.com/'
+              name: GitHub
+              description: GitHub provides open-source code hosting services.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'https://github.com'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/fauna'
-              linkedin: 'https://www.linkedin.com/company/faunadb/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 32609994
+              twitter: 'http://twitter.com/github'
+              linkedin: 'https://www.linkedin.com/company/1418841'
+              acquisitions:
+                - date: '2020-03-16'
+                  acquiree: npm
+                - date: '2019-09-18'
+                  acquiree: Semmle
+                - date: '2019-06-17'
+                  acquiree: Pull Panda
+                - date: '2019-05-23'
+                  acquiree: Dependabot
+                - date: '2018-11-30'
+                  acquiree: Spectrum
+                - date: '2014-01-09'
+                  acquiree: Easel
+                - date: '2011-12-05'
+                  acquiree: Ordered List
+              parents:
+                - 'https://www.crunchbase.com/organization/microsoft'
+              ticker: MSFT
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1276447293440
+              effective_ticker: MSFT
             image_data:
-              fileName: fauna-member.svg
-              hash: Z1y3961UpBxr7vJ+CFtQOxvsJZfs1qJ+r+9tWRHRGeo=
+              fileName: git-hub-member.svg
+              hash: aZAv51Mn59oWQP7VI8VCzpOEplog43Jkn4m8RhVJs/A=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-04-21T19:30:18.000Z
+              latest_tweet_date: 2020-04-22T00:23:23.000Z
           - item:
-            name: Gatsby (member)
-            homepage_url: 'https://www.gatsbyjs.org/'
-            logo: gatsby.svg
-            crunchbase: 'https://www.crunchbase.com/organization/gatsby-e828'
+            name: GitLab (member)
+            homepage_url: 'https://gitlab.com/'
+            logo: gitlab.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
             crunchbase_data:
-              name: Gatsby
-              description: 'Open Source, modern website and app generator for React'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.gatsbyjs.org/'
-              city: Berkeley
+              name: GitLab
+              description: GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://about.gitlab.com'
+              city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/gatsbyjs'
-              linkedin: 'https://www.linkedin.com/company/gatsbyjs/'
-              acquisitions: []
+              twitter: 'http://twitter.com/gitlab'
+              linkedin: 'https://www.linkedin.com/company/gitlab-com/'
+              acquisitions:
+                - date: '2018-01-30'
+                  acquiree: Gemnasium (acquired by Gitlab)
+                - date: '2017-03-15'
+                  acquiree: Gitter
+                - date: '2015-05-03'
+                  acquiree: Gitorious
               parents: []
               kind: funding
-              funding: 18800000
+              funding: 436200000
             image_data:
-              fileName: gatsby-member.svg
-              hash: qJsIPCWgj1U8S1PU8v9rAkrpEb654CcExtriT10ClB4=
+              fileName: git-lab-member.svg
+              hash: 1GkNkq4eRIDd5CdPT7b66ishOQzqY4eyc8q5xZqRmiI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-04-22T01:02:13.000Z
-          - item:
-            name: Hasura (member)
-            homepage_url: 'https://hasura.io'
-            logo: hasura.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-            crunchbase_data:
-              name: Hasura
-              description: 'Blazing fast, instant realtime GraphQL APIs and eventing on Postgres with fine grained access control'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://hasura.io/'
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/hasurahq'
-              linkedin: 'https://www.linkedin.com/company/hasura/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 11500000
-            image_data:
-              fileName: hasura-member.svg
-              hash: lhrTZyKc/eD1z/8kr0wRKSFSdZre3JMNMSNVhba9/h4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-22T03:44:17.000Z
+              latest_tweet_date: 2020-05-07T23:05:04.000Z
           - item:
             name: IBM (member)
             homepage_url: 'https://www.ibm.com/'
@@ -2572,539 +2568,11 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-21T19:49:42.000Z
-          - item:
-            name: Intuit (member)
-            homepage_url: 'https://www.intuit.com/'
-            logo: intuit.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intuit'
-            crunchbase_data:
-              name: Intuit
-              description: 'Intuit offers business and financial management solutions for SMBs, financial institutions, consumers, and accounting professionals.'
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'http://www.intuit.com'
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/Intuit'
-              linkedin: 'https://www.linkedin.com/company/intuit'
-              acquisitions:
-                - date: '2020-02-24'
-                  acquiree: Credit Karma
-                  price: 7100000000
-                - date: '2019-11-18'
-                  acquiree: ChronoBooks
-                - date: '2019-05-28'
-                  acquiree: Origami Logic
-                - date: '2018-01-29'
-                  acquiree: Applatix
-                - date: '2017-12-05'
-                  acquiree: TSheets
-                  price: 340000000
-                - date: '2017-10-26'
-                  acquiree: Exactor
-                - date: '2015-03-24'
-                  acquiree: Playbook HR
-                - date: '2015-02-05'
-                  acquiree: Porticor Cloud Security
-                - date: '2015-01-21'
-                  acquiree: ZeroPaper
-                - date: '2014-12-10'
-                  acquiree: Acrede HR & Payroll Solutions
-                - date: '2014-08-13'
-                  acquiree: itDuzzit
-                - date: '2014-08-07'
-                  acquiree: PaySuite
-                - date: '2014-05-27'
-                  acquiree: Mint Bills
-                  price: 360000000
-                - date: '2014-05-08'
-                  acquiree: Lettuce
-                - date: '2013-12-04'
-                  acquiree: Docstoc
-                - date: '2013-10-30'
-                  acquiree: Full Slate
-                - date: '2013-10-23'
-                  acquiree: Level Up Analytics
-                - date: '2013-08-08'
-                  acquiree: GoodApril
-                - date: '2013-06-21'
-                  acquiree: Elastic Intelligence
-                - date: '2013-01-28'
-                  acquiree: Payvment
-                - date: '2012-04-27'
-                  acquiree: Demandforce
-                  price: 423500000
-                - date: '2012-04-09'
-                  acquiree: AisleBuyer
-                - date: '2010-05-11'
-                  acquiree: Medfusion
-                - date: '2009-09-14'
-                  acquiree: Mint
-                  price: 170000000
-                - date: '2009-06-02'
-                  acquiree: PayCycle
-                  price: 170000000
-                - date: '2009-04-17'
-                  acquiree: BooRah
-                - date: '2007-11-26'
-                  acquiree: Homestead Technologies
-                  price: 170000000
-                - date: '2006-12-01'
-                  acquiree: Digital Insight
-                - date: '2006-09-14'
-                  acquiree: StepUp
-                - date: '2005-11-02'
-                  acquiree: MyCorporation
-                  price: 20000000
-                - date: '2002-08-14'
-                  acquiree: Blue Ocean Software
-              parents: []
-              ticker: INTU
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 64900829184
-              effective_ticker: INTU
-            image_data:
-              fileName: intuit-member.svg
-              hash: I24++Glol3FKuM1gpkeYrf7/9/Kg35S+Nc5GmoMBNkE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-22T00:38:49.000Z
-          - item:
-            name: Neo4j (member)
-            homepage_url: 'https://neo4j.com/'
-            logo: neo4j.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
-            crunchbase_data:
-              name: Neo4j
-              description: 'Neo4j graph platform helps organizations make sense of their data by revealing how people, processes and digital systems are interrelated.'
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'https://www.neo4j.com/'
-              city: San Mateo
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/neo4j'
-              linkedin: 'https://www.linkedin.com/company/neo4j'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 160100000
-            image_data:
-              fileName: neo4j-member.svg
-              hash: L3FywyQo36HHkBYlC82HHqCqicTV/TrI/PbUAbGK3II=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-22T03:00:00.000Z
-          - item:
-            name: Novvum (member)
-            homepage_url: 'https://novvum.io/'
-            logo: novvum.svg
-            crunchbase: 'https://www.crunchbase.com/organization/novvum'
-            crunchbase_data:
-              name: Novvum
-              description: A Full-Service Software Development & Consulting Firm
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://novvum.io'
-              city: Irvine
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/novvumio'
-              linkedin: 'https://www.linkedin.com/company/novvum-consulting-group-llc'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: novvum-member.svg
-              hash: kZoGKPwYjKoEt0DO7YfeQBpHPG/XybZ6fn0fyEzkOBw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-05T18:57:27.000Z
-          - item:
-            name: PayPal (member)
-            homepage_url: 'https://paypal.com/'
-            logo: paypal.svg
-            crunchbase: 'https://www.crunchbase.com/organization/paypal'
-            crunchbase_data:
-              name: PayPal
-              description: PayPal provides online payment solutions to its users worldwide.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.paypal.com/home'
-              city: San Jose
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/paypal'
-              linkedin: 'https://www.linkedin.com/company/paypal'
-              acquisitions:
-                - date: '2019-11-20'
-                  acquiree: Honey
-                  price: 4000000000
-                - date: '2019-10-01'
-                  acquiree: gopay
-                - date: '2018-06-21'
-                  acquiree: Simility
-                  price: 120000000
-                - date: '2018-06-19'
-                  acquiree: Hyperwallet
-                  price: 400000000
-                - date: '2018-05-29'
-                  acquiree: Jetlore
-                - date: '2018-05-17'
-                  acquiree: iZettle
-                  price: 2200000000
-                - date: '2017-08-10'
-                  acquiree: Swift Financial
-                - date: '2017-02-14'
-                  acquiree: TIO Networks
-                  price: 238000000
-                - date: '2015-08-19'
-                  acquiree: Modest Inc
-                - date: '2015-07-02'
-                  acquiree: Xoom
-                  price: 890000000
-                - date: '2015-03-05'
-                  acquiree: CyActive
-                  price: 60000000
-                - date: '2015-03-02'
-                  acquiree: Paydiant
-                  price: 280000000
-                - date: '2013-12-17'
-                  acquiree: StackMob
-                - date: '2013-09-26'
-                  acquiree: Braintree
-                  price: 800000000
-                - date: '2013-04-13'
-                  acquiree: IronPearl
-                - date: '2013-03-12'
-                  acquiree: Duff Research LLC
-                - date: '2012-07-17'
-                  acquiree: card.io
-                - date: '2011-04-28'
-                  acquiree: FigCard
-                - date: '2008-01-28'
-                  acquiree: Fraud Sciences
-                - date: '2000-03-01'
-                  acquiree: Confinity
-              parents: []
-              ticker: PYPL
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 126132592640
-              effective_ticker: PYPL
-            image_data:
-              fileName: pay-pal-member.svg
-              hash: C9a941dLnKsv/M5vp9T2ewtLLNQVs/96bg/RuoIl/GM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-22T01:16:03.000Z
-          - item:
-            name: Prisma (member)
-            homepage_url: 'https://prisma.io/'
-            logo: prisma.svg
-            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
-            crunchbase_data:
-              name: Prisma
-              description: Prisma enables its users to access all of their databases in a single GraphQL query.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.prisma.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/prisma'
-              linkedin: 'https://www.linkedin.com/company/prisma-io/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 4500000
-            image_data:
-              fileName: prisma-member.svg
-              hash: LCRDw8Rb6w3hffj0Ga3jKibmxhnvG8C7dbmx9z4xWP4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-21T08:09:37.000Z
-          - item:
-            name: Salsify (member)
-            homepage_url: 'https://www.salsify.com'
-            logo: salsify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/salsify'
-            crunchbase_data:
-              name: Salsify
-              description: Salsify empowers brands to win on the digital shelf.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'http://salsify.com'
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: 'http://twitter.com/Salsify'
-              linkedin: 'https://www.linkedin.com/company/salsify'
-              acquisitions:
-                - date: '2019-10-01'
-                  acquiree: B2X Partners
-                - date: '2018-11-08'
-                  acquiree: Welcome
-              parents: []
-              kind: funding
-              funding: 97600000
-            image_data:
-              fileName: salsify-member.svg
-              hash: u77LWkCSyvDVQ9zW0KcxbagDT80zmCc/BhOVoIbRIfw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-21T16:15:02.000Z
-          - item:
-            name: Shopify (member)
-            homepage_url: 'https://www.shopify.com'
-            logo: shopify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
-            crunchbase_data:
-              name: Shopify
-              description: 'Shopify is a cloud-based, multi-channel commerce platform designed for small and medium-sized businesses.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.shopify.com'
-              city: Ottawa
-              region: Ontario
-              country: Canada
-              twitter: 'http://twitter.com/shopify'
-              linkedin: 'https://www.linkedin.com/company/shopify'
-              acquisitions:
-                - date: '2019-09-10'
-                  acquiree: 6 River Systems
-                  price: 450000000
-                - date: '2019-05-23'
-                  acquiree: Handshake
-                - date: '2018-11-21'
-                  acquiree: Tictail
-                - date: '2018-06-20'
-                  acquiree: Return Magic
-                - date: '2017-05-11'
-                  acquiree: Oberlo
-                  price: 15000000
-                - date: '2016-12-05'
-                  acquiree: Tiny Hearts
-                - date: '2016-10-03'
-                  acquiree: Boltmade
-                - date: '2016-04-13'
-                  acquiree: Kit
-                - date: '2013-08-01'
-                  acquiree: Jet Cooper
-                - date: '2012-02-01'
-                  acquiree: Select Start Studios
-              parents: []
-              ticker: SHOP
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 68284125184
-              effective_ticker: SHOP
-            image_data:
-              fileName: shopify-member.svg
-              hash: 9lEs96a9HzjjwqucEJ8iyv44w+MhFqfcQGKl/uUSSf0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-22T01:45:15.000Z
-          - item:
-            name: The Guild (member)
-            homepage_url: 'https://the-guild.dev/'
-            logo: the_guild.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-            crunchbase_data:
-              name: The Guild
-              description: Distributed Open source developer group
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://the-guild.dev'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/TheGuildDev'
-              linkedin: 'https://linkedin.com/company/the-guild-software'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: the-guild-member.svg
-              hash: z6bdaqFNneq2aikKPnRkHa0c+kvs1/5JSUPcnaB8iZE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-21T16:53:02.000Z
-          - item:
-            name: Twitter (member)
-            homepage_url: 'https://twitter.com/'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
-            crunchbase_data:
-              name: Twitter
-              description: Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as “tweets”.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.twitter.com/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/twitter'
-              linkedin: 'https://www.linkedin.com/company/twitter'
-              acquisitions:
-                - date: '2020-02-19'
-                  acquiree: B.M.H Social
-                - date: '2019-11-21'
-                  acquiree: Aiden
-                - date: '2019-08-20'
-                  acquiree: Lightwell
-                - date: '2019-06-03'
-                  acquiree: Fabula AI Limited
-                - date: '2019-04-17'
-                  acquiree: Highly
-                - date: '2018-06-20'
-                  acquiree: Smyte
-                  price: 65000000
-                - date: '2016-12-01'
-                  acquiree: 'Yes, Inc'
-                - date: '2016-06-20'
-                  acquiree: Magic Pony Technology
-                  price: 150000000
-                - date: '2016-04-07'
-                  acquiree: Peer
-                - date: '2015-10-26'
-                  acquiree: ZeroPush
-                - date: '2015-10-22'
-                  acquiree: Fastlane
-                - date: '2015-06-17'
-                  acquiree: Whetlab
-                - date: '2015-04-28'
-                  acquiree: TellApart
-                  price: 479000000
-                - date: '2015-04-02'
-                  acquiree: tenXer
-                  price: 50000000
-                - date: '2015-03-10'
-                  acquiree: Periscope Co
-                - date: '2015-02-11'
-                  acquiree: Niche
-                  price: 50000000
-                - date: '2015-01-19'
-                  acquiree: Zipdial
-                  price: 30000000
-                - date: '2014-08-11'
-                  acquiree: Gnip
-                  price: 134000000
-                - date: '2014-07-31'
-                  acquiree: Mitro
-                - date: '2014-07-29'
-                  acquiree: MADBITS
-                - date: '2014-07-17'
-                  acquiree: CardSpring
-                - date: '2014-06-30'
-                  acquiree: TapCommerce
-                  price: 100000000
-                - date: '2014-06-19'
-                  acquiree: SnappyTV
-                - date: '2014-06-05'
-                  acquiree: Namo Media
-                  price: 50000000
-                - date: '2014-04-07'
-                  acquiree: Cover Lockscreen
-                - date: '2014-04-04'
-                  acquiree: Adrenaline Mobility
-                - date: '2014-03-31'
-                  acquiree: Mesagraph
-                - date: '2014-03-31'
-                  acquiree: SecondSync
-                - date: '2013-09-09'
-                  acquiree: MoPub
-                  price: 350000000
-                - date: '2013-08-28'
-                  acquiree: Trendrr
-                - date: '2013-08-13'
-                  acquiree: Marakana
-                - date: '2013-06-19'
-                  acquiree: Spindle
-                - date: '2013-05-13'
-                  acquiree: Lucky Sort
-                - date: '2013-05-09'
-                  acquiree: Ubalo
-                - date: '2013-02-04'
-                  acquiree: Bluefin Labs
-                - date: '2013-01-28'
-                  acquiree: Crashlytics
-                - date: '2012-10-18'
-                  acquiree: Cabana
-                - date: '2012-10-09'
-                  acquiree: '#Vine'
-                  price: 30000000
-                - date: '2012-08-13'
-                  acquiree: Clutch.io
-                - date: '2012-04-17'
-                  acquiree: Hotspots.io
-                - date: '2012-03-12'
-                  acquiree: Posterous
-                - date: '2012-01-24'
-                  acquiree: Dasient
-                - date: '2012-01-19'
-                  acquiree: Summify
-                - date: '2011-11-28'
-                  acquiree: Whisper Systems
-                - date: '2011-09-21'
-                  acquiree: Julpan
-                - date: '2011-08-08'
-                  acquiree: Bagcheck
-                - date: '2011-07-05'
-                  acquiree: BackType
-                - date: '2011-05-31'
-                  acquiree: AdGrok
-                - date: '2011-05-02'
-                  acquiree: TweetDeck
-                - date: '2010-12-21'
-                  acquiree: Fluther
-                - date: '2010-06-10'
-                  acquiree: Dabble DB
-                - date: '2010-04-22'
-                  acquiree: Cloudhopper
-                - date: '2010-04-09'
-                  acquiree: Atebits
-                - date: '2009-12-23'
-                  acquiree: Mixer Labs
-                - date: '2008-11-24'
-                  acquiree: Values of n
-                - date: '2008-07-15'
-                  acquiree: Summize
-              parents: []
-              ticker: TWTR
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 20204195840
-              effective_ticker: TWTR
-            image_data:
-              fileName: twitter-member.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-17T18:46:31.000Z
   - category:
-    name: GraphQL Adopter
+    name: FINOS Adopter
     subcategories:
       - subcategory:
-        name: GraphQL Adopter
+        name: FINOS Adopter
         items:
           - item:
             name: 1stdibs (adopter)
@@ -4187,6 +3655,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-19T08:46:20.000Z
+          - item:
+            name: DevopsInternational (adopter)
+            homepage_url: 'https://devopsinternational.nl/'
+            logo: devopsinternational.svg
+            twitter: 'https://twitter.com/DevopsintlAms'
+            crunchbase: 'https://www.crunchbase.com/organization/devopsinternational-bv'
+            crunchbase_data:
+              name: DevopsInternational BV
+              description: An emerging technologies company (focussed on Machine learning and Blockchain).
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://devopsinternational.nl/'
+              city: Amsterdam
+              region: Noord-Holland
+              country: The Netherlands
+              twitter: 'https://twitter.com/DevopsintlAms'
+              linkedin: 'https://www.linkedin.com/company/devopsinternational/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: devops-international-adopter.svg
+              hash: 5mejA9InZvNzy19CqvlD0oo5wwaWh5ajc9d3ugbVYUU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-01T14:03:35.000Z
           - item:
             name: Directlyrics (adopter)
             homepage_url: 'https://directlyrics.com/'
