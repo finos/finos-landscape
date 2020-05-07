@@ -219,6 +219,11 @@ landscape:
             logo: facebook.svg
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
+            name: GitHub (member)
+            homepage_url: 'https://github.com/'
+            logo: github.svg
+            crunchbase: 'https://www.crunchbase.com/organization/github'
+          - item:
             name: GitLab (member)
             homepage_url: 'https://gitlab.com/'
             logo: gitlab.svg
