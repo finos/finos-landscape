@@ -18,7 +18,6 @@ global:
   membership: FINOS Foundation Member
   flags:
     hide_license_for_categories:
-      - FINOS Adopter
       - FINOS Foundation Member
 twitter:
   search: landscape.FINOS.org
@@ -91,7 +90,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: FINOS Landscape
-    fullscreen_header: See the interactive landscape at l.FINOS.org
+    fullscreen_header: See the interactive landscape at l.finos.org
     size:
       width: 1020
       height: 840
@@ -100,7 +99,7 @@ big_picture:
       height: 840
     elements:
       - type: HorizontalCategory
-        category: Projects
+        category: Applications
         rows: 4
         width: 325
         height: 160
@@ -109,7 +108,7 @@ big_picture:
         color: 'rgb(4,81,49)'
         fit_width: true
       - type: HorizontalCategory
-        category: Services
+        category: Data
         rows: 3
         width: 280
         height: 160
@@ -118,7 +117,7 @@ big_picture:
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
-        category: Databases
+        category: Enablement
         rows: 3
         width: 325
         height: 160
@@ -127,12 +126,21 @@ big_picture:
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
-        category: FINOS Adopter
+        category: Infrastructure
         rows: 6
-        width: 970
-        height: 320
+        width: 425
+        height: 160
         top: 180
         left: 0
+        color: 'rgb(126,115,14)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: "Platforms & Runtimes"
+        rows: 6
+        width: 425
+        height: 160
+        top: 180
+        left: 445
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
