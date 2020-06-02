@@ -1,286 +1,247 @@
 landscape:
-- category: ''
+- category:
   name: Data
   subcategories:
-  - subcategory: ''
+  - subcategory:
     name: Data Management
     items:
-    - item: ''
+    - item:
       name: Alloy
       homepage_url: https://github.com/finos/alloy
       repo_url: https://github.com/finos/alloy
       logo: project-placeholder.svg
-      types: [Open Source Software, Hosted Software]
-    - item: ''
+    - item:
       name: Data Helix
       homepage_url: https://github.com/finos/datahelix
       repo_url: https://github.com/finos/datahelix
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: DataHub
       homepage_url: https://github.com/finos/datahub
       repo_url: https://github.com/finos/datahub
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Exodus
       homepage_url: https://github.com/finos/exodus
       repo_url: https://github.com/finos/exodus
       logo: project-placeholder.svg
-      types: [Open Source Software]
-  - subcategory: ''
+  - subcategory:
     name: Models
     items:
-    - item: ''
+    - item:
       name: Financial Objects
       homepage_url: https://github.com/finos/finos-fo
       repo_url: https://github.com/finos/finos-fo
       logo: project-placeholder.svg
-      types: [Open Standard]
-  - subcategory: ''
+  - subcategory:
     name: Tick & Reference
     items:
-    - item: ''
+    - item:
       name: Security Reference Data
       homepage_url: https://github.com/finos/secref-data
       repo_url: https://github.com/finos/secref-data
       logo: project-placeholder.svg
-      types: [Special Interest Group]
-    - item: ''
+    - item:
       name: kdb+
       homepage_url: https://github.com/finos/kdb
       repo_url: https://github.com/finos/kdb
       logo: project-placeholder.svg
-      types: [Open Standard, Open Source Software]
-- category: ''
+- category:
   name: Enablement
   subcategories:
-  - subcategory: ''
+  - subcategory:
     name: Enablement
     items:
-    - item: ''
+    - item:
       name: CLA Bot
       homepage_url: https://github.com/finos/cla-bot
       repo_url: https://github.com/finos/cla-bot
       logo: project-placeholder.svg
-      types: [Open Source Software]
-  - subcategory: ''
+  - subcategory:
     name: ODP Toolchain
     items:
-    - item: ''
+    - item:
       name: OSLC Handbook
       homepage_url: https://github.com/finos/OSLC-handbook
       repo_url: https://github.com/finos/OSLC-handbook
       logo: project-placeholder.svg
-      types: [Open Source Document]
-    - item: ''
+    - item:
       name: Open Developer Platform
       homepage_url: https://github.com/finos/open-developer-platform
       repo_url: https://github.com/finos/open-developer-platform
       logo: project-placeholder.svg
-      types: [Hosted Software, Special Interest Group]
-    - item: ''
+    - item:
       name: Open source readiness
       homepage_url: https://github.com/finos/osr-checklists
       repo_url: https://github.com/finos/osr-checklists
       logo: project-placeholder.svg
-      types: [Special Interest Group]
-    - item: ''
+    - item:
       name: Reference FOSS Policy
       homepage_url: https://github.com/finos/reference-foss-policy
       repo_url: https://github.com/finos/reference-foss-policy
       logo: project-placeholder.svg
-      types: [Open Source Document, Open Policy]
-- category: ''
+- category:
   name: Infrastructure
   subcategories:
-  - subcategory: ''
+  - subcategory:
     name: Compliance & Management
     items:
-    - item: ''
+    - item:
       name: Cloud Service Certification
       homepage_url: https://github.com/finos/cloud-service-certification
       repo_url: https://github.com/finos/cloud-service-certification
       logo: project-placeholder.svg
-      types: [Open Source Software, Open Policy]
-    - item: ''
+    - item:
       name: Waltz
       homepage_url: https://github.com/finos/waltz
       repo_url: https://github.com/finos/waltz
       logo: project-placeholder.svg
-      types: [Open Source Software]
-- category: ''
+- category:
   name: Platforms & Runtimes
   subcategories:
-  - subcategory: ''
+  - subcategory:
     name: Interop
     items:
-    - item: ''
+    - item:
       name: FDC3
       homepage_url: https://github.com/finos/fdc3
       repo_url: https://github.com/finos/fdc3
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: FDC3 Desktop Agent
       homepage_url: https://github.com/finos/desktop-agent
       repo_url: https://github.com/finos/desktop-agent
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Plexus Interop
       homepage_url: https://github.com/finos-plexus/plexus-interop
       repo_url: https://github.com/finos-plexus/plexus-interop
       logo: project-placeholder.svg
-      types: [Open Source Software]
-  - subcategory: ''
+  - subcategory:
     name: Openfin Ecosystem
     items:
-    - item: ''
+    - item:
       name: OpenFin Python Adapter
       homepage_url: https://github.com/finos/openfin-python-adapter
       repo_url: https://github.com/finos/openfin-python-adapter
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: OpenFin React Hooks
       homepage_url: https://github.com/finos/openfin-react-hooks
       repo_url: https://github.com/finos/openfin-react-hooks
       logo: project-placeholder.svg
-      types: [Open Source Software]
-  - subcategory: ''
+  - subcategory:
     name: Containers
     items:
-    - item: ''
+    - item:
       name: Secure Electron Adapter
       homepage_url: https://github.com/finos/secure-electron-adapter
       repo_url: https://github.com/finos/secure-electron-adapter
       logo: project-placeholder.svg
-      types: [Open Source Software]
-- category: ''
+- category:
   name: Applications
   subcategories:
-  - subcategory: ''
+  - subcategory:
     name: Symphony Ecosystem
     items:
-    - item: ''
+    - item:
       name: Fugue
       homepage_url: https://github.com/symphonyoss/fugue
       repo_url: https://github.com/symphonyoss/fugue
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Integration Bridge
       homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
       repo_url: https://github.com/symphonyoss/App-Integrations-Commons
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: JCurl
       homepage_url: https://github.com/symphonyoss/JCurl
       repo_url: https://github.com/symphonyoss/JCurl
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: MessageML Utilities
       homepage_url: https://github.com/symphonyoss/messageml-utils
       repo_url: https://github.com/symphonyoss/messageml-utils
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: REST API Specification
       homepage_url: https://github.com/symphonyoss/symphony-api-spec
       repo_url: https://github.com/symphonyoss/symphony-api-spec
       logo: project-placeholder.svg
-      types: [Open Standard]
-    - item: ''
+    - item:
       name: REST API Tools
       homepage_url: https://github.com/symphonyoss/symphony-rest-tools
       repo_url: https://github.com/symphonyoss/symphony-rest-tools
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: S2 Common Components
       homepage_url: https://github.com/symphonyoss/S2-common
       repo_url: https://github.com/symphonyoss/S2-common
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Symfuny Chat Bot
       homepage_url: https://github.com/symphonyoss/symfuny-chat-bot
       repo_url: https://github.com/symphonyoss/symfuny-chat-bot
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Symphony .NET Client
       homepage_url: https://github.com/symphonyoss/RestApiClient
       repo_url: https://github.com/symphonyoss/RestApiClient
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Symphony Clojure Client
       homepage_url: https://github.com/symphonyoss/clj-symphony
       repo_url: https://github.com/symphonyoss/clj-symphony
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Symphony Electron
       homepage_url: https://github.com/symphonyoss/SymphonyElectron
       repo_url: https://github.com/symphonyoss/SymphonyElectron
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Symphony Hubot Client
       homepage_url: https://github.com/symphonyoss/hubot-symphony
       repo_url: https://github.com/symphonyoss/hubot-symphony
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Symphony Java Client
       homepage_url: https://github.com/symphonyoss/symphony-java-client
       repo_url: https://github.com/symphonyoss/symphony-java-client
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Unfurl Bot
       homepage_url: https://github.com/symphonyoss/bot-unfurl
       repo_url: https://github.com/symphonyoss/bot-unfurl
       logo: project-placeholder.svg
-      types: [Open Source Software]
-  - subcategory: ''
+  - subcategory:
     name: Voice Tech
     items:
-    - item: ''
+    - item:
       name: Greenkey Automatic Speech Recognition Toolkit
       homepage_url: https://github.com/finos/greenkey-asrtoolkit
       repo_url: https://github.com/finos/greenkey-asrtoolkit
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Greenkey Discovery SDK
       homepage_url: https://github.com/finos/greenkey-discovery-sdk
       repo_url: https://github.com/finos/greenkey-discovery-sdk
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Greenkey Voice SDK
       homepage_url: https://github.com/finos/greenkey-intercom-sdk
       repo_url: https://github.com/finos/greenkey-intercom-sdk
       logo: project-placeholder.svg
-      types: [Open Source Software]
-    - item: ''
+    - item:
       name: Voice Metadata Standardization
       homepage_url: https://github.com/finos/voice-metadata-standard
       repo_url: https://github.com/finos/voice-metadata-standard
       logo: project-placeholder.svg
-      types: [Open Standard]
-  - subcategory: ''
+  - subcategory:
     name: UI Frameworks
     items:
-    - item: ''
+    - item:
       name: Perspective
       homepage_url: https://github.com/finos/perspective
       repo_url: https://github.com/finos/perspective
       logo: project-placeholder.svg
-      types: [Open Source Software]
