@@ -127,7 +127,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
-        rows: 6
+        rows: 1
         width: 425
         height: 160
         top: 180
@@ -136,7 +136,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: "Platforms & Runtimes"
-        rows: 6
+        rows: 4
         width: 425
         height: 160
         top: 180
