@@ -137,7 +137,7 @@ big_picture:
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
-        category: "Platforms & Runtimes"
+        category: Platforms & Runtimes
         rows: 4
         width: 425
         height: 160
@@ -212,4 +212,4 @@ big_picture:
 test:
   header: FINOS Landscape
   section: FINOS Platinum Member
-  logo: twitter.svg
+  logo: morgan-stanley.svg
