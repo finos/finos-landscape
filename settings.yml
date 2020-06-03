@@ -15,10 +15,12 @@ global:
     twitter: '@finosfoundation'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: FINOS Foundation Member
+  membership: FINOS Platinum Member
   flags:
     hide_license_for_categories:
-      - FINOS Foundation Member
+      - FINOS Platinum Member
+      - FINOS Gold Member
+      - FINOS Silver Member
 twitter:
   search: landscape.FINOS.org
   url: 'https://landscape.finos.org'
@@ -39,12 +41,12 @@ relation:
           big_picture_label: FINOS Foundation Project
           big_picture_color: 'rgb(24,54,114)'
     - id: company
-      label: FINOS Foundation Member
+      label: FINOS Platinum Member
       tag: Company
       big_picture_order: 3
     - id: member
       label: FINOS Foundation Member Products/Projects
-      tag: FINOS Foundation Member
+      tag: FINOS Platinum Member
     - id: false
       label: Non-FINOS Foundation Member Products/Projects
       url: 'no'
@@ -144,18 +146,36 @@ big_picture:
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
-        category: FINOS Foundation Member
+        category: FINOS Platinum Member
         rows: 4
-        width: 650
+        width: 280
         height: 200
-        top: 540
+        top: 360
         left: 0
+        color: 'rgb(103,66,18)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: FINOS Gold Member
+        rows: 4
+        width: 280
+        height: 200
+        top: 360
+        left: 300
+        color: 'rgb(103,66,18)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: FINOS Silver Member
+        rows: 4
+        width: 280
+        height: 200
+        top: 360
+        left: 600
         color: 'rgb(103,66,18)'
         fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 200
-        top: 540
+        top: 360
         left: 670
         children:
           - type: text
@@ -191,5 +211,5 @@ big_picture:
             title: FINOS Foundation Logo
 test:
   header: FINOS Landscape
-  section: FINOS Foundation Member
+  section: FINOS Platinum Member
   logo: twitter.svg
