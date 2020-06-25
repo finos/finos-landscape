@@ -18,21 +18,21 @@ landscape:
       name: Data Helix
       homepage_url: https://github.com/finos/datahelix
       repo_url: https://github.com/finos/datahelix
-      logo: project-placeholder.svg
+      logo: datahelix.svg
       organization:
         name: FINOS
     - item:
       name: DataHub
       homepage_url: https://github.com/finos/datahub
       repo_url: https://github.com/finos/datahub
-      logo: project-placeholder.svg
+      logo: datahub.svg
       organization:
         name: FINOS
     - item:
       name: Exodus
       homepage_url: https://github.com/finos/exodus
       repo_url: https://github.com/finos/exodus
-      logo: project-placeholder.svg
+      logo: exodus.svg
       organization:
         name: FINOS
   - subcategory:
@@ -52,7 +52,7 @@ landscape:
       name: Security Reference Data
       homepage_url: https://github.com/finos/secref-data
       repo_url: https://github.com/finos/secref-data
-      logo: project-placeholder.svg
+      logo: security-reference-data.svg
       organization:
         name: FINOS
     - item:
@@ -72,7 +72,7 @@ landscape:
       name: CLA Bot
       homepage_url: https://github.com/finos/cla-bot
       repo_url: https://github.com/finos/cla-bot
-      logo: project-placeholder.svg
+      logo: cla-bot.svg
       organization:
         name: FINOS
   - subcategory:
@@ -116,7 +116,7 @@ landscape:
       name: Cloud Service Certification
       homepage_url: https://github.com/finos/cloud-service-certification
       repo_url: https://github.com/finos/cloud-service-certification
-      logo: project-placeholder.svg
+      logo: cloud-service-certification.svg
       organization:
         name: FINOS
     - item:
@@ -143,14 +143,14 @@ landscape:
       name: FDC3 Desktop Agent
       homepage_url: https://github.com/finos/fdc3-desktop-agent
       repo_url: https://github.com/finos/fdc3-desktop-agent
-      logo: project-placeholder.svg
+      logo: fdc3-desktop-agent.svg
       organization:
         name: FINOS
     - item:
       name: Plexus Interop
       homepage_url: https://github.com/finos-plexus/plexus-interop
       repo_url: https://github.com/finos-plexus/plexus-interop
-      logo: project-placeholder.svg
+      logo: plexus-interop.svg
       organization:
         name: FINOS
   - subcategory:
@@ -260,7 +260,7 @@ landscape:
       name: Symphony Electron
       homepage_url: https://github.com/symphonyoss/SymphonyElectron
       repo_url: https://github.com/symphonyoss/SymphonyElectron
-      logo: project-placeholder.svg
+      logo: symphony-electron.svg
       organization:
         name: FINOS
     - item:
@@ -312,7 +312,7 @@ landscape:
       name: Voice Metadata Standardization
       homepage_url: https://github.com/finos/voice-metadata-standard
       repo_url: https://github.com/finos/voice-metadata-standard
-      logo: project-placeholder.svg
+      logo: voice-metadata-standard.svg
       organization:
         name: FINOS
   - subcategory:
@@ -322,7 +322,7 @@ landscape:
       name: Perspective
       homepage_url: https://github.com/finos/perspective
       repo_url: https://github.com/finos/perspective
-      logo: project-placeholder.svg
+      logo: perspective.svg
       organization:
         name: FINOS
 - category:
