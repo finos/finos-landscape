@@ -121,7 +121,7 @@ big_picture:
       - type: HorizontalCategory
         category: Enablement
         rows: 3
-        width: 325
+        width: 280
         height: 160
         top: 0
         left: 645
@@ -130,7 +130,7 @@ big_picture:
       - type: HorizontalCategory
         category: Infrastructure
         rows: 1
-        width: 425
+        width: 75
         height: 160
         top: 180
         left: 0
@@ -139,44 +139,44 @@ big_picture:
       - type: HorizontalCategory
         category: Platforms & Runtimes
         rows: 4
-        width: 425
+        width: 280
         height: 160
         top: 180
-        left: 445
+        left: 95
         color: 'rgb(126,115,14)'
         fit_width: true
-      - type: HorizontalCategory
-        category: FINOS Platinum Member
-        rows: 4
-        width: 280
-        height: 200
-        top: 360
-        left: 0
-        color: 'rgb(103,66,18)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: FINOS Gold Member
-        rows: 4
-        width: 280
-        height: 200
-        top: 360
-        left: 300
-        color: 'rgb(103,66,18)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: FINOS Silver Member
-        rows: 4
-        width: 280
-        height: 200
-        top: 360
-        left: 600
-        color: 'rgb(103,66,18)'
-        fit_width: true
+#       - type: HorizontalCategory
+#         category: FINOS Platinum Member
+#         rows: 4
+#         width: 280
+#         height: 200
+#         top: 360
+#         left: 0
+#         color: 'rgb(103,66,18)'
+#         fit_width: true
+#       - type: HorizontalCategory
+#         category: FINOS Gold Member
+#         rows: 4
+#         width: 280
+#         height: 200
+#         top: 360
+#         left: 300
+#         color: 'rgb(103,66,18)'
+#         fit_width: true
+#       - type: HorizontalCategory
+#         category: FINOS Silver Member
+#         rows: 4
+#         width: 280
+#         height: 200
+#         top: 360
+#         left: 600
+#         color: 'rgb(103,66,18)'
+#         fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 200
-        top: 360
-        left: 890
+        top: 180
+        left: 395
         children:
           - type: text
             text: |
