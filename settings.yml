@@ -122,7 +122,7 @@ big_picture:
         category: Enablement
         rows: 3
         width: 280
-        height: 160
+        height: 200
         top: 0
         left: 645
         color: 'rgb(79,121,13)'
@@ -130,7 +130,7 @@ big_picture:
       - type: HorizontalCategory
         category: Infrastructure
         rows: 1
-        width: 75
+        width: 120
         height: 160
         top: 180
         left: 0
@@ -140,9 +140,9 @@ big_picture:
         category: Platforms & Runtimes
         rows: 4
         width: 280
-        height: 160
+        height: 200
         top: 180
-        left: 95
+        left: 140
         color: 'rgb(126,115,14)'
         fit_width: true
 #       - type: HorizontalCategory
@@ -176,11 +176,11 @@ big_picture:
         width: 310
         height: 200
         top: 180
-        left: 395
+        left: 440
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the FINOS community, and also shows the member organizations of the FINOS Foundation.
+              This landscape is intended as a map to explore the Financial Servcies Open Source and Open Standard Projects maintained by the FINOS Community. 
             top: 55
             left: 140
             right: 10
