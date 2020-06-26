@@ -86,6 +86,13 @@ landscape:
     name: OSS Readiness
     items:
     - item:
+      name: OSLC Handbook
+      homepage_url: https://github.com/finos/OSLC-handbook
+      repo_url: https://github.com/finos/OSLC-handbook
+      logo: project-placeholder.svg
+      organization:
+        name: FINOS
+    - item:
       name: Open source readiness
       homepage_url: https://github.com/finos/osr-checklists
       repo_url: https://github.com/finos/osr-checklists
@@ -316,19 +323,6 @@ landscape:
       homepage_url: https://github.com/finos/perspective
       repo_url: https://github.com/finos/perspective
       logo: perspective.svg
-      organization:
-        name: FINOS
-- category:
-  name: OSS Readiness
-  subcategories:
-  - subcategory:
-    name: ODP Toolchain
-    items:
-    - item:
-      name: OSLC Handbook
-      homepage_url: https://github.com/finos/OSLC-handbook
-      repo_url: https://github.com/finos/OSLC-handbook
-      logo: project-placeholder.svg
       organization:
         name: FINOS
 - category:
