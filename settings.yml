@@ -121,8 +121,8 @@ big_picture:
       - type: HorizontalCategory
         category: Enablement
         rows: 3
-        width: 280
-        height: 200
+        width: 225
+        height: 160
         top: 0
         left: 645
         color: 'rgb(79,121,13)'
@@ -131,7 +131,7 @@ big_picture:
         category: Infrastructure
         rows: 1
         width: 120
-        height: 160
+        height: 200
         top: 180
         left: 0
         color: 'rgb(126,115,14)'
@@ -173,7 +173,7 @@ big_picture:
 #         color: 'rgb(103,66,18)'
 #         fit_width: true
       - type: LandscapeInfo
-        width: 310
+        width: 430
         height: 200
         top: 180
         left: 440
