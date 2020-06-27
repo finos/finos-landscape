@@ -40,16 +40,16 @@ relation:
           big_picture_order: 1
           big_picture_label: FINOS Foundation Project
           big_picture_color: 'rgb(72,122,123)'
-    - id: company
-      label: FINOS Platinum Member
-      tag: Company
-      big_picture_order: 3
-    - id: member
-      label: FINOS Foundation Member Products/Projects
-      tag: FINOS Platinum Member
-    - id: false
-      label: Non-FINOS Foundation Member Products/Projects
-      url: 'no'
+#     - id: company
+#       label: FINOS Platinum Member
+#       tag: Company
+#       big_picture_order: 3
+#     - id: member
+#       label: FINOS Foundation Member Products/Projects
+#       tag: FINOS Platinum Member
+#     - id: false
+#       label: Non-FINOS Foundation Member Products/Projects
+#       url: 'no'
 membership:
   General:
     name: FINOS
