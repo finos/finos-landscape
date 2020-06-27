@@ -39,7 +39,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: FINOS Foundation Project
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: 'rgb(72,122,123)'
     - id: company
       label: FINOS Platinum Member
       tag: Company
@@ -107,7 +107,7 @@ big_picture:
         height: 160
         top: 0
         left: 0
-        color: 'rgb(4,81,49)'
+        color: 'rgb(0,181,226)'
         fit_width: true
       - type: HorizontalCategory
         category: Data
@@ -116,7 +116,7 @@ big_picture:
         height: 160
         top: 0
         left: 345
-        color: 'rgb(7,136,62)'
+        color: 'rgb(0,134,191)'
         fit_width: true
       - type: HorizontalCategory
         category: Enablement
@@ -125,7 +125,7 @@ big_picture:
         height: 160
         top: 0
         left: 645
-        color: 'rgb(79,121,13)'
+        color: 'rgb(107,202,186)'
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
@@ -134,7 +134,7 @@ big_picture:
         height: 200
         top: 180
         left: 0
-        color: 'rgb(126,115,14)'
+        color: 'rgb(67,176,42)'
         fit_width: true
       - type: HorizontalCategory
         category: Platforms & Runtimes
@@ -143,7 +143,7 @@ big_picture:
         height: 200
         top: 180
         left: 140
-        color: 'rgb(126,115,14)'
+        color: 'rgb(215,200,38)'
         fit_width: true
 #       - type: HorizontalCategory
 #         category: FINOS Platinum Member
@@ -180,7 +180,8 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the Financial Servcies Open Source and Open Standard Projects maintained by the FINOS Community. 
+              This landscape is intended as a map to explore the Financial Servcies Open Source and Open Standard Projects hosted by the FINOS Foundation. 
+              Community contributions are more than welcome, please raise an issue or pull request at github.com/finos/landscape.
             top: 55
             left: 140
             right: 10
@@ -196,7 +197,7 @@ big_picture:
             title: l.FINOS.org
             top: 140
             left: 5
-            font_size: 21
+            font_size: 16
           - type: image
             image: left-logo.svg
             width: 110
