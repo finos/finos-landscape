@@ -10,22 +10,12 @@ landscape:
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
             repo_url: 'https://github.com/finos/alloy'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: alloy.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: CSS
@@ -54,32 +44,20 @@ landscape:
               start_date: '2019-12-12T10:13:48Z'
             image_data:
               fileName: alloy.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: oAJUGmC17bul2enEmDUDPQWXsPuVrgiXzhbl2E0RtP4=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Data Helix
             homepage_url: 'https://github.com/finos/datahelix'
             repo_url: 'https://github.com/finos/datahelix'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: datahelix.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -118,32 +96,20 @@ landscape:
               start_date: '2018-06-25T08:57:28Z'
             image_data:
               fileName: data-helix.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: onU6c8TGVCkz5DhKxNdLKS6u+IhMlXZwpjysX8QDc00=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: DataHub
             homepage_url: 'https://github.com/finos/datahub'
             repo_url: 'https://github.com/finos/datahub'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: datahub.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -169,32 +135,20 @@ landscape:
               start_date: '2020-05-01T10:26:21Z'
             image_data:
               fileName: data-hub.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 4fSgG4qnjgWjYhaRu2RLMeChSccuU+lgFsP6B2H64+s=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Exodus
             homepage_url: 'https://github.com/finos/exodus'
             repo_url: 'https://github.com/finos/exodus'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: exodus.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Scheme
@@ -229,12 +183,10 @@ landscape:
               start_date: '2018-10-30T15:28:52Z'
             image_data:
               fileName: exodus.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: wYKsZpWCn/Jj1y82+BytMncDalmL3vrbjfKIV8m6d+k=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: Models
         items:
@@ -242,22 +194,12 @@ landscape:
             name: Financial Objects
             homepage_url: 'https://github.com/finos/finos-fo'
             repo_url: 'https://github.com/finos/finos-fo'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: financial-objects.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -286,12 +228,10 @@ landscape:
               start_date: '2018-11-08T14:51:23Z'
             image_data:
               fileName: financial-objects.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: doVt/ueLgSnsPeI3NuBvghhv/PyItdDnwizoAHIVoFE=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: Tick & Reference
         items:
@@ -299,22 +239,12 @@ landscape:
             name: Security Reference Data
             homepage_url: 'https://github.com/finos/secref-data'
             repo_url: 'https://github.com/finos/secref-data'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: security-reference-data.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -337,32 +267,20 @@ landscape:
               start_date: '2020-04-29T08:05:47Z'
             image_data:
               fileName: security-reference-data.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: aRfTCmhAjtWmr2Bg8YgU7DwDNkMacPVU2MStQ7Nxffk=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: kdb+
             homepage_url: 'https://github.com/finos/kdb'
             repo_url: 'https://github.com/finos/kdb'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: q
@@ -394,12 +312,10 @@ landscape:
               start_date: '2018-09-27T09:32:03Z'
             image_data:
               fileName: kdb.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
   - category:
     name: Enablement
     subcategories:
@@ -410,22 +326,12 @@ landscape:
             name: CLA Bot
             homepage_url: 'https://github.com/finos/cla-bot'
             repo_url: 'https://github.com/finos/cla-bot'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: cla-bot.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -450,12 +356,10 @@ landscape:
               start_date: '2017-04-26T05:22:44Z'
             image_data:
               fileName: cla-bot.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: oMBu2EsAAwWatSMbJ4xzmxEzm9boL5i3Co/WOXmAF74=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: ODP Toolchain
         items:
@@ -464,21 +368,11 @@ landscape:
             homepage_url: 'https://github.com/finos/OSLC-handbook'
             repo_url: 'https://github.com/finos/OSLC-handbook'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: HTML
@@ -506,32 +400,20 @@ landscape:
               start_date: '2018-10-26T18:13:22Z'
             image_data:
               fileName: oslc-handbook.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Open Developer Platform
             homepage_url: 'https://github.com/finos/open-developer-platform'
             repo_url: 'https://github.com/finos/open-developer-platform'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: open-developer-platform.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -557,32 +439,20 @@ landscape:
               start_date: '2018-08-20T12:51:46Z'
             image_data:
               fileName: open-developer-platform.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: OiMjw6fqntIbGGvGOMgNeM+eCLC4eKxgcq3a0KORFg0=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Open source readiness
             homepage_url: 'https://github.com/finos/osr-checklists'
             repo_url: 'https://github.com/finos/osr-checklists'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: open-source-readiness.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -599,32 +469,20 @@ landscape:
               start_date: '2019-10-23T13:26:08Z'
             image_data:
               fileName: open-source-readiness.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: m4P28XX/hwpIngu38vKmC2ExwTY8AEz3Q8IJnOVxIwU=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Reference FOSS Policy
             homepage_url: 'https://github.com/finos/reference-foss-policy'
             repo_url: 'https://github.com/finos/reference-foss-policy'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -641,12 +499,10 @@ landscape:
               start_date: '2018-05-30T13:20:21Z'
             image_data:
               fileName: reference-foss-policy.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -657,22 +513,12 @@ landscape:
             name: Cloud Service Certification
             homepage_url: 'https://github.com/finos/cloud-service-certification'
             repo_url: 'https://github.com/finos/cloud-service-certification'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: cloud-service-certification.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;15;4;2;1;1;1;6;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0
@@ -689,32 +535,20 @@ landscape:
               start_date: '2019-03-01T15:12:45Z'
             image_data:
               fileName: cloud-service-certification.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: F3HWuvytqY2nLtQe0fwjvhZ4Y4g1xAnrrwuR8w2aWfQ=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Waltz
             homepage_url: 'https://github.com/finos/waltz'
             repo_url: 'https://github.com/finos/waltz'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: waltz.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -749,12 +583,10 @@ landscape:
               start_date: '2016-01-18T22:06:27Z'
             image_data:
               fileName: waltz.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 4RO5zmTtT2WpiuHj3SfHXbCSvfPjx0Vl9ZFSfMCHK10=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -765,22 +597,12 @@ landscape:
             name: FDC3
             homepage_url: 'https://github.com/finos/fdc3'
             repo_url: 'https://github.com/finos/fdc3'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: fdc3.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: HTML
@@ -811,32 +633,20 @@ landscape:
               start_date: '2018-02-17T04:22:36Z'
             image_data:
               fileName: fdc3.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: +a1sYEDkNXVxAvWJvxUirJoXYuZVAcw2vnk6u//FflI=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: FDC3 Desktop Agent
-            homepage_url: 'https://github.com/finos/desktop-agent'
-            repo_url: 'https://github.com/finos/desktop-agent'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
+            repo_url: 'https://github.com/finos/fdc3-desktop-agent'
+            logo: fdc3-desktop-agent.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: TypeScript
@@ -851,46 +661,37 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;4;5;0;1;9;4;2;19;13;19;3;8;4;4;1;1;16;1;0;6;1;4;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;6;1;0;1;9;4;5;17;23;11;0;12;0;4;1;2;16;0;0;7;0;4;0;0;0;0;0;0;0
+              firstWeek: 2019-06-30Z
               stars: 8
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
               latest_commit_date: '2020-05-01T14:16:01Z'
               latest_commit_link: /finos/fdc3-desktop-agent/commit/eb2021491323c12713b60a621fcfd89c2ef52bf7
               contributors_count: 3
-              contributors_link: 'https://github.com/finos/desktop-agent/graphs/contributors'
+              contributors_link: 'https://github.com/finos/fdc3-desktop-agent/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/fdc3-desktop-agent'
+                stars: 8
             github_start_commit_data:
               start_commit_link: /finos/fdc3-desktop-agent/commit/f90c148f8259a5647a923cdb66ec94fa48a77d7d
               start_date: '2019-11-25T14:45:56Z'
             image_data:
               fileName: fdc3-desktop-agent.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: P6D2NZK9yO53zybOIOoXSoSXuz0mZm4AaKWzlFogeSs=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Plexus Interop
             homepage_url: 'https://github.com/finos-plexus/plexus-interop'
             repo_url: 'https://github.com/finos-plexus/plexus-interop'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: plexus-interop.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: C#
@@ -935,12 +736,10 @@ landscape:
               start_date: '2017-09-27T14:07:48Z'
             image_data:
               fileName: plexus-interop.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: qmla9NGBzOtKI33CeZrWaNrQC9abFxPVvIj6d0tuw8M=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
@@ -949,21 +748,11 @@ landscape:
             homepage_url: 'https://github.com/finos/openfin-python-adapter'
             repo_url: 'https://github.com/finos/openfin-python-adapter'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -986,32 +775,20 @@ landscape:
               start_date: '2018-09-08T15:37:11Z'
             image_data:
               fileName: open-fin-python-adapter.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
             repo_url: 'https://github.com/finos/openfin-react-hooks'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: TypeScript
@@ -1033,12 +810,10 @@ landscape:
               start_date: '2019-05-17T10:48:16Z'
             image_data:
               fileName: open-fin-react-hooks.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: Containers
         items:
@@ -1046,22 +821,12 @@ landscape:
             name: Secure Electron Adapter
             homepage_url: 'https://github.com/finos/secure-electron-adapter'
             repo_url: 'https://github.com/finos/secure-electron-adapter'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: secure-electron-adapter.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -1087,12 +852,10 @@ landscape:
               start_date: '2019-10-22T15:46:13Z'
             image_data:
               fileName: secure-electron-adapter.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: lfZpMD4wXVurG7axUiXlKYb+G0CEFI0Ql4kFKAaivCI=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
   - category:
     name: Applications
     subcategories:
@@ -1104,21 +867,11 @@ landscape:
             homepage_url: 'https://github.com/symphonyoss/fugue'
             repo_url: 'https://github.com/symphonyoss/fugue'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1149,32 +902,20 @@ landscape:
               start_date: '2018-01-28T18:40:20Z'
             image_data:
               fileName: fugue.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Integration Bridge
             homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1196,32 +937,20 @@ landscape:
               start_date: '2016-12-21T13:20:22Z'
             image_data:
               fileName: integration-bridge.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: JCurl
             homepage_url: 'https://github.com/symphonyoss/JCurl'
             repo_url: 'https://github.com/symphonyoss/JCurl'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1246,32 +975,20 @@ landscape:
               start_date: '2017-02-01T20:10:51Z'
             image_data:
               fileName: j-curl.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: MessageML Utilities
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
             repo_url: 'https://github.com/symphonyoss/messageml-utils'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1293,32 +1010,20 @@ landscape:
               start_date: '2017-05-03T17:10:47Z'
             image_data:
               fileName: message-ml-utilities.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: REST API Specification
             homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
             repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages: []
               contributions: 1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0
@@ -1335,32 +1040,20 @@ landscape:
               start_date: '2017-05-23T21:55:05Z'
             image_data:
               fileName: rest-api-specification.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: REST API Tools
             homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1388,32 +1081,20 @@ landscape:
               start_date: '2017-06-16T20:45:08Z'
             image_data:
               fileName: rest-api-tools.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: S2 Common Components
             homepage_url: 'https://github.com/symphonyoss/S2-common'
             repo_url: 'https://github.com/symphonyoss/S2-common'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1433,32 +1114,20 @@ landscape:
               start_date: '2017-08-21T22:16:56Z'
             image_data:
               fileName: s2-common-components.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Symfuny Chat Bot
             homepage_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             repo_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -1484,32 +1153,20 @@ landscape:
               start_date: '2017-04-11T14:19:05Z'
             image_data:
               fileName: symfuny-chat-bot.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Symphony .NET Client
             homepage_url: 'https://github.com/symphonyoss/RestApiClient'
             repo_url: 'https://github.com/symphonyoss/RestApiClient'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: C#
@@ -1532,32 +1189,20 @@ landscape:
               start_date: '2016-05-17T01:05:46Z'
             image_data:
               fileName: symphony-net-client.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Symphony Clojure Client
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
             repo_url: 'https://github.com/symphonyoss/clj-symphony'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Clojure
@@ -1577,32 +1222,20 @@ landscape:
               start_date: '2016-08-11T20:45:18Z'
             image_data:
               fileName: symphony-clojure-client.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: 996
               percentage: 86
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Symphony Electron
             homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
             repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: symphony-electron.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: TypeScript
@@ -1642,32 +1275,20 @@ landscape:
               start_date: '2016-09-27T02:33:09Z'
             image_data:
               fileName: symphony-electron.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Symphony Hubot Client
             homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
             repo_url: 'https://github.com/symphonyoss/hubot-symphony'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -1689,32 +1310,20 @@ landscape:
               start_date: '2016-06-19T14:08:51Z'
             image_data:
               fileName: symphony-hubot-client.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Symphony Java Client
             homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
             repo_url: 'https://github.com/symphonyoss/symphony-java-client'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Java
@@ -1739,32 +1348,20 @@ landscape:
               start_date: '2016-06-08T23:18:21Z'
             image_data:
               fileName: symphony-java-client.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Unfurl Bot
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
             repo_url: 'https://github.com/symphonyoss/bot-unfurl'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Clojure
@@ -1790,12 +1387,10 @@ landscape:
               start_date: '2016-09-27T22:54:34Z'
             image_data:
               fileName: unfurl-bot.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: Voice Tech
         items:
@@ -1804,21 +1399,11 @@ landscape:
             homepage_url: 'https://github.com/finos/greenkey-asrtoolkit'
             repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -1846,32 +1431,20 @@ landscape:
               start_date: '2018-10-01T18:55:21Z'
             image_data:
               fileName: greenkey-automatic-speech-recognition-toolkit.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Greenkey Discovery SDK
             homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
             repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -1894,32 +1467,20 @@ landscape:
               start_date: '2018-08-01T23:10:35Z'
             image_data:
               fileName: greenkey-discovery-sdk.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Greenkey Voice SDK
             homepage_url: 'https://github.com/finos/greenkey-intercom-sdk'
             repo_url: 'https://github.com/finos/greenkey-intercom-sdk'
             logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -1941,32 +1502,20 @@ landscape:
               start_date: '2018-05-30T12:45:25Z'
             image_data:
               fileName: greenkey-voice-sdk.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
           - item:
             name: Voice Metadata Standardization
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
             repo_url: 'https://github.com/finos/voice-metadata-standard'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: voice-metadata-standard.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages: []
               contributions: 0;2;0;0;1;3;1;2;2;3;0;3;0;1;6;6;1;0;0;3;4;2;0;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0
@@ -1983,12 +1532,10 @@ landscape:
               start_date: '2018-06-11T12:46:20Z'
             image_data:
               fileName: voice-metadata-standardization.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: cMq1L3TXXjSI8pIu4tDxCSbwd/flsd0M4i2DJTlVb5I=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
       - subcategory:
         name: UI Frameworks
         items:
@@ -1996,22 +1543,12 @@ landscape:
             name: Perspective
             homepage_url: 'https://github.com/finos/perspective'
             repo_url: 'https://github.com/finos/perspective'
-            logo: project-placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            logo: perspective.svg
+            organization:
+              name: FINOS
             crunchbase_data:
-              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
+              name: FINOS
               parents: []
-              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -2058,230 +1595,53 @@ landscape:
               start_date: '2017-11-02T16:27:55Z'
             image_data:
               fileName: perspective.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 6Iak2e1VN6Gd41gYsxSKL4YrNwyi9sdKh1pCIrscUqU=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: FINOS
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: FINOS
+            homepage_url: 'https://www.finos.org'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+            crunchbase_data:
+              name: Fintech Open Source Foundation or FINOS (formerly known as Symphony Software Foundation)
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: finos.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-03T14:41:11.000Z
   - category:
-    name: FINOS Foundation Member
+    name: FINOS Platinum Member
     subcategories:
       - subcategory:
         name: General
         items:
           - item:
-            name: AQR
-            homepage_url: 'https://www.aqr.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/aqr'
-            crunchbase_data:
-              name: AQR
-              description: AQR develops inventive practical investment strategies and customized solutions.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'https://www.aqr.com/'
-              city: Greenwich
-              region: Connecticut
-              country: United States
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/aqr-capital-management'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: aqr.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Adaptive Financial Consulting
-            homepage_url: 'https://www.weareadaptive.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/adaptive-financial-consulting'
-            crunchbase_data:
-              name: Adaptive Financial Consulting
-              description: Adaptive are the leading Reactive Systems technology consultancy.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://weareadaptive.com'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://www.twitter.com/weareadaptive'
-              linkedin: 'https://www.linkedin.com/company-beta/5009646/'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: adaptive-financial-consulting.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-28T13:12:56.000Z
-          - item:
-            name: BNY Mellon
-            homepage_url: 'https://www.bnymellon.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/bnymellon'
-            crunchbase_data:
-              name: BNY Mellon
-              description: 'BNY Mellon is an investments company provide investment management, investment services and wealth management.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.bnymellon.com'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'http://twitter.com/bnymellon'
-              linkedin: 'https://www.linkedin.com/company/bny-mellon'
-              acquisitions:
-                - date: '2009-08-12'
-                  acquiree: Insight Investment
-                  price: 387932173
-                - date: '2010-02-02'
-                  acquiree: PNC Global Investment Servicing
-                  price: 2310000000
-                - date: '2010-09-01'
-                  acquiree: I3 Advisors
-                - date: '2015-01-05'
-                  acquiree: Cutwater Asset Management
-                - date: '2016-04-26'
-                  acquiree: DBV-X
-              parents: []
-              ticker: BK
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 34926301184
-              effective_ticker: BK
-            image_data:
-              fileName: bny-mellon.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-30T23:45:06.000Z
-          - item:
-            name: Capital One
-            homepage_url: 'https://www.capitalone.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/capital-one'
-            crunchbase_data:
-              name: Capital One
-              description: 'Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.capitalone.com'
-              city: Mclean
-              region: Virginia
-              country: United States
-              twitter: 'http://twitter.com/CapitalOne'
-              linkedin: 'https://www.linkedin.com/company/capital-one/'
-              acquisitions:
-                - date: '1998-07-01'
-                  acquiree: Summit Acceptance Corp.
-                - date: '2001-05-09'
-                  acquiree: AmeriFee
-                - date: '2001-09-21'
-                  acquiree: PeopleFirst.com
-                - date: '2004-09-22'
-                  acquiree: Onyx Acceptance Corporation
-                - date: '2004-11-03'
-                  acquiree: HFS Group
-                - date: '2004-12-14'
-                  acquiree: eSmartloan
-                - date: '2005-11-16'
-                  acquiree: Hibernia Corporation
-                - date: '2006-12-01'
-                  acquiree: North Fork Bancorporation
-                  price: 14600000000
-                - date: '2009-02-27'
-                  acquiree: Chevy Chase Bank
-                - date: '2012-02-17'
-                  acquiree: ING Direct
-                - date: '2012-05-12'
-                  acquiree: Bankons
-                - date: '2012-11-30'
-                  acquiree: Bundle
-                - date: '2013-11-04'
-                  acquiree: Beech Street Capital
-                - date: '2014-10-02'
-                  acquiree: Adaptive Path
-                - date: '2015-01-12'
-                  acquiree: Level Money
-                - date: '2015-07-08'
-                  acquiree: Monsoon Company
-                - date: '2016-03-10'
-                  acquiree: Critical Stack
-                - date: '2016-10-06'
-                  acquiree: Paribus
-                - date: '2018-01-05'
-                  acquiree: 'Notch, Co.'
-                - date: '2018-05-11'
-                  acquiree: Confyrm
-                - date: '2018-11-20'
-                  acquiree: Wikibuy
-                - date: '2019-06-19'
-                  acquiree: Jewel Commerce
-                - date: '2019-06-24'
-                  acquiree: BlueTarp Financial
-                - date: '2019-08-16'
-                  acquiree: United Income
-                - date: '2019-08-19'
-                  acquiree: KippsDeSanto & Co.
-              parents: []
-              ticker: COF
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 33902383104
-              effective_ticker: COF
-            image_data:
-              fileName: capital-one.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-27T14:00:01.000Z
-          - item:
-            name: ChartIQ
-            homepage_url: 'https://www.chartiq.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/chartiq'
-            crunchbase_data:
-              name: ChartIQ
-              description: 'ChartIQ builds lightweight financial applications for capital market institutions, investment banks, and retail brokerages.'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://chartiq.com'
-              city: Charlottesville
-              region: Virginia
-              country: United States
-              twitter: 'http://twitter.com/chartiq'
-              linkedin: 'https://www.linkedin.com/company/chartiq'
-              acquisitions: []
-              parents: []
-              funding: 23050000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: chart-iq.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-02T18:28:38.000Z
-          - item:
             name: Citigroup
             homepage_url: 'https://www.citi.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/citigroup'
             crunchbase_data:
               name: Citigroup
@@ -2318,86 +1678,16 @@ landscape:
               effective_ticker: C
             image_data:
               fileName: citigroup.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-29T22:34:46.000Z
           - item:
-            name: Cloud9 Technologies
-            homepage_url: 'https://www.c9tec.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloud9-technologies'
-            crunchbase_data:
-              name: Cloud9 Technologies
-              description: The company intends will enable the company to grow its business to meet industry demand.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.c9tec.com/'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'https://twitter.com/c9tec'
-              linkedin: 'https://www.linkedin.com/company/cloud9-technologies-llc'
-              acquisitions: []
-              parents: []
-              funding: 44000000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: cloud9-technologies.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T13:27:01.000Z
-          - item:
-            name: CloudBees
-            homepage_url: 'https://www.cloudbees.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
-            crunchbase_data:
-              name: CloudBees
-              description: CloudBees develops an end-to-end automated software delivery system that allows companies to balance governance and developer freedom.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://www.cloudbees.com'
-              city: San Jose
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/CloudBees'
-              linkedin: 'https://www.linkedin.com/company/cloudbees'
-              acquisitions:
-                - date: '2010-11-09'
-                  acquiree: InfraDNA
-                - date: '2010-12-14'
-                  acquiree: Stax Networks
-                - date: '2013-07-24'
-                  acquiree: FoxWeave
-                - date: '2018-02-06'
-                  acquiree: Codeship
-                - date: '2019-04-18'
-                  acquiree: Electric Cloud
-                - date: '2019-06-11'
-                  acquiree: Rollout.io
-              parents: []
-              funding: 121200000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: cloud-bees.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T01:46:01.000Z
-          - item:
             name: Credit Suisse
             homepage_url: 'https://www.credit-suisse.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/credit-suisse'
             stock_ticker: null
             crunchbase_data:
@@ -2421,7 +1711,7 @@ landscape:
               stockExchange: swx
             image_data:
               fileName: credit-suisse.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
@@ -2430,7 +1720,7 @@ landscape:
           - item:
             name: Deutsche Bank
             homepage_url: 'https://www.db.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/deutsche-bank'
             crunchbase_data:
               name: Deutsche Bank
@@ -2464,115 +1754,16 @@ landscape:
               effective_ticker: DB
             image_data:
               fileName: deutsche-bank.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-03T14:49:58.000Z
           - item:
-            name: Epam
-            homepage_url: 'https://www.epam.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/epam-systems'
-            crunchbase_data:
-              name: EPAM Systems
-              description: EPAM leverages its core engineering expertise as a leading global product development and digital platform engineering services company.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.epam.com'
-              city: Newtown
-              region: Pennsylvania
-              country: United States
-              twitter: 'https://twitter.com/EPAMSYSTEMS'
-              linkedin: 'https://www.linkedin.com/company/4972/'
-              acquisitions:
-                - date: '2006-09-01'
-                  acquiree: Vested Development Inc.
-                - date: '2008-04-03'
-                  acquiree: B2BITS
-                - date: '2010-09-21'
-                  acquiree: Instant Information
-                - date: '2012-05-23'
-                  acquiree: Thoughtcorp
-                - date: '2012-12-21'
-                  acquiree: Empathy Lab
-                - date: '2014-03-20'
-                  acquiree: Netsoft USA
-                - date: '2014-04-30'
-                  acquiree: Joint Technology Development
-                - date: '2014-06-06'
-                  acquiree: GGA Software Services
-                - date: '2014-10-13'
-                  acquiree: Great Fridays
-                - date: '2015-07-13'
-                  acquiree: Navigation Arts
-                - date: '2015-11-17'
-                  acquiree: Alliance Global Services
-                  price: 50000000
-                - date: '2016-06-21'
-                  acquiree: Dextrys
-                - date: '2018-03-15'
-                  acquiree: Continuum
-                - date: '2018-11-01'
-                  acquiree: Think Ltd
-                - date: '2019-05-21'
-                  acquiree: test IO
-                - date: '2019-07-02'
-                  acquiree: Competentum Group
-                - date: '2019-11-05'
-                  acquiree: NAYA Tech
-                - date: '2020-03-20'
-                  acquiree: Deltix
-              parents: []
-              ticker: EPAM
-              funding: 75000000
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 12866332672
-              effective_ticker: EPAM
-            image_data:
-              fileName: epam.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T15:08:20.000Z
-          - item:
-            name: Genesis
-            homepage_url: 'https://www.genesis.global'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/genesis-global-solutions'
-            crunchbase_data:
-              name: Genesis Global
-              description: Genesis Global Technology is a technology company focused on the financial markets primarily the capital markets industry.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://genesis.global'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://twitter.com/GenesisFinTech'
-              linkedin: 'https://www.linkedin.com/company/10328107'
-              acquisitions: []
-              parents: []
-              funding: 4800000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: genesis.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T11:34:04.000Z
-          - item:
             name: GitHub
             homepage_url: 'https://www.github.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/github'
             crunchbase_data:
               name: GitHub
@@ -2609,51 +1800,16 @@ landscape:
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-22T00:23:23.000Z
           - item:
-            name: Gitlab
-            homepage_url: 'https://www.gitlab.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
-            crunchbase_data:
-              name: GitLab
-              description: GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://about.gitlab.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/gitlab'
-              linkedin: 'https://www.linkedin.com/company/gitlab-com/'
-              acquisitions:
-                - date: '2015-05-03'
-                  acquiree: Gitorious
-                - date: '2017-03-15'
-                  acquiree: Gitter
-                - date: '2018-01-30'
-                  acquiree: Gemnasium (acquired by Gitlab)
-              parents: []
-              funding: 436200000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: gitlab.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T05:59:18.000Z
-          - item:
             name: Goldman Sachs
             homepage_url: 'https://www.gs.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/goldman-sachs'
             crunchbase_data:
               name: Goldman Sachs
@@ -2727,44 +1883,369 @@ landscape:
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-31T18:00:01.000Z
           - item:
-            name: Green Key Technologies
-            homepage_url: 'https://www.greenkeytech.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/green-key-technologies'
+            name: JP Morgan Chase
+            homepage_url: 'https://www.jpmorganchase.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/jpmorgan-chase-co'
             crunchbase_data:
-              name: Green Key Technologies
-              description: 'GreenKey is the voice-driven collaboration platform for financial markets: enhancing compliance and enabling sophisticated data analytics.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://greenkeytech.com/'
-              city: Chicago
-              region: Illinois
+              name: JP Morgan Chase
+              description: 'JP Morgan Chase is a global financial services provider that offers investment banking, asset management, treasury and other services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.jpmorganchase.com'
+              city: New York
+              region: New York
               country: United States
-              twitter: 'https://twitter.com/GreenKeyTech'
-              linkedin: >-
-                https://www.linkedin.com/company/3328893?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_3328893%2Cidx%3A1
-              acquisitions: []
+              twitter: 'https://twitter.com/jpmorgan'
+              linkedin: 'https://www.linkedin.com/company/jpmorgan-chase?trk=top_nav_home'
+              acquisitions:
+                - date: '1999-09-28'
+                  acquiree: Hambrecht & Quist
+                  price: 1350000000
+                - date: '2004-01-15'
+                  acquiree: Bank One
+                  price: 58000000000
+                - date: '2005-06-23'
+                  acquiree: Neovest Holdings
+                - date: '2005-12-15'
+                  acquiree: Collegiate Funding Services
+                - date: '2008-03-01'
+                  acquiree: Xspand
+                - date: '2008-03-17'
+                  acquiree: Bear Stearns
+                - date: '2008-09-26'
+                  acquiree: Washington Mutual
+                - date: '2009-11-19'
+                  acquiree: J.P. Morgan Cazenove
+                - date: '2017-10-17'
+                  acquiree: WePay
+                  price: 400000000
+                - date: '2019-05-17'
+                  acquiree: InstaMed
               parents: []
-              stockExchange: null
+              ticker: JPM
+              funding: 3000000
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 318474518528
+              effective_ticker: JPM
             image_data:
-              fileName: green-key-technologies.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              fileName: jp-morgan-chase.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-02T02:12:14.000Z
+              latest_tweet_date: 2020-05-29T17:30:00.000Z
+          - item:
+            name: Morgan Stanley
+            homepage_url: 'https://www.morganstanley.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/morgan-stanley'
+            crunchbase_data:
+              name: Morgan Stanley
+              description: 'Morgan Stanley is an American financial services company that offers securities, asset management, and credit services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.morganstanley.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/MorganStanley'
+              linkedin: 'https://www.linkedin.com/company/morgan-stanley'
+              acquisitions:
+                - date: '2010-08-13'
+                  acquiree: Zenith
+                - date: '2013-06-29'
+                  acquiree: Smith Barney Venture
+                - date: '2014-06-18'
+                  acquiree: Hanwha L&C
+                  price: 293000000
+                - date: '2015-10-09'
+                  acquiree: CoAdvantage
+                - date: '2017-10-02'
+                  acquiree: Mesa West Capital
+                - date: '2019-02-11'
+                  acquiree: Solium
+                - date: '2019-02-15'
+                  acquiree: KSH Infra
+                  price: 49064274
+                - date: '2020-02-20'
+                  acquiree: E*TRADE
+                  price: 13000000000
+              parents: []
+              ticker: MS
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 74520838144
+              effective_ticker: MS
+            image_data:
+              fileName: morgan-stanley.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T13:59:59.000Z
+          - item:
+            name: Nomura
+            homepage_url: 'https://www.nomura.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nomura'
+            crunchbase_data:
+              name: Nomura
+              description: 'Nomura is an investment banking and securities firm that serve the needs of individuals, institutions, corporate and governments.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.nomura.com/'
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: 'https://twitter.com/nomura'
+              linkedin: 'https://www.linkedin.com/company/nomura'
+              acquisitions:
+                - date: '2006-11-02'
+                  acquiree: Instinet
+                - date: '2007-11-22'
+                  acquiree: Huntress Search
+                - date: '2008-09-22'
+                  acquiree: Lehman Brothers
+                  price: 225000000
+                - date: '2009-12-16'
+                  acquiree: Tricorn Partners
+                - date: '2019-12-12'
+                  acquiree: Greentech Capital Advisors
+              parents: []
+              ticker: NMR
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 13679640576
+              effective_ticker: NMR
+            image_data:
+              fileName: nomura.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T09:56:28.000Z
+          - item:
+            name: Royal Bank of Canada
+            homepage_url: 'https://www.rbcroyalbank.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
+            crunchbase_data:
+              name: RBC Capital
+              description: 'Royal Bank of Canada is a financial services company focused on banking, wealth management, insurance, investment, and capital markets.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.rbcroyalbank.com'
+              city: Toronto
+              region: Ontario
+              country: Canada
+              twitter: 'https://twitter.com/RBC'
+              linkedin: 'https://www.linkedin.com/company/rbc'
+              acquisitions:
+                - date: '2008-12-22'
+                  acquiree: Mourant Private Wealth
+                - date: '2010-10-18'
+                  acquiree: BlueBay Asset Management
+                  price: 1531615210
+                - date: '2015-01-22'
+                  acquiree: City National Corp.
+                - date: '2019-07-09'
+                  acquiree: WayPay
+              parents: []
+              ticker: RY
+              stockExchange: tsx
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 98814459904
+              effective_ticker: RY
+            image_data:
+              fileName: royal-bank-of-canada.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T14:57:01.000Z
+          - item:
+            name: Symphony LLC
+            homepage_url: 'https://www.symphony.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-3'
+            crunchbase_data:
+              name: Symphony Communication Services
+              description: Leading secure team collaboration platform.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.symphony.com'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/symphony'
+              linkedin: 'https://www.linkedin.com/company/symphonycomm'
+              acquisitions:
+                - date: '2014-08-01'
+                  acquiree: Perzo
+              parents: []
+              funding: 461000000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: symphony-llc.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T12:36:09.000Z
+          - item:
+            name: UBS
+            homepage_url: 'https://www.ubs.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ubs'
+            crunchbase_data:
+              name: UBS
+              description: UBS is a Swiss global financial services company that serves over 50 countries.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.ubs.com'
+              city: Zürich
+              region: Zurich
+              country: Switzerland
+              twitter: 'http://twitter.com/UBS'
+              linkedin: 'https://www.linkedin.com/company/ubs'
+              acquisitions:
+                - date: '2000-07-24'
+                  acquiree: PaineWebber
+                  price: 10800000000
+                - date: '2011-04-14'
+                  acquiree: Luxembourg Financial Group
+                  price: 36200000
+                - date: '2013-02-01'
+                  acquiree: Link Investimentos
+                - date: '2017-05-23'
+                  acquiree: Consenso
+              parents: []
+              ticker: UBS
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 41114349568
+              effective_ticker: UBS
+            image_data:
+              fileName: ubs.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T04:30:00.000Z
+  - category:
+    name: FINOS Gold Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Capital One
+            homepage_url: 'https://www.capitalone.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/capital-one'
+            crunchbase_data:
+              name: Capital One
+              description: 'Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.capitalone.com'
+              city: Mclean
+              region: Virginia
+              country: United States
+              twitter: 'http://twitter.com/CapitalOne'
+              linkedin: 'https://www.linkedin.com/company/capital-one/'
+              acquisitions:
+                - date: '1998-07-01'
+                  acquiree: Summit Acceptance Corp.
+                - date: '2001-05-09'
+                  acquiree: AmeriFee
+                - date: '2001-09-21'
+                  acquiree: PeopleFirst.com
+                - date: '2004-09-22'
+                  acquiree: Onyx Acceptance Corporation
+                - date: '2004-11-03'
+                  acquiree: HFS Group
+                - date: '2004-12-14'
+                  acquiree: eSmartloan
+                - date: '2005-11-16'
+                  acquiree: Hibernia Corporation
+                - date: '2006-12-01'
+                  acquiree: North Fork Bancorporation
+                  price: 14600000000
+                - date: '2009-02-27'
+                  acquiree: Chevy Chase Bank
+                - date: '2012-02-17'
+                  acquiree: ING Direct
+                - date: '2012-05-12'
+                  acquiree: Bankons
+                - date: '2012-11-30'
+                  acquiree: Bundle
+                - date: '2013-11-04'
+                  acquiree: Beech Street Capital
+                - date: '2014-10-02'
+                  acquiree: Adaptive Path
+                - date: '2015-01-12'
+                  acquiree: Level Money
+                - date: '2015-07-08'
+                  acquiree: Monsoon Company
+                - date: '2016-03-10'
+                  acquiree: Critical Stack
+                - date: '2016-10-06'
+                  acquiree: Paribus
+                - date: '2018-01-05'
+                  acquiree: 'Notch, Co.'
+                - date: '2018-05-11'
+                  acquiree: Confyrm
+                - date: '2018-11-20'
+                  acquiree: Wikibuy
+                - date: '2019-06-19'
+                  acquiree: Jewel Commerce
+                - date: '2019-06-24'
+                  acquiree: BlueTarp Financial
+                - date: '2019-08-16'
+                  acquiree: United Income
+                - date: '2019-08-19'
+                  acquiree: KippsDeSanto & Co.
+              parents: []
+              ticker: COF
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 33902383104
+              effective_ticker: COF
+            image_data:
+              fileName: capital-one.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-27T14:00:01.000Z
           - item:
             name: HSBC
             homepage_url: 'https://www.hsbc.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/hsbc'
             stock_ticker: null
             crunchbase_data:
@@ -2789,7 +2270,7 @@ landscape:
               stockExchange: epa
             image_data:
               fileName: hsbc.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
@@ -2798,7 +2279,7 @@ landscape:
           - item:
             name: IHS Markit
             homepage_url: 'https://www.ihsmarkit.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/ihs-markit'
             crunchbase_data:
               name: IHS Markit
@@ -2856,220 +2337,16 @@ landscape:
               effective_ticker: INFO
             image_data:
               fileName: ihs-markit.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-01T19:03:51.000Z
           - item:
-            name: Itau
-            homepage_url: 'https://www.itau.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/banco-itau-2'
-            crunchbase_data:
-              name: Banco Itau
-              description: 'Banco Itaú was the former Brazilian bank que merged with Unibanco on November 4, 2008, to form Itaú Unibanco.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.itau.com.br/'
-              city: São Paulo
-              region: Sao Paulo
-              country: Brazil
-              twitter: 'https://www.twitter.com/itau'
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: itau.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T15:14:10.000Z
-          - item:
-            name: JP Morgan Chase
-            homepage_url: 'https://www.jpmorganchase.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/jpmorgan-chase-co'
-            crunchbase_data:
-              name: JP Morgan Chase
-              description: 'JP Morgan Chase is a global financial services provider that offers investment banking, asset management, treasury and other services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.jpmorganchase.com'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'https://twitter.com/jpmorgan'
-              linkedin: 'https://www.linkedin.com/company/jpmorgan-chase?trk=top_nav_home'
-              acquisitions:
-                - date: '1999-09-28'
-                  acquiree: Hambrecht & Quist
-                  price: 1350000000
-                - date: '2004-01-15'
-                  acquiree: Bank One
-                  price: 58000000000
-                - date: '2005-06-23'
-                  acquiree: Neovest Holdings
-                - date: '2005-12-15'
-                  acquiree: Collegiate Funding Services
-                - date: '2008-03-01'
-                  acquiree: Xspand
-                - date: '2008-03-17'
-                  acquiree: Bear Stearns
-                - date: '2008-09-26'
-                  acquiree: Washington Mutual
-                - date: '2009-11-19'
-                  acquiree: J.P. Morgan Cazenove
-                - date: '2017-10-17'
-                  acquiree: WePay
-                  price: 400000000
-                - date: '2019-05-17'
-                  acquiree: InstaMed
-              parents: []
-              ticker: JPM
-              funding: 3000000
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 318474518528
-              effective_ticker: JPM
-            image_data:
-              fileName: jp-morgan-chase.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-29T17:30:00.000Z
-          - item:
-            name: Morgan Stanley
-            homepage_url: 'https://www.morganstanley.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/morgan-stanley'
-            crunchbase_data:
-              name: Morgan Stanley
-              description: 'Morgan Stanley is an American financial services company that offers securities, asset management, and credit services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.morganstanley.com'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'http://twitter.com/MorganStanley'
-              linkedin: 'https://www.linkedin.com/company/morgan-stanley'
-              acquisitions:
-                - date: '2010-08-13'
-                  acquiree: Zenith
-                - date: '2013-06-29'
-                  acquiree: Smith Barney Venture
-                - date: '2014-06-18'
-                  acquiree: Hanwha L&C
-                  price: 293000000
-                - date: '2015-10-09'
-                  acquiree: CoAdvantage
-                - date: '2017-10-02'
-                  acquiree: Mesa West Capital
-                - date: '2019-02-11'
-                  acquiree: Solium
-                - date: '2019-02-15'
-                  acquiree: KSH Infra
-                  price: 49064274
-                - date: '2020-02-20'
-                  acquiree: E*TRADE
-                  price: 13000000000
-              parents: []
-              ticker: MS
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 74520838144
-              effective_ticker: MS
-            image_data:
-              fileName: morgan-stanley.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T13:59:59.000Z
-          - item:
-            name: Nearform
-            homepage_url: 'https://www.nearform.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nearform'
-            crunchbase_data:
-              name: NearForm
-              description: 'NearForm is a software platform that delivers consulting, co-development, products, training and support for large enterprises.'
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://www.nearform.com'
-              city: Waterford
-              region: Waterford
-              country: Ireland
-              twitter: 'http://twitter.com/nearform'
-              linkedin: 'https://www.linkedin.com/company/nearform'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: nearform.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T13:00:14.000Z
-          - item:
-            name: Nomura
-            homepage_url: 'https://www.nomura.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nomura'
-            crunchbase_data:
-              name: Nomura
-              description: 'Nomura is an investment banking and securities firm that serve the needs of individuals, institutions, corporate and governments.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.nomura.com/'
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: 'https://twitter.com/nomura'
-              linkedin: 'https://www.linkedin.com/company/nomura'
-              acquisitions:
-                - date: '2006-11-02'
-                  acquiree: Instinet
-                - date: '2007-11-22'
-                  acquiree: Huntress Search
-                - date: '2008-09-22'
-                  acquiree: Lehman Brothers
-                  price: 225000000
-                - date: '2009-12-16'
-                  acquiree: Tricorn Partners
-                - date: '2019-12-12'
-                  acquiree: Greentech Capital Advisors
-              parents: []
-              ticker: NMR
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 13679640576
-              effective_ticker: NMR
-            image_data:
-              fileName: nomura.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T09:56:28.000Z
-          - item:
             name: OpenFin
             homepage_url: 'https://www.openfin.co'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/openfin'
             crunchbase_data:
               name: OpenFin
@@ -3089,7 +2366,7 @@ landscape:
               kind: funding
             image_data:
               fileName: open-fin.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
@@ -3098,7 +2375,7 @@ landscape:
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
             stock_ticker: null
             crunchbase_data:
@@ -3171,7 +2448,7 @@ landscape:
               stockExchange: nyse
             image_data:
               fileName: red-hat.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
@@ -3180,7 +2457,7 @@ landscape:
           - item:
             name: Refinitiv
             homepage_url: 'https://www.refinitiv.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/refinitiv'
             crunchbase_data:
               name: Refinitiv
@@ -3202,142 +2479,16 @@ landscape:
               stockExchange: null
             image_data:
               fileName: refinitiv.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-03T14:15:19.000Z
           - item:
-            name: Royal Bank of Canada
-            homepage_url: 'https://www.rbcroyalbank.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
-            crunchbase_data:
-              name: RBC Capital
-              description: 'Royal Bank of Canada is a financial services company focused on banking, wealth management, insurance, investment, and capital markets.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.rbcroyalbank.com'
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: 'https://twitter.com/RBC'
-              linkedin: 'https://www.linkedin.com/company/rbc'
-              acquisitions:
-                - date: '2008-12-22'
-                  acquiree: Mourant Private Wealth
-                - date: '2010-10-18'
-                  acquiree: BlueBay Asset Management
-                  price: 1531615210
-                - date: '2015-01-22'
-                  acquiree: City National Corp.
-                - date: '2019-07-09'
-                  acquiree: WayPay
-              parents: []
-              ticker: RY
-              stockExchange: tsx
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 98814459904
-              effective_ticker: RY
-            image_data:
-              fileName: royal-bank-of-canada.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:57:01.000Z
-          - item:
-            name: Scott Logic
-            homepage_url: 'https://www.scottlogic.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/scott-logic'
-            crunchbase_data:
-              name: Scott Logic
-              description: At Scott Logic we create intuitive software applications for clients in the energy sector.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.scottlogic.com/'
-              city: Newcastle Upon Tyne
-              region: Newcastle upon Tyne
-              country: United Kingdom
-              twitter: 'https://www.twitter.com/scott_logic'
-              linkedin: 'https://www.linkedin.com/company/scott-logic-limited'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: scott-logic.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T12:56:45.000Z
-          - item:
-            name: Symphony LLC
-            homepage_url: 'https://www.symphony.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-3'
-            crunchbase_data:
-              name: Symphony Communication Services
-              description: Leading secure team collaboration platform.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'http://www.symphony.com'
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/symphony'
-              linkedin: 'https://www.linkedin.com/company/symphonycomm'
-              acquisitions:
-                - date: '2014-08-01'
-                  acquiree: Perzo
-              parents: []
-              funding: 461000000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: symphony-llc.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-02T12:36:09.000Z
-          - item:
-            name: Tick42
-            homepage_url: 'https://www.tick42.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tick42'
-            crunchbase_data:
-              name: Tick42
-              description: Tick42 Established market data specialist providing real time products and services to banks and hedge funds.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.tick42.com/'
-              city: Sofia
-              region: Grad Sofiya
-              country: Bulgaria
-              twitter: 'https://twitter.com/tick_42'
-              linkedin: 'https://www.linkedin.com/groups/4416092'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: tick42.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-05-11T13:21:15.000Z
-          - item:
             name: Traderwave
             homepage_url: 'https://www.traderwave.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/traderwave'
             crunchbase_data:
               name: Traderwave
@@ -3355,58 +2506,16 @@ landscape:
               stockExchange: null
             image_data:
               fileName: traderwave.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-03T10:40:02.000Z
           - item:
-            name: UBS
-            homepage_url: 'https://www.ubs.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ubs'
-            crunchbase_data:
-              name: UBS
-              description: UBS is a Swiss global financial services company that serves over 50 countries.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://www.ubs.com'
-              city: Zürich
-              region: Zurich
-              country: Switzerland
-              twitter: 'http://twitter.com/UBS'
-              linkedin: 'https://www.linkedin.com/company/ubs'
-              acquisitions:
-                - date: '2000-07-24'
-                  acquiree: PaineWebber
-                  price: 10800000000
-                - date: '2011-04-14'
-                  acquiree: Luxembourg Financial Group
-                  price: 36200000
-                - date: '2013-02-01'
-                  acquiree: Link Investimentos
-                - date: '2017-05-23'
-                  acquiree: Consenso
-              parents: []
-              ticker: UBS
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 41114349568
-              effective_ticker: UBS
-            image_data:
-              fileName: ubs.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-02T04:30:00.000Z
-          - item:
             name: Wells Fargo
             homepage_url: 'https://www.wellsfargo.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/wells-fargo-bank'
             crunchbase_data:
               name: Wells Fargo
@@ -3434,47 +2543,16 @@ landscape:
               effective_ticker: WFC
             image_data:
               fileName: wells-fargo.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-02T19:04:00.000Z
           - item:
-            name: Whitesource Software
-            homepage_url: 'https://www.whitesourcesoftware.com'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/white-source'
-            crunchbase_data:
-              name: WhiteSource
-              description: WhiteSource empowers businesses to develop better software by harnessing the power of open source.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'https://www.whitesourcesoftware.com'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'https://twitter.com/WhiteSourceSoft'
-              linkedin: 'https://www.linkedin.com/company/white-source'
-              acquisitions:
-                - date: '2019-11-13'
-                  acquiree: Renovate
-              parents: []
-              funding: 46150000
-              stockExchange: null
-              kind: funding
-            image_data:
-              fileName: whitesource-software.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-03T14:35:07.000Z
-          - item:
             name: Wipro
             homepage_url: 'https://www.wipro.com'
-            logo: twitter.svg
+            logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/wipro'
             stock_ticker: null
             crunchbase_data:
@@ -3559,12 +2637,514 @@ landscape:
               kind: funding
             image_data:
               fileName: wipro.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-03T04:34:40.000Z
+  - category:
+    name: FINOS Silver Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: AQR
+            homepage_url: 'https://www.aqr.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/aqr'
+            crunchbase_data:
+              name: AQR
+              description: AQR develops inventive practical investment strategies and customized solutions.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'https://www.aqr.com/'
+              city: Greenwich
+              region: Connecticut
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/aqr-capital-management'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: aqr.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Adaptive Financial Consulting
+            homepage_url: 'https://www.weareadaptive.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/adaptive-financial-consulting'
+            crunchbase_data:
+              name: Adaptive Financial Consulting
+              description: Adaptive are the leading Reactive Systems technology consultancy.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://weareadaptive.com'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://www.twitter.com/weareadaptive'
+              linkedin: 'https://www.linkedin.com/company-beta/5009646/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: adaptive-financial-consulting.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-28T13:12:56.000Z
+          - item:
+            name: BNY Mellon
+            homepage_url: 'https://www.bnymellon.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/bnymellon'
+            crunchbase_data:
+              name: BNY Mellon
+              description: 'BNY Mellon is an investments company provide investment management, investment services and wealth management.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.bnymellon.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/bnymellon'
+              linkedin: 'https://www.linkedin.com/company/bny-mellon'
+              acquisitions:
+                - date: '2009-08-12'
+                  acquiree: Insight Investment
+                  price: 387932173
+                - date: '2010-02-02'
+                  acquiree: PNC Global Investment Servicing
+                  price: 2310000000
+                - date: '2010-09-01'
+                  acquiree: I3 Advisors
+                - date: '2015-01-05'
+                  acquiree: Cutwater Asset Management
+                - date: '2016-04-26'
+                  acquiree: DBV-X
+              parents: []
+              ticker: BK
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 34926301184
+              effective_ticker: BK
+            image_data:
+              fileName: bny-mellon.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-30T23:45:06.000Z
+          - item:
+            name: ChartIQ
+            homepage_url: 'https://www.chartiq.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/chartiq'
+            crunchbase_data:
+              name: ChartIQ
+              description: 'ChartIQ builds lightweight financial applications for capital market institutions, investment banks, and retail brokerages.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://chartiq.com'
+              city: Charlottesville
+              region: Virginia
+              country: United States
+              twitter: 'http://twitter.com/chartiq'
+              linkedin: 'https://www.linkedin.com/company/chartiq'
+              acquisitions: []
+              parents: []
+              funding: 23050000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: chart-iq.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T18:28:38.000Z
+          - item:
+            name: Cloud9 Technologies
+            homepage_url: 'https://www.c9tec.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud9-technologies'
+            crunchbase_data:
+              name: Cloud9 Technologies
+              description: The company intends will enable the company to grow its business to meet industry demand.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.c9tec.com/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'https://twitter.com/c9tec'
+              linkedin: 'https://www.linkedin.com/company/cloud9-technologies-llc'
+              acquisitions: []
+              parents: []
+              funding: 44000000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: cloud9-technologies.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T13:27:01.000Z
+          - item:
+            name: CloudBees
+            homepage_url: 'https://www.cloudbees.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
+            crunchbase_data:
+              name: CloudBees
+              description: CloudBees develops an end-to-end automated software delivery system that allows companies to balance governance and developer freedom.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'http://www.cloudbees.com'
+              city: San Jose
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/CloudBees'
+              linkedin: 'https://www.linkedin.com/company/cloudbees'
+              acquisitions:
+                - date: '2010-11-09'
+                  acquiree: InfraDNA
+                - date: '2010-12-14'
+                  acquiree: Stax Networks
+                - date: '2013-07-24'
+                  acquiree: FoxWeave
+                - date: '2018-02-06'
+                  acquiree: Codeship
+                - date: '2019-04-18'
+                  acquiree: Electric Cloud
+                - date: '2019-06-11'
+                  acquiree: Rollout.io
+              parents: []
+              funding: 121200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: cloud-bees.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T01:46:01.000Z
+          - item:
+            name: Epam
+            homepage_url: 'https://www.epam.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/epam-systems'
+            crunchbase_data:
+              name: EPAM Systems
+              description: EPAM leverages its core engineering expertise as a leading global product development and digital platform engineering services company.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.epam.com'
+              city: Newtown
+              region: Pennsylvania
+              country: United States
+              twitter: 'https://twitter.com/EPAMSYSTEMS'
+              linkedin: 'https://www.linkedin.com/company/4972/'
+              acquisitions:
+                - date: '2006-09-01'
+                  acquiree: Vested Development Inc.
+                - date: '2008-04-03'
+                  acquiree: B2BITS
+                - date: '2010-09-21'
+                  acquiree: Instant Information
+                - date: '2012-05-23'
+                  acquiree: Thoughtcorp
+                - date: '2012-12-21'
+                  acquiree: Empathy Lab
+                - date: '2014-03-20'
+                  acquiree: Netsoft USA
+                - date: '2014-04-30'
+                  acquiree: Joint Technology Development
+                - date: '2014-06-06'
+                  acquiree: GGA Software Services
+                - date: '2014-10-13'
+                  acquiree: Great Fridays
+                - date: '2015-07-13'
+                  acquiree: Navigation Arts
+                - date: '2015-11-17'
+                  acquiree: Alliance Global Services
+                  price: 50000000
+                - date: '2016-06-21'
+                  acquiree: Dextrys
+                - date: '2018-03-15'
+                  acquiree: Continuum
+                - date: '2018-11-01'
+                  acquiree: Think Ltd
+                - date: '2019-05-21'
+                  acquiree: test IO
+                - date: '2019-07-02'
+                  acquiree: Competentum Group
+                - date: '2019-11-05'
+                  acquiree: NAYA Tech
+                - date: '2020-03-20'
+                  acquiree: Deltix
+              parents: []
+              ticker: EPAM
+              funding: 75000000
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 12866332672
+              effective_ticker: EPAM
+            image_data:
+              fileName: epam.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T15:08:20.000Z
+          - item:
+            name: Genesis
+            homepage_url: 'https://www.genesis.global'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/genesis-global-solutions'
+            crunchbase_data:
+              name: Genesis Global
+              description: Genesis Global Technology is a technology company focused on the financial markets primarily the capital markets industry.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://genesis.global'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/GenesisFinTech'
+              linkedin: 'https://www.linkedin.com/company/10328107'
+              acquisitions: []
+              parents: []
+              funding: 4800000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: genesis.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T11:34:04.000Z
+          - item:
+            name: Gitlab
+            homepage_url: 'https://www.gitlab.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
+            crunchbase_data:
+              name: GitLab
+              description: GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://about.gitlab.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/gitlab'
+              linkedin: 'https://www.linkedin.com/company/gitlab-com/'
+              acquisitions:
+                - date: '2015-05-03'
+                  acquiree: Gitorious
+                - date: '2017-03-15'
+                  acquiree: Gitter
+                - date: '2018-01-30'
+                  acquiree: Gemnasium (acquired by Gitlab)
+              parents: []
+              funding: 436200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: gitlab.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T05:59:18.000Z
+          - item:
+            name: Green Key Technologies
+            homepage_url: 'https://www.greenkeytech.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/green-key-technologies'
+            crunchbase_data:
+              name: Green Key Technologies
+              description: 'GreenKey is the voice-driven collaboration platform for financial markets: enhancing compliance and enabling sophisticated data analytics.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://greenkeytech.com/'
+              city: Chicago
+              region: Illinois
+              country: United States
+              twitter: 'https://twitter.com/GreenKeyTech'
+              linkedin: >-
+                https://www.linkedin.com/company/3328893?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_3328893%2Cidx%3A1
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: green-key-technologies.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T02:12:14.000Z
+          - item:
+            name: Itau
+            homepage_url: 'https://www.itau.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/banco-itau-2'
+            crunchbase_data:
+              name: Banco Itau
+              description: 'Banco Itaú was the former Brazilian bank que merged with Unibanco on November 4, 2008, to form Itaú Unibanco.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.itau.com.br/'
+              city: São Paulo
+              region: Sao Paulo
+              country: Brazil
+              twitter: 'https://www.twitter.com/itau'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: itau.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T15:14:10.000Z
+          - item:
+            name: Nearform
+            homepage_url: 'https://www.nearform.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nearform'
+            crunchbase_data:
+              name: NearForm
+              description: 'NearForm is a software platform that delivers consulting, co-development, products, training and support for large enterprises.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.nearform.com'
+              city: Waterford
+              region: Waterford
+              country: Ireland
+              twitter: 'http://twitter.com/nearform'
+              linkedin: 'https://www.linkedin.com/company/nearform'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: nearform.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T13:00:14.000Z
+          - item:
+            name: Scott Logic
+            homepage_url: 'https://www.scottlogic.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/scott-logic'
+            crunchbase_data:
+              name: Scott Logic
+              description: At Scott Logic we create intuitive software applications for clients in the energy sector.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.scottlogic.com/'
+              city: Newcastle Upon Tyne
+              region: Newcastle upon Tyne
+              country: United Kingdom
+              twitter: 'https://www.twitter.com/scott_logic'
+              linkedin: 'https://www.linkedin.com/company/scott-logic-limited'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: scott-logic.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T12:56:45.000Z
+          - item:
+            name: Tick42
+            homepage_url: 'https://www.tick42.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tick42'
+            crunchbase_data:
+              name: Tick42
+              description: Tick42 Established market data specialist providing real time products and services to banks and hedge funds.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.tick42.com/'
+              city: Sofia
+              region: Grad Sofiya
+              country: Bulgaria
+              twitter: 'https://twitter.com/tick_42'
+              linkedin: 'https://www.linkedin.com/groups/4416092'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: tick42.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-05-11T13:21:15.000Z
+          - item:
+            name: Whitesource Software
+            homepage_url: 'https://www.whitesourcesoftware.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/https://www.crunchbase.com/organization/white-source'
+            crunchbase_data:
+              name: WhiteSource
+              description: WhiteSource empowers businesses to develop better software by harnessing the power of open source.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://www.whitesourcesoftware.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'https://twitter.com/WhiteSourceSoft'
+              linkedin: 'https://www.linkedin.com/company/white-source'
+              acquisitions:
+                - date: '2019-11-13'
+                  acquiree: Renovate
+              parents: []
+              funding: 46150000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: whitesource-software.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-03T14:35:07.000Z
 twitter_options:
   count: 17
   since_id: '1252834580526010368'
