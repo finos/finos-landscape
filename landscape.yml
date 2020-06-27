@@ -89,7 +89,7 @@ landscape:
       name: OSLC Handbook
       homepage_url: https://github.com/finos/OSLC-handbook
       repo_url: https://github.com/finos/OSLC-handbook
-      logo: project-placeholder.svg
+      logo: oslc-handbook.svg
       organization:
         name: FINOS
     - item:
@@ -103,7 +103,7 @@ landscape:
       name: Reference FOSS Policy
       homepage_url: https://github.com/finos/reference-foss-policy
       repo_url: https://github.com/finos/reference-foss-policy
-      logo: project-placeholder.svg
+      logo: reference-foss-policy.svg
       organization:
         name: FINOS
 - category:
@@ -197,91 +197,91 @@ landscape:
       name: Fugue
       homepage_url: https://github.com/symphonyoss/fugue
       repo_url: https://github.com/symphonyoss/fugue
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Integration Bridge
       homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
       repo_url: https://github.com/symphonyoss/App-Integrations-Commons
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: JCurl
       homepage_url: https://github.com/symphonyoss/JCurl
       repo_url: https://github.com/symphonyoss/JCurl
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: MessageML Utilities
       homepage_url: https://github.com/symphonyoss/messageml-utils
       repo_url: https://github.com/symphonyoss/messageml-utils
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: REST API Specification
       homepage_url: https://github.com/symphonyoss/symphony-api-spec
       repo_url: https://github.com/symphonyoss/symphony-api-spec
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: REST API Tools
       homepage_url: https://github.com/symphonyoss/symphony-rest-tools
       repo_url: https://github.com/symphonyoss/symphony-rest-tools
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: S2 Common Components
       homepage_url: https://github.com/symphonyoss/S2-common
       repo_url: https://github.com/symphonyoss/S2-common
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Symfuny Chat Bot
       homepage_url: https://github.com/symphonyoss/symfuny-chat-bot
       repo_url: https://github.com/symphonyoss/symfuny-chat-bot
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Symphony .NET Client
       homepage_url: https://github.com/symphonyoss/RestApiClient
       repo_url: https://github.com/symphonyoss/RestApiClient
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Symphony Clojure Client
       homepage_url: https://github.com/symphonyoss/clj-symphony
       repo_url: https://github.com/symphonyoss/clj-symphony
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Symphony Hubot Client
       homepage_url: https://github.com/symphonyoss/hubot-symphony
       repo_url: https://github.com/symphonyoss/hubot-symphony
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Symphony Java Client
       homepage_url: https://github.com/symphonyoss/symphony-java-client
       repo_url: https://github.com/symphonyoss/symphony-java-client
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
     - item:
       name: Unfurl Bot
       homepage_url: https://github.com/symphonyoss/bot-unfurl
       repo_url: https://github.com/symphonyoss/bot-unfurl
-      logo: project-placeholder.svg
+      logo: symphony.svg
       organization:
         name: FINOS
   - subcategory:
@@ -291,14 +291,14 @@ landscape:
       name: Greenkey Automatic Speech Recognition Toolkit
       homepage_url: https://github.com/finos/greenkey-asrtoolkit
       repo_url: https://github.com/finos/greenkey-asrtoolkit
-      logo: project-placeholder.svg
+      logo: greenkey-asr-toolkit.svg
       organization:
         name: FINOS
     - item:
       name: Greenkey Discovery SDK
       homepage_url: https://github.com/finos/greenkey-discovery-sdk
       repo_url: https://github.com/finos/greenkey-discovery-sdk
-      logo: project-placeholder.svg
+      logo: greenkey-discovery-sdk.svg
       organization:
         name: FINOS
     - item:
