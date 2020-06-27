@@ -302,6 +302,13 @@ landscape:
       organization:
         name: FINOS
     - item:
+      name: Greenkey Voice SDK
+      homepage_url: https://github.com/finos/greenkey-intercom-sdk
+      repo_url: https://github.com/finos/greenkey-intercom-sdk
+      logo: project-placeholder.svg
+      organization:
+        name: FINOS
+    - item:
       name: Voice Metadata Standardization
       homepage_url: https://github.com/finos/voice-metadata-standard
       repo_url: https://github.com/finos/voice-metadata-standard
