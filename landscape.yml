@@ -59,7 +59,7 @@ landscape:
       name: kdb+
       homepage_url: https://github.com/finos/kdb
       repo_url: https://github.com/finos/kdb
-      logo: project-placeholder.svg
+      logo: finos.svg
       organization:
         name: FINOS
 - category:
@@ -160,14 +160,14 @@ landscape:
       name: OpenFin Python Adapter
       homepage_url: https://github.com/finos/openfin-python-adapter
       repo_url: https://github.com/finos/openfin-python-adapter
-      logo: project-placeholder.svg
+      logo: finos.svg
       organization:
         name: FINOS
     - item:
       name: OpenFin React Hooks
       homepage_url: https://github.com/finos/openfin-react-hooks
       repo_url: https://github.com/finos/openfin-react-hooks
-      logo: project-placeholder.svg
+      logo: finos.svg
       organization:
         name: FINOS
   - subcategory:
@@ -299,13 +299,6 @@ landscape:
       homepage_url: https://github.com/finos/greenkey-discovery-sdk
       repo_url: https://github.com/finos/greenkey-discovery-sdk
       logo: greenkey-discovery-sdk.svg
-      organization:
-        name: FINOS
-    - item:
-      name: Greenkey Voice SDK
-      homepage_url: https://github.com/finos/greenkey-intercom-sdk
-      repo_url: https://github.com/finos/greenkey-intercom-sdk
-      logo: project-placeholder.svg
       organization:
         name: FINOS
     - item:
