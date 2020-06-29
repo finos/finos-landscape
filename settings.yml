@@ -183,33 +183,33 @@ big_picture:
             text: |
               This landscape is intended as a map to explore the Financial Servcies Open Source and Open Standard Projects hosted by the FINOS Foundation. 
               Community contributions are more than welcome, please raise an issue or pull request at github.com/finos/finos-landscape.
-            top: 55
-            left: 140
-            right: 10
-            font_size: 10
+            top: 65
+            left: 130
+            right: 20
+            font_size: 11
           - type: image
             image: qr.svg
-            top: 55
+            top: 33
             left: 20
             width: 90
             height: 90
             title: QR Code
           - type: title
             title: l.FINOS.org
-            top: 140
-            left: 5
+            top: 130
+            left: 24
             font_size: 16
           - type: image
             image: left-logo.svg
-            width: 110
-            right: 190
-            top: 10
+            width: 120
+            right: 195
+            top: 20
             title: Landscape Logo
           - type: image
             image: right-logo.svg
-            width: 109
-            right: 10
-            top: 10
+            width: 160
+            right: -10
+            top: 20
             title: FINOS Foundation Logo
 test:
   header: FINOS Landscape
