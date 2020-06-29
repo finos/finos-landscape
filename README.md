@@ -24,7 +24,7 @@ This landscape is intended as a map to explore the FINOS Ecosystem, and also sho
 
 ## Current Version
 
-[![FINOS Landscape](https://landscape.graphql.org/images/landscape.png)](https://landscape.graphql.org/images/landscape.png)
+[![FINOS Landscape](https://landscape.finos.org/images/landscape.png)](https://landscape.finos.org/images/landscape.png)
 
 ## Interactive Version
 
