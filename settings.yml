@@ -88,6 +88,7 @@ presets:
     label: Cards by MCap/Funding
 big_picture:
   main:
+    fullscreen_hide_grey_logos: true
     tab_index: -1
     url: landscape
     name: Landscape
