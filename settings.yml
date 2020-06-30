@@ -1,7 +1,7 @@
 global:
   name: FINOS Landscape
   short_name: FINOS
-  repo: finos/FINOS-landscape
+  repo: finos/finos-landscape
   website: 'https://landscape.finos.org'
   short_domain: l.finos.org
   company_url: 'https://finos.org'
@@ -22,7 +22,7 @@ global:
       - FINOS Gold Member
       - FINOS Silver Member
 twitter:
-  search: landscape.FINOS.org
+  search: landscape.finos.org
   url: 'https://landscape.finos.org'
   text: FINOS Landscape
 relation:
@@ -195,7 +195,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.FINOS.org
+            title: l.finos.org
             top: 130
             left: 24
             font_size: 16
