@@ -146,33 +146,6 @@ big_picture:
         left: 140
         color: 'rgb(215,200,38)'
         fit_width: true
-#       - type: HorizontalCategory
-#         category: FINOS Platinum Member
-#         rows: 4
-#         width: 280
-#         height: 200
-#         top: 360
-#         left: 0
-#         color: 'rgb(103,66,18)'
-#         fit_width: true
-#       - type: HorizontalCategory
-#         category: FINOS Gold Member
-#         rows: 4
-#         width: 280
-#         height: 200
-#         top: 360
-#         left: 300
-#         color: 'rgb(103,66,18)'
-#         fit_width: true
-#       - type: HorizontalCategory
-#         category: FINOS Silver Member
-#         rows: 4
-#         width: 280
-#         height: 200
-#         top: 360
-#         left: 600
-#         color: 'rgb(103,66,18)'
-#         fit_width: true
       - type: LandscapeInfo
         width: 430
         height: 200

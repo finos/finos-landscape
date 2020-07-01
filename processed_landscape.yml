@@ -7,12 +7,12 @@ landscape:
         name: Data Management
         items:
           - item:
+            organization:
+              name: FINOS
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
             repo_url: 'https://github.com/finos/alloy'
             logo: alloy.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -28,17 +28,20 @@ landscape:
                   value: 8442
                   color: '#f1e05a'
                 - name: Shell
-                  value: 2457
+                  value: 2825
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;2;0;0;4;0;1;18;53;13;18;6;3;6;7;10;33;28;37;15;15;20;28;31;12
-              firstWeek: 2019-06-09Z
-              stars: 26
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;2;0;0;4;0;1;18;53;13;18;6;3;6;7;10;33;28;69;45;26;47;46;44;19;33;30;20;4
+              firstWeek: 2019-07-07Z
+              stars: 30
               license: Apache License 2.0
               description: The PURE/Alloy project
-              latest_commit_date: '2020-06-02T14:13:07Z'
-              latest_commit_link: /finos/alloy/commit/268ab42f4923c7764ad804e46efbf5c89a8daf64
-              contributors_count: 10
+              latest_commit_date: '2020-06-30T13:29:41Z'
+              latest_commit_link: /finos/alloy/commit/d846a27f8fa7aa81b11d12e62b9bf3effe27584f
+              contributors_count: 11
               contributors_link: 'https://github.com/finos/alloy/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/alloy'
+                stars: 30
             github_start_commit_data:
               start_commit_link: /finos/alloy/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
               start_date: '2019-12-12T10:13:48Z'
@@ -49,12 +52,12 @@ landscape:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Data Helix
             homepage_url: 'https://github.com/finos/datahelix'
             repo_url: 'https://github.com/finos/datahelix'
             logo: datahelix.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -78,9 +81,9 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 86;85;44;60;39;89;67;90;61;95;72;60;89;102;100;108;93;139;85;75;50;65;87;59;33;27;14;21;0;0;0;63;44;34;14;2;3;1;1;5;0;0;0;4;0;0;0;0;0;12;0;2
-              firstWeek: 2019-06-09Z
-              stars: 44
+              contributions: 39;89;67;90;61;95;72;60;89;102;100;108;93;139;85;75;50;65;87;59;33;27;14;21;0;0;0;63;44;34;14;2;3;1;1;5;0;0;0;4;0;0;0;0;0;12;0;3;1;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 50
               license: Other
               description: >-
                 The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for
@@ -89,8 +92,11 @@ landscape:
               latest_commit_link: /finos/datahelix/commit/e613b3ceac4b971adcc5ab264fdc4fcdf96c2f66
               release_date: '2020-05-31T07:19:18Z'
               release_link: 'https://github.com/finos/datahelix/releases'
-              contributors_count: 44
+              contributors_count: 59
               contributors_link: 'https://github.com/finos/datahelix/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/datahelix'
+                stars: 50
             github_start_commit_data:
               start_commit_link: /finos/datahelix/commit/44d4a83319012cbfb9bbeb9994ca711e2e4b17c0
               start_date: '2018-06-25T08:57:28Z'
@@ -101,12 +107,12 @@ landscape:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: DataHub
             homepage_url: 'https://github.com/finos/datahub'
             repo_url: 'https://github.com/finos/datahub'
             logo: datahub.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -121,15 +127,18 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;28;35;0;0
-              firstWeek: 2019-06-09Z
-              stars: 10
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;28;35;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 16
               license: Apache License 2.0
               description: DataHub - Synthetic data library
               latest_commit_date: '2020-05-18T23:53:33Z'
               latest_commit_link: /finos/datahub/commit/3d38760d6a9c40473eb6226e66f1c9784166c14a
               contributors_count: 5
               contributors_link: 'https://github.com/finos/datahub/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/datahub'
+                stars: 16
             github_start_commit_data:
               start_commit_link: /finos/datahub/commit/809f75f64386074d19a9d51b27715b9864412616
               start_date: '2020-05-01T10:26:21Z'
@@ -140,19 +149,19 @@ landscape:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Exodus
             homepage_url: 'https://github.com/finos/exodus'
             repo_url: 'https://github.com/finos/exodus'
             logo: exodus.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: Scheme
-                  value: 109099
+                  value: 109136
                   color: '#1e4aec'
                 - name: PLSQL
                   value: 93753
@@ -169,15 +178,18 @@ landscape:
                   value: 5040
                 - name: PLpgSQL
                   value: 544
-              contributions: 7;2;3;3;4;9;7;3;2;0;1;0;0;0;4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 4;9;7;3;2;0;1;0;0;0;4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0
+              firstWeek: 2019-07-07Z
               stars: 6
               license: Apache License 2.0
               description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
-              latest_commit_date: '2020-04-06T14:26:57Z'
-              latest_commit_link: /finos/exodus/commit/2b1c81d2ff5d3e87a94b495f4329c0a55f8af1ea
-              contributors_count: 1
+              latest_commit_date: '2020-06-23T16:45:01Z'
+              latest_commit_link: /finos/exodus/commit/555ec723a39c6c5759da90a6831962c8f59c70fc
+              contributors_count: 2
               contributors_link: 'https://github.com/finos/exodus/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/exodus'
+                stars: 6
             github_start_commit_data:
               start_commit_link: /finos/exodus/commit/9fbc5e3c12aab9d35d211b83b9ea2b51b78fce1a
               start_date: '2018-10-30T15:28:52Z'
@@ -191,12 +203,12 @@ landscape:
         name: Models
         items:
           - item:
+            organization:
+              name: FINOS
             name: Financial Objects
             homepage_url: 'https://github.com/finos/finos-fo'
             repo_url: 'https://github.com/finos/finos-fo'
             logo: financial-objects.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -214,15 +226,18 @@ landscape:
                 - name: Shell
                   value: 2410
                   color: '#89e051'
-              contributions: 7;0;0;7;3;0;0;0;2;0;13;2;0;0;0;1;0;0;0;0;0;0;3;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 11
+              contributions: 3;0;0;0;2;0;13;2;0;0;0;1;0;0;0;0;0;0;3;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 12
               license: Apache License 2.0
               description: FINOS Financial Objects Program Documentation
               latest_commit_date: '2020-04-20T17:33:31Z'
               latest_commit_link: /finos/finos-fo/commit/ecb69531b295186505f88aa6e7d99c848b59142f
-              contributors_count: 9
+              contributors_count: 10
               contributors_link: 'https://github.com/finos/finos-fo/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/finos-fo'
+                stars: 12
             github_start_commit_data:
               start_commit_link: /finos/finos-fo/commit/3e8a73c36eca9c6a09bb79008be482e435ad699d
               start_date: '2018-11-08T14:51:23Z'
@@ -236,48 +251,12 @@ landscape:
         name: Tick & Reference
         items:
           - item:
-            name: Security Reference Data
-            homepage_url: 'https://github.com/finos/secref-data'
-            repo_url: 'https://github.com/finos/secref-data'
-            logo: security-reference-data.svg
             organization:
               name: FINOS
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 15734
-                  color: '#f1e05a'
-                - name: CSS
-                  value: 3644
-                  color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 0
-              license: Apache License 2.0
-              description: Security Reference Data project
-              latest_commit_date: '2020-04-30T12:44:05Z'
-              latest_commit_link: /finos/secref-data/commit/0cea34f6fbd4c38295007dec2f2de79c495bd215
-              contributors_count: 2
-              contributors_link: 'https://github.com/finos/secref-data/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
-              start_date: '2020-04-29T08:05:47Z'
-            image_data:
-              fileName: security-reference-data.svg
-              hash: aRfTCmhAjtWmr2Bg8YgU7DwDNkMacPVU2MStQ7Nxffk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: kdb+
             homepage_url: 'https://github.com/finos/kdb'
             repo_url: 'https://github.com/finos/kdb'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: finos.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -298,15 +277,18 @@ landscape:
                 - name: HiveQL
                   value: 104
                   color: '#dce200'
-              contributions: 0;3;0;1;0;0;0;0;3;0;0;1;1;12;0;0;0;0;5;3;0;3;1;3;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;3;2;2;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 17
+              contributions: 0;0;0;0;3;0;0;1;1;12;0;0;0;0;5;3;0;3;1;3;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;3;2;2;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 18
               license: Apache License 2.0
               description: kdb+ Working Group from FINOS Data Technologies program
               latest_commit_date: '2020-05-01T20:05:52Z'
               latest_commit_link: /finos/kdb/commit/74d0f5f822965eddef8a061ec10a35acd0037e02
-              contributors_count: 8
+              contributors_count: 9
               contributors_link: 'https://github.com/finos/kdb/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/kdb'
+                stars: 18
             github_start_commit_data:
               start_commit_link: /finos/kdb/commit/baea0768b8b1dcf6612eefc3f4513845f2802d07
               start_date: '2018-09-27T09:32:03Z'
@@ -316,19 +298,58 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            organization:
+              name: FINOS
+            name: Security Reference Data
+            homepage_url: 'https://github.com/finos/secref-data'
+            repo_url: 'https://github.com/finos/secref-data'
+            logo: security-reference-data.svg
+            crunchbase_data:
+              name: FINOS
+              parents: []
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 15734
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 3644
+                  color: '#563d7c'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 0
+              license: Apache License 2.0
+              description: Security Reference Data project
+              latest_commit_date: '2020-04-30T12:44:05Z'
+              latest_commit_link: /finos/secref-data/commit/0cea34f6fbd4c38295007dec2f2de79c495bd215
+              contributors_count: 2
+              contributors_link: 'https://github.com/finos/secref-data/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/secref-data'
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
+              start_date: '2020-04-29T08:05:47Z'
+            image_data:
+              fileName: security-reference-data.svg
+              hash: aRfTCmhAjtWmr2Bg8YgU7DwDNkMacPVU2MStQ7Nxffk=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Enablement
     subcategories:
       - subcategory:
-        name: Enablement
+        name: ODP Toolchain
         items:
           - item:
+            organization:
+              name: FINOS
             name: CLA Bot
             homepage_url: 'https://github.com/finos/cla-bot'
             repo_url: 'https://github.com/finos/cla-bot'
             logo: cla-bot.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -340,8 +361,8 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;1;1;3;0;1;2;2;0;0;3;0;0;4;2;6;0;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;1;1;3;0;1;2;2;0;0;3;0;0;4;2;6;0;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 34
               license: Apache License 2.0
               description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
@@ -349,8 +370,11 @@ landscape:
               latest_commit_link: /finos/cla-bot/commit/a73fe8ffb959ed514904aaca0de295c58dfa65c1
               release_date: '2019-02-02T15:38:03Z'
               release_link: 'https://github.com/finos/cla-bot/releases'
-              contributors_count: 6
+              contributors_count: 11
               contributors_link: 'https://github.com/finos/cla-bot/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/cla-bot'
+                stars: 34
             github_start_commit_data:
               start_commit_link: /finos/cla-bot/commit/09b7ad7c3d7bd2e02b82222352dcb071989eb6a9
               start_date: '2017-04-26T05:22:44Z'
@@ -360,16 +384,91 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            organization:
+              name: FINOS
+            name: Open Developer Platform
+            homepage_url: 'https://github.com/finos/open-developer-platform'
+            repo_url: 'https://github.com/finos/open-developer-platform'
+            logo: open-developer-platform.svg
+            crunchbase_data:
+              name: FINOS
+              parents: []
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 10928
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 7145
+                  color: '#89e051'
+                - name: CSS
+                  value: 6533
+                  color: '#563d7c'
+              contributions: 0;1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;4;15;19;0;0;0;0;0;13;49;33;8;4;8;5;20;3;0;1;0;0;3;0
+              firstWeek: 2019-07-07Z
+              stars: 21
+              license: Apache License 2.0
+              description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
+              latest_commit_date: '2020-06-22T16:20:13Z'
+              latest_commit_link: /finos/open-developer-platform/commit/8367fad81e2f377ad40c275b142f30a0eb7f0727
+              contributors_count: 5
+              contributors_link: 'https://github.com/finos/open-developer-platform/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/open-developer-platform'
+                stars: 21
+            github_start_commit_data:
+              start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
+              start_date: '2018-08-20T12:51:46Z'
+            image_data:
+              fileName: open-developer-platform.svg
+              hash: v4tzFEwiXwGV2wxwU/laU+XGFazmHTqtgOJDjjA2Dzo=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
-        name: ODP Toolchain
+        name: OSS Readiness
         items:
           - item:
+            organization:
+              name: FINOS
+            name: Open source readiness
+            homepage_url: 'https://github.com/finos/osr-checklists'
+            repo_url: 'https://github.com/finos/osr-checklists'
+            logo: open-source-readiness.svg
+            crunchbase_data:
+              name: FINOS
+              parents: []
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 1
+              license: Creative Commons Attribution Share Alike 4.0 International
+              description: Checklists for key components and processes of open source programs
+              latest_commit_date: '2019-11-06T16:30:54Z'
+              latest_commit_link: /finos/osr-checklists/commit/cc49497a319788d31a52b63135b0a1d30bfe8a0e
+              contributors_count: 1
+              contributors_link: 'https://github.com/finos/osr-checklists/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/osr-checklists'
+                stars: 1
+            github_start_commit_data:
+              start_commit_link: /finos/osr-checklists/commit/d73ea8b8e0c862acae581b2945456fcfe2c0a3e0
+              start_date: '2019-10-23T13:26:08Z'
+            image_data:
+              fileName: open-source-readiness.svg
+              hash: m4P28XX/hwpIngu38vKmC2ExwTY8AEz3Q8IJnOVxIwU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            organization:
+              name: FINOS
             name: OSLC Handbook
             homepage_url: 'https://github.com/finos/OSLC-handbook'
             repo_url: 'https://github.com/finos/OSLC-handbook'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: oslc-handbook.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -384,122 +483,59 @@ landscape:
                 - name: Python
                   value: 7813
                   color: '#3572A5'
-              contributions: 0;0;0;1;0;8;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 78
+              contributions: 0;8;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 82
               license: Other
               description: A data store and handbook of practical information about complying with the most common open source licenses.
               latest_commit_date: '2019-10-09T20:47:05Z'
               latest_commit_link: /finos/OSLC-handbook/commit/eafdcdac855a0e1877606eb15eba561b2abf0dba
               release_date: '2019-04-29T17:05:38Z'
               release_link: 'https://github.com/finos/OSLC-handbook/releases'
-              contributors_count: 9
+              contributors_count: 11
               contributors_link: 'https://github.com/finos/OSLC-handbook/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/OSLC-handbook'
+                stars: 82
             github_start_commit_data:
               start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
               start_date: '2018-10-26T18:13:22Z'
             image_data:
               fileName: oslc-handbook.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: WHCdtiLByN/zsb+d3AIQtQcaKTO9MBgdMDl8fwzlIy4=
             best_practice_data:
               badge: false
               percentage: null
           - item:
-            name: Open Developer Platform
-            homepage_url: 'https://github.com/finos/open-developer-platform'
-            repo_url: 'https://github.com/finos/open-developer-platform'
-            logo: open-developer-platform.svg
             organization:
               name: FINOS
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 14068
-                  color: '#f1e05a'
-                - name: Shell
-                  value: 7145
-                  color: '#89e051'
-                - name: CSS
-                  value: 6533
-                  color: '#563d7c'
-              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;4;15;19;0;0;0;0;0;13;49;33;8;4;8;5;20;3;0;1
-              firstWeek: 2019-06-09Z
-              stars: 19
-              license: Apache License 2.0
-              description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
-              latest_commit_date: '2020-05-27T09:09:43Z'
-              latest_commit_link: /finos/open-developer-platform/commit/d6ab2c14201576feb6a0d760b7c0de5245d7d157
-              contributors_count: 5
-              contributors_link: 'https://github.com/finos/open-developer-platform/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
-              start_date: '2018-08-20T12:51:46Z'
-            image_data:
-              fileName: open-developer-platform.svg
-              hash: OiMjw6fqntIbGGvGOMgNeM+eCLC4eKxgcq3a0KORFg0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Open source readiness
-            homepage_url: 'https://github.com/finos/osr-checklists'
-            repo_url: 'https://github.com/finos/osr-checklists'
-            logo: open-source-readiness.svg
-            organization:
-              name: FINOS
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 1
-              license: Creative Commons Attribution Share Alike 4.0 International
-              description: Checklists for key components and processes of open source programs
-              latest_commit_date: '2019-11-06T16:30:54Z'
-              latest_commit_link: /finos/osr-checklists/commit/cc49497a319788d31a52b63135b0a1d30bfe8a0e
-              contributors_count: 1
-              contributors_link: 'https://github.com/finos/osr-checklists/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /finos/osr-checklists/commit/d73ea8b8e0c862acae581b2945456fcfe2c0a3e0
-              start_date: '2019-10-23T13:26:08Z'
-            image_data:
-              fileName: open-source-readiness.svg
-              hash: m4P28XX/hwpIngu38vKmC2ExwTY8AEz3Q8IJnOVxIwU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Reference FOSS Policy
             homepage_url: 'https://github.com/finos/reference-foss-policy'
             repo_url: 'https://github.com/finos/reference-foss-policy'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: reference-foss-policy.svg
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 4
+              firstWeek: 2019-07-07Z
+              stars: 3
               license: Creative Commons Attribution 4.0 International
               description: Reference FOSS Policy for Financial Services Institutions
               latest_commit_date: '2018-10-17T20:09:56Z'
               latest_commit_link: /finos/reference-foss-policy/commit/8eb3ffea172a6e878e8098e2d56f9cf0cefac8db
               contributors_count: 2
               contributors_link: 'https://github.com/finos/reference-foss-policy/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/reference-foss-policy'
+                stars: 3
             github_start_commit_data:
               start_commit_link: /finos/reference-foss-policy/commit/c2176c273b21012ad1022b06991361eb27dbabdc
               start_date: '2018-05-30T13:20:21Z'
             image_data:
               fileName: reference-foss-policy.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: eXYYkq14ax1dTEyA2cS70+B36Z3t1xqcqzGrHJ5matM=
             best_practice_data:
               badge: false
               percentage: null
@@ -510,55 +546,58 @@ landscape:
         name: Compliance & Management
         items:
           - item:
+            organization:
+              name: FINOS
             name: Cloud Service Certification
             homepage_url: 'https://github.com/finos/cloud-service-certification'
             repo_url: 'https://github.com/finos/cloud-service-certification'
             logo: cloud-service-certification.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;15;4;2;1;1;1;6;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 16
+              contributions: 0;0;0;0;2;0;0;0;0;1;0;0;0;15;4;2;1;1;1;6;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;3;0;3;0
+              firstWeek: 2019-07-07Z
+              stars: 17
               license: Apache License 2.0
               description: Cloud Service Certification Project
-              latest_commit_date: '2020-05-08T12:55:27Z'
-              latest_commit_link: /finos/cloud-service-certification/commit/38001f64a93d1e7a5bc1486cac4fe8663c2dcc88
-              contributors_count: 7
+              latest_commit_date: '2020-06-18T14:36:47Z'
+              latest_commit_link: /finos/cloud-service-certification/commit/1a85a419ab69685fcf7125cc60105a0c98a5469c
+              contributors_count: 8
               contributors_link: 'https://github.com/finos/cloud-service-certification/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/cloud-service-certification'
+                stars: 17
             github_start_commit_data:
               start_commit_link: /finos/cloud-service-certification/commit/c162e375fd5a7edcc0e5c3bb1eaf51c63d1d9f16
               start_date: '2019-03-01T15:12:45Z'
             image_data:
               fileName: cloud-service-certification.svg
-              hash: F3HWuvytqY2nLtQe0fwjvhZ4Y4g1xAnrrwuR8w2aWfQ=
+              hash: IuUREabehgaRSBUA+FKLCtbS7bZ4NDB6XrphpQjwwJQ=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Waltz
             homepage_url: 'https://github.com/finos/waltz'
             repo_url: 'https://github.com/finos/waltz'
             logo: waltz.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: Java
-                  value: 3531672
+                  value: 3548956
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2273354
+                  value: 2275509
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1423623
+                  value: 1424320
                   color: '#e34c26'
                 - name: CSS
                   value: 153218
@@ -567,17 +606,20 @@ landscape:
                   value: 305
                   color: '#89e051'
               contributions: >-
-                20;48;34;22;34;33;33;42;10;31;27;1;3;40;46;31;30;34;41;43;22;18;36;32;64;57;36;48;17;4;34;40;36;37;36;31;49;18;19;60;40;12;16;56;9;28;24;17;18;28;34;56
-              firstWeek: 2019-06-09Z
-              stars: 67
+                34;33;33;42;10;31;27;1;3;40;46;31;30;34;41;43;22;18;36;32;64;57;37;49;17;4;34;40;36;37;37;31;49;18;19;61;40;12;16;56;9;28;24;17;19;28;34;56;37;17;30;15
+              firstWeek: 2019-07-07Z
+              stars: 70
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2020-06-03T07:51:45Z'
-              latest_commit_link: /finos/waltz/commit/adc73390b56abf4a3da8b0bc11a70b4295d259d0
-              release_date: '2020-04-28T20:27:27Z'
+              latest_commit_date: '2020-06-30T15:55:08Z'
+              latest_commit_link: /finos/waltz/commit/828cf7426b5d55f1b43d9062cd587a6538dd6deb
+              release_date: '2020-06-18T10:34:23Z'
               release_link: 'https://github.com/finos/waltz/releases'
-              contributors_count: 18
+              contributors_count: 23
               contributors_link: 'https://github.com/finos/waltz/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/waltz'
+                stars: 70
             github_start_commit_data:
               start_commit_link: /finos/waltz/commit/db3992613a4b3249c249f101e8e0f04602a82fe4
               start_date: '2016-01-18T22:06:27Z'
@@ -594,12 +636,12 @@ landscape:
         name: Interop
         items:
           - item:
+            organization:
+              name: FINOS
             name: FDC3
             homepage_url: 'https://github.com/finos/fdc3'
             repo_url: 'https://github.com/finos/fdc3'
             logo: fdc3.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -612,22 +654,25 @@ landscape:
                   value: 24130
                   color: '#f1e05a'
                 - name: TypeScript
-                  value: 12257
+                  value: 12294
                   color: '#2b7489'
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 0;0;1;5;17;14;3;1;1;5;2;1;0;0;1;1;0;0;1;2;0;0;0;0;0;4;5;4;3;1;0;7;12;14;2;10;14;7;18;4;4;8;4;3;9;0;0;0;0;10;0;3
-              firstWeek: 2019-06-09Z
-              stars: 44
+              contributions: 17;14;3;1;1;5;2;1;0;0;1;1;0;0;1;2;0;0;0;0;0;4;5;4;3;1;0;7;12;14;2;10;14;7;18;4;4;8;4;3;9;0;0;0;0;10;0;3;2;2;2;0
+              firstWeek: 2019-07-07Z
+              stars: 46
               license: Apache License 2.0
               description: Open standards for the financial desktop.
-              latest_commit_date: '2020-05-28T17:40:48Z'
-              latest_commit_link: /finos/FDC3/commit/64b082494c0f7be4b1aee172695b809e4816ce7b
+              latest_commit_date: '2020-06-22T14:41:17Z'
+              latest_commit_link: /finos/FDC3/commit/8e4040cb08442c5d0603fe0d145f3e1bf5cb3a74
               release_date: '2020-04-09T13:08:27Z'
               release_link: 'https://github.com/finos/fdc3/releases'
-              contributors_count: 25
+              contributors_count: 30
               contributors_link: 'https://github.com/finos/fdc3/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/fdc3'
+                stars: 46
             github_start_commit_data:
               start_commit_link: /finos/FDC3/commit/84bc36d712b99756534015b8043ef44c1db66b4f
               start_date: '2018-02-17T04:22:36Z'
@@ -638,12 +683,12 @@ landscape:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: FDC3 Desktop Agent
             homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
             repo_url: 'https://github.com/finos/fdc3-desktop-agent'
             logo: fdc3-desktop-agent.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
@@ -661,14 +706,14 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;6;1;0;1;9;4;5;17;23;11;0;12;0;4;1;2;16;0;0;7;0;4;0;0;0;0;0;0;0
-              firstWeek: 2019-06-30Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;4;5;0;1;9;4;2;19;13;19;3;8;4;4;1;1;16;1;0;6;1;4;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 8
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
               latest_commit_date: '2020-05-01T14:16:01Z'
               latest_commit_link: /finos/fdc3-desktop-agent/commit/eb2021491323c12713b60a621fcfd89c2ef52bf7
-              contributors_count: 3
+              contributors_count: 4
               contributors_link: 'https://github.com/finos/fdc3-desktop-agent/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/fdc3-desktop-agent'
@@ -683,22 +728,22 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Plexus Interop
-            homepage_url: 'https://github.com/finos-plexus/plexus-interop'
-            repo_url: 'https://github.com/finos-plexus/plexus-interop'
-            logo: plexus-interop.svg
             organization:
               name: FINOS
+            name: Plexus Interop
+            homepage_url: 'https://github.com/finos-plexus/plexus-interop'
+            repo_url: 'https://github.com/finos/plexus-interop'
+            logo: plexus-interop.svg
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: C#
-                  value: 2211629
+                  value: 2211751
                   color: '#178600'
                 - name: TypeScript
-                  value: 1182565
+                  value: 1185398
                   color: '#2b7489'
                 - name: JavaScript
                   value: 1032988
@@ -712,7 +757,7 @@ landscape:
                   value: 12786
                   color: '#e34c26'
                 - name: Batchfile
-                  value: 10832
+                  value: 10853
                   color: '#C1F12E'
                 - name: CSS
                   value: 555
@@ -720,17 +765,20 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 0;10;10;0;0;3;1;1;12;18;8;0;1;3;3;6;4;0;0;0;4;0;0;5;0;0;0;0;5;1;0;42;40;10;6;0;0;0;0;0;0;0;2;0;0;3;0;0;0;2;0;0
-              firstWeek: 2019-06-09Z
-              stars: 243
+              contributions: 0;3;1;1;12;18;8;0;1;3;3;6;4;0;0;0;4;0;0;5;0;0;0;0;5;1;0;42;40;10;6;1;0;0;0;0;0;0;3;2;0;3;0;0;0;4;1;0;1;2;2;0
+              firstWeek: 2019-07-07Z
+              stars: 241
               license: Apache License 2.0
               description: Plexus Interop open source project hosted by the Fintech Open Source Foundation
-              latest_commit_date: '2020-05-14T20:30:26Z'
-              latest_commit_link: /finos-plexus/plexus-interop/commit/11f62d524a5f24454a8b394c4b0721feb4b87f40
-              release_date: '2020-02-04T10:52:30Z'
+              latest_commit_date: '2020-06-23T15:45:39Z'
+              latest_commit_link: /finos/plexus-interop/commit/629938bfa5641f9da750677259978c12470e63b6
+              release_date: '2020-06-23T16:07:12Z'
               release_link: 'https://github.com/finos-plexus/plexus-interop/releases'
-              contributors_count: 14
+              contributors_count: 17
               contributors_link: 'https://github.com/finos-plexus/plexus-interop/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos-plexus/plexus-interop'
+                stars: 241
             github_start_commit_data:
               start_commit_link: /finos-plexus/plexus-interop/commit/378aefc7965a6c0ecd4f9e99c73adb52e66f71b0
               start_date: '2017-09-27T14:07:48Z'
@@ -744,12 +792,12 @@ landscape:
         name: Openfin Ecosystem
         items:
           - item:
+            organization:
+              name: FINOS
             name: OpenFin Python Adapter
             homepage_url: 'https://github.com/finos/openfin-python-adapter'
             repo_url: 'https://github.com/finos/openfin-python-adapter'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: finos.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -762,7 +810,7 @@ landscape:
                   value: 795
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              firstWeek: 2019-07-07Z
               stars: 2
               license: Apache License 2.0
               description: Hadouken python language adapter.
@@ -770,6 +818,9 @@ landscape:
               latest_commit_link: /finos/openfin-python-adapter/commit/1d059d5d336d6986e1df56272ded82910ee531b1
               contributors_count: 2
               contributors_link: 'https://github.com/finos/openfin-python-adapter/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/openfin-python-adapter'
+                stars: 2
             github_start_commit_data:
               start_commit_link: /finos/openfin-python-adapter/commit/1be7514ea996ee0e299d7239741503fb04a68e2d
               start_date: '2018-09-08T15:37:11Z'
@@ -780,12 +831,12 @@ landscape:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
             repo_url: 'https://github.com/finos/openfin-react-hooks'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: finos.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -794,17 +845,20 @@ landscape:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 11;11;0;11;1;8;3;0;0;0;0;0;0;0;7;0;1;8;20;4;7;0;0;0;3;0;2;0;1;0;0;2;3;4;3;7;3;6;0;0;0;1;0;0;3;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 24
+              contributions: 1;8;3;0;0;0;0;0;0;0;7;0;1;8;20;4;7;0;0;0;3;0;2;0;1;0;0;2;3;4;3;7;3;6;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 25
               license: Apache License 2.0
               description: A collection of React Hooks built on top of the Openfin API - from Scott Logic
               latest_commit_date: '2020-04-12T16:47:48Z'
               latest_commit_link: /finos/openfin-react-hooks/commit/735358503d93e93b002f16328030d02cde7b6bd2
               release_date: '2020-02-10T11:41:46Z'
               release_link: 'https://github.com/finos/openfin-react-hooks/releases'
-              contributors_count: 12
+              contributors_count: 14
               contributors_link: 'https://github.com/finos/openfin-react-hooks/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/openfin-react-hooks'
+                stars: 25
             github_start_commit_data:
               start_commit_link: /finos/openfin-react-hooks/commit/2b114b1f209e6be905d0c62c55855679446e044c
               start_date: '2019-05-17T10:48:16Z'
@@ -818,41 +872,100 @@ landscape:
         name: Containers
         items:
           - item:
+            organization:
+              name: FINOS
             name: Secure Electron Adapter
             homepage_url: 'https://github.com/finos/secure-electron-adapter'
             repo_url: 'https://github.com/finos/secure-electron-adapter'
             logo: secure-electron-adapter.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: JavaScript
-                  value: 290755
+                  value: 290930
                   color: '#f1e05a'
                 - name: CSS
-                  value: 3644
+                  value: 3694
                   color: '#563d7c'
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;10;17;4;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 2
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;10;17;4;0;0;0;0;2;0;0;0
+              firstWeek: 2019-07-07Z
+              stars: 4
               license: Apache License 2.0
               description: null
-              latest_commit_date: '2020-05-01T15:59:53Z'
-              latest_commit_link: /finos/secure-electron-adapter/commit/6b5117faf71476c9d5a3773737e4baab247c2adb
-              contributors_count: 4
+              latest_commit_date: '2020-06-08T20:06:38Z'
+              latest_commit_link: /finos/secure-electron-adapter/commit/ccad879c1f2eb32261e6cd1d843758f8c0c94e1c
+              contributors_count: 5
               contributors_link: 'https://github.com/finos/secure-electron-adapter/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/secure-electron-adapter'
+                stars: 4
             github_start_commit_data:
               start_commit_link: /finos/secure-electron-adapter/commit/113f09032ed054ab68e053ff4fc0b07270e474f4
               start_date: '2019-10-22T15:46:13Z'
             image_data:
               fileName: secure-electron-adapter.svg
               hash: lfZpMD4wXVurG7axUiXlKYb+G0CEFI0Ql4kFKAaivCI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            organization:
+              name: FINOS
+            name: Symphony Electron
+            homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
+            repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
+            logo: symphony-electron.svg
+            crunchbase_data:
+              name: FINOS
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 563506
+                  color: '#2b7489'
+                - name: HTML
+                  value: 40327
+                  color: '#e34c26'
+                - name: CSS
+                  value: 31552
+                  color: '#563d7c'
+                - name: Shell
+                  value: 13321
+                  color: '#89e051'
+                - name: Batchfile
+                  value: 4214
+                  color: '#C1F12E'
+                - name: JavaScript
+                  value: 2811
+                  color: '#f1e05a'
+                - name: Dockerfile
+                  value: 745
+                  color: '#384d54'
+              contributions: 19;24;17;4;4;4;5;4;9;5;2;0;4;1;4;2;4;11;8;9;8;27;12;12;7;1;1;12;11;10;6;8;8;2;17;19;13;29;19;15;14;5;9;9;11;11;7;15;16;9;6;6
+              firstWeek: 2019-07-07Z
+              stars: 51
+              license: Apache License 2.0
+              description: A desktop client for the Symphony Collaboration Platform built using Electron
+              latest_commit_date: '2020-07-01T09:51:05Z'
+              latest_commit_link: /symphonyoss/SymphonyElectron/commit/90f99b01605451d7635d7c012ed81a291f233956
+              release_date: '2020-06-29T12:07:45Z'
+              release_link: 'https://github.com/symphonyoss/SymphonyElectron/releases'
+              contributors_count: 31
+              contributors_link: 'https://github.com/symphonyoss/SymphonyElectron/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/SymphonyElectron'
+                stars: 51
+            github_start_commit_data:
+              start_commit_link: /symphonyoss/SymphonyElectron/commit/aee8779c164222f4ba65c329b093859f38ffef10
+              start_date: '2016-09-27T02:33:09Z'
+            image_data:
+              fileName: symphony-electron.svg
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
@@ -863,12 +976,12 @@ landscape:
         name: Symphony Ecosystem
         items:
           - item:
+            organization:
+              name: FINOS
             name: Fugue
             homepage_url: 'https://github.com/symphonyoss/fugue'
             repo_url: 'https://github.com/symphonyoss/fugue'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -886,8 +999,8 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 4;3;5;0;4;3;13;12;8;4;0;4;3;3;3;6;0;0;5;6;4;10;2;6;5;3;11;5;1;0;0;2;0;5;0;0;0;0;6;0;4;2;3;13;3;5;10;3;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 4;3;13;12;8;4;0;4;3;3;3;6;0;0;5;6;4;10;2;6;5;3;11;5;1;0;0;2;0;5;0;0;0;0;6;0;4;2;3;13;3;5;10;3;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 2
               license: Apache License 2.0
               description: Kubenetes Base Cloud Platform Abstraction
@@ -897,22 +1010,25 @@ landscape:
               release_link: 'https://github.com/symphonyoss/fugue/releases'
               contributors_count: 4
               contributors_link: 'https://github.com/symphonyoss/fugue/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/fugue'
+                stars: 2
             github_start_commit_data:
               start_commit_link: /symphonyoss/fugue/commit/c089e21726a485ef6b90751b1f5ba935a8652ce5
               start_date: '2018-01-28T18:40:20Z'
             image_data:
               fileName: fugue.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Integration Bridge
             homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -921,8 +1037,8 @@ landscape:
                 - name: Java
                   value: 730159
                   color: '#b07219'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 4
               license: Apache License 2.0
               description: Common components for Symphony App Integrations.
@@ -930,24 +1046,27 @@ landscape:
               latest_commit_link: /symphonyoss/App-Integrations-Commons/commit/4ef5d6abb581758f92b7ede17c29278babba6a38
               release_date: '2017-03-27T16:54:42Z'
               release_link: 'https://github.com/symphonyoss/App-Integrations-Commons/releases'
-              contributors_count: 16
+              contributors_count: 27
               contributors_link: 'https://github.com/symphonyoss/App-Integrations-Commons/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/App-Integrations-Commons'
+                stars: 4
             github_start_commit_data:
               start_commit_link: /symphonyoss/App-Integrations-Commons/commit/2e68f6d5a8126250533323cfd7d18760ffe70651
               start_date: '2016-12-21T13:20:22Z'
             image_data:
               fileName: integration-bridge.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: JCurl
             homepage_url: 'https://github.com/symphonyoss/JCurl'
             repo_url: 'https://github.com/symphonyoss/JCurl'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -959,8 +1078,8 @@ landscape:
                 - name: Ruby
                   value: 467
                   color: '#701516'
-              contributions: 0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 16
               license: Apache License 2.0
               description: JSON-aware curl (1) in Java
@@ -970,87 +1089,96 @@ landscape:
               release_link: 'https://github.com/symphonyoss/JCurl/releases'
               contributors_count: 4
               contributors_link: 'https://github.com/symphonyoss/JCurl/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/JCurl'
+                stars: 16
             github_start_commit_data:
               start_commit_link: /symphonyoss/JCurl/commit/47183520cc800f4d032c81b7241faee27d8dd9d6
               start_date: '2017-02-01T20:10:51Z'
             image_data:
               fileName: j-curl.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: MessageML Utilities
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
             repo_url: 'https://github.com/symphonyoss/messageml-utils'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: Java
-                  value: 808836
+                  value: 693113
                   color: '#b07219'
-              contributions: 3;4;7;1;4;3;0;3;9;0;1;2;2;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;3;1;4;0;0;0;0;1;3;0;0;0;0;0;3;0;2;0;11;0;5
-              firstWeek: 2019-06-09Z
+              contributions: 4;3;0;3;9;0;1;2;2;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;3;1;4;0;0;0;0;1;3;0;0;0;0;0;3;0;2;0;11;0;5;0;6;6;0
+              firstWeek: 2019-07-07Z
               stars: 5
               license: Apache License 2.0
               description: MessageML parser
-              latest_commit_date: '2020-05-28T13:22:10Z'
-              latest_commit_link: /symphonyoss/messageml-utils/commit/78a76a400f0a732e9a1a4dbaf0d9ef1c12ca0b87
-              release_date: '2020-05-18T12:28:31Z'
+              latest_commit_date: '2020-06-19T13:21:33Z'
+              latest_commit_link: /symphonyoss/messageml-utils/commit/f94357069dc8042ec909947bcf83abfdc5685dfd
+              release_date: '2020-06-19T13:19:41Z'
               release_link: 'https://github.com/symphonyoss/messageml-utils/releases'
-              contributors_count: 18
+              contributors_count: 21
               contributors_link: 'https://github.com/symphonyoss/messageml-utils/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/messageml-utils'
+                stars: 5
             github_start_commit_data:
               start_commit_link: /symphonyoss/messageml-utils/commit/ef8e5216a53c65b4664f7d8606264af0d8d5f3d3
               start_date: '2017-05-03T17:10:47Z'
             image_data:
               fileName: message-ml-utilities.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: REST API Specification
             homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
             repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages: []
-              contributions: 1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;1
+              firstWeek: 2019-07-07Z
               stars: 8
               license: Apache License 2.0
               description: 'Swagger definitions for Symphony LLC public REST API '
-              latest_commit_date: '2020-05-06T13:38:08Z'
-              latest_commit_link: /symphonyoss/symphony-api-spec/commit/0c08ddc56c788c167d3407ba2ac462e7fbbce069
-              contributors_count: 10
+              latest_commit_date: '2020-06-26T16:53:50Z'
+              latest_commit_link: /symphonyoss/symphony-api-spec/commit/089651cd352f1eeb59b78ffe4a0b4a609cf68b00
+              contributors_count: 12
               contributors_link: 'https://github.com/symphonyoss/symphony-api-spec/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/symphony-api-spec'
+                stars: 8
             github_start_commit_data:
               start_commit_link: /symphonyoss/symphony-api-spec/commit/986d433fbd86675de059b0534fd577a9bcd4ec6c
               start_date: '2017-05-23T21:55:05Z'
             image_data:
               fileName: rest-api-specification.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: REST API Tools
             homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1066,7 +1194,7 @@ landscape:
                   value: 2461
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              firstWeek: 2019-07-07Z
               stars: 1
               license: Apache License 2.0
               description: Low level tools for use with the Symphony public REST API
@@ -1074,24 +1202,27 @@ landscape:
               latest_commit_link: /symphonyoss/symphony-rest-tools/commit/5880be0cf60f857b1b01eea4b2125952cecfa473
               release_date: '2017-10-18T16:38:48Z'
               release_link: 'https://github.com/symphonyoss/symphony-rest-tools/releases'
-              contributors_count: 1
+              contributors_count: 3
               contributors_link: 'https://github.com/symphonyoss/symphony-rest-tools/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/symphony-rest-tools'
+                stars: 1
             github_start_commit_data:
               start_commit_link: /symphonyoss/symphony-rest-tools/commit/211777acadae814e4c6fe537c78df7a885c11e87
               start_date: '2017-06-16T20:45:08Z'
             image_data:
               fileName: rest-api-tools.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: S2 Common Components
             homepage_url: 'https://github.com/symphonyoss/S2-common'
             repo_url: 'https://github.com/symphonyoss/S2-common'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1100,31 +1231,34 @@ landscape:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;1;2;2;5;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;3;0;0;3;0;0;0;0;1;2;2;5;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 0
               license: Apache License 2.0
               description: S2 Common Classes - for consumption by SBE and S2
               latest_commit_date: '2020-04-29T15:56:16Z'
               latest_commit_link: /symphonyoss/S2-common/commit/06608633a328d3a27b2329f10a80f2102c727a0f
-              contributors_count: 2
+              contributors_count: 4
               contributors_link: 'https://github.com/symphonyoss/S2-common/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/S2-common'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /symphonyoss/S2-common/commit/11c5b8e13a460fa7f1758dac7244f1be795f6749
               start_date: '2017-08-21T22:16:56Z'
             image_data:
               fileName: s2-common-components.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Symfuny Chat Bot
             homepage_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             repo_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1140,7 +1274,7 @@ landscape:
                   value: 18029
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              firstWeek: 2019-07-07Z
               stars: 2
               license: Apache License 2.0
               description: Symphony Chat Bot
@@ -1148,22 +1282,25 @@ landscape:
               latest_commit_link: /symphonyoss/symfuny-chat-bot/commit/551cdcc2e4d8a9acc7dcb21d81cde26aeec5167f
               contributors_count: 1
               contributors_link: 'https://github.com/symphonyoss/symfuny-chat-bot/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/symfuny-chat-bot'
+                stars: 2
             github_start_commit_data:
               start_commit_link: /symphonyoss/symfuny-chat-bot/commit/101b74ef04f4c8b7147fcb254da70c7b720b8103
               start_date: '2017-04-11T14:19:05Z'
             image_data:
               fileName: symfuny-chat-bot.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Symphony .NET Client
             homepage_url: 'https://github.com/symphonyoss/RestApiClient'
             repo_url: 'https://github.com/symphonyoss/RestApiClient'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1176,30 +1313,33 @@ landscape:
                   value: 7671
                   color: '#C1F12E'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              firstWeek: 2019-07-07Z
               stars: 13
               license: Apache License 2.0
               description: Symphony .Net Agent API client
               latest_commit_date: '2018-03-06T01:11:56Z'
               latest_commit_link: /symphonyoss/RestApiClient/commit/1e1d96954ebc41b5833c23d273eac5b2176a9768
-              contributors_count: 8
+              contributors_count: 9
               contributors_link: 'https://github.com/symphonyoss/RestApiClient/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/RestApiClient'
+                stars: 13
             github_start_commit_data:
               start_commit_link: /symphonyoss/RestApiClient/commit/b6f7090f1a908c69343e21e77a50afaf9b709a2f
               start_date: '2016-05-17T01:05:46Z'
             image_data:
               fileName: symphony-net-client.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Symphony Clojure Client
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
             repo_url: 'https://github.com/symphonyoss/clj-symphony'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1208,8 +1348,8 @@ landscape:
                 - name: Clojure
                   value: 61538
                   color: '#db5855'
-              contributions: 0;3;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;7;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;7;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 4
               license: Apache License 2.0
               description: An idiomatic Clojure wrapper for the symphony-java-client
@@ -1217,75 +1357,25 @@ landscape:
               latest_commit_link: /symphonyoss/clj-symphony/commit/6efcb46c931d48ec7abccfd3b891436fb3261d46
               contributors_count: 3
               contributors_link: 'https://github.com/symphonyoss/clj-symphony/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/clj-symphony'
+                stars: 4
             github_start_commit_data:
               start_commit_link: /symphonyoss/clj-symphony/commit/09e3ee3a478f7f3d028e70cc4a203cc4d37e9b70
               start_date: '2016-08-11T20:45:18Z'
             image_data:
               fileName: symphony-clojure-client.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: 996
               percentage: 86
           - item:
-            name: Symphony Electron
-            homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
-            repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
-            logo: symphony-electron.svg
             organization:
               name: FINOS
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages:
-                - name: TypeScript
-                  value: 557645
-                  color: '#2b7489'
-                - name: HTML
-                  value: 40327
-                  color: '#e34c26'
-                - name: CSS
-                  value: 31552
-                  color: '#563d7c'
-                - name: Shell
-                  value: 13185
-                  color: '#89e051'
-                - name: Batchfile
-                  value: 4214
-                  color: '#C1F12E'
-                - name: JavaScript
-                  value: 2758
-                  color: '#f1e05a'
-                - name: Dockerfile
-                  value: 745
-                  color: '#384d54'
-              contributions: 3;9;8;2;19;24;17;4;4;4;5;4;9;5;2;0;4;1;4;2;4;11;8;9;8;27;12;12;7;1;1;12;11;10;6;8;8;2;17;19;13;29;19;15;14;5;9;9;11;11;7;14
-              firstWeek: 2019-06-09Z
-              stars: 51
-              license: Apache License 2.0
-              description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2020-06-03T09:01:45Z'
-              latest_commit_link: /symphonyoss/SymphonyElectron/commit/8f7c3d2ab0adafc45daf0783da6f9528605bbff4
-              release_date: '2020-04-07T17:19:51Z'
-              release_link: 'https://github.com/symphonyoss/SymphonyElectron/releases'
-              contributors_count: 21
-              contributors_link: 'https://github.com/symphonyoss/SymphonyElectron/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /symphonyoss/SymphonyElectron/commit/aee8779c164222f4ba65c329b093859f38ffef10
-              start_date: '2016-09-27T02:33:09Z'
-            image_data:
-              fileName: symphony-electron.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Symphony Hubot Client
             homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
             repo_url: 'https://github.com/symphonyoss/hubot-symphony'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1294,33 +1384,36 @@ landscape:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 0;0;0;1;0;0;0;0;0;0;0;0;0;0;12;3;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;6;22
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;12;3;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;6;22;2;6;6;6
+              firstWeek: 2019-07-07Z
               stars: 9
               license: Apache License 2.0
               description: Hubot adapter for Symphony
-              latest_commit_date: '2020-06-03T12:18:09Z'
-              latest_commit_link: /symphonyoss/hubot-symphony/commit/9031ae15908eaef933a1faa903552c0d5ed4d50d
+              latest_commit_date: '2020-07-01T11:47:45Z'
+              latest_commit_link: /symphonyoss/hubot-symphony/commit/8d6f33e632222af0bb793d57e77411fdb5f76466
               release_date: '2019-09-18T18:46:34Z'
               release_link: 'https://github.com/symphonyoss/hubot-symphony/releases'
-              contributors_count: 8
+              contributors_count: 10
               contributors_link: 'https://github.com/symphonyoss/hubot-symphony/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/hubot-symphony'
+                stars: 9
             github_start_commit_data:
               start_commit_link: /symphonyoss/hubot-symphony/commit/6ca0b9af472621b6da559f3ce043f9557dd17150
               start_date: '2016-06-19T14:08:51Z'
             image_data:
               fileName: symphony-hubot-client.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Symphony Java Client
             homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
             repo_url: 'https://github.com/symphonyoss/symphony-java-client'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1333,7 +1426,7 @@ landscape:
                   value: 1987
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              firstWeek: 2019-07-07Z
               stars: 36
               license: Apache License 2.0
               description: Java client library for Symphony
@@ -1341,24 +1434,27 @@ landscape:
               latest_commit_link: /symphonyoss/symphony-java-client/commit/d091ebee847e18e323e4c73e37acd3e4aa134f23
               release_date: '2018-03-07T11:21:19Z'
               release_link: 'https://github.com/symphonyoss/symphony-java-client/releases'
-              contributors_count: 10
+              contributors_count: 13
               contributors_link: 'https://github.com/symphonyoss/symphony-java-client/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/symphony-java-client'
+                stars: 36
             github_start_commit_data:
               start_commit_link: /symphonyoss/symphony-java-client/commit/d389952931ad25bcbf6fc0d0179a40f33070dea2
               start_date: '2016-06-08T23:18:21Z'
             image_data:
               fileName: symphony-java-client.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Unfurl Bot
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
             repo_url: 'https://github.com/symphonyoss/bot-unfurl'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: symphony.svg
             crunchbase_data:
               name: FINOS
               parents: []
@@ -1373,21 +1469,24 @@ landscape:
                 - name: Dockerfile
                   value: 401
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 4
               license: Apache License 2.0
               description: A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.
               latest_commit_date: '2019-11-01T19:16:15Z'
               latest_commit_link: /symphonyoss/bot-unfurl/commit/7c3261518198ccae3c607a6cf9c421dca52b84d7
-              contributors_count: 5
+              contributors_count: 7
               contributors_link: 'https://github.com/symphonyoss/bot-unfurl/graphs/contributors'
+            repos:
+              - url: 'https://github.com/symphonyoss/bot-unfurl'
+                stars: 4
             github_start_commit_data:
               start_commit_link: /symphonyoss/bot-unfurl/commit/b90da036419a657f320c3b6e80bd825dc7871f55
               start_date: '2016-09-27T22:54:34Z'
             image_data:
               fileName: unfurl-bot.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
@@ -1395,138 +1494,112 @@ landscape:
         name: Voice Tech
         items:
           - item:
+            organization:
+              name: FINOS
             name: Greenkey Automatic Speech Recognition Toolkit
             homepage_url: 'https://github.com/finos/greenkey-asrtoolkit'
             repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: greenkey-asr-toolkit.svg
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: Python
-                  value: 124519
+                  value: 124589
                   color: '#3572A5'
-                - name: Dockerfile
-                  value: 766
-                  color: '#384d54'
                 - name: Shell
                   value: 740
                   color: '#89e051'
-              contributions: 7;0;2;6;3;0;0;13;3;0;0;0;0;0;7;3;0;0;0;0;0;0;1;0;0;2;0;0;0;0;5;2;10;0;0;5;0;0;8;6;1;2;0;0;0;0;0;0;0;0;1;0
-              firstWeek: 2019-06-09Z
-              stars: 14
+                - name: Dockerfile
+                  value: 704
+                  color: '#384d54'
+              contributions: 3;0;0;13;3;0;0;0;0;0;7;3;0;0;0;0;0;0;1;0;0;2;0;0;0;0;5;2;10;0;0;5;0;0;8;6;1;2;0;0;0;0;0;0;0;0;1;0;0;0;7;0
+              firstWeek: 2019-07-07Z
+              stars: 15
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
-              latest_commit_date: '2020-05-26T16:19:43Z'
-              latest_commit_link: /finos/greenkey-asrtoolkit/commit/e244f1f0280805a51014c8607f93765a79e818b0
+              latest_commit_date: '2020-06-23T21:07:17Z'
+              latest_commit_link: /finos/greenkey-asrtoolkit/commit/6548717a98274883c0c5647208d7876f33e54510
               release_date: '2019-09-16T20:46:07Z'
               release_link: 'https://github.com/finos/greenkey-asrtoolkit/releases'
-              contributors_count: 9
+              contributors_count: 11
               contributors_link: 'https://github.com/finos/greenkey-asrtoolkit/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/greenkey-asrtoolkit'
+                stars: 15
             github_start_commit_data:
               start_commit_link: /finos/greenkey-asrtoolkit/commit/bad2b8be1f023a1ebb864d55fb92cc1ed35b79eb
               start_date: '2018-10-01T18:55:21Z'
             image_data:
               fileName: greenkey-automatic-speech-recognition-toolkit.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: AqPBORl/cjHlNgAeeLPxaJRMyrqtN50hTUPMLQdG2MI=
             best_practice_data:
               badge: false
               percentage: null
           - item:
+            organization:
+              name: FINOS
             name: Greenkey Discovery SDK
             homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
             repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
-            logo: project-placeholder.svg
-            organization:
-              name: FINOS
+            logo: greenkey-discovery-sdk.svg
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: Python
-                  value: 64035
+                  value: 65692
                   color: '#3572A5'
                 - name: Shell
                   value: 893
                   color: '#89e051'
-              contributions: 0;0;13;3;3;5;6;0;20;13;2;0;5;2;0;2;2;1;7;0;3;0;24;38;11;1;3;0;0;0;5;11;0;0;7;1;2;0;0;0;0;1;0;0;1;0;0;0;0;0;0;3
-              firstWeek: 2019-06-09Z
-              stars: 6
+              contributions: 3;5;6;0;20;13;2;0;5;2;0;2;2;1;7;0;3;0;24;38;11;1;3;0;0;0;5;11;0;0;7;1;2;0;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;2;1;1
+              firstWeek: 2019-07-07Z
+              stars: 5
               license: Apache License 2.0
               description: Speed up business workflows through custom 'voice skills' and text (NLP) interpreters
-              latest_commit_date: '2020-05-28T21:26:55Z'
-              latest_commit_link: /finos/greenkey-discovery-sdk/commit/e269b707d7cd2fdfa1b5b39854fda473a04a8563
-              contributors_count: 8
+              latest_commit_date: '2020-06-30T19:01:03Z'
+              latest_commit_link: /finos/greenkey-discovery-sdk/commit/ed3d05b7fc7367f63b8eed71e457fcbb991ea38b
+              contributors_count: 12
               contributors_link: 'https://github.com/finos/greenkey-discovery-sdk/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/greenkey-discovery-sdk'
+                stars: 5
             github_start_commit_data:
               start_commit_link: /finos/greenkey-discovery-sdk/commit/4cba3d2b3cd70d3e9aab0c63cfaca3fcbb912226
               start_date: '2018-08-01T23:10:35Z'
             image_data:
               fileName: greenkey-discovery-sdk.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              hash: GRcXDY9nswNcIw5sSwoDevE26hUQeMnuPHgzUqfCGkY=
             best_practice_data:
               badge: false
               percentage: null
           - item:
-            name: Greenkey Voice SDK
-            homepage_url: 'https://github.com/finos/greenkey-intercom-sdk'
-            repo_url: 'https://github.com/finos/greenkey-intercom-sdk'
-            logo: project-placeholder.svg
             organization:
               name: FINOS
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 7833
-                  color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
-              stars: 2
-              license: Apache License 2.0
-              description: Voice-enable your front-end apps with instant intercoms
-              latest_commit_date: '2020-01-13T15:50:06Z'
-              latest_commit_link: /finos/greenkey-intercom-sdk/commit/12a54e7b16934607e4e3f3e984fe0d1c6726c41d
-              release_date: '2018-06-12T22:26:07Z'
-              release_link: 'https://github.com/finos/greenkey-intercom-sdk/releases'
-              contributors_count: 4
-              contributors_link: 'https://github.com/finos/greenkey-intercom-sdk/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /finos/greenkey-intercom-sdk/commit/693fb5d90a680cf36e28537e9498e015af2c3973
-              start_date: '2018-05-30T12:45:25Z'
-            image_data:
-              fileName: greenkey-voice-sdk.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Voice Metadata Standardization
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
             repo_url: 'https://github.com/finos/voice-metadata-standard'
             logo: voice-metadata-standard.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages: []
-              contributions: 0;2;0;0;1;3;1;2;2;3;0;3;0;1;6;6;1;0;0;3;4;2;0;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-09Z
+              contributions: 1;3;1;2;2;3;0;3;0;1;6;6;1;0;0;3;4;2;0;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-07Z
               stars: 21
               license: Apache License 2.0
               description: This is a project from FINOS Voice program to define a standard for call metadata.
               latest_commit_date: '2020-04-02T15:36:32Z'
               latest_commit_link: /finos/voice-metadata-standard/commit/b809469e274e1370a1dbc2112e10e84f8410ef0d
-              contributors_count: 8
+              contributors_count: 9
               contributors_link: 'https://github.com/finos/voice-metadata-standard/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/voice-metadata-standard'
+                stars: 21
             github_start_commit_data:
               start_commit_link: /finos/voice-metadata-standard/commit/beed905b0f232d95b21cad443c32f3a7b9796dcd
               start_date: '2018-06-11T12:46:20Z'
@@ -1540,56 +1613,59 @@ landscape:
         name: UI Frameworks
         items:
           - item:
+            organization:
+              name: FINOS
             name: Perspective
             homepage_url: 'https://github.com/finos/perspective'
             repo_url: 'https://github.com/finos/perspective'
             logo: perspective.svg
-            organization:
-              name: FINOS
             crunchbase_data:
               name: FINOS
               parents: []
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1712286
+                  value: 1759658
                   color: '#f1e05a'
                 - name: C++
-                  value: 1284821
+                  value: 1291433
                   color: '#f34b7d'
                 - name: Python
-                  value: 615768
+                  value: 665905
                   color: '#3572A5'
                 - name: CSS
-                  value: 106312
+                  value: 106711
                   color: '#563d7c'
                 - name: CMake
-                  value: 62437
+                  value: 63167
                 - name: HTML
-                  value: 48288
+                  value: 48191
                   color: '#e34c26'
                 - name: TypeScript
                   value: 36202
                   color: '#2b7489'
                 - name: Dockerfile
-                  value: 34007
+                  value: 33824
                   color: '#384d54'
                 - name: C
-                  value: 4588
+                  value: 5251
                   color: '#555555'
                 - name: Makefile
                   value: 1594
                   color: '#427819'
               contributions: >-
-                17;1;21;28;15;32;5;16;1;11;22;13;45;17;44;42;25;27;38;47;45;23;49;27;26;18;35;59;14;8;14;24;10;25;55;33;29;34;17;21;29;15;23;12;27;14;15;6;23;10;12;12
-              firstWeek: 2019-06-09Z
-              stars: 2539
+                15;32;5;16;1;11;22;13;45;17;44;42;25;27;38;47;45;23;49;27;26;18;35;59;14;8;14;24;10;25;55;33;29;34;17;21;29;15;23;12;27;14;15;6;23;15;20;38;31;16;23;13
+              firstWeek: 2019-07-07Z
+              stars: 2676
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
-              latest_commit_date: '2020-06-01T07:56:41Z'
-              latest_commit_link: /finos/perspective/commit/031c3906526c2d8362fadc56255cf49a3a5c8a6d
-              contributors_count: 41
+              latest_commit_date: '2020-06-25T04:10:05Z'
+              latest_commit_link: /finos/perspective/commit/7b319b7896e58d5860b72bd8756997976f9a7722
+              contributors_count: 52
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/perspective'
+                stars: 2676
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -1631,7 +1707,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T14:41:11.000Z
+              latest_tweet_date: 2020-07-01T15:45:01.000Z
   - category:
     name: FINOS Platinum Member
     subcategories:
@@ -1640,7 +1716,7 @@ landscape:
         items:
           - item:
             name: Citigroup
-            homepage_url: 'https://www.citi.com'
+            homepage_url: 'https://online.citi.com/US/login.do'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/citigroup'
             crunchbase_data:
@@ -1674,7 +1750,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 111668289536
+              market_cap: 105485312000
               effective_ticker: C
             image_data:
               fileName: citigroup.svg
@@ -1683,13 +1759,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-29T22:34:46.000Z
+              latest_tweet_date: 2020-07-01T16:00:03.000Z
           - item:
             name: Credit Suisse
-            homepage_url: 'https://www.credit-suisse.com'
+            homepage_url: 'https://www.credit-suisse.com/us/en.html'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/credit-suisse'
-            stock_ticker: null
             crunchbase_data:
               name: Credit Suisse
               description: 'Credit Suisse Group is a financial services company that advises clients in all aspects of finance, around the world, around the clock.'
@@ -1707,7 +1783,7 @@ landscape:
                 - date: '2020-02-21'
                   acquiree: NorthPoint Solutions
               parents: []
-              ticker: CSGN
+              ticker: CSGN.SW
               stockExchange: swx
             image_data:
               fileName: credit-suisse.svg
@@ -1716,10 +1792,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-29T12:37:29.000Z
+              latest_tweet_date: 2020-07-01T09:59:36.000Z
           - item:
             name: Deutsche Bank
-            homepage_url: 'https://www.db.com'
+            homepage_url: 'https://www.db.com/company/index.htm'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/deutsche-bank'
             crunchbase_data:
@@ -1750,7 +1826,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18857658368
+              market_cap: 19489163264
               effective_ticker: DB
             image_data:
               fileName: deutsche-bank.svg
@@ -1759,7 +1835,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T14:49:58.000Z
+              latest_tweet_date: 2020-07-01T08:57:51.000Z
           - item:
             name: GitHub
             homepage_url: 'https://www.github.com'
@@ -1777,26 +1853,28 @@ landscape:
               twitter: 'http://twitter.com/github'
               linkedin: 'https://www.linkedin.com/company/1418841'
               acquisitions:
-                - date: '2020-03-16'
-                  acquiree: npm
-                - date: '2019-09-18'
-                  acquiree: Semmle
-                - date: '2019-06-17'
-                  acquiree: Pull Panda
-                - date: '2019-05-23'
-                  acquiree: Dependabot
-                - date: '2018-11-30'
-                  acquiree: Spectrum
-                - date: '2014-01-09'
-                  acquiree: Easel
                 - date: '2011-12-05'
                   acquiree: Ordered List
+                - date: '2014-01-09'
+                  acquiree: Easel
+                - date: '2018-11-30'
+                  acquiree: Spectrum
+                - date: '2019-05-23'
+                  acquiree: Dependabot
+                - date: '2019-06-17'
+                  acquiree: Pull Panda
+                - date: '2019-09-18'
+                  acquiree: Semmle
+                - date: '2020-03-16'
+                  acquiree: npm
               parents:
                 - 'https://www.crunchbase.com/organization/microsoft'
               ticker: MSFT
+              funding: 350000000
+              stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1276447293440
+              market_cap: 1552860971008
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -1805,10 +1883,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-04-22T00:23:23.000Z
+              latest_tweet_date: 2020-06-29T17:00:18.000Z
           - item:
             name: Goldman Sachs
-            homepage_url: 'https://www.gs.com'
+            homepage_url: 'https://www.goldmansachs.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/goldman-sachs'
             crunchbase_data:
@@ -1845,7 +1923,7 @@ landscape:
                 - date: '2016-07-17'
                   acquiree: Carver Korea
                 - date: '2016-12-22'
-                  acquiree: MEILLEURTAUX.COM
+                  acquiree: Meilleurtaux.com
                 - date: '2017-09-14'
                   acquiree: Bond Street
                 - date: '2017-10-12'
@@ -1879,7 +1957,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 72212832256
+              market_cap: 67842027520
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs.svg
@@ -1888,7 +1966,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-31T18:00:01.000Z
+              latest_tweet_date: 2020-07-01T16:00:02.000Z
           - item:
             name: JP Morgan Chase
             homepage_url: 'https://www.jpmorganchase.com'
@@ -1935,7 +2013,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 318474518528
+              market_cap: 286496063488
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase.svg
@@ -1944,7 +2022,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-29T17:30:00.000Z
+              latest_tweet_date: 2020-06-30T18:01:20.000Z
           - item:
             name: Morgan Stanley
             homepage_url: 'https://www.morganstanley.com'
@@ -1986,7 +2064,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 74520838144
+              market_cap: 75017175040
               effective_ticker: MS
             image_data:
               fileName: morgan-stanley.svg
@@ -1995,7 +2073,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T13:59:59.000Z
+              latest_tweet_date: 2020-06-30T13:47:29.000Z
           - item:
             name: Nomura
             homepage_url: 'https://www.nomura.com'
@@ -2029,7 +2107,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13679640576
+              market_cap: 13516874752
               effective_ticker: NMR
             image_data:
               fileName: nomura.svg
@@ -2038,7 +2116,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T09:56:28.000Z
+              latest_tweet_date: 2020-06-26T12:16:57.000Z
           - item:
             name: Royal Bank of Canada
             homepage_url: 'https://www.rbcroyalbank.com'
@@ -2070,7 +2148,7 @@ landscape:
               stockExchange: tsx
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 98814459904
+              market_cap: 96116523008
               effective_ticker: RY
             image_data:
               fileName: royal-bank-of-canada.svg
@@ -2079,7 +2157,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T14:57:01.000Z
+              latest_tweet_date: 2020-07-01T16:00:01.000Z
           - item:
             name: Symphony LLC
             homepage_url: 'https://www.symphony.com'
@@ -2110,10 +2188,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-02T12:36:09.000Z
+              latest_tweet_date: 2020-07-01T16:17:58.000Z
           - item:
             name: UBS
-            homepage_url: 'https://www.ubs.com'
+            homepage_url: 'https://www.ubs.com/us/en.html'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/ubs'
             crunchbase_data:
@@ -2143,7 +2221,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 41114349568
+              market_cap: 40826634240
               effective_ticker: UBS
             image_data:
               fileName: ubs.svg
@@ -2152,7 +2230,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-02T04:30:00.000Z
+              latest_tweet_date: 2020-07-01T16:00:03.000Z
   - category:
     name: FINOS Gold Member
     subcategories:
@@ -2232,7 +2310,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33902383104
+              market_cap: 27933315072
               effective_ticker: COF
             image_data:
               fileName: capital-one.svg
@@ -2241,13 +2319,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-27T14:00:01.000Z
+              latest_tweet_date: 2020-06-30T14:00:01.000Z
           - item:
             name: HSBC
             homepage_url: 'https://www.hsbc.com'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/hsbc'
-            stock_ticker: null
             crunchbase_data:
               name: HSBC
               description: HSBC is a British banking and financial services organization that offers a comprehensive range of services.
@@ -2266,7 +2344,7 @@ landscape:
                   acquiree: PT Bank HSBC Indonesia
                   price: 607500000
               parents: []
-              ticker: HSB
+              ticker: HSB.PA
               stockExchange: epa
             image_data:
               fileName: hsbc.svg
@@ -2275,10 +2353,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T11:15:23.000Z
+              latest_tweet_date: 2020-07-01T12:17:00.000Z
           - item:
             name: IHS Markit
-            homepage_url: 'https://www.ihsmarkit.com'
+            homepage_url: 'https://ihsmarkit.com/index.html'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/ihs-markit'
             crunchbase_data:
@@ -2333,7 +2411,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28745885696
+              market_cap: 30048436224
               effective_ticker: INFO
             image_data:
               fileName: ihs-markit.svg
@@ -2342,7 +2420,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-01T19:03:51.000Z
+              latest_tweet_date: 2020-06-30T18:17:43.000Z
           - item:
             name: OpenFin
             homepage_url: 'https://www.openfin.co'
@@ -2371,13 +2449,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T12:52:04.000Z
+              latest_tweet_date: 2020-07-01T15:11:08.000Z
           - item:
             name: Red Hat
-            homepage_url: 'https://www.redhat.com'
+            homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
-            stock_ticker: null
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
@@ -2453,17 +2531,17 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T13:49:48.000Z
+              latest_tweet_date: 2020-07-01T15:37:49.000Z
           - item:
             name: Refinitiv
-            homepage_url: 'https://www.refinitiv.com'
+            homepage_url: 'https://www.refinitiv.com/en'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/refinitiv'
             crunchbase_data:
               name: Refinitiv
               description: Refinitiv is a provider of financial markets data and infrastructure.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: 'https://www.refinitiv.com'
               city: London
               region: England
@@ -2484,7 +2562,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T14:15:19.000Z
+              latest_tweet_date: 2020-07-01T16:10:29.000Z
           - item:
             name: Traderwave
             homepage_url: 'https://www.traderwave.com'
@@ -2511,7 +2589,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T10:40:02.000Z
+              latest_tweet_date: 2020-07-01T10:45:06.000Z
           - item:
             name: Wells Fargo
             homepage_url: 'https://www.wellsfargo.com'
@@ -2539,7 +2617,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119064002560
+              market_cap: 104488501248
               effective_ticker: WFC
             image_data:
               fileName: wells-fargo.svg
@@ -2548,13 +2626,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-02T19:04:00.000Z
+              latest_tweet_date: 2020-06-30T18:31:27.000Z
           - item:
             name: Wipro
             homepage_url: 'https://www.wipro.com'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/wipro'
-            stock_ticker: null
             crunchbase_data:
               name: Wipro Technologies
               description: 'Wipro Limited is a global information technology, consulting and business process services company.'
@@ -2631,7 +2709,7 @@ landscape:
                 - date: '2020-02-21'
                   acquiree: Rational Interaction
               parents: []
-              ticker: WIPRO
+              ticker: WIPRO.NS
               funding: 1104721460
               stockExchange: nse
               kind: funding
@@ -2642,38 +2720,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T04:34:40.000Z
+              latest_tweet_date: 2020-07-01T14:25:14.000Z
   - category:
     name: FINOS Silver Member
     subcategories:
       - subcategory:
         name: General
         items:
-          - item:
-            name: AQR
-            homepage_url: 'https://www.aqr.com'
-            logo: finos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/aqr'
-            crunchbase_data:
-              name: AQR
-              description: AQR develops inventive practical investment strategies and customized solutions.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'https://www.aqr.com/'
-              city: Greenwich
-              region: Connecticut
-              country: United States
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/aqr-capital-management'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: aqr.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Adaptive Financial Consulting
             homepage_url: 'https://www.weareadaptive.com'
@@ -2700,10 +2753,35 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-28T13:12:56.000Z
+              latest_tweet_date: 2020-07-01T09:59:12.000Z
+          - item:
+            name: AQR
+            homepage_url: 'https://www.aqr.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/aqr'
+            crunchbase_data:
+              name: AQR
+              description: AQR develops inventive practical investment strategies and customized solutions.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'https://www.aqr.com/'
+              city: Greenwich
+              region: Connecticut
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/aqr-capital-management'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: aqr.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: BNY Mellon
-            homepage_url: 'https://www.bnymellon.com'
+            homepage_url: 'https://www.bnymellon.com/apac/en/home.jsp'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/bnymellon'
             crunchbase_data:
@@ -2735,7 +2813,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 34926301184
+              market_cap: 33491881984
               effective_ticker: BK
             image_data:
               fileName: bny-mellon.svg
@@ -2744,7 +2822,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-30T23:45:06.000Z
+              latest_tweet_date: 2020-06-30T19:02:48.000Z
           - item:
             name: ChartIQ
             homepage_url: 'https://www.chartiq.com'
@@ -2773,7 +2851,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-02T18:28:38.000Z
+              latest_tweet_date: 2020-06-30T16:26:05.000Z
           - item:
             name: Cloud9 Technologies
             homepage_url: 'https://www.c9tec.com'
@@ -2792,7 +2870,7 @@ landscape:
               linkedin: 'https://www.linkedin.com/company/cloud9-technologies-llc'
               acquisitions: []
               parents: []
-              funding: 44000000
+              funding: 61500000
               stockExchange: null
               kind: funding
             image_data:
@@ -2802,7 +2880,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T13:27:01.000Z
+              latest_tweet_date: 2020-07-01T15:25:00.000Z
           - item:
             name: CloudBees
             homepage_url: 'https://www.cloudbees.com'
@@ -2843,7 +2921,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T01:46:01.000Z
+              latest_tweet_date: 2020-07-01T14:19:58.000Z
           - item:
             name: Epam
             homepage_url: 'https://www.epam.com'
@@ -2904,7 +2982,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12866332672
+              market_cap: 14015008768
               effective_ticker: EPAM
             image_data:
               fileName: epam.svg
@@ -2913,7 +2991,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T15:08:20.000Z
+              latest_tweet_date: 2020-07-01T16:04:22.000Z
           - item:
             name: Genesis
             homepage_url: 'https://www.genesis.global'
@@ -2942,10 +3020,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T11:34:04.000Z
+              latest_tweet_date: 2020-06-30T13:21:08.000Z
           - item:
             name: Gitlab
-            homepage_url: 'https://www.gitlab.com'
+            homepage_url: 'https://about.gitlab.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
             crunchbase_data:
@@ -2966,6 +3044,10 @@ landscape:
                   acquiree: Gitter
                 - date: '2018-01-30'
                   acquiree: Gemnasium (acquired by Gitlab)
+                - date: '2020-06-11'
+                  acquiree: Fuzzit
+                - date: '2020-06-11'
+                  acquiree: Peach Tech
               parents: []
               funding: 436200000
               stockExchange: null
@@ -2977,7 +3059,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T05:59:18.000Z
+              latest_tweet_date: 2020-07-01T14:56:57.000Z
           - item:
             name: Green Key Technologies
             homepage_url: 'https://www.greenkeytech.com'
@@ -3005,7 +3087,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-02T02:12:14.000Z
+              latest_tweet_date: 2020-06-22T20:23:43.000Z
           - item:
             name: Itau
             homepage_url: 'https://www.itau.com'
@@ -3032,7 +3114,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T15:14:10.000Z
+              latest_tweet_date: 2020-07-01T16:19:19.000Z
           - item:
             name: Nearform
             homepage_url: 'https://www.nearform.com'
@@ -3059,7 +3141,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T13:00:14.000Z
+              latest_tweet_date: 2020-07-01T12:59:59.000Z
           - item:
             name: Scott Logic
             homepage_url: 'https://www.scottlogic.com'
@@ -3086,7 +3168,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T12:56:45.000Z
+              latest_tweet_date: 2020-07-01T08:23:29.000Z
           - item:
             name: Tick42
             homepage_url: 'https://www.tick42.com'
@@ -3144,7 +3226,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-03T14:35:07.000Z
+              latest_tweet_date: 2020-07-01T11:25:04.000Z
 twitter_options:
   count: 17
   since_id: '1252834580526010368'
+updated_at: 2020-07-01T16:23:28.554Z
