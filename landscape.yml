@@ -6,60 +6,60 @@ landscape:
         name: Data Management
         items:
           - item:
-            organization:
-              name: FINOS
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
+            project: foundationproject
             repo_url: 'https://github.com/finos/alloy'
             logo: alloy.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Data Helix
             homepage_url: 'https://github.com/finos/datahelix'
+            project: foundationproject
             repo_url: 'https://github.com/finos/datahelix'
             logo: datahelix.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: DataHub
             homepage_url: 'https://github.com/finos/datahub'
+            project: foundationproject
             repo_url: 'https://github.com/finos/datahub'
             logo: datahub.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Exodus
             homepage_url: 'https://github.com/finos/exodus'
+            project: foundationproject
             repo_url: 'https://github.com/finos/exodus'
             logo: exodus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: Models
         items:
           - item:
-            organization:
-              name: FINOS
             name: Financial Objects
             homepage_url: 'https://github.com/finos/finos-fo'
+            project: foundationproject
             repo_url: 'https://github.com/finos/finos-fo'
             logo: financial-objects.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: Tick & Reference
         items:
           - item:
-            organization:
-              name: FINOS
             name: kdb+
             homepage_url: 'https://github.com/finos/kdb'
+            project: foundationproject
             repo_url: 'https://github.com/finos/kdb'
             logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Security Reference Data
             homepage_url: 'https://github.com/finos/secref-data'
+            project: foundationproject
             repo_url: 'https://github.com/finos/secref-data'
             logo: security-reference-data.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
   - category:
     name: Enablement
     subcategories:
@@ -67,43 +67,43 @@ landscape:
         name: ODP Toolchain
         items:
           - item:
-            organization:
-              name: FINOS
             name: CLA Bot
             homepage_url: 'https://github.com/finos/cla-bot'
+            project: foundationproject
             repo_url: 'https://github.com/finos/cla-bot'
             logo: cla-bot.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Open Developer Platform
             homepage_url: 'https://github.com/finos/open-developer-platform'
+            project: foundationproject
             repo_url: 'https://github.com/finos/open-developer-platform'
             logo: open-developer-platform.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: OSS Readiness
         items:
           - item:
-            organization:
-              name: FINOS
             name: Open source readiness
             homepage_url: 'https://github.com/finos/osr-checklists'
+            project: foundationproject
             repo_url: 'https://github.com/finos/osr-checklists'
             logo: open-source-readiness.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: OSLC Handbook
             homepage_url: 'https://github.com/finos/OSLC-handbook'
+            project: foundationproject
             repo_url: 'https://github.com/finos/OSLC-handbook'
             logo: oslc-handbook.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Reference FOSS Policy
             homepage_url: 'https://github.com/finos/reference-foss-policy'
+            project: foundationproject
             repo_url: 'https://github.com/finos/reference-foss-policy'
             logo: reference-foss-policy.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
   - category:
     name: Infrastructure
     subcategories:
@@ -111,19 +111,19 @@ landscape:
         name: Compliance & Management
         items:
           - item:
-            organization:
-              name: FINOS
             name: Cloud Service Certification
             homepage_url: 'https://github.com/finos/cloud-service-certification'
+            project: foundationproject
             repo_url: 'https://github.com/finos/cloud-service-certification'
             logo: cloud-service-certification.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Waltz
             homepage_url: 'https://github.com/finos/waltz'
+            project: foundationproject
             repo_url: 'https://github.com/finos/waltz'
             logo: waltz.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -131,60 +131,60 @@ landscape:
         name: Interop
         items:
           - item:
-            organization:
-              name: FINOS
             name: FDC3
             homepage_url: 'https://github.com/finos/fdc3'
+            project: foundationproject
             repo_url: 'https://github.com/finos/fdc3'
             logo: fdc3.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: FDC3 Desktop Agent
             homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
+            project: foundationproject
             repo_url: 'https://github.com/finos/fdc3-desktop-agent'
             logo: fdc3-desktop-agent.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Plexus Interop
             homepage_url: 'https://github.com/finos/plexus-interop'
+            project: foundationproject
             repo_url: 'https://github.com/finos/plexus-interop'
             logo: plexus-interop.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: Openfin Ecosystem
         items:
           - item:
-            organization:
-              name: FINOS
             name: OpenFin Python Adapter
             homepage_url: 'https://github.com/finos/openfin-python-adapter'
+            project: foundationproject
             repo_url: 'https://github.com/finos/openfin-python-adapter'
             logo: openfin-python-adapter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
+            project: foundationproject
             repo_url: 'https://github.com/finos/openfin-react-hooks'
             logo: openfin-react-hooks.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: Containers
         items:
           - item:
-            organization:
-              name: FINOS
             name: Secure Electron Adapter
             homepage_url: 'https://github.com/finos/secure-electron-adapter'
+            project: foundationproject
             repo_url: 'https://github.com/finos/secure-electron-adapter'
             logo: secure-electron-adapter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Symphony Electron
             homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
             logo: symphony-electron.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
   - category:
     name: Applications
     subcategories:
@@ -192,130 +192,130 @@ landscape:
         name: Symphony Ecosystem
         items:
           - item:
-            organization:
-              name: FINOS
             name: Fugue
             homepage_url: 'https://github.com/symphonyoss/fugue'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/fugue'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Integration Bridge
             homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: JCurl
             homepage_url: 'https://github.com/symphonyoss/JCurl'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/JCurl'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: MessageML Utilities
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/messageml-utils'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: REST API Specification
             homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: REST API Tools
             homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: S2 Common Components
             homepage_url: 'https://github.com/symphonyoss/S2-common'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/S2-common'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Symfuny Chat Bot
             homepage_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Symphony .NET Client
             homepage_url: 'https://github.com/symphonyoss/RestApiClient'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/RestApiClient'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Symphony Clojure Client
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/clj-symphony'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Symphony Hubot Client
             homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/hubot-symphony'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Symphony Java Client
             homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symphony-java-client'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Unfurl Bot
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
+            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/bot-unfurl'
             logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: Voice Tech
         items:
           - item:
-            organization:
-              name: FINOS
             name: Greenkey Automatic Speech Recognition Toolkit
             homepage_url: 'https://github.com/finos/greenkey-asrtoolkit'
+            project: foundationproject
             repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
             logo: greenkey-asr-toolkit.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Greenkey Discovery SDK
             homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
+            project: foundationproject
             repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
             logo: greenkey-discovery-sdk.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
           - item:
-            organization:
-              name: FINOS
             name: Voice Metadata Standardization
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
+            project: foundationproject
             repo_url: 'https://github.com/finos/voice-metadata-standard'
             logo: voice-metadata-standard.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
       - subcategory:
         name: UI Frameworks
         items:
           - item:
-            organization:
-              name: FINOS
             name: Perspective
             homepage_url: 'https://github.com/finos/perspective'
+            project: foundationproject
             repo_url: 'https://github.com/finos/perspective'
             logo: perspective.svg
+            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
   - category:
     name: FINOS
     subcategories:
@@ -328,10 +328,10 @@ landscape:
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
   - category:
-    name: FINOS Platinum Member
+    name: FINOS Members
     subcategories:
       - subcategory:
-        name: General
+        name: Platinum
         items:
           - item:
             name: Citigroup
@@ -388,11 +388,8 @@ landscape:
             homepage_url: 'https://www.ubs.com/us/en.html'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/ubs'
-  - category:
-    name: FINOS Gold Member
-    subcategories:
       - subcategory:
-        name: General
+        name: Gold
         items:
           - item:
             name: Capital One
@@ -440,11 +437,8 @@ landscape:
             homepage_url: 'https://www.wipro.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/wipro'
-  - category:
-    name: FINOS Silver Member
-    subcategories:
       - subcategory:
-        name: General
+        name: Silver
         items:
           - item:
             name: Adaptive Financial Consulting
