@@ -45,17 +45,17 @@ relation:
       url: 'no'
 membership:
   Platinum:
-    name: CNCF
+    name: FINOS
     label: Platinum Member
     funding: Platinum
     is_large: true
   Gold:
-    name: CNCF
+    name: FINOS
     label: Gold Member
     funding: Gold
     is_large: true
   Silver:
-    name: CNCF
+    name: FINOS
     label: Silver Member
     funding: Silver
   linux_foundation:
