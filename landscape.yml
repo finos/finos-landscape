@@ -77,7 +77,7 @@ landscape:
             name: Open Developer Platform
             item:
             additional_repos:
-              - https://github.com/finos/community
+              - repo_url: https://github.com/finos/community
             organization:
               name: FINOS
             homepage_url: https://github.com/finos/open-developer-platform
@@ -150,8 +150,8 @@ landscape:
             name: Plexus Interop
             item:
             additional_repos:
-              - https://github.com/finos/plexus-interop-desktop-api
-              - https://github.com/finos/finos-plexus.github.io
+              - repo_url: https://github.com/finos/plexus-interop-desktop-api
+              - repo_url: https://github.com/finos/finos-plexus.github.io
             organization:
               name: FINOS
             homepage_url: https://github.com/finos/plexus-interop
@@ -180,7 +180,7 @@ landscape:
             name: Secure Electron Adapter
             item:
             additional_repos:
-              - https://github.com/finos/sea-quick-start
+              - repo_url: https://github.com/finos/sea-quick-start
             organization:
               name: FINOS
             homepage_url: https://github.com/finos/secure-electron-adapter
@@ -189,11 +189,11 @@ landscape:
             name: Symphony Electron
             item:
             additional_repos:
-              - https://github.com/symphonyoss/electron-utils
-              - https://github.com/symphonyoss/ScreenSnippet
-              - https://github.com/symphonyoss/ScreenSnippet2
-              - https://github.com/symphonyoss/SwiftSearch
-              - https://github.com/symphonyoss/ScreenShareIndicatorFrame
+              - repo_url: https://github.com/symphonyoss/electron-utils
+              - repo_url: https://github.com/symphonyoss/ScreenSnippet
+              - repo_url: https://github.com/symphonyoss/ScreenSnippet2
+              - repo_url: https://github.com/symphonyoss/SwiftSearch
+              - repo_url: https://github.com/symphonyoss/ScreenShareIndicatorFrame
             organization:
               name: FINOS
             homepage_url: https://github.com/symphonyoss/SymphonyElectron
@@ -208,8 +208,8 @@ landscape:
             name: Fugue
             item:
             additional_repos:
-              - https://github.com/symphonyoss/fugue-example
-              - https://github.com/symphonyoss/fugue-cicd
+              - repo_url: https://github.com/symphonyoss/fugue-example
+              - repo_url: https://github.com/symphonyoss/fugue-cicd
             organization:
               name: FINOS
             homepage_url: https://github.com/symphonyoss/fugue
@@ -218,9 +218,9 @@ landscape:
             name: Integration Bridge
             item:
             additional_repos:
-              - https://github.com/symphonyoss/App-Integrations-Core
-              - https://github.com/symphonyoss/App-Integrations-FE-Commons
-              - https://github.com/symphonyoss/Integrations-Docs
+              - repo_url: https://github.com/symphonyoss/App-Integrations-Core
+              - repo_url: https://github.com/symphonyoss/App-Integrations-FE-Commons
+              - repo_url: https://github.com/symphonyoss/Integrations-Docs
             organization:
               name: FINOS
             homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
@@ -250,8 +250,8 @@ landscape:
             name: REST API Tools
             item:
             additional_repos:
-              - https://github.com/symphonyoss/symphony-rest-tools-ui
-              - https://github.com/symphonyoss/symphony-rest-tools-examples
+              - repo_url: https://github.com/symphonyoss/symphony-rest-tools-ui
+              - repo_url: https://github.com/symphonyoss/symphony-rest-tools-examples
             organization:
               name: FINOS
             homepage_url: https://github.com/symphonyoss/symphony-rest-tools
@@ -260,7 +260,7 @@ landscape:
             name: S2 Common Components
             item:
             additional_repos:
-              - https://github.com/symphonyoss/S2-super-pom
+              - repo_url: https://github.com/symphonyoss/S2-super-pom
             organization:
               name: FINOS
             homepage_url: https://github.com/symphonyoss/S2-common
@@ -297,7 +297,7 @@ landscape:
             name: Symphony Java Client
             item:
             additional_repos:
-              - https://github.com/symphonyoss/symphony-java-api
+              - repo_url: https://github.com/symphonyoss/symphony-java-api
             organization:
               name: FINOS
             homepage_url: https://github.com/symphonyoss/symphony-java-client
