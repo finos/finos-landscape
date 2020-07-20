@@ -355,10 +355,10 @@ landscape:
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/symphony-software-foundation
   - category:
-    name: FINOS Platinum Member
+    name: FINOS Members
     subcategories:
       - subcategory:
-        name: General
+        name: FINOS Platinum Members
         items:
           - item:
             name: Citigroup
@@ -416,11 +416,8 @@ landscape:
             homepage_url: https://www.ubs.com
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/ubs
-  - category:
-    name: FINOS Gold Member
-    subcategories:
       - subcategory:
-        name: General
+        name: FINOS Gold Members
         items:
           - item:
             name: Capital One
@@ -445,7 +442,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/openfin
           - item:
             name: Red Hat
-            homepage_url: 'https://www.redhat.com/en'
+            homepage_url: https://www.redhat.com
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/red-hat
             stock_ticker: null
@@ -470,11 +467,8 @@ landscape:
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
             stock_ticker: null
-  - category:
-    name: FINOS Silver Member
-    subcategories:
       - subcategory:
-        name: General
+        name: FINOS Silver Members
         items:
           - item:
             name: AQR
