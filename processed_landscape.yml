@@ -7,27 +7,15 @@ landscape:
         name: Data Management
         items:
           - item:
+            organization:
+              name: Finos
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
-            project: foundationproject
             repo_url: 'https://github.com/finos/alloy'
             logo: alloy.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: CSS
@@ -42,9 +30,9 @@ landscape:
                 - name: Shell
                   value: 2825
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0;0;4;0;1;11;60;12;8;17;1;8;7;10;16;42;26;83;23;37;54;47;21;27;35;26;5;2;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;2;0;0;4;0;1;18;53;13;18;6;3;6;7;10;33;28;69;45;26;47;46;44;19;33;30;20;4;0;0;0
               firstWeek: 2019-07-28Z
-              stars: 33
+              stars: 34
               license: Apache License 2.0
               description: The PURE/Alloy project
               latest_commit_date: '2020-06-30T13:29:41Z'
@@ -53,7 +41,7 @@ landscape:
               contributors_link: 'https://github.com/finos/alloy/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/alloy'
-                stars: 33
+                stars: 34
             github_start_commit_data:
               start_commit_link: /finos/alloy/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
               start_date: '2019-12-12T10:13:48Z'
@@ -63,30 +51,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Data Helix
             homepage_url: 'https://github.com/finos/datahelix'
-            project: foundationproject
             repo_url: 'https://github.com/finos/datahelix'
             logo: datahelix.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
@@ -107,7 +81,7 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 95;68;78;79;76;83;76;118;93;105;143;88;77;57;63;84;54;39;30;19;21;0;0;0;50;48;43;14;4;3;1;1;5;0;0;0;4;0;0;0;0;0;12;0;3;1;1;0;0;0;4;13
+              contributions: 90;61;95;72;60;89;102;100;108;93;139;85;75;50;65;87;59;33;27;14;21;0;0;0;63;44;34;14;4;3;1;1;5;0;0;0;4;0;0;0;0;0;12;0;3;1;1;0;0;0;10;7
               firstWeek: 2019-07-28Z
               stars: 55
               license: Other
@@ -132,30 +106,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: DataHub
             homepage_url: 'https://github.com/finos/datahub'
-            project: foundationproject
             repo_url: 'https://github.com/finos/datahub'
             logo: datahub.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Python
@@ -167,7 +127,7 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;29;43;5;0;0;0;0;0;6;1;2
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;28;35;5;0;0;0;0;0;7;1;1
               firstWeek: 2019-07-28Z
               stars: 18
               license: Apache License 2.0
@@ -188,30 +148,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Exodus
             homepage_url: 'https://github.com/finos/exodus'
-            project: foundationproject
             repo_url: 'https://github.com/finos/exodus'
             logo: exodus.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Scheme
@@ -232,7 +178,7 @@ landscape:
                   value: 5040
                 - name: PLpgSQL
                   value: 544
-              contributions: 3;0;2;1;0;0;0;4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;0;3;0;0;0
+              contributions: 3;2;0;1;0;0;0;4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 6
               license: Apache License 2.0
@@ -253,33 +199,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: Models
         items:
           - item:
+            organization:
+              name: Finos
             name: Financial Objects
             homepage_url: 'https://github.com/finos/finos-fo'
-            project: foundationproject
             repo_url: 'https://github.com/finos/finos-fo'
             logo: financial-objects.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
@@ -294,7 +226,7 @@ landscape:
                 - name: Shell
                   value: 2410
                   color: '#89e051'
-              contributions: 0;0;2;13;2;0;0;0;1;0;0;0;0;0;0;3;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;2;0;13;2;0;0;0;1;0;0;0;0;0;0;3;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 12
               license: Apache License 2.0
@@ -315,33 +247,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: Tick & Reference
         items:
           - item:
+            organization:
+              name: Finos
             name: kdb+
-            homepage_url: 'https://github.com/finos/kdb'
-            project: foundationproject
+            homepage_url: 'https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project'
             repo_url: 'https://github.com/finos/kdb'
             logo: finos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: q
@@ -359,7 +277,7 @@ landscape:
                 - name: HiveQL
                   value: 104
                   color: '#dce200'
-              contributions: 0;3;0;0;1;1;9;3;0;0;0;0;8;0;3;1;3;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;1;4;2;0;0;0;1;0;0;0;0;0;1;0
+              contributions: 0;3;0;0;1;1;12;0;0;0;0;5;3;0;3;1;3;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;3;2;2;0;0;0;1;0;0;0;0;0;1;0
               firstWeek: 2019-07-28Z
               stars: 19
               license: Apache License 2.0
@@ -380,30 +298,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Security Reference Data
             homepage_url: 'https://github.com/finos/secref-data'
-            project: foundationproject
             repo_url: 'https://github.com/finos/secref-data'
             logo: security-reference-data.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
@@ -433,8 +337,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
   - category:
     name: Enablement
     subcategories:
@@ -442,27 +344,15 @@ landscape:
         name: ODP Toolchain
         items:
           - item:
+            organization:
+              name: Finos
             name: CLA Bot
             homepage_url: 'https://github.com/finos/cla-bot'
-            project: foundationproject
             repo_url: 'https://github.com/finos/cla-bot'
             logo: cla-bot.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
@@ -471,7 +361,7 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 0;0;2;3;0;1;2;1;1;0;3;0;0;3;1;8;0;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;1;1;3;0;1;2;2;0;0;3;0;0;4;2;6;0;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 34
               license: Apache License 2.0
@@ -494,53 +384,41 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Open Developer Platform
             homepage_url: 'https://github.com/finos/open-developer-platform'
-            project: foundationproject
             repo_url: 'https://github.com/finos/open-developer-platform'
             logo: open-developer-platform.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
-                  value: 10771
+                  value: 21407
                   color: '#f1e05a'
                 - name: Shell
                   value: 7145
                   color: '#89e051'
                 - name: CSS
-                  value: 6533
+                  value: 6947
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;3;34;0;0;0;0;0;9;47;39;8;4;8;3;22;3;0;1;0;0;3;0;4;2;0
+              contributions: 0;0;0;0;0;3;0;0;0;0;0;17;0;3;0;8;18;0;0;0;0;2;0;10;4;0;4;15;19;13;0;0;0;0;13;57;34;8;4;8;5;20;3;0;1;1;1;3;0;4;2;1
               firstWeek: 2019-07-28Z
-              stars: 22
+              stars: 28
               license: Apache License 2.0
               description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
               latest_commit_date: '2020-07-13T16:41:09Z'
               latest_commit_link: /finos/open-developer-platform/commit/fd01c369ddb614895779191abc456fddfac6fe24
-              contributors_count: 6
+              contributors_count: 9
               contributors_link: 'https://github.com/finos/open-developer-platform/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/open-developer-platform'
                 stars: 22
+              - url: 'https://github.com/finos/community'
+                stars: 6
             github_start_commit_data:
               start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
               start_date: '2018-08-20T12:51:46Z'
@@ -550,36 +428,22 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: OSS Readiness
         items:
           - item:
+            organization:
+              name: Finos
             name: Open source readiness
             homepage_url: 'https://github.com/finos/osr-checklists'
-            project: foundationproject
             repo_url: 'https://github.com/finos/osr-checklists'
             logo: open-source-readiness.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;7;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 1
               license: Creative Commons Attribution Share Alike 4.0 International
@@ -600,30 +464,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: OSLC Handbook
             homepage_url: 'https://github.com/finos/OSLC-handbook'
-            project: foundationproject
             repo_url: 'https://github.com/finos/OSLC-handbook'
             logo: oslc-handbook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: HTML
@@ -658,30 +508,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Reference FOSS Policy
             homepage_url: 'https://github.com/finos/reference-foss-policy'
-            project: foundationproject
             repo_url: 'https://github.com/finos/reference-foss-policy'
             logo: reference-foss-policy.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -705,8 +541,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -714,30 +548,18 @@ landscape:
         name: Compliance & Management
         items:
           - item:
+            organization:
+              name: Finos
             name: Cloud Service Certification
             homepage_url: 'https://github.com/finos/cloud-service-certification'
-            project: foundationproject
             repo_url: 'https://github.com/finos/cloud-service-certification'
             logo: cloud-service-certification.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages: []
-              contributions: 0;2;0;0;0;0;1;0;0;0;0;18;3;1;1;0;7;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;2;1;3;0;3;5;0
+              contributions: 0;2;0;0;0;0;1;0;0;0;15;4;2;1;1;1;6;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;3;0;3;1;7;0;0
               firstWeek: 2019-07-28Z
               stars: 19
               license: Apache License 2.0
@@ -758,40 +580,26 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Waltz
             homepage_url: 'https://github.com/finos/waltz'
-            project: foundationproject
             repo_url: 'https://github.com/finos/waltz'
             logo: waltz.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
-                  value: 3582615
+                  value: 3584883
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2305158
+                  value: 2307948
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1441870
+                  value: 1443498
                   color: '#e34c26'
                 - name: CSS
                   value: 154981
@@ -800,14 +608,14 @@ landscape:
                   value: 305
                   color: '#89e051'
               contributions: >-
-                26;27;19;39;1;3;37;38;37;26;36;27;62;21;17;35;34;47;59;51;33;36;5;27;32;47;22;42;33;52;22;20;57;45;15;11;30;34;25;29;20;19;21;30;51;49;21;39;20;31;29;23
+                42;10;31;27;1;3;40;46;31;30;34;41;43;22;18;36;32;64;57;37;49;17;4;34;40;36;37;37;31;49;18;19;61;40;12;16;56;9;28;24;17;19;28;34;56;39;19;41;23;24;36;19
               firstWeek: 2019-07-28Z
               stars: 74
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2020-07-15T16:45:38Z'
-              latest_commit_link: /finos/waltz/commit/0dc3c641dd66669070042026f1f5a1d7aef844dd
-              release_date: '2020-06-18T10:34:23Z'
+              latest_commit_date: '2020-07-21T12:43:58Z'
+              latest_commit_link: /finos/waltz/commit/11a6ada6fd9fb95f6fce714f66193f2f9975b760
+              release_date: '2020-07-21T14:45:10Z'
               release_link: 'https://github.com/finos/waltz/releases'
               contributors_count: 24
               contributors_link: 'https://github.com/finos/waltz/graphs/contributors'
@@ -823,8 +631,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -832,34 +638,22 @@ landscape:
         name: Interop
         items:
           - item:
+            organization:
+              name: Finos
             name: FDC3
             homepage_url: 'https://github.com/finos/fdc3'
-            project: foundationproject
             repo_url: 'https://github.com/finos/fdc3'
             logo: fdc3.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: HTML
                   value: 893681
                   color: '#e34c26'
                 - name: JavaScript
-                  value: 24130
+                  value: 23896
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 12499
@@ -867,13 +661,13 @@ landscape:
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 0;2;5;2;1;0;0;1;1;0;0;1;2;0;0;0;0;0;0;9;4;2;2;0;7;11;14;3;10;14;7;16;4;6;6;2;7;9;0;0;0;0;10;0;3;2;2;2;0;0;2;7
+              contributions: 1;1;5;2;1;0;0;1;1;0;0;1;2;0;0;0;0;0;4;5;4;3;1;0;7;12;14;2;10;14;7;18;4;4;8;4;3;9;0;0;0;0;10;0;3;2;2;2;0;0;3;8
               firstWeek: 2019-07-28Z
               stars: 49
               license: Apache License 2.0
               description: Open standards for the financial desktop.
-              latest_commit_date: '2020-07-17T09:21:11Z'
-              latest_commit_link: /finos/FDC3/commit/8d690bc242baba224fde5e566c74e22be3c7e306
+              latest_commit_date: '2020-07-21T12:53:06Z'
+              latest_commit_link: /finos/FDC3/commit/b9f3633ac80ea1afb3efcb73160214169aa66e98
               release_date: '2020-04-09T13:08:27Z'
               release_link: 'https://github.com/finos/fdc3/releases'
               contributors_count: 30
@@ -890,30 +684,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: FDC3 Desktop Agent
             homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
-            project: foundationproject
             repo_url: 'https://github.com/finos/fdc3-desktop-agent'
             logo: fdc3-desktop-agent.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: TypeScript
@@ -928,7 +708,7 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;6;5;0;1;7;2;6;10;14;27;3;5;7;4;1;0;11;7;0;6;1;4;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;4;5;0;1;9;4;2;19;13;19;3;8;4;4;1;1;16;1;0;6;1;4;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 8
               license: Apache License 2.0
@@ -949,40 +729,26 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Plexus Interop
             homepage_url: 'https://github.com/finos/plexus-interop'
-            project: foundationproject
             repo_url: 'https://github.com/finos/plexus-interop'
             logo: plexus-interop.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: C#
                   value: 2211751
                   color: '#178600'
                 - name: TypeScript
-                  value: 1185398
+                  value: 1206996
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 1032988
+                  value: 1041244
                   color: '#f1e05a'
                 - name: Xtend
                   value: 221711
@@ -996,12 +762,12 @@ landscape:
                   value: 10853
                   color: '#C1F12E'
                 - name: CSS
-                  value: 555
+                  value: 3543
                   color: '#563d7c'
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 1;9;9;20;0;1;3;0;8;5;0;0;0;3;1;0;5;0;0;0;0;5;1;0;22;58;11;5;3;0;0;0;0;0;0;3;2;0;3;0;0;0;4;1;0;1;2;0;2;0;0;0
+              contributions: 1;12;18;8;0;1;3;3;6;4;0;0;0;4;0;0;5;0;0;0;0;5;1;0;42;40;10;6;1;0;0;0;0;0;0;3;2;0;3;0;0;2;4;1;0;1;2;2;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 242
               license: Apache License 2.0
@@ -1010,11 +776,13 @@ landscape:
               latest_commit_link: /finos/plexus-interop/commit/629938bfa5641f9da750677259978c12470e63b6
               release_date: '2020-06-23T16:07:12Z'
               release_link: 'https://github.com/finos/plexus-interop/releases'
-              contributors_count: 17
+              contributors_count: 15
               contributors_link: 'https://github.com/finos/plexus-interop/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/plexus-interop'
                 stars: 242
+              - url: 'https://github.com/finos/plexus-interop-desktop-api'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /finos/plexus-interop/commit/378aefc7965a6c0ecd4f9e99c73adb52e66f71b0
               start_date: '2017-09-27T14:07:48Z'
@@ -1024,33 +792,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
           - item:
+            organization:
+              name: Finos
             name: OpenFin Python Adapter
             homepage_url: 'https://github.com/finos/openfin-python-adapter'
-            project: foundationproject
             repo_url: 'https://github.com/finos/openfin-python-adapter'
             logo: openfin-python-adapter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Python
@@ -1080,36 +834,22 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
-            project: foundationproject
             repo_url: 'https://github.com/finos/openfin-react-hooks'
             logo: openfin-react-hooks.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 0;0;0;0;0;0;0;7;0;0;5;20;5;9;1;0;0;3;0;2;0;1;0;0;1;3;3;3;8;4;5;1;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;7;0;1;8;20;4;7;0;0;0;3;0;2;0;1;0;0;2;3;4;3;7;3;6;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 25
               license: Apache License 2.0
@@ -1132,56 +872,47 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: Containers
         items:
           - item:
+            organization:
+              name: Finos
             name: Secure Electron Adapter
             homepage_url: 'https://github.com/finos/secure-electron-adapter'
-            project: foundationproject
             repo_url: 'https://github.com/finos/secure-electron-adapter'
             logo: secure-electron-adapter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
-                  value: 290930
+                  value: 294936
                   color: '#f1e05a'
                 - name: CSS
-                  value: 3694
+                  value: 3751
                   color: '#563d7c'
+                - name: HTML
+                  value: 1245
+                  color: '#e34c26'
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;8;19;4;0;0;0;0;2;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;2;1;8;11;18;5;0;0;0;0;3;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
-              stars: 4
+              stars: 6
               license: Apache License 2.0
               description: null
               latest_commit_date: '2020-06-08T20:06:38Z'
               latest_commit_link: /finos/secure-electron-adapter/commit/ccad879c1f2eb32261e6cd1d843758f8c0c94e1c
-              contributors_count: 5
+              contributors_count: 4
               contributors_link: 'https://github.com/finos/secure-electron-adapter/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/secure-electron-adapter'
                 stars: 4
+              - url: 'https://github.com/finos/sea-quick-start'
+                stars: 2
             github_start_commit_data:
               start_commit_link: /finos/secure-electron-adapter/commit/113f09032ed054ab68e053ff4fc0b07270e474f4
               start_date: '2019-10-22T15:46:13Z'
@@ -1191,67 +922,75 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Symphony Electron
             homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
             logo: symphony-electron.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: TypeScript
-                  value: 563506
+                  value: 694887
                   color: '#2b7489'
+                - name: C
+                  value: 59108
+                  color: '#555555'
                 - name: HTML
                   value: 40323
                   color: '#e34c26'
                 - name: CSS
                   value: 31552
                   color: '#563d7c'
+                - name: C#
+                  value: 25902
+                  color: '#178600'
                 - name: Shell
                   value: 13321
                   color: '#89e051'
+                - name: C++
+                  value: 8084
+                  color: '#f34b7d'
+                - name: Objective-C
+                  value: 6496
+                  color: '#438eff'
                 - name: Batchfile
                   value: 4214
                   color: '#C1F12E'
                 - name: JavaScript
-                  value: 2811
+                  value: 3196
                   color: '#f1e05a'
                 - name: Dockerfile
                   value: 745
                   color: '#384d54'
-              contributions: 7;4;4;3;5;10;5;1;1;4;0;3;4;4;9;8;11;3;21;21;10;11;1;1;9;12;12;4;3;14;1;13;17;20;29;12;22;5;13;10;7;9;15;6;13;18;10;4;7;9;1;0
+              contributions: 6;5;13;11;4;9;5;2;5;9;1;4;4;4;11;8;9;10;42;16;20;9;1;1;21;11;10;6;14;8;5;22;27;13;31;19;15;20;5;11;9;14;13;7;17;18;10;6;8;8;0;1
               firstWeek: 2019-07-28Z
-              stars: 51
+              stars: 59
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2020-07-07T14:58:49Z'
-              latest_commit_link: /symphonyoss/SymphonyElectron/commit/2c0d64c1bb5c2164c5910a4523be184aea3b2e80
+              latest_commit_date: '2020-07-21T23:56:44Z'
+              latest_commit_link: /symphonyoss/SymphonyElectron/commit/589bc1f8e54cdc6663f0ea9e660bd4971253757f
               release_date: '2020-06-29T12:07:45Z'
               release_link: 'https://github.com/symphonyoss/SymphonyElectron/releases'
-              contributors_count: 31
+              contributors_count: 24
               contributors_link: 'https://github.com/symphonyoss/SymphonyElectron/graphs/contributors'
             repos:
               - url: 'https://github.com/symphonyoss/SymphonyElectron'
                 stars: 51
+              - url: 'https://github.com/symphonyoss/ScreenSnippet'
+                stars: 3
+              - url: 'https://github.com/symphonyoss/SwiftSearch'
+                stars: 3
+              - url: 'https://github.com/symphonyoss/electron-utils'
+                stars: 2
+              - url: 'https://github.com/symphonyoss/ScreenSnippet2'
+                stars: 0
+              - url: 'https://github.com/symphonyoss/ScreenShareIndicatorFrame'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /symphonyoss/SymphonyElectron/commit/aee8779c164222f4ba65c329b093859f38ffef10
               start_date: '2016-09-27T02:33:09Z'
@@ -1261,8 +1000,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
   - category:
     name: Applications
     subcategories:
@@ -1270,32 +1007,23 @@ landscape:
         name: Symphony Ecosystem
         items:
           - item:
+            organization:
+              name: Finos
             name: Fugue
             homepage_url: 'https://github.com/symphonyoss/fugue'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/fugue'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
-                  value: 1210197
+                  value: 1233435
                   color: '#b07219'
+                - name: Groovy
+                  value: 302404
+                  color: '#e69f56'
                 - name: CSS
                   value: 29377
                   color: '#563d7c'
@@ -1305,7 +1033,7 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 16;11;4;0;4;2;1;6;6;0;0;5;0;10;10;1;6;3;5;10;4;4;0;0;2;0;2;3;0;0;0;6;0;4;1;3;5;12;4;11;3;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 13;8;4;0;7;3;3;3;6;1;0;5;6;4;10;2;7;5;3;12;5;1;0;0;2;0;5;2;0;0;0;6;0;4;2;3;13;4;6;11;3;0;0;0;0;0;0;0;0;0;1;0
               firstWeek: 2019-07-28Z
               stars: 2
               license: Apache License 2.0
@@ -1314,11 +1042,15 @@ landscape:
               latest_commit_link: /symphonyoss/fugue/commit/be3342bb75409a56aa753c9b748eada69b9df74e
               release_date: '2018-02-16T20:42:48Z'
               release_link: 'https://github.com/symphonyoss/fugue/releases'
-              contributors_count: 4
+              contributors_count: 5
               contributors_link: 'https://github.com/symphonyoss/fugue/graphs/contributors'
             repos:
               - url: 'https://github.com/symphonyoss/fugue'
                 stars: 2
+              - url: 'https://github.com/symphonyoss/fugue-example'
+                stars: 0
+              - url: 'https://github.com/symphonyoss/fugue-cicd'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /symphonyoss/fugue/commit/c089e21726a485ef6b90751b1f5ba935a8652ce5
               start_date: '2018-01-28T18:40:20Z'
@@ -1328,82 +1060,72 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Integration Bridge
             homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
-                  value: 730159
+                  value: 1901919
                   color: '#b07219'
+                - name: JavaScript
+                  value: 100746
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 13989
+                  color: '#563d7c'
+                - name: Shell
+                  value: 1724
+                  color: '#89e051'
+                - name: HTML
+                  value: 651
+                  color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
-              stars: 4
+              stars: 10
               license: Apache License 2.0
               description: Common components for Symphony App Integrations.
               latest_commit_date: '2019-10-10T13:30:32Z'
               latest_commit_link: /symphonyoss/App-Integrations-Commons/commit/4ef5d6abb581758f92b7ede17c29278babba6a38
               release_date: '2017-03-27T16:54:42Z'
               release_link: 'https://github.com/symphonyoss/App-Integrations-Commons/releases'
-              contributors_count: 27
+              contributors_count: 18
               contributors_link: 'https://github.com/symphonyoss/App-Integrations-Commons/graphs/contributors'
             repos:
               - url: 'https://github.com/symphonyoss/App-Integrations-Commons'
                 stars: 4
+              - url: 'https://github.com/symphonyoss/App-Integrations-Core'
+                stars: 5
+              - url: 'https://github.com/symphonyoss/App-Integrations-FE-Commons'
+                stars: 1
+              - url: 'https://github.com/symphonyoss/Integrations-Docs'
+                stars: 0
             github_start_commit_data:
-              start_commit_link: /symphonyoss/App-Integrations-Commons/commit/2e68f6d5a8126250533323cfd7d18760ffe70651
-              start_date: '2016-12-21T13:20:22Z'
+              start_commit_link: /symphonyoss/App-Integrations-Core/commit/cda1b0c198d43ff8ab7c4e3e34d8a329fa8cc908
+              start_date: '2016-12-15T19:23:53Z'
             image_data:
               fileName: integration-bridge.svg
               hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: JCurl
             homepage_url: 'https://github.com/symphonyoss/JCurl'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/JCurl'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
@@ -1435,36 +1157,22 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: MessageML Utilities
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/messageml-utils'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
                   value: 726970
                   color: '#b07219'
-              contributions: 3;9;0;1;1;3;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;3;0;5;0;0;0;0;0;4;0;0;0;0;0;3;0;1;1;8;3;5;0;3;9;4;20;0;0
+              contributions: 3;9;0;1;2;2;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;3;1;4;0;0;0;0;1;3;0;0;0;0;0;3;0;2;0;11;0;5;0;6;6;9;15;0;0
               firstWeek: 2019-07-28Z
               stars: 5
               license: Apache License 2.0
@@ -1487,33 +1195,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: REST API Specification
             homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;1;0;0;1
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;1;0;0;1
               firstWeek: 2019-07-28Z
               stars: 8
               license: Apache License 2.0
@@ -1534,40 +1228,26 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: REST API Tools
             homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
-                  value: 343444
+                  value: 448339
                   color: '#b07219'
                 - name: Batchfile
                   value: 7607
                   color: '#C1F12E'
                 - name: Shell
-                  value: 2461
+                  value: 3517
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
@@ -1583,6 +1263,10 @@ landscape:
             repos:
               - url: 'https://github.com/symphonyoss/symphony-rest-tools'
                 stars: 1
+              - url: 'https://github.com/symphonyoss/symphony-rest-tools-ui'
+                stars: 0
+              - url: 'https://github.com/symphonyoss/symphony-rest-tools-examples'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /symphonyoss/symphony-rest-tools/commit/211777acadae814e4c6fe537c78df7a885c11e87
               start_date: '2017-06-16T20:45:08Z'
@@ -1592,47 +1276,35 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: S2 Common Components
             homepage_url: 'https://github.com/symphonyoss/S2-common'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/S2-common'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 0;3;0;0;3;0;0;0;0;0;3;2;5;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;6;0;0;7;0;0;0;4;1;2;2;5;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
-              stars: 0
+              stars: 1
               license: Apache License 2.0
               description: S2 Common Classes - for consumption by SBE and S2
               latest_commit_date: '2020-04-29T15:56:16Z'
               latest_commit_link: /symphonyoss/S2-common/commit/06608633a328d3a27b2329f10a80f2102c727a0f
-              contributors_count: 4
+              contributors_count: 2
               contributors_link: 'https://github.com/symphonyoss/S2-common/graphs/contributors'
             repos:
               - url: 'https://github.com/symphonyoss/S2-common'
                 stars: 0
+              - url: 'https://github.com/symphonyoss/S2-super-pom'
+                stars: 1
             github_start_commit_data:
               start_commit_link: /symphonyoss/S2-common/commit/11c5b8e13a460fa7f1758dac7244f1be795f6749
               start_date: '2017-08-21T22:16:56Z'
@@ -1642,30 +1314,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Symfuny Chat Bot
             homepage_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
@@ -1698,30 +1356,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Symphony .NET Client
             homepage_url: 'https://github.com/symphonyoss/RestApiClient'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/RestApiClient'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: C#
@@ -1751,36 +1395,22 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Symphony Clojure Client
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/clj-symphony'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Clojure
                   value: 61538
                   color: '#db5855'
-              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 4
               license: Apache License 2.0
@@ -1801,42 +1431,28 @@ landscape:
             best_practice_data:
               badge: 996
               percentage: 86
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Symphony Hubot Client
             homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/hubot-symphony'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;10;5;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;12;20;4;2;6;8;9;5;4
+              contributions: 0;0;0;0;0;0;0;12;3;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;6;22;2;6;6;6;9;3;6
               firstWeek: 2019-07-28Z
               stars: 9
               license: Apache License 2.0
               description: Hubot adapter for Symphony
-              latest_commit_date: '2020-07-20T11:17:27Z'
-              latest_commit_link: /symphonyoss/hubot-symphony/commit/ff2268a9ef346fb331c3b1d0dc578ec5e311856a
+              latest_commit_date: '2020-07-21T15:42:12Z'
+              latest_commit_link: /symphonyoss/hubot-symphony/commit/48f40c1541a0883b02a998f941a53c7b8bb30d21
               release_date: '2019-09-18T18:46:34Z'
               release_link: 'https://github.com/symphonyoss/hubot-symphony/releases'
               contributors_count: 10
@@ -1853,52 +1469,40 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Symphony Java Client
             homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/symphony-java-client'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Java
                   value: 695383
                   color: '#b07219'
                 - name: Shell
-                  value: 1987
+                  value: 3925
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
-              stars: 36
+              stars: 38
               license: Apache License 2.0
               description: Java client library for Symphony
               latest_commit_date: '2018-03-07T10:12:50Z'
               latest_commit_link: /symphonyoss/symphony-java-client/commit/d091ebee847e18e323e4c73e37acd3e4aa134f23
               release_date: '2018-03-07T11:21:19Z'
               release_link: 'https://github.com/symphonyoss/symphony-java-client/releases'
-              contributors_count: 13
+              contributors_count: 11
               contributors_link: 'https://github.com/symphonyoss/symphony-java-client/graphs/contributors'
             repos:
               - url: 'https://github.com/symphonyoss/symphony-java-client'
                 stars: 36
+              - url: 'https://github.com/symphonyoss/symphony-java-api'
+                stars: 2
             github_start_commit_data:
               start_commit_link: /symphonyoss/symphony-java-client/commit/d389952931ad25bcbf6fc0d0179a40f33070dea2
               start_date: '2016-06-08T23:18:21Z'
@@ -1908,30 +1512,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Unfurl Bot
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
-            project: foundationproject
             repo_url: 'https://github.com/symphonyoss/bot-unfurl'
             logo: symphony.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Clojure
@@ -1964,33 +1554,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: Voice Tech
         items:
           - item:
+            organization:
+              name: Finos
             name: Greenkey Automatic Speech Recognition Toolkit
             homepage_url: 'https://github.com/finos/greenkey-asrtoolkit'
-            project: foundationproject
             repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
             logo: greenkey-asr-toolkit.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Python
@@ -2002,20 +1578,20 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 12;4;0;0;0;0;0;7;1;2;0;0;0;0;0;0;1;0;2;0;0;0;0;0;7;4;6;0;5;0;0;7;7;0;3;0;0;0;0;0;0;0;0;0;1;0;0;4;3;0;0;4
+              contributions: 13;3;0;0;0;0;0;7;3;0;0;0;0;0;0;1;0;0;2;0;0;0;0;5;2;10;0;0;5;0;0;8;6;1;2;0;0;0;0;0;0;0;0;1;0;0;0;7;0;0;0;5
               firstWeek: 2019-07-28Z
-              stars: 15
+              stars: 16
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
-              latest_commit_date: '2020-07-16T20:19:48Z'
-              latest_commit_link: /finos/greenkey-asrtoolkit/commit/bc194e209cca9d517feac51d3b707eca0a13d66f
-              release_date: '2019-09-16T20:46:07Z'
+              latest_commit_date: '2020-07-21T21:38:59Z'
+              latest_commit_link: /finos/greenkey-asrtoolkit/commit/059ed168c1730f70889dcba10465e2677e73bec2
+              release_date: '2020-07-21T21:43:07Z'
               release_link: 'https://github.com/finos/greenkey-asrtoolkit/releases'
               contributors_count: 11
               contributors_link: 'https://github.com/finos/greenkey-asrtoolkit/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/greenkey-asrtoolkit'
-                stars: 15
+                stars: 16
             github_start_commit_data:
               start_commit_link: /finos/greenkey-asrtoolkit/commit/bad2b8be1f023a1ebb864d55fb92cc1ed35b79eb
               start_date: '2018-10-01T18:55:21Z'
@@ -2025,30 +1601,16 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Greenkey Discovery SDK
             homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
-            project: foundationproject
             repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
             logo: greenkey-discovery-sdk.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: Python
@@ -2057,7 +1619,7 @@ landscape:
                 - name: Shell
                   value: 893
                   color: '#89e051'
-              contributions: 2;20;0;15;0;5;2;0;1;1;3;3;4;3;0;18;14;35;7;3;0;0;0;5;11;0;0;7;1;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;2;1;0;1;0;0
+              contributions: 0;20;13;2;0;5;2;0;2;2;1;7;0;3;0;24;38;11;1;3;0;0;0;5;11;0;0;7;1;2;0;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;2;1;1;0;0;0
               firstWeek: 2019-07-28Z
               stars: 6
               license: Apache License 2.0
@@ -2078,33 +1640,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
           - item:
+            organization:
+              name: Finos
             name: Voice Metadata Standardization
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
-            project: foundationproject
             repo_url: 'https://github.com/finos/voice-metadata-standard'
             logo: voice-metadata-standard.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages: []
-              contributions: 2;0;5;0;1;2;1;6;5;2;0;0;1;4;3;1;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;2;3;0;3;0;1;6;6;1;0;0;3;4;2;0;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-28Z
               stars: 21
               license: Apache License 2.0
@@ -2125,33 +1673,19 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
       - subcategory:
         name: UI Frameworks
         items:
           - item:
+            organization:
+              name: Finos
             name: Perspective
             homepage_url: 'https://github.com/finos/perspective'
-            project: foundationproject
             repo_url: 'https://github.com/finos/perspective'
             logo: perspective.svg
-            crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
             crunchbase_data:
               name: Finos
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              parents: []
             github_data:
               languages:
                 - name: JavaScript
@@ -2184,9 +1718,9 @@ landscape:
                   value: 1594
                   color: '#427819'
               contributions: >-
-                8;10;11;19;14;37;27;34;45;31;25;35;51;39;29;37;36;23;19;32;59;24;6;12;23;14;19;55;38;26;35;18;16;27;22;23;14;22;8;21;9;24;13;23;37;19;26;25;15;0;0;0
+                16;1;11;22;13;45;17;44;42;25;27;38;47;45;23;49;27;26;18;35;59;14;8;14;24;10;25;55;33;29;34;17;21;29;15;23;12;27;14;15;6;23;15;20;38;31;16;23;13;0;0;0
               firstWeek: 2019-07-28Z
-              stars: 2731
+              stars: 2739
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
               latest_commit_date: '2020-06-25T04:10:05Z'
@@ -2195,7 +1729,7 @@ landscape:
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/perspective'
-                stars: 2731
+                stars: 2739
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -2205,16 +1739,14 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
   - category:
-    name: FINOS
+    name: Finos
     subcategories:
       - subcategory:
         name: General
         items:
           - item:
-            name: FINOS
+            name: Finos
             homepage_url: 'https://www.finos.org'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
@@ -2240,7 +1772,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T18:42:01.000Z
+              latest_tweet_date: 2020-07-21T15:44:01.000Z
   - category:
     name: FINOS Members
     subcategories:
@@ -2283,7 +1815,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 101227642880
+              market_cap: 107696685056
               effective_ticker: C
             image_data:
               fileName: citigroup.svg
@@ -2292,10 +1824,11 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T17:49:05.000Z
+              latest_tweet_date: 2020-07-21T14:09:00.000Z
           - item:
             name: Credit Suisse
             homepage_url: 'https://www.credit-suisse.com/us/en.html'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/credit-suisse'
             crunchbase_data:
@@ -2317,10 +1850,6 @@ landscape:
               parents: []
               ticker: CSGN.SW
               stockExchange: swx
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 25678463860
-              effective_ticker: CSGN.SW
             image_data:
               fileName: credit-suisse.svg
               hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
@@ -2362,7 +1891,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 20982812672
+              market_cap: 19754665984
               effective_ticker: DB
             image_data:
               fileName: deutsche-bank.svg
@@ -2371,7 +1900,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T17:50:53.000Z
+              latest_tweet_date: 2020-07-21T11:47:13.000Z
           - item:
             name: GitHub
             homepage_url: 'https://www.github.com'
@@ -2411,7 +1940,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1604655906816
+              market_cap: 1583043051520
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -2420,7 +1949,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T22:09:35.000Z
+              latest_tweet_date: 2020-07-21T17:10:38.000Z
           - item:
             name: Goldman Sachs
             homepage_url: 'https://www.goldmansachs.com'
@@ -2494,7 +2023,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 72804319232
+              market_cap: 72910921728
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs.svg
@@ -2503,7 +2032,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T23:00:18.000Z
+              latest_tweet_date: 2020-07-21T23:00:18.000Z
           - item:
             name: JP Morgan Chase
             homepage_url: 'https://www.jpmorganchase.com'
@@ -2550,7 +2079,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 296531492864
+              market_cap: 302961950720
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase.svg
@@ -2559,7 +2088,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T15:17:40.000Z
+              latest_tweet_date: 2020-07-21T17:30:00.000Z
           - item:
             name: Morgan Stanley
             homepage_url: 'https://www.morganstanley.com'
@@ -2601,7 +2130,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 81713733632
+              market_cap: 82533072896
               effective_ticker: MS
             image_data:
               fileName: morgan-stanley.svg
@@ -2610,7 +2139,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T21:30:00.000Z
+              latest_tweet_date: 2020-07-21T20:44:50.000Z
           - item:
             name: Nomura
             homepage_url: 'https://www.nomura.com'
@@ -2644,7 +2173,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14244889600
+              market_cap: 14019379200
               effective_ticker: NMR
             image_data:
               fileName: nomura.svg
@@ -2661,7 +2190,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
             crunchbase_data:
               name: RBC Capital
-              description: 'Royal Bank of Canada is a financial services company focused on banking, wealth management, insurance, investment, and capital markets.'
+              description: 'Royal Bank of Canada is a financial services company that focuses on banking, wealth management, insurance, investment, and capital markets.'
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: 'http://www.rbcroyalbank.com'
@@ -2682,10 +2211,11 @@ landscape:
                   acquiree: WayPay
               parents: []
               ticker: RY
+              funding: 6884000
               stockExchange: tsx
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 99799695360
+              market_cap: 101180260352
               effective_ticker: RY
             image_data:
               fileName: royal-bank-of-canada.svg
@@ -2694,7 +2224,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T21:52:30.000Z
+              latest_tweet_date: 2020-07-21T23:54:32.000Z
           - item:
             name: Symphony LLC
             homepage_url: 'https://www.symphony.com'
@@ -2758,7 +2288,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 42886520832
+              market_cap: 43735093248
               effective_ticker: UBS
             image_data:
               fileName: ubs.svg
@@ -2767,7 +2297,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T17:00:30.000Z
+              latest_tweet_date: 2020-07-21T17:00:00.000Z
       - subcategory:
         name: Gold
         items:
@@ -2844,7 +2374,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 27701061632
+              market_cap: 28625340416
               effective_ticker: COF
             image_data:
               fileName: capital-one.svg
@@ -2853,10 +2383,11 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T15:11:42.000Z
+              latest_tweet_date: 2020-07-21T22:12:29.000Z
           - item:
             name: HSBC
             homepage_url: 'https://www.hsbc.com'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/hsbc'
             crunchbase_data:
@@ -2879,10 +2410,6 @@ landscape:
               parents: []
               ticker: HSB.PA
               stockExchange: epa
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 97171085396
-              effective_ticker: HSB.PA
             image_data:
               fileName: hsbc.svg
               hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
@@ -2890,7 +2417,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T09:22:01.000Z
+              latest_tweet_date: 2020-07-21T09:54:44.000Z
           - item:
             name: IHS Markit
             homepage_url: 'https://ihsmarkit.com/index.html'
@@ -2948,7 +2475,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31566235648
+              market_cap: 31621787648
               effective_ticker: INFO
             image_data:
               fileName: ihs-markit.svg
@@ -2986,10 +2513,11 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T14:00:37.000Z
+              latest_tweet_date: 2020-07-21T15:00:37.000Z
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
             crunchbase_data:
@@ -3060,10 +2588,6 @@ landscape:
                 - 'https://www.crunchbase.com/organization/ibm'
               ticker: IBM
               stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 112202907648
-              effective_ticker: IBM
             image_data:
               fileName: red-hat.svg
               hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
@@ -3071,7 +2595,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T20:21:50.000Z
+              latest_tweet_date: 2020-07-21T20:26:27.000Z
           - item:
             name: Refinitiv
             homepage_url: 'https://www.refinitiv.com/en'
@@ -3102,7 +2626,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-21T00:00:11.000Z
+              latest_tweet_date: 2020-07-21T23:01:15.000Z
           - item:
             name: Traderwave
             homepage_url: 'https://www.traderwave.com'
@@ -3129,7 +2653,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T10:45:03.000Z
+              latest_tweet_date: 2020-07-21T10:45:03.000Z
           - item:
             name: Wells Fargo
             homepage_url: 'https://www.wellsfargo.com'
@@ -3157,7 +2681,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 101217583104
+              market_cap: 107932475392
               effective_ticker: WFC
             image_data:
               fileName: wells-fargo.svg
@@ -3166,10 +2690,11 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T23:02:16.000Z
+              latest_tweet_date: 2020-07-21T01:08:51.000Z
           - item:
             name: Wipro
             homepage_url: 'https://www.wipro.com'
+            stock_ticker: null
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/wipro'
             crunchbase_data:
@@ -3253,10 +2778,7 @@ landscape:
               ticker: WIPRO.NS
               funding: 1104721460
               stockExchange: nse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 20710224533
-              effective_ticker: WIPRO.NS
+              kind: funding
             image_data:
               fileName: wipro.svg
               hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
@@ -3264,7 +2786,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T23:30:11.000Z
+              latest_tweet_date: 2020-07-21T22:10:19.000Z
       - subcategory:
         name: Silver
         items:
@@ -3294,7 +2816,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T15:41:53.000Z
+              latest_tweet_date: 2020-07-21T14:06:37.000Z
           - item:
             name: AQR
             homepage_url: 'https://www.aqr.com'
@@ -3354,7 +2876,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31837880320
+              market_cap: 32502276096
               effective_ticker: BK
             image_data:
               fileName: bny-mellon.svg
@@ -3363,7 +2885,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T15:02:53.000Z
+              latest_tweet_date: 2020-07-21T12:42:35.000Z
           - item:
             name: ChartIQ
             homepage_url: 'https://cosaic.io'
@@ -3462,7 +2984,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T18:15:04.000Z
+              latest_tweet_date: 2020-07-21T19:21:01.000Z
           - item:
             name: Epam
             homepage_url: 'https://www.epam.com'
@@ -3523,7 +3045,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15515601920
+              market_cap: 15496685568
               effective_ticker: EPAM
             image_data:
               fileName: epam.svg
@@ -3532,7 +3054,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T17:31:10.000Z
+              latest_tweet_date: 2020-07-21T19:15:33.000Z
           - item:
             name: Genesis
             homepage_url: 'https://www.genesis.global'
@@ -3628,7 +3150,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-16T00:04:17.000Z
+              latest_tweet_date: 2020-07-21T21:55:30.000Z
           - item:
             name: Itau
             homepage_url: 'https://www.itau.com'
@@ -3655,7 +3177,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-21T00:15:40.000Z
+              latest_tweet_date: 2020-07-22T00:11:50.000Z
           - item:
             name: Nearform
             homepage_url: 'https://www.nearform.com'
@@ -3682,7 +3204,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T17:15:57.000Z
+              latest_tweet_date: 2020-07-21T18:29:59.000Z
           - item:
             name: Scott Logic
             homepage_url: 'https://www.scottlogic.com'
@@ -3709,7 +3231,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T08:10:03.000Z
+              latest_tweet_date: 2020-07-21T09:10:04.000Z
           - item:
             name: Tick42
             homepage_url: 'https://www.tick42.com'
@@ -3767,7 +3289,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-20T19:00:07.000Z
+              latest_tweet_date: 2020-07-21T16:10:05.000Z
 twitter_options:
   count: 0
-updated_at: 2020-07-21T00:29:07.387Z
+updated_at: 2020-07-22T00:30:45.205Z
