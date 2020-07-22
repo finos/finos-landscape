@@ -1,4 +1,4 @@
-landscape:
+ƒlandscape:
   - category:
     name: Data
     subcategories:
@@ -7,28 +7,28 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
             repo_url: 'https://github.com/finos/alloy'
             logo: alloy.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Data Helix
             homepage_url: 'https://github.com/finos/datahelix'
             repo_url: 'https://github.com/finos/datahelix'
             logo: datahelix.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: DataHub
             homepage_url: 'https://github.com/finos/datahub'
             repo_url: 'https://github.com/finos/datahub'
             logo: datahub.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Exodus
             homepage_url: 'https://github.com/finos/exodus'
             repo_url: 'https://github.com/finos/exodus'
@@ -38,7 +38,7 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Financial Objects
             homepage_url: 'https://github.com/finos/finos-fo'
             repo_url: 'https://github.com/finos/finos-fo'
@@ -48,14 +48,14 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: kdb+
             homepage_url: 'https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project'
             repo_url: 'https://github.com/finos/kdb'
             logo: finos.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Security Reference Data
             homepage_url: 'https://github.com/finos/secref-data'
             repo_url: 'https://github.com/finos/secref-data'
@@ -68,14 +68,14 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: CLA Bot
             homepage_url: 'https://github.com/finos/cla-bot'
             repo_url: 'https://github.com/finos/cla-bot'
             logo: cla-bot.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Open Developer Platform
             homepage_url: 'https://github.com/finos/open-developer-platform'
             repo_url: 'https://github.com/finos/open-developer-platform'
@@ -87,21 +87,21 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Open source readiness
             homepage_url: 'https://github.com/finos/osr-checklists'
             repo_url: 'https://github.com/finos/osr-checklists'
             logo: open-source-readiness.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: OSLC Handbook
             homepage_url: 'https://github.com/finos/OSLC-handbook'
             repo_url: 'https://github.com/finos/OSLC-handbook'
             logo: oslc-handbook.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Reference FOSS Policy
             homepage_url: 'https://github.com/finos/reference-foss-policy'
             repo_url: 'https://github.com/finos/reference-foss-policy'
@@ -114,14 +114,14 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Cloud Service Certification
             homepage_url: 'https://github.com/finos/cloud-service-certification'
             repo_url: 'https://github.com/finos/cloud-service-certification'
             logo: cloud-service-certification.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Waltz
             homepage_url: 'https://github.com/finos/waltz'
             repo_url: 'https://github.com/finos/waltz'
@@ -134,21 +134,21 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: FDC3
             homepage_url: 'https://github.com/finos/fdc3'
             repo_url: 'https://github.com/finos/fdc3'
             logo: fdc3.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: FDC3 Desktop Agent
             homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
             repo_url: 'https://github.com/finos/fdc3-desktop-agent'
             logo: fdc3-desktop-agent.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Plexus Interop
             homepage_url: 'https://github.com/finos/plexus-interop'
             repo_url: 'https://github.com/finos/plexus-interop'
@@ -160,14 +160,14 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: OpenFin Python Adapter
             homepage_url: 'https://github.com/finos/openfin-python-adapter'
             repo_url: 'https://github.com/finos/openfin-python-adapter'
             logo: openfin-python-adapter.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
             repo_url: 'https://github.com/finos/openfin-react-hooks'
@@ -177,7 +177,7 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Secure Electron Adapter
             homepage_url: 'https://github.com/finos/secure-electron-adapter'
             repo_url: 'https://github.com/finos/secure-electron-adapter'
@@ -186,7 +186,7 @@ landscape:
             logo: secure-electron-adapter.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Symphony Electron
             homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
             repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
@@ -205,7 +205,7 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Fugue
             homepage_url: 'https://github.com/symphonyoss/fugue'
             repo_url: 'https://github.com/symphonyoss/fugue'
@@ -215,7 +215,7 @@ landscape:
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Integration Bridge
             homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
@@ -226,28 +226,28 @@ landscape:
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: JCurl
             homepage_url: 'https://github.com/symphonyoss/JCurl'
             repo_url: 'https://github.com/symphonyoss/JCurl'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: MessageML Utilities
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
             repo_url: 'https://github.com/symphonyoss/messageml-utils'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: REST API Specification
             homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
             repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: REST API Tools
             homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
@@ -257,7 +257,7 @@ landscape:
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: S2 Common Components
             homepage_url: 'https://github.com/symphonyoss/S2-common'
             repo_url: 'https://github.com/symphonyoss/S2-common'
@@ -266,35 +266,35 @@ landscape:
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Symfuny Chat Bot
             homepage_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             repo_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Symphony .NET Client
             homepage_url: 'https://github.com/symphonyoss/RestApiClient'
             repo_url: 'https://github.com/symphonyoss/RestApiClient'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Symphony Clojure Client
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
             repo_url: 'https://github.com/symphonyoss/clj-symphony'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Symphony Hubot Client
             homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
             repo_url: 'https://github.com/symphonyoss/hubot-symphony'
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Symphony Java Client
             homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
             repo_url: 'https://github.com/symphonyoss/symphony-java-client'
@@ -303,7 +303,7 @@ landscape:
             logo: symphony.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Unfurl Bot
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
             repo_url: 'https://github.com/symphonyoss/bot-unfurl'
@@ -313,21 +313,21 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Greenkey Automatic Speech Recognition Toolkit
             homepage_url: 'https://github.com/finos/greenkey-asrtoolkit'
             repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
             logo: greenkey-asr-toolkit.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Greenkey Discovery SDK
             homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
             repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
             logo: greenkey-discovery-sdk.svg
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Voice Metadata Standardization
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
             repo_url: 'https://github.com/finos/voice-metadata-standard'
@@ -337,19 +337,19 @@ landscape:
         items:
           - item:
             organization:
-              name: Finos
+              name: FINOS
             name: Perspective
             homepage_url: 'https://github.com/finos/perspective'
             repo_url: 'https://github.com/finos/perspective'
             logo: perspective.svg
   - category:
-    name: Finos
+    name: FINOS
     subcategories:
       - subcategory:
         name: General
         items:
           - item:
-            name: Finos
+            name: FINOS
             homepage_url: 'https://www.finos.org'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/symphony-software-foundation'
