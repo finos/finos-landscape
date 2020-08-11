@@ -5,74 +5,82 @@ landscape:
       - subcategory:
         name: Data Management
         items:
-          - item:
+          - logo: alloy.svg
             name: Alloy
+            item:
+            organization:
+              name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/alloy
             repo_url: https://github.com/finos/alloy
-            logo: alloy.svg
+          - logo: datahelix.svg
+            name: Data Helix
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Data Helix
+            project: incubating
             homepage_url: https://github.com/finos/datahelix
             repo_url: https://github.com/finos/datahelix
-            logo: datahelix.svg
+          - logo: datahub.svg
+            name: DataHub
+            item:
             organization:
               name: FINOS
-          - item:
-            name: DataHub
+            project: incubating
             homepage_url: https://github.com/finos/datahub
             repo_url: https://github.com/finos/datahub
-            logo: datahub.svg
+          - logo: exodus.svg
+            name: Exodus
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Exodus
+            project: incubating
             homepage_url: https://github.com/finos/exodus
             repo_url: https://github.com/finos/exodus
-            logo: exodus.svg
-            organization:
-              name: FINOS
       - subcategory:
         name: Models
         items:
-          - item:
+          - logo: financial-objects.svg
             name: Financial Objects
-            homepage_url: https://github.com/finos/finos-fo
-            repo_url: https://github.com/finos/finos-fo
-            logo: financial-objects.svg
+            item:
             organization:
               name: FINOS
+            project: incubating
+            homepage_url: https://github.com/finos/finos-fo
+            repo_url: https://github.com/finos/finos-fo
       - subcategory:
         name: Tick & Reference
         items:
-          - item:
+          - logo: security-reference-data.svg
             name: Security Reference Data
+            item:
+            organization:
+              name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/secref-data
             repo_url: https://github.com/finos/secref-data
-            logo: security-reference-data.svg
+          - logo: finos.svg
+            name: kdb+
+            item:
             organization:
               name: FINOS
-          - item:
-            name: kdb+
+            project: incubating
             homepage_url: https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project
             repo_url: https://github.com/finos/kdb
-            logo: finos.svg
-            organization:
-              name: FINOS
   - category:
     name: Enablement
     subcategories:
       - subcategory:
         name: ODP Toolchain
         items:
-          - item:
+          - logo: cla-bot.svg
             name: CLA Bot
-            homepage_url: https://github.com/finos/cla-bot
-            repo_url: https://github.com/finos/cla-bot
-            logo: cla-bot.svg
+            item:
             organization:
               name: FINOS
+            project: active
+            homepage_url: https://github.com/finos/cla-bot
+            repo_url: https://github.com/finos/cla-bot
           - logo: open-developer-platform.svg
             name: Open Developer Platform
             item:
@@ -80,72 +88,80 @@ landscape:
               - repo_url: https://github.com/finos/community
             organization:
               name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/open-developer-platform
             repo_url: https://github.com/finos/open-developer-platform
       - subcategory:
         name: OSS Readiness
         items:
-          - item:
+          - logo: oslc-handbook.svg
             name: OSLC Handbook
+            item:
+            organization:
+              name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/OSLC-handbook
             repo_url: https://github.com/finos/OSLC-handbook
-            logo: oslc-handbook.svg
+          - logo: open-source-readiness.svg
+            name: Open source readiness
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Open source readiness
+            project: incubating
             homepage_url: https://github.com/finos/osr-checklists
             repo_url: https://github.com/finos/osr-checklists
-            logo: open-source-readiness.svg
+          - logo: reference-foss-policy.svg
+            name: Reference FOSS Policy
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Reference FOSS Policy
+            project: incubating
             homepage_url: https://github.com/finos/reference-foss-policy
             repo_url: https://github.com/finos/reference-foss-policy
-            logo: reference-foss-policy.svg
-            organization:
-              name: FINOS
   - category:
     name: Infrastructure
     subcategories:
       - subcategory:
         name: Compliance & Management
         items:
-          - item:
+          - logo: cloud-service-certification.svg
             name: Cloud Service Certification
+            item:
+            organization:
+              name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/cloud-service-certification
             repo_url: https://github.com/finos/cloud-service-certification
-            logo: cloud-service-certification.svg
+          - logo: waltz.svg
+            name: Waltz
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Waltz
+            project: active
             homepage_url: https://github.com/finos/waltz
             repo_url: https://github.com/finos/waltz
-            logo: waltz.svg
-            organization:
-              name: FINOS
   - category:
     name: Platforms & Runtimes
     subcategories:
       - subcategory:
         name: Interop
         items:
-          - item:
+          - logo: fdc3.svg
             name: FDC3
+            item:
+            organization:
+              name: FINOS
+            project: active
             homepage_url: https://github.com/finos/fdc3
             repo_url: https://github.com/finos/fdc3
-            logo: fdc3.svg
+          - logo: fdc3-desktop-agent.svg
+            name: FDC3 Desktop Agent
+            item:
             organization:
               name: FINOS
-          - item:
-            name: FDC3 Desktop Agent
+            project: incubating
             homepage_url: https://github.com/finos/fdc3-desktop-agent
             repo_url: https://github.com/finos/fdc3-desktop-agent
-            logo: fdc3-desktop-agent.svg
-            organization:
-              name: FINOS
           - logo: plexus-interop.svg
             name: Plexus Interop
             item:
@@ -153,25 +169,28 @@ landscape:
               - repo_url: https://github.com/finos/plexus-interop-desktop-api
             organization:
               name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/plexus-interop
             repo_url: https://github.com/finos/plexus-interop
       - subcategory:
         name: Openfin Ecosystem
         items:
-          - item:
+          - logo: openfin-python-adapter.svg
             name: OpenFin Python Adapter
+            item:
+            organization:
+              name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/openfin-python-adapter
             repo_url: https://github.com/finos/openfin-python-adapter
-            logo: openfin-python-adapter.svg
+          - logo: openfin-react-hooks.svg
+            name: OpenFin React Hooks
+            item:
             organization:
               name: FINOS
-          - item:
-            name: OpenFin React Hooks
+            project: incubating
             homepage_url: https://github.com/finos/openfin-react-hooks
             repo_url: https://github.com/finos/openfin-react-hooks
-            logo: openfin-react-hooks.svg
-            organization:
-              name: FINOS
       - subcategory:
         name: Containers
         items:
@@ -182,6 +201,7 @@ landscape:
               - repo_url: https://github.com/finos/sea-quick-start
             organization:
               name: FINOS
+            project: incubating
             homepage_url: https://github.com/finos/secure-electron-adapter
             repo_url: https://github.com/finos/secure-electron-adapter
           - logo: symphony-electron.svg
@@ -195,6 +215,7 @@ landscape:
               - repo_url: https://github.com/symphonyoss/ScreenShareIndicatorFrame
             organization:
               name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/SymphonyElectron
             repo_url: https://github.com/symphonyoss/SymphonyElectron
   - category:
@@ -211,6 +232,7 @@ landscape:
               - repo_url: https://github.com/symphonyoss/fugue-cicd
             organization:
               name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/fugue
             repo_url: https://github.com/symphonyoss/fugue
           - logo: symphony.svg
@@ -222,29 +244,33 @@ landscape:
               - repo_url: https://github.com/symphonyoss/Integrations-Docs
             organization:
               name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
             repo_url: https://github.com/symphonyoss/App-Integrations-Commons
-          - item:
+          - logo: symphony.svg
             name: JCurl
+            item:
+            organization:
+              name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/JCurl
             repo_url: https://github.com/symphonyoss/JCurl
-            logo: symphony.svg
+          - logo: symphony.svg
+            name: MessageML Utilities
+            item:
             organization:
               name: FINOS
-          - item:
-            name: MessageML Utilities
+            project: active
             homepage_url: https://github.com/symphonyoss/messageml-utils
             repo_url: https://github.com/symphonyoss/messageml-utils
-            logo: symphony.svg
+          - logo: symphony.svg
+            name: REST API Specification
+            item:
             organization:
               name: FINOS
-          - item:
-            name: REST API Specification
+            project: active
             homepage_url: https://github.com/symphonyoss/symphony-api-spec
             repo_url: https://github.com/symphonyoss/symphony-api-spec
-            logo: symphony.svg
-            organization:
-              name: FINOS
           - logo: symphony.svg
             name: REST API Tools
             item:
@@ -253,6 +279,7 @@ landscape:
               - repo_url: https://github.com/symphonyoss/symphony-rest-tools-examples
             organization:
               name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/symphony-rest-tools
             repo_url: https://github.com/symphonyoss/symphony-rest-tools
           - logo: symphony.svg
@@ -262,36 +289,41 @@ landscape:
               - repo_url: https://github.com/symphonyoss/S2-super-pom
             organization:
               name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/S2-common
             repo_url: https://github.com/symphonyoss/S2-common
-          - item:
+          - logo: symphony.svg
             name: Symfuny Chat Bot
+            item:
+            organization:
+              name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/symfuny-chat-bot
             repo_url: https://github.com/symphonyoss/symfuny-chat-bot
-            logo: symphony.svg
+          - logo: symphony.svg
+            name: Symphony .NET Client
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Symphony .NET Client
+            project: active
             homepage_url: https://github.com/symphonyoss/RestApiClient
             repo_url: https://github.com/symphonyoss/RestApiClient
-            logo: symphony.svg
+          - logo: symphony.svg
+            name: Symphony Clojure Client
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Symphony Clojure Client
+            project: active
             homepage_url: https://github.com/symphonyoss/clj-symphony
             repo_url: https://github.com/symphonyoss/clj-symphony
-            logo: symphony.svg
+          - logo: symphony.svg
+            name: Symphony Hubot Client
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Symphony Hubot Client
+            project: active
             homepage_url: https://github.com/symphonyoss/hubot-symphony
             repo_url: https://github.com/symphonyoss/hubot-symphony
-            logo: symphony.svg
-            organization:
-              name: FINOS
           - logo: symphony.svg
             name: Symphony Java Client
             item:
@@ -299,49 +331,55 @@ landscape:
               - repo_url: https://github.com/symphonyoss/symphony-java-api
             organization:
               name: FINOS
+            project: active
             homepage_url: https://github.com/symphonyoss/symphony-java-client
             repo_url: https://github.com/symphonyoss/symphony-java-client
-          - item:
+          - logo: symphony.svg
             name: Unfurl Bot
-            homepage_url: https://github.com/symphonyoss/bot-unfurl
-            repo_url: https://github.com/symphonyoss/bot-unfurl
-            logo: symphony.svg
+            item:
             organization:
               name: FINOS
+            project: active
+            homepage_url: https://github.com/symphonyoss/bot-unfurl
+            repo_url: https://github.com/symphonyoss/bot-unfurl
       - subcategory:
         name: Voice Tech
         items:
-          - item:
+          - logo: greenkey-asr-toolkit.svg
             name: Greenkey Automatic Speech Recognition Toolkit
+            item:
+            organization:
+              name: FINOS
+            project: active
             homepage_url: https://github.com/finos/greenkey-asrtoolkit
             repo_url: https://github.com/finos/greenkey-asrtoolkit
-            logo: greenkey-asr-toolkit.svg
+          - logo: greenkey-discovery-sdk.svg
+            name: Greenkey Discovery SDK
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Greenkey Discovery SDK
+            project: active
             homepage_url: https://github.com/finos/greenkey-discovery-sdk
             repo_url: https://github.com/finos/greenkey-discovery-sdk
-            logo: greenkey-discovery-sdk.svg
+          - logo: voice-metadata-standard.svg
+            name: Voice Metadata Standardization
+            item:
             organization:
               name: FINOS
-          - item:
-            name: Voice Metadata Standardization
+            project: incubating
             homepage_url: https://github.com/finos/voice-metadata-standard
             repo_url: https://github.com/finos/voice-metadata-standard
-            logo: voice-metadata-standard.svg
-            organization:
-              name: FINOS
       - subcategory:
         name: UI Frameworks
         items:
-          - item:
+          - logo: perspective.svg
             name: Perspective
-            homepage_url: https://github.com/finos/perspective
-            repo_url: https://github.com/finos/perspective
-            logo: perspective.svg
+            item:
             organization:
               name: FINOS
+            project: active
+            homepage_url: https://github.com/finos/perspective
+            repo_url: https://github.com/finos/perspective
   - category:
     name: FINOS
     subcategories:
@@ -352,7 +390,7 @@ landscape:
             name: FINOS
             homepage_url: https://www.finos.org
             logo: finos.svg
-            crunchbase: https://www.crunchbase.com/organization/symphony-software-foundation
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: FINOS Members
     subcategories:
@@ -364,12 +402,6 @@ landscape:
             homepage_url: https://www.citi.com
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
-          - item:
-            name: Credit Suisse
-            homepage_url: https://www.credit-suisse.com
-            logo: finos.svg
-            crunchbase: https://www.crunchbase.com/organization/credit-suisse
-            stock_ticker: null
           - item:
             name: Deutsche Bank
             homepage_url: https://www.db.com
