@@ -30,13 +30,27 @@ relation:
     - id: hosted
       label: FINOS Foundation Projects
       children:
-        - id: foundationproject
-          label: FINOS Foundation Projects
+        - id: active
+          label: FINOS Active Projects
           prefix: FINOS
-          tag: Foundation Project
-          color: '#3570af'
-          big_picture_label: FINOS Foundation Project
-          big_picture_color: 'rgb(72,122,123)'
+          tag: Active Project
+          color: '#48A934'
+          big_picture_label: FINOS Active
+          big_picture_color: 'rgb(72,169,52)'
+        - id: incubating
+          label: FINOS Incubating Projects
+          prefix: FINOS
+          tag: Incubating Project
+          color: '#D2C53A'
+          big_picture_label: FINOS Incubating
+          big_picture_color: 'rgb(210,197,58)'
+        - id: archived
+          label: FINOS Archived Projects
+          prefix: FINOS
+          tag: Archived Project
+          color: '#A2ABAA'
+          big_picture_label: FINOS Archived
+          big_picture_color: 'rgb(162,171,170)'
     - id: member
       label: FINOS Foundation Member Products/Projects
       tag: FINOS Members
