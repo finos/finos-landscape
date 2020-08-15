@@ -30,9 +30,9 @@ landscape:
                 - name: Shell
                   value: 2825
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7;0;0;4;0;1;8;45;21;17;14;3;8;8;10;1;53;30;83;17;43;26;75;13;28;33;32;8;2;0;0;0;1;4;4
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7;0;0;4;0;1;9;59;15;8;17;0;8;8;10;1;53;30;83;20;40;32;69;20;25;32;32;5;2;0;0;0;1;4;4
               firstWeek: 2019-08-18Z
-              stars: 35
+              stars: 36
               license: Apache License 2.0
               description: The PURE/Alloy project
               latest_commit_date: '2020-08-13T14:31:57Z'
@@ -41,7 +41,7 @@ landscape:
               contributors_link: 'https://github.com/finos/alloy/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/alloy'
-                stars: 35
+                stars: 36
             github_start_commit_data:
               start_commit_link: /finos/alloy/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
               start_date: '2019-12-12T10:13:48Z'
@@ -81,9 +81,9 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 89;51;98;101;94;140;109;106;75;67;56;69;88;33;24;33;4;21;0;0;16;62;62;2;14;3;3;2;5;0;0;0;2;2;0;0;0;0;1;11;1;3;1;0;0;0;0;17;0;0;2;0
+              contributions: 74;62;109;95;103;117;116;111;65;60;67;79;66;37;27;28;10;13;0;0;40;56;44;15;2;5;1;1;5;0;0;0;2;2;0;0;0;0;12;0;1;3;1;0;0;0;0;17;0;2;0;0
               firstWeek: 2019-08-18Z
-              stars: 58
+              stars: 62
               license: Other
               description: >-
                 The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for
@@ -96,7 +96,7 @@ landscape:
               contributors_link: 'https://github.com/finos/datahelix/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/datahelix'
-                stars: 58
+                stars: 62
             github_start_commit_data:
               start_commit_link: /finos/datahelix/commit/44d4a83319012cbfb9bbeb9994ca711e2e4b17c0
               start_date: '2018-06-25T08:57:28Z'
@@ -127,9 +127,9 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;29;35;4;0;0;0;0;0;7;1;1;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;24;18;34;1;0;0;0;0;0;7;1;1;0;0;0
               firstWeek: 2019-08-18Z
-              stars: 19
+              stars: 20
               license: Apache License 2.0
               description: DataHub - Synthetic data library
               latest_commit_date: '2020-07-19T09:11:59Z'
@@ -138,7 +138,7 @@ landscape:
               contributors_link: 'https://github.com/finos/datahub/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/datahub'
-                stars: 19
+                stars: 20
             github_start_commit_data:
               start_commit_link: /finos/datahub/commit/809f75f64386074d19a9d51b27715b9864412616
               start_date: '2020-05-01T10:26:21Z'
@@ -178,9 +178,9 @@ landscape:
                   value: 5040
                 - name: PLpgSQL
                   value: 544
-              contributions: 1;0;0;0;4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;2;0;0
+              contributions: 1;0;0;3;1;0;0;0;0;1;0;3;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;2;0;0;0
               firstWeek: 2019-08-18Z
-              stars: 6
+              stars: 7
               license: Apache License 2.0
               description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
               latest_commit_date: '2020-07-24T11:56:04Z'
@@ -189,7 +189,7 @@ landscape:
               contributors_link: 'https://github.com/finos/exodus/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/exodus'
-                stars: 6
+                stars: 7
             github_start_commit_data:
               start_commit_link: /finos/exodus/commit/9fbc5e3c12aab9d35d211b83b9ea2b51b78fce1a
               start_date: '2018-10-30T15:28:52Z'
@@ -226,7 +226,7 @@ landscape:
                 - name: Shell
                   value: 2410
                   color: '#89e051'
-              contributions: 4;0;0;0;0;1;0;0;0;0;0;0;3;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0
+              contributions: 4;0;0;0;0;1;0;0;0;0;0;3;0;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0
               firstWeek: 2019-08-18Z
               stars: 13
               license: Apache License 2.0
@@ -277,18 +277,18 @@ landscape:
                 - name: HiveQL
                   value: 104
                   color: '#dce200'
-              contributions: 0;2;9;3;0;0;0;0;8;0;3;0;2;2;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;5;0;2;0;0;0;1;0;0;0;0;0;1;0;0;10;0
+              contributions: 0;2;9;3;0;0;0;0;8;0;3;1;2;1;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;5;2;0;0;0;0;1;0;0;0;0;0;1;0;0;10;2
               firstWeek: 2019-08-18Z
-              stars: 19
+              stars: 20
               license: Apache License 2.0
               description: kdb+ Working Group from FINOS Data Technologies program
-              latest_commit_date: '2020-08-05T09:50:13Z'
-              latest_commit_link: /finos/kdb/commit/03452220976a281a431d4b368c615b4d584f328a
+              latest_commit_date: '2020-08-14T14:23:56Z'
+              latest_commit_link: /finos/kdb/commit/c22f668cdfdcb8b7fbb58dae64324a7c2f94e4cb
               contributors_count: 11
               contributors_link: 'https://github.com/finos/kdb/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/kdb'
-                stars: 19
+                stars: 20
             github_start_commit_data:
               start_commit_link: /finos/kdb/commit/baea0768b8b1dcf6612eefc3f4513845f2802d07
               start_date: '2018-09-27T09:32:03Z'
@@ -361,9 +361,9 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 3;0;1;3;1;0;0;3;0;3;1;3;5;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 3;1;0;3;1;0;0;3;0;3;1;3;5;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
-              stars: 35
+              stars: 36
               license: Apache License 2.0
               description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
               latest_commit_date: '2020-01-15T17:37:23Z'
@@ -374,7 +374,7 @@ landscape:
               contributors_link: 'https://github.com/finos/cla-bot/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/cla-bot'
-                stars: 35
+                stars: 36
             github_start_commit_data:
               start_commit_link: /finos/cla-bot/commit/09b7ad7c3d7bd2e02b82222352dcb071989eb6a9
               start_date: '2017-04-26T05:22:44Z'
@@ -405,9 +405,9 @@ landscape:
                 - name: CSS
                   value: 6947
                   color: '#563d7c'
-              contributions: 0;3;0;0;0;0;0;0;17;0;3;0;8;18;0;0;0;1;1;0;10;4;0;4;33;1;13;0;0;0;0;15;84;13;0;4;8;20;5;3;1;1;14;11;7;42;42;5;36;20;1;1
+              contributions: 0;3;0;0;0;0;0;0;17;0;3;1;10;15;0;0;0;2;0;0;10;4;0;4;34;6;7;0;0;0;3;46;55;8;0;4;11;22;0;3;1;14;1;11;30;19;45;3;35;24;1;5
               firstWeek: 2019-08-18Z
-              stars: 28
+              stars: 30
               license: Apache License 2.0
               description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
               latest_commit_date: '2020-08-10T23:09:35Z'
@@ -416,9 +416,9 @@ landscape:
               contributors_link: 'https://github.com/finos/open-developer-platform/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/open-developer-platform'
-                stars: 22
+                stars: 23
               - url: 'https://github.com/finos/community'
-                stars: 6
+                stars: 7
             github_start_commit_data:
               start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
               start_date: '2018-08-20T12:51:46Z'
@@ -443,7 +443,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;2;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;7;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 1
               license: Creative Commons Attribution Share Alike 4.0 International
@@ -559,7 +559,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;1;0;0;0;18;2;2;1;0;7;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;1;0;0;0;3;3;0;22;23;0;1;23;10;8
+              contributions: 0;0;0;1;0;0;0;18;3;1;1;0;7;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;2;1;3;0;23;22;0;21;4;9;8
               firstWeek: 2019-08-18Z
               stars: 23
               license: Apache License 2.0
@@ -608,20 +608,20 @@ landscape:
                   value: 305
                   color: '#89e051'
               contributions: >-
-                12;2;19;44;28;40;38;17;59;33;16;28;36;37;48;70;27;48;10;16;35;40;33;34;38;28;50;16;33;64;23;13;16;54;9;39;14;24;22;34;39;42;29;50;13;29;23;41;12;21;12;11
+                7;3;29;38;31;34;37;24;60;26;22;32;31;40;46;66;30;45;6;19;35;49;23;34;37;47;30;22;30;65;22;11;21;48;15;38;9;27;21;34;43;48;19;49;13;36;22;36;15;17;12;19
               firstWeek: 2019-08-18Z
-              stars: 76
+              stars: 77
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2020-08-12T12:47:12Z'
-              latest_commit_link: /finos/waltz/commit/06707a39f3f02117be953a14dee34a8dad490e68
+              latest_commit_date: '2020-08-14T16:46:08Z'
+              latest_commit_link: /finos/waltz/commit/08c7c11dc3069dad7acae91cd3e55aa287c9ff96
               release_date: '2020-07-29T14:49:52Z'
               release_link: 'https://github.com/finos/waltz/releases'
               contributors_count: 24
               contributors_link: 'https://github.com/finos/waltz/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/waltz'
-                stars: 76
+                stars: 77
             github_start_commit_data:
               start_commit_link: /finos/waltz/commit/db3992613a4b3249c249f101e8e0f04602a82fe4
               start_date: '2016-01-18T22:06:27Z'
@@ -661,9 +661,9 @@ landscape:
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 2;0;0;1;1;0;0;1;2;0;0;0;0;0;0;8;3;2;3;1;0;14;11;8;2;24;6;10;9;7;2;7;5;11;0;0;0;0;1;9;3;0;2;3;1;0;0;7;4;2;1;3
+              contributions: 1;0;0;1;1;0;0;1;2;0;0;0;0;0;0;8;3;4;1;1;7;11;8;8;3;22;6;10;10;7;6;2;5;11;0;0;0;0;8;2;3;0;4;1;1;0;1;8;2;3;1;2
               firstWeek: 2019-08-18Z
-              stars: 51
+              stars: 52
               license: Apache License 2.0
               description: Open standards for the financial desktop.
               latest_commit_date: '2020-08-12T13:38:17Z'
@@ -674,7 +674,7 @@ landscape:
               contributors_link: 'https://github.com/finos/fdc3/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/fdc3'
-                stars: 51
+                stars: 52
             github_start_commit_data:
               start_commit_link: /finos/FDC3/commit/84bc36d712b99756534015b8043ef44c1db66b4f
               start_date: '2018-02-17T04:22:36Z'
@@ -708,7 +708,7 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;6;1;0;1;9;4;5;17;23;11;0;12;0;4;1;2;16;0;0;7;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;7;0;0;2;8;5;6;18;22;9;0;12;2;2;1;5;13;0;0;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 10
               license: Apache License 2.0
@@ -767,7 +767,7 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 2;1;3;0;7;6;0;0;0;0;4;0;0;5;0;0;0;1;4;1;5;49;34;5;6;0;0;0;0;0;0;2;3;0;0;3;0;0;4;3;0;1;2;0;2;1;0;1;3;5;0;0
+              contributions: 0;1;3;0;7;6;0;0;0;3;1;0;5;0;0;0;0;5;0;1;20;39;30;5;5;0;0;0;0;0;0;3;2;0;3;0;0;0;6;1;0;1;2;0;3;0;0;1;3;5;0;0
               firstWeek: 2019-08-18Z
               stars: 242
               license: Apache License 2.0
@@ -849,9 +849,9 @@ landscape:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 0;0;0;7;0;0;2;8;19;10;1;0;0;3;0;1;1;0;1;0;0;3;4;3;3;6;3;6;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;7;0;0;4;12;13;10;1;0;0;3;0;1;1;1;0;0;0;3;4;3;5;4;3;6;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
-              stars: 26
+              stars: 27
               license: Apache License 2.0
               description: A collection of React Hooks built on top of the Openfin API - from Scott Logic
               latest_commit_date: '2020-04-12T16:47:48Z'
@@ -862,7 +862,7 @@ landscape:
               contributors_link: 'https://github.com/finos/openfin-react-hooks/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/openfin-react-hooks'
-                stars: 26
+                stars: 27
             github_start_commit_data:
               start_commit_link: /finos/openfin-react-hooks/commit/2b114b1f209e6be905d0c62c55855679446e044c
               start_date: '2019-05-17T10:48:16Z'
@@ -899,9 +899,9 @@ landscape:
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;3;2;2;9;24;5;2;0;0;0;0;3;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;3;2;6;9;22;5;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
-              stars: 6
+              stars: 7
               license: Apache License 2.0
               description: null
               latest_commit_date: '2020-06-08T20:06:38Z'
@@ -910,7 +910,7 @@ landscape:
               contributors_link: 'https://github.com/finos/secure-electron-adapter/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/secure-electron-adapter'
-                stars: 4
+                stars: 5
               - url: 'https://github.com/finos/sea-quick-start'
                 stars: 2
             github_start_commit_data:
@@ -967,9 +967,9 @@ landscape:
                 - name: Dockerfile
                   value: 745
                   color: '#384d54'
-              contributions: 11;11;4;3;1;11;3;2;4;6;8;8;6;9;16;43;16;17;3;1;11;13;13;8;4;20;4;6;30;25;12;28;24;9;19;2;13;14;18;5;9;22;11;10;7;8;4;0;1;14;5;5
+              contributions: 8;10;3;3;1;12;2;2;4;6;10;6;9;6;20;41;19;14;1;1;15;14;9;9;3;19;4;15;23;24;17;26;22;7;19;2;16;12;18;5;12;18;12;9;7;9;3;0;1;14;6;4
               firstWeek: 2019-08-18Z
-              stars: 59
+              stars: 60
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
               latest_commit_date: '2020-08-12T16:32:07Z'
@@ -980,7 +980,7 @@ landscape:
               contributors_link: 'https://github.com/symphonyoss/SymphonyElectron/graphs/contributors'
             repos:
               - url: 'https://github.com/symphonyoss/SymphonyElectron'
-                stars: 51
+                stars: 52
               - url: 'https://github.com/symphonyoss/ScreenSnippet'
                 stars: 3
               - url: 'https://github.com/symphonyoss/SwiftSearch'
@@ -1033,7 +1033,7 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 0;7;3;3;6;3;1;0;5;10;10;1;4;6;3;7;9;4;1;0;2;0;2;3;2;0;0;6;0;4;0;4;1;17;0;9;10;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+              contributions: 7;2;1;6;6;0;1;3;2;10;10;1;6;4;3;12;5;4;0;0;2;0;2;3;2;0;0;6;0;4;0;4;5;13;0;11;9;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 2
               license: Apache License 2.0
@@ -1172,7 +1172,7 @@ landscape:
                 - name: Java
                   value: 762937
                   color: '#b07219'
-              contributions: 1;4;0;0;0;0;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;3;5;0;0;0;0;0;3;1;0;0;0;0;3;0;0;2;4;7;5;0;1;5;6;24;0;0;9;18;0;7
+              contributions: 1;3;0;0;0;0;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;3;5;0;0;0;0;0;4;0;0;0;0;0;3;0;0;2;4;7;5;0;1;11;3;21;0;0;17;10;1;6
               firstWeek: 2019-08-18Z
               stars: 5
               license: Apache License 2.0
@@ -1207,7 +1207,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1;0;1;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;1;0;0;1;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 8
               license: Apache License 2.0
@@ -1291,7 +1291,7 @@ landscape:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 7;0;0;0;4;0;1;4;0;5;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 7;0;0;0;4;0;1;4;5;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 1
               license: Apache License 2.0
@@ -1410,7 +1410,7 @@ landscape:
                 - name: Clojure
                   value: 61538
                   color: '#db5855'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 4
               license: Apache License 2.0
@@ -1446,7 +1446,7 @@ landscape:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 0;0;0;10;5;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28;10;14;0;6;6;10;7;3;4;4;2;4
+              contributions: 0;0;0;10;5;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28;16;8;0;6;8;10;6;2;6;2;4;2
               firstWeek: 2019-08-18Z
               stars: 9
               license: Apache License 2.0
@@ -1533,7 +1533,7 @@ landscape:
                 - name: Dockerfile
                   value: 401
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
               stars: 4
               license: Apache License 2.0
@@ -1578,9 +1578,9 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;0;7;3;0;0;0;0;0;0;1;0;2;0;0;0;0;0;7;2;8;0;0;5;0;0;14;0;3;0;0;0;0;0;0;0;0;0;1;0;0;0;7;0;0;4;1;1;0;0
+              contributions: 0;0;0;0;7;3;0;0;0;0;0;0;1;0;2;0;0;0;0;0;7;4;6;0;5;0;0;3;11;0;3;0;0;0;0;0;0;0;0;0;1;0;0;4;3;0;0;4;1;1;0;0
               firstWeek: 2019-08-18Z
-              stars: 18
+              stars: 19
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
               latest_commit_date: '2020-07-28T15:33:05Z'
@@ -1591,7 +1591,7 @@ landscape:
               contributors_link: 'https://github.com/finos/greenkey-asrtoolkit/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/greenkey-asrtoolkit'
-                stars: 18
+                stars: 19
             github_start_commit_data:
               start_commit_link: /finos/greenkey-asrtoolkit/commit/bad2b8be1f023a1ebb864d55fb92cc1ed35b79eb
               start_date: '2018-10-01T18:55:21Z'
@@ -1619,9 +1619,9 @@ landscape:
                 - name: Shell
                   value: 893
                   color: '#89e051'
-              contributions: 1;0;7;0;0;2;2;4;4;1;2;14;14;39;6;4;0;0;0;0;8;8;0;7;1;1;1;0;0;0;0;1;0;1;0;0;0;0;0;0;3;0;0;2;1;1;0;0;0;0;0;1
+              contributions: 0;5;2;0;0;2;2;4;4;3;0;18;13;36;6;4;0;0;0;5;3;8;0;7;1;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;0;3;0;1;0;0;0;0;1;0
               firstWeek: 2019-08-18Z
-              stars: 6
+              stars: 7
               license: Apache License 2.0
               description: Speed up business workflows through custom 'voice skills' and text (NLP) interpreters
               latest_commit_date: '2020-08-07T15:58:42Z'
@@ -1630,7 +1630,7 @@ landscape:
               contributors_link: 'https://github.com/finos/greenkey-discovery-sdk/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/greenkey-discovery-sdk'
-                stars: 6
+                stars: 7
             github_start_commit_data:
               start_commit_link: /finos/greenkey-discovery-sdk/commit/4cba3d2b3cd70d3e9aab0c63cfaca3fcbb912226
               start_date: '2018-08-01T23:10:35Z'
@@ -1652,9 +1652,9 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;3;1;0;6;7;0;0;0;4;4;1;0;0;0;0;0;7;1;0;1;0;4;1;2;1;0;0;0;0;1;0;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;3;1;5;1;7;0;0;0;4;4;1;0;0;0;0;0;7;1;0;1;0;4;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-08-18Z
-              stars: 21
+              stars: 22
               license: Apache License 2.0
               description: This is a project from FINOS Voice program to define a standard for call metadata.
               latest_commit_date: '2020-04-02T15:36:32Z'
@@ -1663,7 +1663,7 @@ landscape:
               contributors_link: 'https://github.com/finos/voice-metadata-standard/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/voice-metadata-standard'
-                stars: 21
+                stars: 22
             github_start_commit_data:
               start_commit_link: /finos/voice-metadata-standard/commit/beed905b0f232d95b21cad443c32f3a7b9796dcd
               start_date: '2018-06-11T12:46:20Z'
@@ -1721,9 +1721,9 @@ landscape:
                   value: 1594
                   color: '#427819'
               contributions: >-
-                14;19;44;17;48;38;25;36;27;58;38;26;50;18;27;25;42;54;0;10;17;28;4;31;51;44;21;35;11;28;24;15;20;13;24;17;13;18;14;24;27;25;32;17;29;8;10;5;4;25;3;1
+                9;23;45;15;48;36;29;35;32;57;30;34;44;23;20;28;48;45;0;13;20;22;8;31;47;50;20;34;11;26;24;21;15;16;19;16;13;23;10;24;38;22;24;21;26;6;11;5;3;27;1;1
               firstWeek: 2019-08-18Z
-              stars: 2816
+              stars: 2821
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
               latest_commit_date: '2020-08-10T04:19:51Z'
@@ -1732,7 +1732,7 @@ landscape:
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/perspective'
-                stars: 2816
+                stars: 2821
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -1818,7 +1818,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 110109573120
+              market_cap: 110192844800
               effective_ticker: C
             image_data:
               fileName: citigroup.svg
@@ -1827,7 +1827,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T22:26:02.000Z
+              latest_tweet_date: 2020-08-14T21:00:01.000Z
           - item:
             name: Credit Suisse
             homepage_url: 'https://www.credit-suisse.com/us/en.html'
@@ -1854,7 +1854,7 @@ landscape:
               stockExchange: swx
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28082257031
+              market_cap: 28009116551
               effective_ticker: CSGN.SW
             image_data:
               fileName: credit-suisse.svg
@@ -1897,7 +1897,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19610542080
+              market_cap: 19522379776
               effective_ticker: DB
             image_data:
               fileName: deutsche-bank.svg
@@ -1906,7 +1906,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T15:07:46.000Z
+              latest_tweet_date: 2020-08-14T15:37:56.000Z
           - item:
             name: GitHub
             homepage_url: 'https://www.github.com'
@@ -1945,7 +1945,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1579368448000
+              market_cap: 1580881936384
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -1954,7 +1954,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T20:01:05.000Z
+              latest_tweet_date: 2020-08-14T21:21:26.000Z
           - item:
             name: Goldman Sachs
             homepage_url: 'https://www.goldmansachs.com'
@@ -2028,7 +2028,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 71701995520
+              market_cap: 71557488640
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs.svg
@@ -2037,7 +2037,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T23:30:41.000Z
+              latest_tweet_date: 2020-08-14T23:30:17.000Z
           - item:
             name: JP Morgan Chase
             homepage_url: 'https://www.jpmorganchase.com'
@@ -2084,7 +2084,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 311982817280
+              market_cap: 312104747008
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase.svg
@@ -2135,7 +2135,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 82275344384
+              market_cap: 82464546816
               effective_ticker: MS
             image_data:
               fileName: morgan-stanley.svg
@@ -2144,7 +2144,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T16:31:01.000Z
+              latest_tweet_date: 2020-08-14T19:00:00.000Z
           - item:
             name: Nomura
             homepage_url: 'https://www.nomura.com'
@@ -2178,7 +2178,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15253319680
+              market_cap: 15313636352
               effective_ticker: NMR
             image_data:
               fileName: nomura.svg
@@ -2187,7 +2187,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T06:05:56.000Z
+              latest_tweet_date: 2020-08-14T05:40:20.000Z
           - item:
             name: Royal Bank of Canada
             homepage_url: 'https://www.rbcroyalbank.com'
@@ -2220,7 +2220,7 @@ landscape:
               stockExchange: tsx
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 104638939136
+              market_cap: 104437833728
               effective_ticker: RY
             image_data:
               fileName: royal-bank-of-canada.svg
@@ -2229,7 +2229,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-14T00:15:47.000Z
+              latest_tweet_date: 2020-08-14T21:19:29.000Z
           - item:
             name: Symphony LLC
             homepage_url: 'https://www.symphony.com'
@@ -2293,7 +2293,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 44390940672
+              market_cap: 44321538048
               effective_ticker: UBS
             image_data:
               fileName: ubs.svg
@@ -2302,7 +2302,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T16:18:24.000Z
+              latest_tweet_date: 2020-08-14T15:20:00.000Z
       - subcategory:
         name: Gold
         items:
@@ -2379,7 +2379,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30886858752
+              market_cap: 31722504192
               effective_ticker: COF
             image_data:
               fileName: capital-one.svg
@@ -2388,7 +2388,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T15:21:13.000Z
+              latest_tweet_date: 2020-08-14T14:00:00.000Z
           - item:
             name: HSBC
             homepage_url: 'https://www.hsbc.com'
@@ -2416,7 +2416,7 @@ landscape:
               stockExchange: epa
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 93160018163
+              market_cap: 90163739968
               effective_ticker: HSB.PA
             image_data:
               fileName: hsbc.svg
@@ -2425,7 +2425,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T15:24:30.000Z
+              latest_tweet_date: 2020-08-14T08:00:01.000Z
           - item:
             name: IHS Markit
             homepage_url: 'https://ihsmarkit.com/index.html'
@@ -2483,7 +2483,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33201090560
+              market_cap: 32836026368
               effective_ticker: INFO
             image_data:
               fileName: ihs-markit.svg
@@ -2492,7 +2492,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-12T15:35:03.000Z
+              latest_tweet_date: 2020-08-14T17:48:53.000Z
           - item:
             name: OpenFin
             homepage_url: 'https://www.openfin.co'
@@ -2521,7 +2521,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T15:14:57.000Z
+              latest_tweet_date: 2020-08-14T15:00:44.000Z
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
@@ -2597,7 +2597,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 111349088256
+              market_cap: 111562825728
               effective_ticker: IBM
             image_data:
               fileName: red-hat.svg
@@ -2606,7 +2606,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T21:02:01.000Z
+              latest_tweet_date: 2020-08-14T21:00:08.000Z
           - item:
             name: Refinitiv
             homepage_url: 'https://www.refinitiv.com/en'
@@ -2639,7 +2639,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T20:01:24.000Z
+              latest_tweet_date: 2020-08-14T17:30:07.000Z
           - item:
             name: Traderwave
             homepage_url: 'https://www.traderwave.com'
@@ -2666,7 +2666,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T10:45:06.000Z
+              latest_tweet_date: 2020-08-14T13:08:39.000Z
           - item:
             name: Wells Fargo
             homepage_url: 'https://www.wellsfargo.com'
@@ -2694,7 +2694,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 103083646976
+              market_cap: 104237260800
               effective_ticker: WFC
             image_data:
               fileName: wells-fargo.svg
@@ -2703,7 +2703,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T22:43:33.000Z
+              latest_tweet_date: 2020-08-14T22:11:52.000Z
           - item:
             name: Wipro
             homepage_url: 'https://www.wipro.com'
@@ -2795,7 +2795,7 @@ landscape:
               stockExchange: nse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21152997032
+              market_cap: 21101560971
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro.svg
@@ -2804,7 +2804,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T22:10:56.000Z
+              latest_tweet_date: 2020-08-14T22:23:50.000Z
       - subcategory:
         name: Silver
         items:
@@ -2894,7 +2894,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33024933888
+              market_cap: 33246400512
               effective_ticker: BK
             image_data:
               fileName: bny-mellon.svg
@@ -3002,7 +3002,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T18:30:42.000Z
+              latest_tweet_date: 2020-08-14T21:21:03.000Z
           - item:
             name: Epam
             homepage_url: 'https://www.epam.com'
@@ -3063,7 +3063,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 17242814464
+              market_cap: 17200924672
               effective_ticker: EPAM
             image_data:
               fileName: epam.svg
@@ -3072,7 +3072,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T17:05:24.000Z
+              latest_tweet_date: 2020-08-14T17:30:45.000Z
           - item:
             name: Genesis
             homepage_url: 'https://www.genesis.global'
@@ -3101,7 +3101,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T08:25:56.000Z
+              latest_tweet_date: 2020-08-14T10:46:13.000Z
           - item:
             name: Gitlab
             homepage_url: 'https://about.gitlab.com'
@@ -3140,7 +3140,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-14T00:22:10.000Z
+              latest_tweet_date: 2020-08-14T21:01:26.000Z
           - item:
             name: Green Key Technologies
             homepage_url: 'https://www.greenkeytech.com'
@@ -3168,7 +3168,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-12T19:59:26.000Z
+              latest_tweet_date: 2020-08-14T13:44:42.000Z
           - item:
             name: Itau
             homepage_url: 'https://www.itau.com'
@@ -3195,7 +3195,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-14T00:22:56.000Z
+              latest_tweet_date: 2020-08-15T00:00:31.000Z
           - item:
             name: Nearform
             homepage_url: 'https://www.nearform.com'
@@ -3222,7 +3222,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T20:14:59.000Z
+              latest_tweet_date: 2020-08-14T21:16:59.000Z
           - item:
             name: Scott Logic
             homepage_url: 'https://www.scottlogic.com'
@@ -3307,7 +3307,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-13T16:03:51.000Z
+              latest_tweet_date: 2020-08-14T14:20:03.000Z
 twitter_options:
   count: 0
-updated_at: 2020-08-14T00:28:55.791Z
+updated_at: 2020-08-15T00:30:30.244Z
