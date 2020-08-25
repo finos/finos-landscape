@@ -7,15 +7,27 @@ landscape:
         name: Data Management
         items:
           - item:
-            organization:
-              name: FINOS
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            project: incubating
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
             repo_url: 'https://github.com/finos/alloy'
             logo: alloy.svg
             crunchbase_data:
               name: FINOS
-              parents: []
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
               languages:
                 - name: CSS
@@ -51,6 +63,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-08-24T15:45:59.000Z
           - item:
             organization:
               name: FINOS

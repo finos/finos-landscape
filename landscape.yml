@@ -6,8 +6,7 @@ landscape:
         name: Data Management
         items:
           - item:
-            organization:
-              name: FINOS
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
             project: incubating
             name: Alloy
             homepage_url: 'https://github.com/finos/alloy'
