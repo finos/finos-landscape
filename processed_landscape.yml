@@ -30,9 +30,9 @@ landscape:
                 - name: Shell
                   value: 2825
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0;0;4;0;1;11;60;12;8;17;1;8;7;10;16;42;26;83;23;37;54;47;21;27;35;26;5;2;0;0;0;5;0;4;7;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;6;2;0;0;4;0;1;18;53;13;18;6;3;6;7;10;33;28;69;45;26;47;46;44;19;33;30;20;4;0;0;0;0;5;2;2;7;0;0
               firstWeek: 2019-09-15Z
-              stars: 43
+              stars: 44
               license: Apache License 2.0
               description: The PURE/Alloy project
               latest_commit_date: '2020-08-20T21:20:56Z'
@@ -41,7 +41,7 @@ landscape:
               contributors_link: 'https://github.com/finos/alloy/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/alloy'
-                stars: 43
+                stars: 44
             github_start_commit_data:
               start_commit_link: /finos/alloy/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
               start_date: '2019-12-12T10:13:48Z'
@@ -81,7 +81,7 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 118;93;105;143;88;77;57;63;84;54;39;30;19;21;0;0;0;50;48;43;14;4;3;1;1;5;0;0;0;4;0;0;0;0;0;12;0;3;1;1;0;0;0;4;23;0;2;0;0;0;5;4
+              contributions: 100;108;93;139;85;75;50;65;87;59;33;27;14;21;0;0;0;63;44;34;14;4;3;1;1;5;0;0;0;4;0;0;0;0;0;12;0;3;1;1;0;0;0;10;17;0;2;0;0;0;5;4
               firstWeek: 2019-09-15Z
               stars: 75
               license: Other
@@ -127,9 +127,9 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;29;43;5;0;0;0;0;0;6;1;2;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;28;35;5;0;0;0;0;0;7;1;1;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
-              stars: 23
+              stars: 24
               license: Apache License 2.0
               description: DataHub - Synthetic data library
               latest_commit_date: '2020-07-19T09:11:59Z'
@@ -138,7 +138,7 @@ landscape:
               contributors_link: 'https://github.com/finos/datahub/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/datahub'
-                stars: 23
+                stars: 24
             github_start_commit_data:
               start_commit_link: /finos/datahub/commit/809f75f64386074d19a9d51b27715b9864412616
               start_date: '2020-05-01T10:26:21Z'
@@ -178,9 +178,9 @@ landscape:
                   value: 5040
                 - name: PLpgSQL
                   value: 544
-              contributions: 4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;0;3;0;0;0;2;0;0;0;0;0;0
+              contributions: 4;0;0;0;0;1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;2;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
-              stars: 7
+              stars: 8
               license: Apache License 2.0
               description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
               latest_commit_date: '2020-07-24T11:56:04Z'
@@ -189,7 +189,7 @@ landscape:
               contributors_link: 'https://github.com/finos/exodus/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/exodus'
-                stars: 7
+                stars: 8
             github_start_commit_data:
               start_commit_link: /finos/exodus/commit/9fbc5e3c12aab9d35d211b83b9ea2b51b78fce1a
               start_date: '2018-10-30T15:28:52Z'
@@ -277,7 +277,7 @@ landscape:
                 - name: HiveQL
                   value: 104
                   color: '#dce200'
-              contributions: 3;0;0;0;0;8;0;3;1;3;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;1;4;2;0;0;0;1;0;0;0;0;0;1;0;0;7;3;2;0;0;0
+              contributions: 0;0;0;0;5;3;0;3;1;3;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;3;2;2;0;0;0;1;0;0;0;0;0;1;0;0;7;3;2;0;0;0
               firstWeek: 2019-09-15Z
               stars: 20
               license: Apache License 2.0
@@ -318,7 +318,7 @@ landscape:
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
-              stars: 0
+              stars: 1
               license: Apache License 2.0
               description: Security Reference Data project
               latest_commit_date: '2020-07-16T19:38:21Z'
@@ -327,7 +327,7 @@ landscape:
               contributors_link: 'https://github.com/finos/secref-data/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/secref-data'
-                stars: 0
+                stars: 1
             github_start_commit_data:
               start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
               start_date: '2020-04-29T08:05:47Z'
@@ -361,7 +361,7 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 1;1;0;3;0;0;3;1;8;0;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;0;0;3;0;0;4;2;6;0;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 36
               license: Apache License 2.0
@@ -405,7 +405,7 @@ landscape:
                 - name: CSS
                   value: 6947
                   color: '#563d7c'
-              contributions: 0;0;0;0;9;8;3;0;1;17;8;0;0;0;2;0;6;8;0;1;3;34;6;7;0;0;0;9;50;45;8;4;8;3;22;3;0;1;14;2;13;27;29;37;1;37;22;2;4;2;0;0
+              contributions: 0;0;0;0;17;0;3;0;8;18;0;0;0;0;2;0;10;4;0;4;15;19;13;0;0;0;0;13;57;34;8;4;8;5;20;3;0;1;14;5;10;27;29;37;29;19;12;2;4;2;0;0
               firstWeek: 2019-09-15Z
               stars: 30
               license: Apache License 2.0
@@ -443,7 +443,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;7;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 1
               license: Creative Commons Attribution Share Alike 4.0 International
@@ -559,7 +559,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;18;3;1;1;0;7;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;2;1;3;0;23;22;0;21;4;9;8;0;0;0
+              contributions: 0;0;0;15;4;2;1;1;1;6;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;3;0;3;1;27;17;0;21;4;9;8;0;0;0
               firstWeek: 2019-09-15Z
               stars: 23
               license: Apache License 2.0
@@ -593,29 +593,28 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 3639423
+                  value: 3639436
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2320546
+                  value: 2320544
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1453221
+                  value: 1453657
                   color: '#e34c26'
-                - name: CSS
+                - name: SCSS
                   value: 155323
-                  color: '#563d7c'
                 - name: Shell
                   value: 305
                   color: '#89e051'
               contributions: >-
-                38;37;26;36;27;62;21;17;35;34;47;59;51;33;36;5;27;32;47;22;42;33;52;22;20;57;45;15;11;30;34;25;29;20;19;21;30;51;49;21;39;20;31;29;28;19;18;16;14;13;21;30
+                46;31;30;34;41;43;22;18;36;32;64;57;37;49;17;4;34;40;36;37;37;31;49;18;19;61;40;12;16;56;9;28;24;17;19;28;34;56;39;19;41;23;24;36;23;21;17;12;17;12;24;31
               firstWeek: 2019-09-15Z
               stars: 78
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2020-09-07T08:12:44Z'
-              latest_commit_link: /finos/waltz/commit/b4fdc5860f17070affe991fe84487eedc5f60857
-              release_date: '2020-09-01T19:08:17Z'
+              latest_commit_date: '2020-09-08T15:17:18Z'
+              latest_commit_link: /finos/waltz/commit/5b8a641bdfcc4fcd922c77f44a3af0e14c14ea25
+              release_date: '2020-09-08T16:44:26Z'
               release_link: 'https://github.com/finos/waltz/releases'
               contributors_count: 26
               contributors_link: 'https://github.com/finos/waltz/graphs/contributors'
@@ -661,7 +660,7 @@ landscape:
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 1;1;0;0;1;2;0;0;0;0;0;0;9;4;2;2;0;7;11;14;3;10;14;7;16;4;6;6;2;7;9;0;0;0;0;10;0;3;2;2;2;0;0;2;7;2;3;1;2;0;0;2
+              contributions: 1;1;0;0;1;2;0;0;0;0;0;4;5;4;3;1;0;7;12;14;2;10;14;7;18;4;4;8;4;3;9;0;0;0;0;10;0;3;2;2;2;0;0;3;8;0;3;1;2;0;0;2
               firstWeek: 2019-09-15Z
               stars: 55
               license: Apache License 2.0
@@ -708,7 +707,7 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;2;2;6;5;0;1;7;2;6;10;14;27;3;5;7;4;1;0;11;7;0;6;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;4;2;4;5;0;1;9;4;2;19;13;19;3;8;4;4;1;1;16;1;0;6;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 10
               license: Apache License 2.0
@@ -767,7 +766,7 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 0;8;5;0;0;0;3;1;0;5;0;0;0;0;5;1;0;22;58;11;5;3;0;0;0;0;0;0;3;2;0;3;0;0;0;6;1;0;1;2;0;3;0;0;1;4;4;0;0;0;0;0
+              contributions: 3;6;4;0;0;0;4;0;0;5;0;0;0;0;5;1;0;42;40;10;6;1;0;0;0;0;0;0;3;2;0;3;0;0;2;4;1;0;1;2;2;1;0;0;1;6;2;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 244
               license: Apache License 2.0
@@ -849,7 +848,7 @@ landscape:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 7;0;0;5;20;5;9;1;0;0;3;0;2;0;1;0;0;1;3;3;3;8;4;5;1;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 7;0;1;8;20;4;7;0;0;0;3;0;2;0;1;0;0;2;3;4;3;7;3;6;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 28
               license: Apache License 2.0
@@ -899,7 +898,7 @@ landscape:
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;2;1;8;9;20;5;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;2;1;8;11;18;5;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 7
               license: Apache License 2.0
@@ -978,7 +977,7 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 1;3;12;0;3;6;4;9;8;11;5;31;29;17;15;1;1;18;12;12;4;8;15;4;18;21;24;29;14;22;7;17;10;9;12;17;6;15;18;12;5;7;9;3;0;2;13;6;4;9;18;10
+              contributions: 2;5;9;1;4;4;4;11;8;9;10;42;16;20;9;1;1;21;11;10;6;14;8;5;22;27;13;31;19;15;20;5;11;9;14;13;7;17;18;10;6;8;8;0;1;6;9;7;3;15;12;9
               firstWeek: 2019-09-15Z
               stars: 61
               license: Apache License 2.0
@@ -1044,7 +1043,7 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 6;6;1;0;5;0;10;10;1;6;4;5;11;4;4;0;0;2;0;2;3;2;0;0;6;0;4;1;3;5;13;5;11;4;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+              contributions: 3;6;1;0;5;6;4;10;2;7;5;3;12;5;1;0;0;2;0;5;2;0;0;0;6;0;4;2;3;13;4;6;11;3;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 2
               license: Apache License 2.0
@@ -1183,7 +1182,7 @@ landscape:
                 - name: Java
                   value: 762937
                   color: '#b07219'
-              contributions: 0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;3;0;5;0;0;0;0;0;4;0;0;0;0;0;3;0;1;1;8;3;5;0;3;9;4;20;0;0;19;8;2;5;0;0;0
+              contributions: 0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;3;1;4;0;0;0;0;1;3;0;0;0;0;0;3;0;2;0;11;0;5;0;6;6;9;15;0;0;20;7;7;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 5
               license: Apache License 2.0
@@ -1218,7 +1217,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;5;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;2;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0
               firstWeek: 2019-09-15Z
               stars: 8
               license: Apache License 2.0
@@ -1302,7 +1301,7 @@ landscape:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 0;4;0;3;2;5;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;4;1;2;2;5;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 1
               license: Apache License 2.0
@@ -1421,7 +1420,7 @@ landscape:
                 - name: Clojure
                   value: 61538
                   color: '#db5855'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 4
               license: Apache License 2.0
@@ -1457,7 +1456,7 @@ landscape:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 10;5;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;12;20;4;2;6;8;9;5;4;4;3;3;4;2;1;1
+              contributions: 12;3;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;6;22;2;6;6;6;9;3;6;2;3;3;6;0;2;0
               firstWeek: 2019-09-15Z
               stars: 9
               license: Apache License 2.0
@@ -1589,7 +1588,7 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 7;1;2;0;0;0;0;0;0;1;0;2;0;0;0;0;0;7;4;6;0;5;0;0;7;7;0;3;0;0;0;0;0;0;0;0;0;1;0;0;4;3;0;0;4;1;1;0;0;0;0;0
+              contributions: 7;3;0;0;0;0;0;0;1;0;0;2;0;0;0;0;5;2;10;0;0;5;0;0;8;6;1;2;0;0;0;0;0;0;0;0;1;0;0;0;7;0;0;0;5;1;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 20
               license: Apache License 2.0
@@ -1630,7 +1629,7 @@ landscape:
                 - name: Shell
                   value: 893
                   color: '#89e051'
-              contributions: 0;1;1;3;3;4;3;0;18;14;35;7;3;0;0;0;5;11;0;0;7;1;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;2;1;0;1;0;0;0;0;1;0;0;0;8
+              contributions: 0;2;2;1;7;0;3;0;24;38;11;1;3;0;0;0;5;11;0;0;7;1;2;0;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;2;1;1;0;0;0;0;0;1;0;0;0;8
               firstWeek: 2019-09-15Z
               stars: 7
               license: Apache License 2.0
@@ -1663,7 +1662,7 @@ landscape:
               parents: []
             github_data:
               languages: []
-              contributions: 6;5;2;0;0;1;4;3;1;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 6;6;1;0;0;3;4;2;0;0;0;0;0;7;0;1;1;0;2;2;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-09-15Z
               stars: 22
               license: Apache License 2.0
@@ -1700,28 +1699,27 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1615814
+                  value: 1615973
                   color: '#f1e05a'
                 - name: C++
                   value: 1298185
                   color: '#f34b7d'
                 - name: Python
-                  value: 759243
+                  value: 747974
                   color: '#3572A5'
-                - name: CSS
-                  value: 91450
-                  color: '#563d7c'
+                - name: Less
+                  value: 90591
                 - name: CMake
                   value: 63079
-                - name: HTML
-                  value: 37074
-                  color: '#e34c26'
                 - name: TypeScript
                   value: 36193
                   color: '#2b7489'
                 - name: Dockerfile
                   value: 33805
                   color: '#384d54'
+                - name: HTML
+                  value: 24619
+                  color: '#e34c26'
                 - name: C
                   value: 5251
                   color: '#555555'
@@ -1731,19 +1729,22 @@ landscape:
                 - name: Makefile
                   value: 1594
                   color: '#427819'
+                - name: CSS
+                  value: 1053
+                  color: '#563d7c'
               contributions: >-
-                34;45;31;25;35;51;39;29;37;36;23;19;32;59;24;6;12;23;14;19;55;38;26;35;18;16;27;22;23;14;22;8;21;9;24;13;23;37;19;26;26;21;4;11;4;9;24;9;7;16;26;17
+                44;42;25;27;38;47;45;23;49;27;26;18;35;59;14;8;14;24;10;25;55;33;29;34;17;21;29;15;23;12;27;14;15;6;23;15;20;38;31;16;25;19;4;13;1;18;16;8;7;23;26;27
               firstWeek: 2019-09-15Z
-              stars: 2867
+              stars: 2870
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
-              latest_commit_date: '2020-09-07T05:25:53Z'
-              latest_commit_link: /finos/perspective/commit/427270aef84777789cdad0272515e99350d10eb7
+              latest_commit_date: '2020-09-08T20:16:34Z'
+              latest_commit_link: /finos/perspective/commit/595ef1de400543f33bf58e3f4f45d08af914df78
               contributors_count: 55
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/perspective'
-                stars: 2867
+                stars: 2870
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -1786,7 +1787,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T15:49:00.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
   - category:
     name: FINOS Members
     subcategories:
@@ -1829,7 +1830,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 110295154688
+              market_cap: 107187068928
               effective_ticker: C
             image_data:
               fileName: citigroup.svg
@@ -1838,7 +1839,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T12:29:15.000Z
+              latest_tweet_date: 2020-09-08T19:00:02.000Z
           - item:
             name: Deutsche Bank
             homepage_url: 'https://www.db.com/company/index.htm'
@@ -1872,7 +1873,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19813197824
+              market_cap: 19161583616
               effective_ticker: DB
             image_data:
               fileName: deutsche-bank.svg
@@ -1881,7 +1882,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T06:15:03.000Z
+              latest_tweet_date: 2020-09-08T16:50:42.000Z
           - item:
             name: GitHub
             homepage_url: 'https://www.github.com'
@@ -1920,7 +1921,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1621369028608
+              market_cap: 1533659971584
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -1929,7 +1930,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-05T09:00:10.000Z
+              latest_tweet_date: 2020-09-08T18:00:30.000Z
           - item:
             name: Goldman Sachs
             homepage_url: 'https://www.goldmansachs.com'
@@ -2003,7 +2004,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 72579391488
+              market_cap: 69668503552
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs.svg
@@ -2012,7 +2013,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-05T11:00:00.000Z
+              latest_tweet_date: 2020-09-08T23:00:18.000Z
           - item:
             name: JP Morgan Chase
             homepage_url: 'https://www.jpmorganchase.com'
@@ -2059,7 +2060,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 315487551488
+              market_cap: 304516202496
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase.svg
@@ -2068,7 +2069,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-04T21:07:47.000Z
+              latest_tweet_date: 2020-09-08T20:57:05.000Z
           - item:
             name: Morgan Stanley
             homepage_url: 'https://www.morganstanley.com'
@@ -2110,7 +2111,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 83111018496
+              market_cap: 79106048000
               effective_ticker: MS
             image_data:
               fileName: morgan-stanley.svg
@@ -2119,7 +2120,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-06T19:00:01.000Z
+              latest_tweet_date: 2020-09-08T20:30:01.000Z
           - item:
             name: Nomura
             homepage_url: 'https://www.nomura.com'
@@ -2153,7 +2154,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15677835264
+              market_cap: 15342968832
               effective_ticker: NMR
             image_data:
               fileName: nomura.svg
@@ -2162,7 +2163,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-03T09:46:50.000Z
+              latest_tweet_date: 2020-09-08T13:05:00.000Z
           - item:
             name: Royal Bank of Canada
             homepage_url: 'https://www.rbcroyalbank.com'
@@ -2195,7 +2196,7 @@ landscape:
               stockExchange: tsx
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 104881766400
+              market_cap: 102818611200
               effective_ticker: RY
             image_data:
               fileName: royal-bank-of-canada.svg
@@ -2204,7 +2205,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T23:32:32.000Z
+              latest_tweet_date: 2020-09-08T23:52:56.000Z
           - item:
             name: Symphony LLC
             homepage_url: 'https://www.symphony.com'
@@ -2235,7 +2236,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-03T13:49:21.000Z
+              latest_tweet_date: 2020-09-08T17:56:47.000Z
           - item:
             name: UBS
             homepage_url: 'https://www.ubs.com/us/en.html'
@@ -2268,7 +2269,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43902337024
+              market_cap: 42937843712
               effective_ticker: UBS
             image_data:
               fileName: ubs.svg
@@ -2277,7 +2278,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T14:00:00.000Z
+              latest_tweet_date: 2020-09-08T21:00:00.000Z
       - subcategory:
         name: Gold
         items:
@@ -2356,7 +2357,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33786497024
+              market_cap: 32128909312
               effective_ticker: COF
             image_data:
               fileName: capital-one.svg
@@ -2393,7 +2394,7 @@ landscape:
               stockExchange: epa
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 86964479622
+              market_cap: 85319417235
               effective_ticker: HSB.PA
             image_data:
               fileName: hsbc.svg
@@ -2402,7 +2403,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T10:15:01.000Z
+              latest_tweet_date: 2020-09-08T09:38:25.000Z
           - item:
             name: IHS Markit
             homepage_url: 'https://ihsmarkit.com/index.html'
@@ -2460,7 +2461,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31423383552
+              market_cap: 30395643904
               effective_ticker: INFO
             image_data:
               fileName: ihs-markit.svg
@@ -2469,7 +2470,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-04T14:40:03.000Z
+              latest_tweet_date: 2020-09-08T21:40:02.000Z
           - item:
             name: OpenFin
             homepage_url: 'https://www.openfin.co'
@@ -2498,7 +2499,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T17:00:37.000Z
+              latest_tweet_date: 2020-09-08T20:48:17.000Z
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
@@ -2574,7 +2575,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 108917817344
+              market_cap: 107947081728
               effective_ticker: IBM
             image_data:
               fileName: red-hat.svg
@@ -2583,7 +2584,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T20:00:19.000Z
+              latest_tweet_date: 2020-09-08T21:52:50.000Z
           - item:
             name: Refinitiv
             homepage_url: 'https://www.refinitiv.com/en'
@@ -2616,7 +2617,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T18:01:35.000Z
+              latest_tweet_date: 2020-09-08T19:01:47.000Z
           - item:
             name: Traderwave
             homepage_url: 'https://www.traderwave.com'
@@ -2643,7 +2644,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T10:45:02.000Z
+              latest_tweet_date: 2020-09-08T10:45:06.000Z
           - item:
             name: Wells Fargo
             homepage_url: 'https://www.wellsfargo.com'
@@ -2671,7 +2672,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 102344278016
+              market_cap: 98958942208
               effective_ticker: WFC
             image_data:
               fileName: wells-fargo.svg
@@ -2680,7 +2681,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T14:14:49.000Z
+              latest_tweet_date: 2020-09-08T18:02:21.000Z
           - item:
             name: Wipro
             homepage_url: 'https://www.wipro.com'
@@ -2772,7 +2773,7 @@ landscape:
               stockExchange: nse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21598960224
+              market_cap: 21795362559
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro.svg
@@ -2781,7 +2782,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T21:43:33.000Z
+              latest_tweet_date: 2020-09-08T23:30:03.000Z
       - subcategory:
         name: Silver
         items:
@@ -2811,7 +2812,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-03T07:58:49.000Z
+              latest_tweet_date: 2020-09-08T08:21:07.000Z
           - item:
             name: AQR
             homepage_url: 'https://www.aqr.com'
@@ -2871,7 +2872,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33219825664
+              market_cap: 31926468608
               effective_ticker: BK
             image_data:
               fileName: bny-mellon.svg
@@ -2880,7 +2881,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T21:00:46.000Z
+              latest_tweet_date: 2020-09-08T20:45:03.000Z
           - item:
             name: ChartIQ
             homepage_url: 'https://cosaic.io'
@@ -2938,7 +2939,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-03T13:45:00.000Z
+              latest_tweet_date: 2020-09-08T19:58:58.000Z
           - item:
             name: CloudBees
             homepage_url: 'https://www.cloudbees.com'
@@ -2979,7 +2980,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T18:00:37.000Z
+              latest_tweet_date: 2020-09-08T21:13:24.000Z
           - item:
             name: Epam
             homepage_url: 'https://www.epam.com'
@@ -3040,7 +3041,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 17666177024
+              market_cap: 17278001152
               effective_ticker: EPAM
             image_data:
               fileName: epam.svg
@@ -3049,7 +3050,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T18:45:09.000Z
+              latest_tweet_date: 2020-09-08T19:05:04.000Z
           - item:
             name: Genesis
             homepage_url: 'https://www.genesis.global'
@@ -3078,7 +3079,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T13:15:03.000Z
+              latest_tweet_date: 2020-09-08T11:19:56.000Z
           - item:
             name: Gitlab
             homepage_url: 'https://about.gitlab.com'
@@ -3117,7 +3118,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T16:56:06.000Z
+              latest_tweet_date: 2020-09-08T22:19:01.000Z
           - item:
             name: Green Key Technologies
             homepage_url: 'https://www.greenkeytech.com'
@@ -3172,7 +3173,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T19:27:41.000Z
+              latest_tweet_date: 2020-09-08T23:55:30.000Z
           - item:
             name: Nearform
             homepage_url: 'https://www.nearform.com'
@@ -3199,7 +3200,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-06T18:59:59.000Z
+              latest_tweet_date: 2020-09-08T18:29:59.000Z
           - item:
             name: Scott Logic
             homepage_url: 'https://www.scottlogic.com'
@@ -3284,7 +3285,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-07T14:02:39.000Z
+              latest_tweet_date: 2020-09-08T16:30:19.000Z
 twitter_options:
   count: 0
-updated_at: 2020-09-08T00:33:05.897Z
+updated_at: 2020-09-09T00:31:08.311Z
