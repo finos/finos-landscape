@@ -64,7 +64,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: datahelix.svg
             name: Data Helix
             item: null
@@ -133,7 +133,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: datahub.svg
             name: DataHub
             item: null
@@ -189,7 +189,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: exodus.svg
             name: Exodus
             item: null
@@ -254,7 +254,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: Models
         items:
@@ -316,7 +316,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: Tick & Reference
         items:
@@ -350,9 +350,9 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0
-              firstWeek: 2019-09-01Z
-              stars: 0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;0
+              firstWeek: 2019-09-15Z
+              stars: 1
               license: Apache License 2.0
               description: Security Reference Data project
               latest_commit_date: '2020-07-16T19:38:21Z'
@@ -361,7 +361,7 @@ landscape:
               contributors_link: 'https://github.com/finos/secref-data/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/secref-data'
-                stars: 0
+                stars: 1
             github_start_commit_data:
               start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
               start_date: '2020-04-29T08:05:47Z'
@@ -372,7 +372,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: finos.svg
             name: kdb+
             item: null
@@ -433,50 +433,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-<<<<<<< HEAD
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
-=======
-          - item:
-            organization:
-              name: FINOS
-            name: Security Reference Data
-            homepage_url: 'https://github.com/finos/secref-data'
-            repo_url: 'https://github.com/finos/secref-data'
-            logo: security-reference-data.svg
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 15734
-                  color: '#f1e05a'
-                - name: CSS
-                  value: 3644
-                  color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;0
-              firstWeek: 2019-09-15Z
-              stars: 1
-              license: Apache License 2.0
-              description: Security Reference Data project
-              latest_commit_date: '2020-07-16T19:38:21Z'
-              latest_commit_link: /finos/secref-data/commit/a06d5bca700c80e41b4456c29be7e5352e689fc1
-              contributors_count: 4
-              contributors_link: 'https://github.com/finos/secref-data/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/secref-data'
-                stars: 1
-            github_start_commit_data:
-              start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
-              start_date: '2020-04-29T08:05:47Z'
-            image_data:
-              fileName: security-reference-data.svg
-              hash: aRfTCmhAjtWmr2Bg8YgU7DwDNkMacPVU2MStQ7Nxffk=
-            best_practice_data:
-              badge: false
-              percentage: null
->>>>>>> master
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
   - category:
     name: Enablement
     subcategories:
@@ -537,7 +495,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: open-developer-platform.svg
             name: Open Developer Platform
             item: null
@@ -595,50 +553,11 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: OSS Readiness
         items:
-<<<<<<< HEAD
           - logo: oslc-handbook.svg
-=======
-          - item:
-            organization:
-              name: FINOS
-            name: Open source readiness
-            homepage_url: 'https://github.com/finos/osr-checklists'
-            repo_url: 'https://github.com/finos/osr-checklists'
-            logo: open-source-readiness.svg
-            crunchbase_data:
-              name: FINOS
-              parents: []
-            github_data:
-              languages: []
-              contributions: 0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-09-15Z
-              stars: 1
-              license: Creative Commons Attribution Share Alike 4.0 International
-              description: Checklists for key components and processes of open source programs
-              latest_commit_date: '2019-11-06T16:30:54Z'
-              latest_commit_link: /finos/osr-checklists/commit/cc49497a319788d31a52b63135b0a1d30bfe8a0e
-              contributors_count: 1
-              contributors_link: 'https://github.com/finos/osr-checklists/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/osr-checklists'
-                stars: 1
-            github_start_commit_data:
-              start_commit_link: /finos/osr-checklists/commit/d73ea8b8e0c862acae581b2945456fcfe2c0a3e0
-              start_date: '2019-10-23T13:26:08Z'
-            image_data:
-              fileName: open-source-readiness.svg
-              hash: m4P28XX/hwpIngu38vKmC2ExwTY8AEz3Q8IJnOVxIwU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            organization:
-              name: FINOS
->>>>>>> master
             name: OSLC Handbook
             item: null
             project: incubating
@@ -695,7 +614,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: open-source-readiness.svg
             name: Open source readiness
             item: null
@@ -720,8 +639,8 @@ landscape:
               stockExchange: null
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;7;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-09-01Z
+              contributions: 0;0;0;0;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-09-15Z
               stars: 1
               license: Creative Commons Attribution Share Alike 4.0 International
               description: Checklists for key components and processes of open source programs
@@ -742,7 +661,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: reference-foss-policy.svg
             name: Reference FOSS Policy
             item: null
@@ -789,7 +708,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -842,7 +761,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: waltz.svg
             name: Waltz
             item: null
@@ -906,7 +825,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -973,7 +892,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: fdc3-desktop-agent.svg
             name: FDC3 Desktop Agent
             item: null
@@ -1032,7 +951,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: plexus-interop.svg
             name: Plexus Interop
             item: null
@@ -1109,7 +1028,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
@@ -1165,7 +1084,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: openfin-react-hooks.svg
             name: OpenFin React Hooks
             item: null
@@ -1217,7 +1136,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: Containers
         items:
@@ -1281,7 +1200,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony-electron.svg
             name: Symphony Electron
             item: null
@@ -1384,7 +1303,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
   - category:
     name: Applications
     subcategories:
@@ -1458,7 +1377,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Integration Bridge
             item: null
@@ -1528,7 +1447,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: JCurl
             item: null
@@ -1583,7 +1502,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: MessageML Utilities
             item: null
@@ -1635,7 +1554,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: REST API Specification
             item: null
@@ -1682,7 +1601,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: REST API Tools
             item: null
@@ -1744,7 +1663,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: S2 Common Components
             item: null
@@ -1796,7 +1715,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Symfuny Chat Bot
             item: null
@@ -1852,7 +1771,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Symphony .NET Client
             item: null
@@ -1905,7 +1824,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Symphony Clojure Client
             item: null
@@ -1955,7 +1874,7 @@ landscape:
               badge: 996
               percentage: 86
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Symphony Hubot Client
             item: null
@@ -2007,7 +1926,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Symphony Java Client
             item: null
@@ -2064,7 +1983,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: symphony.svg
             name: Unfurl Bot
             item: null
@@ -2120,7 +2039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: Voice Tech
         items:
@@ -2181,7 +2100,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: greenkey-discovery-sdk.svg
             name: Greenkey Discovery SDK
             item: null
@@ -2234,7 +2153,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
           - logo: voice-metadata-standard.svg
             name: Voice Metadata Standardization
             item: null
@@ -2281,7 +2200,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
       - subcategory:
         name: UI Frameworks
         items:
@@ -2366,7 +2285,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-08-24T15:45:59.000Z
+              latest_tweet_date: 2020-09-08T20:40:59.000Z
   - category:
     name: FINOS
     subcategories:
