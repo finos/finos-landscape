@@ -5,60 +5,60 @@ landscape:
       - subcategory:
         name: Data Management
         items:
-          - logo: alloy.svg
+          - item:
             name: Alloy
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/alloy'
+            project: incubating
             repo_url: 'https://github.com/finos/alloy'
+            logo: alloy.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: datahelix.svg
+          - item:
             name: Data Helix
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/datahelix'
+            project: incubating
             repo_url: 'https://github.com/finos/datahelix'
+            logo: datahelix.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: datahub.svg
+          - item:
             name: DataHub
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/datahub'
-            repo_url: 'https://github.com/finos/datahub'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: exodus.svg
-            name: Exodus
-            item: null
             project: incubating
+            repo_url: 'https://github.com/finos/datahub'
+            logo: datahub.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
+            name: Exodus
             homepage_url: 'https://github.com/finos/exodus'
+            project: incubating
             repo_url: 'https://github.com/finos/exodus'
+            logo: exodus.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: Models
         items:
-          - logo: financial-objects.svg
+          - item:
             name: Financial Objects
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/finos-fo'
+            project: incubating
             repo_url: 'https://github.com/finos/finos-fo'
+            logo: financial-objects.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: Tick & Reference
         items:
-          - logo: security-reference-data.svg
-            name: Security Reference Data
-            item: null
-            project: incubating
-            homepage_url: 'https://github.com/finos/secref-data'
-            repo_url: 'https://github.com/finos/secref-data'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: finos.svg
+          - item:
             name: kdb+
-            item: null
-            project: incubating
             homepage_url: 'https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project'
+            project: incubating
             repo_url: 'https://github.com/finos/kdb'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
+            name: Security Reference Data
+            homepage_url: 'https://github.com/finos/secref-data'
+            project: incubating
+            repo_url: 'https://github.com/finos/secref-data'
+            logo: security-reference-data.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
   - category:
     name: Enablement
@@ -66,45 +66,45 @@ landscape:
       - subcategory:
         name: ODP Toolchain
         items:
-          - logo: cla-bot.svg
+          - item:
             name: CLA Bot
-            item: null
-            project: active
             homepage_url: 'https://github.com/finos/cla-bot'
+            project: active
             repo_url: 'https://github.com/finos/cla-bot'
+            logo: cla-bot.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: open-developer-platform.svg
+          - item:
             name: Open Developer Platform
-            item: null
+            homepage_url: 'https://github.com/finos/open-developer-platform'
+            project: incubating
+            repo_url: 'https://github.com/finos/open-developer-platform'
             additional_repos:
               - repo_url: 'https://github.com/finos/community'
-            project: incubating
-            homepage_url: 'https://github.com/finos/open-developer-platform'
-            repo_url: 'https://github.com/finos/open-developer-platform'
+            logo: open-developer-platform.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: OSS Readiness
         items:
-          - logo: oslc-handbook.svg
-            name: OSLC Handbook
-            item: null
-            project: incubating
-            homepage_url: 'https://github.com/finos/OSLC-handbook'
-            repo_url: 'https://github.com/finos/OSLC-handbook'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: open-source-readiness.svg
+          - item:
             name: Open source readiness
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/osr-checklists'
-            repo_url: 'https://github.com/finos/osr-checklists'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: reference-foss-policy.svg
-            name: Reference FOSS Policy
-            item: null
             project: incubating
+            repo_url: 'https://github.com/finos/osr-checklists'
+            logo: open-source-readiness.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
+            name: OSLC Handbook
+            homepage_url: 'https://github.com/finos/OSLC-handbook'
+            project: incubating
+            repo_url: 'https://github.com/finos/OSLC-handbook'
+            logo: oslc-handbook.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
+            name: Reference FOSS Policy
             homepage_url: 'https://github.com/finos/reference-foss-policy'
+            project: incubating
             repo_url: 'https://github.com/finos/reference-foss-policy'
+            logo: reference-foss-policy.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
   - category:
     name: Infrastructure
@@ -112,19 +112,19 @@ landscape:
       - subcategory:
         name: Compliance & Management
         items:
-          - logo: cloud-service-certification.svg
+          - item:
             name: Cloud Service Certification
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/cloud-service-certification'
+            project: incubating
             repo_url: 'https://github.com/finos/cloud-service-certification'
+            logo: cloud-service-certification.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: waltz.svg
+          - item:
             name: Waltz
-            item: null
-            project: active
             homepage_url: 'https://github.com/finos/waltz'
+            project: active
             repo_url: 'https://github.com/finos/waltz'
+            logo: waltz.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
   - category:
     name: Platforms & Runtimes
@@ -132,70 +132,70 @@ landscape:
       - subcategory:
         name: Interop
         items:
-          - logo: fdc3.svg
+          - item:
             name: FDC3
-            item: null
-            project: active
             homepage_url: 'https://github.com/finos/fdc3'
+            project: active
             repo_url: 'https://github.com/finos/fdc3'
+            logo: fdc3.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: fdc3-desktop-agent.svg
+          - item:
             name: FDC3 Desktop Agent
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
+            project: incubating
             repo_url: 'https://github.com/finos/fdc3-desktop-agent'
+            logo: fdc3-desktop-agent.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: plexus-interop.svg
+          - item:
             name: Plexus Interop
-            item: null
+            homepage_url: 'https://github.com/finos/plexus-interop'
+            project: incubating
+            repo_url: 'https://github.com/finos/plexus-interop'
             additional_repos:
               - repo_url: 'https://github.com/finos/plexus-interop-desktop-api'
-            project: incubating
-            homepage_url: 'https://github.com/finos/plexus-interop'
-            repo_url: 'https://github.com/finos/plexus-interop'
+            logo: plexus-interop.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: Openfin Ecosystem
         items:
-          - logo: openfin-python-adapter.svg
+          - item:
             name: OpenFin Python Adapter
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/openfin-python-adapter'
-            repo_url: 'https://github.com/finos/openfin-python-adapter'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: openfin-react-hooks.svg
-            name: OpenFin React Hooks
-            item: null
             project: incubating
+            repo_url: 'https://github.com/finos/openfin-python-adapter'
+            logo: openfin-python-adapter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
+            name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
+            project: incubating
             repo_url: 'https://github.com/finos/openfin-react-hooks'
+            logo: openfin-react-hooks.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: Containers
         items:
-          - logo: secure-electron-adapter.svg
+          - item:
             name: Secure Electron Adapter
-            item: null
+            homepage_url: 'https://github.com/finos/secure-electron-adapter'
+            project: incubating
+            repo_url: 'https://github.com/finos/secure-electron-adapter'
             additional_repos:
               - repo_url: 'https://github.com/finos/sea-quick-start'
-            project: incubating
-            homepage_url: 'https://github.com/finos/secure-electron-adapter'
-            repo_url: 'https://github.com/finos/secure-electron-adapter'
+            logo: secure-electron-adapter.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony-electron.svg
+          - item:
             name: Symphony Electron
-            item: null
+            homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
             additional_repos:
               - repo_url: 'https://github.com/symphonyoss/electron-utils'
               - repo_url: 'https://github.com/symphonyoss/ScreenSnippet'
               - repo_url: 'https://github.com/symphonyoss/ScreenSnippet2'
               - repo_url: 'https://github.com/symphonyoss/SwiftSearch'
               - repo_url: 'https://github.com/symphonyoss/ScreenShareIndicatorFrame'
-            project: active
-            homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
-            repo_url: 'https://github.com/symphonyoss/SymphonyElectron'
+            logo: symphony-electron.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
   - category:
     name: Applications
@@ -203,144 +203,144 @@ landscape:
       - subcategory:
         name: Symphony Ecosystem
         items:
-          - logo: symphony.svg
+          - item:
             name: Fugue
-            item: null
+            homepage_url: 'https://github.com/symphonyoss/fugue'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/fugue'
             additional_repos:
               - repo_url: 'https://github.com/symphonyoss/fugue-example'
               - repo_url: 'https://github.com/symphonyoss/fugue-cicd'
-            project: active
-            homepage_url: 'https://github.com/symphonyoss/fugue'
-            repo_url: 'https://github.com/symphonyoss/fugue'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: Integration Bridge
-            item: null
+            homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
             additional_repos:
               - repo_url: 'https://github.com/symphonyoss/App-Integrations-Core'
               - repo_url: 'https://github.com/symphonyoss/App-Integrations-FE-Commons'
               - repo_url: 'https://github.com/symphonyoss/Integrations-Docs'
-            project: active
-            homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
-            repo_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: JCurl
-            item: null
-            project: active
             homepage_url: 'https://github.com/symphonyoss/JCurl'
+            project: active
             repo_url: 'https://github.com/symphonyoss/JCurl'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: MessageML Utilities
-            item: null
-            project: active
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
-            repo_url: 'https://github.com/symphonyoss/messageml-utils'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
-            name: REST API Specification
-            item: null
             project: active
-            homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
-            repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
+            repo_url: 'https://github.com/symphonyoss/messageml-utils'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
+            name: REST API Specification
+            homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/symphony-api-spec'
+            logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
             name: REST API Tools
-            item: null
+            homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
             additional_repos:
               - repo_url: 'https://github.com/symphonyoss/symphony-rest-tools-ui'
               - repo_url: 'https://github.com/symphonyoss/symphony-rest-tools-examples'
-            project: active
-            homepage_url: 'https://github.com/symphonyoss/symphony-rest-tools'
-            repo_url: 'https://github.com/symphonyoss/symphony-rest-tools'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: S2 Common Components
-            item: null
+            homepage_url: 'https://github.com/symphonyoss/S2-common'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/S2-common'
             additional_repos:
               - repo_url: 'https://github.com/symphonyoss/S2-super-pom'
-            project: active
-            homepage_url: 'https://github.com/symphonyoss/S2-common'
-            repo_url: 'https://github.com/symphonyoss/S2-common'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: Symfuny Chat Bot
-            item: null
-            project: active
             homepage_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
+            project: active
             repo_url: 'https://github.com/symphonyoss/symfuny-chat-bot'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: Symphony .NET Client
-            item: null
-            project: active
             homepage_url: 'https://github.com/symphonyoss/RestApiClient'
+            project: active
             repo_url: 'https://github.com/symphonyoss/RestApiClient'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: Symphony Clojure Client
-            item: null
-            project: active
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
-            repo_url: 'https://github.com/symphonyoss/clj-symphony'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
-            name: Symphony Hubot Client
-            item: null
             project: active
-            homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
-            repo_url: 'https://github.com/symphonyoss/hubot-symphony'
+            repo_url: 'https://github.com/symphonyoss/clj-symphony'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
+            name: Symphony Hubot Client
+            homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/hubot-symphony'
+            logo: symphony.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
             name: Symphony Java Client
-            item: null
+            homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
+            project: active
+            repo_url: 'https://github.com/symphonyoss/symphony-java-client'
             additional_repos:
               - repo_url: 'https://github.com/symphonyoss/symphony-java-api'
-            project: active
-            homepage_url: 'https://github.com/symphonyoss/symphony-java-client'
-            repo_url: 'https://github.com/symphonyoss/symphony-java-client'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: symphony.svg
+          - item:
             name: Unfurl Bot
-            item: null
-            project: active
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
+            project: active
             repo_url: 'https://github.com/symphonyoss/bot-unfurl'
+            logo: symphony.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: Voice Tech
         items:
-          - logo: greenkey-asr-toolkit.svg
+          - item:
             name: Greenkey Automatic Speech Recognition Toolkit
-            item: null
-            project: active
             homepage_url: 'https://github.com/finos/greenkey-asrtoolkit'
-            repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: greenkey-discovery-sdk.svg
-            name: Greenkey Discovery SDK
-            item: null
             project: active
-            homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
-            repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
+            repo_url: 'https://github.com/finos/greenkey-asrtoolkit'
+            logo: greenkey-asr-toolkit.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-          - logo: voice-metadata-standard.svg
+          - item:
+            name: Greenkey Discovery SDK
+            homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
+            project: active
+            repo_url: 'https://github.com/finos/greenkey-discovery-sdk'
+            logo: greenkey-discovery-sdk.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+          - item:
             name: Voice Metadata Standardization
-            item: null
-            project: incubating
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
+            project: incubating
             repo_url: 'https://github.com/finos/voice-metadata-standard'
+            logo: voice-metadata-standard.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
       - subcategory:
         name: UI Frameworks
         items:
-          - logo: perspective.svg
+          - item:
             name: Perspective
-            item: null
-            project: active
             homepage_url: 'https://github.com/finos/perspective'
+            project: active
             repo_url: 'https://github.com/finos/perspective'
+            logo: perspective.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
   - category:
     name: FINOS
@@ -361,12 +361,12 @@ landscape:
         items:
           - item:
             name: Citigroup
-            homepage_url: 'https://www.citi.com'
+            homepage_url: 'https://online.citi.com/US/login.do'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/citigroup'
           - item:
             name: Deutsche Bank
-            homepage_url: 'https://www.db.com'
+            homepage_url: 'https://www.db.com/company/index.htm'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/deutsche-bank'
           - item:
@@ -376,7 +376,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/github'
           - item:
             name: Goldman Sachs
-            homepage_url: 'https://www.gs.com'
+            homepage_url: 'https://www.goldmansachs.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/goldman-sachs'
           - item:
@@ -406,7 +406,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/symphony-3'
           - item:
             name: UBS
-            homepage_url: 'https://www.ubs.com'
+            homepage_url: 'https://www.ubs.com/us/en.html'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/ubs'
       - subcategory:
@@ -422,10 +422,9 @@ landscape:
             homepage_url: 'https://www.hsbc.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/hsbc'
-            stock_ticker: null
           - item:
             name: IHS Markit
-            homepage_url: 'https://www.ihsmarkit.com'
+            homepage_url: 'https://ihsmarkit.com/index.html'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/ihs-markit'
           - item:
@@ -435,13 +434,12 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/openfin'
           - item:
             name: Red Hat
-            homepage_url: 'https://www.redhat.com'
+            homepage_url: 'https://www.redhat.com/en'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
-            stock_ticker: null
           - item:
             name: Refinitiv
-            homepage_url: 'https://www.refinitiv.com'
+            homepage_url: 'https://www.refinitiv.com/en'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/refinitiv'
           - item:
@@ -459,28 +457,27 @@ landscape:
             homepage_url: 'https://www.wipro.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/wipro'
-            stock_ticker: null
       - subcategory:
         name: Silver
         items:
-          - item:
-            name: AQR
-            homepage_url: 'https://www.aqr.com'
-            logo: finos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/aqr'
           - item:
             name: Adaptive Financial Consulting
             homepage_url: 'https://www.weareadaptive.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/adaptive-financial-consulting'
           - item:
+            name: AQR
+            homepage_url: 'https://www.aqr.com'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/aqr'
+          - item:
             name: BNY Mellon
-            homepage_url: 'https://www.bnymellon.com'
+            homepage_url: 'https://www.bnymellon.com/apac/en/home.jsp'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/bnymellon'
           - item:
             name: ChartIQ
-            homepage_url: 'https://www.chartiq.com'
+            homepage_url: 'https://cosaic.io'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/chartiq'
           - item:
@@ -505,7 +502,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/genesis-global-solutions'
           - item:
             name: Gitlab
-            homepage_url: 'https://www.gitlab.com'
+            homepage_url: 'https://about.gitlab.com'
             logo: finos.svg
             crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
           - item:
