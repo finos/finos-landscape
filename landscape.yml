@@ -297,9 +297,16 @@ landscape:
             item:
             additional_repos:
               - repo_url: https://github.com/symphonyoss/symphony-java-api
-            project: active
+            project: archived
             homepage_url: https://github.com/symphonyoss/symphony-java-client
             repo_url: https://github.com/symphonyoss/symphony-java-client
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony.svg
+            name: Symphony Java Toolkit
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/symphony-java-toolkit
+            repo_url: https://github.com/finos/symphony-java-toolkit
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony.svg
             name: Unfurl Bot
