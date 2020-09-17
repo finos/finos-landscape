@@ -6,7 +6,7 @@ global:
   short_domain: l.finos.org
   company_url: 'https://finos.org'
   email: info@finos.org
-  self: 'https://www.crunchbase.com/organization/symphony-software-foundation'
+  self: 'https://www.crunchbase.com/organization/finos-foundation'
   slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
   meta:
     title: FINOS Landscape
@@ -16,6 +16,7 @@ global:
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   membership: FINOS Members
+  hide_best_practices: true
   flags:
     hide_license_for_categories:
       - FINOS Members
@@ -37,6 +38,7 @@ relation:
           color: '#48A934'
           big_picture_label: FINOS Active
           big_picture_color: 'rgb(72,169,52)'
+          big_picture_order: 1
         - id: incubating
           label: FINOS Incubating Projects
           prefix: FINOS
@@ -44,6 +46,7 @@ relation:
           color: '#D2C53A'
           big_picture_label: FINOS Incubating
           big_picture_color: 'rgb(210,197,58)'
+          big_picture_order: 2
         - id: archived
           label: FINOS Archived Projects
           prefix: FINOS
@@ -51,9 +54,13 @@ relation:
           color: '#A2ABAA'
           big_picture_label: FINOS Archived
           big_picture_color: 'rgb(162,171,170)'
+          big_picture_order: 3
     - id: member
       label: FINOS Foundation Member Products/Projects
       tag: FINOS Members
+      big_picture_label: FINOS Members
+      big_picture_color: 'rgb(72,169,52)'
+      big_picture_order: 4
     - id: false
       label: Non-FINOS Foundation Member Products/Projects
       url: 'no'
@@ -87,9 +94,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: 'https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=finos_landscape&utm_medium=web&utm_campaign=kccnceu20'
-    image: /images/info1.jpg
-    title: Kubecon + CloudNativeCon Europe 2020
+  - url: 'https://events.linuxfoundation.org/open-source-strategy-forum/'
+    image: /images/2020-ossf-virtual.jpg
+    title: Open Source Strategy Forum 2020 - Virtual Experience
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -121,57 +128,57 @@ big_picture:
       - type: HorizontalCategory
         category: Applications
         rows: 4
-        width: 325
-        height: 160
+        width: 975
+        height: 180
         top: 0
         left: 0
         color: 'rgb(0,181,226)'
         fit_width: true
       - type: HorizontalCategory
         category: Data
-        rows: 3
-        width: 280
-        height: 160
-        top: 0
-        left: 345
+        rows: 4
+        width: 480
+        height: 180
+        top: 200
+        left: 0
         color: 'rgb(0,134,191)'
         fit_width: true
       - type: HorizontalCategory
         category: Enablement
-        rows: 3
-        width: 225
-        height: 160
-        top: 0
-        left: 645
+        rows: 4
+        width: 475
+        height: 180
+        top: 200
+        left: 500
         color: 'rgb(107,202,186)'
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
-        rows: 1
-        width: 120
+        rows: 4
+        width: 160
         height: 200
-        top: 180
+        top: 410
         left: 0
         color: 'rgb(67,176,42)'
         fit_width: true
       - type: HorizontalCategory
         category: Platforms & Runtimes
         rows: 4
-        width: 280
+        width: 350
         height: 200
-        top: 180
-        left: 140
+        top: 410
+        left: 180
         color: 'rgb(215,200,38)'
         fit_width: true
       - type: LandscapeInfo
         width: 430
         height: 200
-        top: 180
-        left: 440
+        top: 410
+        left: 550
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the Financial Servcies Open Source and Open Standard Projects hosted by the FINOS Foundation. 
+              This landscape is intended as a map to explore the Financial Services Open Source and Open Standard Projects hosted by the FINOS Foundation. 
               Community contributions are more than welcome, please raise an issue or pull request at github.com/finos/finos-landscape.
             top: 65
             left: 130
