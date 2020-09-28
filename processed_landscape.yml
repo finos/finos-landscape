@@ -42,7 +42,7 @@ landscape:
                 - name: Shell
                   value: 2825
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;1;7;0;0;4;0;1;11;60;12;8;17;0;8;8;10;1;53;30;83;20;40;37;64;20;25;32;32;5;2;0;0;0;1;4;4;7;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;1;7;0;0;4;0;1;11;60;12;8;17;0;8;8;10;1;53;30;83;20;40;38;63;20;25;32;32;5;2;0;0;0;1;4;4;7;0;0;0;0;0
               firstWeek: 2019-10-06Z
               stars: 47
               license: Apache License 2.0
@@ -107,7 +107,7 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 116;111;65;60;67;79;66;37;27;28;10;13;0;0;40;56;44;15;2;5;1;1;5;0;0;0;2;2;0;0;0;0;12;0;1;3;1;0;0;0;0;27;0;2;0;0;0;5;2;2;0;0
+              contributions: 116;111;65;60;67;79;66;37;27;28;10;13;0;0;40;56;44;15;2;5;1;1;5;0;0;0;2;2;0;0;0;0;12;0;3;1;1;0;0;0;0;27;0;2;0;0;0;5;2;2;0;0
               firstWeek: 2019-10-06Z
               stars: 80
               license: Other
@@ -167,7 +167,7 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;24;23;29;1;0;0;0;0;1;6;1;1;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;24;27;26;0;0;0;0;0;2;5;2;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-10-06Z
               stars: 25
               license: Apache License 2.0
@@ -232,7 +232,7 @@ landscape:
                   value: 5040
                 - name: PLpgSQL
                   value: 544
-              contributions: 0;0;0;1;0;3;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;2;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;1;0;3;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;2;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-10-06Z
               stars: 8
               license: Apache License 2.0
@@ -412,7 +412,7 @@ landscape:
                 - name: HiveQL
                   value: 104
                   color: '#dce200'
-              contributions: 0;0;8;0;3;1;2;1;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;5;2;0;0;0;0;1;0;0;0;0;0;1;0;0;10;2;0;0;0;4;0;0
+              contributions: 0;0;8;0;3;1;2;1;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;5;2;0;0;0;0;1;0;0;0;0;0;1;0;0;10;2;0;0;0;4;0;0
               firstWeek: 2019-10-06Z
               stars: 20
               license: Apache License 2.0
@@ -582,7 +582,7 @@ landscape:
                 - name: CSS
                   value: 6947
                   color: '#563d7c'
-              contributions: 0;0;17;0;3;1;11;14;0;0;0;2;0;0;10;4;0;4;34;6;7;0;0;0;7;49;48;8;0;8;7;22;0;3;1;14;1;11;30;19;45;3;35;24;1;5;0;2;0;2;19;6
+              contributions: 0;0;17;0;3;1;11;14;0;0;0;2;0;0;10;4;0;4;34;6;7;0;0;0;7;49;48;8;0;8;7;22;0;3;1;14;1;11;30;19;45;3;35;24;1;5;0;2;0;4;17;6
               firstWeek: 2019-10-06Z
               stars: 32
               license: Apache License 2.0
@@ -854,7 +854,7 @@ landscape:
                   value: 305
                   color: '#89e051'
               contributions: >-
-                38;23;61;25;22;32;31;41;45;68;28;45;6;19;41;44;24;41;30;48;27;22;30;67;20;14;18;48;15;38;9;27;21;34;43;48;20;48;13;36;22;36;15;20;14;18;10;23;44;20;29;17
+                38;23;61;27;20;32;31;45;41;71;27;45;4;19;41;44;24;43;28;49;26;22;36;61;20;14;18;48;15;38;12;24;21;34;43;48;20;48;13;37;21;36;15;20;15;19;8;24;43;22;28;16
               firstWeek: 2019-10-06Z
               stars: 80
               license: Apache License 2.0
@@ -921,7 +921,7 @@ landscape:
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 0;1;2;0;0;0;0;0;0;8;3;4;2;0;7;11;10;7;2;22;6;10;10;7;6;2;5;11;0;0;0;0;8;2;3;1;3;1;1;0;2;7;2;3;1;2;0;0;2;0;0;0
+              contributions: 0;1;2;0;0;0;0;0;0;8;5;2;2;0;7;11;10;7;7;17;6;10;10;7;6;2;6;10;0;0;0;0;8;2;3;1;3;1;1;0;2;7;2;3;1;2;0;0;2;0;0;0
               firstWeek: 2019-10-06Z
               stars: 56
               license: Apache License 2.0
@@ -982,7 +982,7 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;4;5;6;0;1;2;7;5;8;17;23;7;0;12;4;1;0;7;11;0;0;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;4;5;6;0;1;5;4;5;8;17;23;7;0;12;4;1;0;11;7;0;0;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-10-06Z
               stars: 10
               license: Apache License 2.0
@@ -1165,7 +1165,7 @@ landscape:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 4;12;13;10;1;0;0;3;0;1;1;1;0;0;0;3;4;3;5;4;7;2;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 4;12;13;10;1;0;0;3;0;1;1;1;0;0;0;3;4;3;6;3;7;2;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-10-06Z
               stars: 28
               license: Apache License 2.0
@@ -1323,7 +1323,7 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 2;2;4;6;10;6;9;6;22;39;19;14;1;2;14;14;9;9;3;19;4;15;23;24;17;26;22;8;18;2;16;12;18;5;12;18;13;8;7;9;3;0;1;14;6;4;7;20;7;12;7;6
+              contributions: 2;2;4;6;10;6;9;6;23;38;19;14;1;2;14;14;9;9;3;19;4;15;23;25;17;25;22;8;18;2;16;12;18;5;12;18;13;8;7;9;3;0;1;14;6;4;7;20;7;12;7;6
               firstWeek: 2019-10-06Z
               stars: 62
               license: Apache License 2.0
@@ -1403,7 +1403,7 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 1;5;0;10;10;1;6;4;3;12;5;4;0;0;2;0;2;3;2;0;0;6;0;4;0;4;5;13;4;7;9;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+              contributions: 1;5;0;10;10;1;6;4;4;11;5;4;0;0;2;0;2;3;2;0;0;6;0;4;0;4;5;13;4;7;9;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
               firstWeek: 2019-10-06Z
               stars: 2
               license: Apache License 2.0
@@ -1745,7 +1745,7 @@ landscape:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 1;4;5;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 3;2;5;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-10-06Z
               stars: 1
               license: Apache License 2.0
@@ -1956,7 +1956,7 @@ landscape:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;16;16;8;0;6;8;10;6;2;6;2;4;2;5;0;2;1;14;2
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;16;16;8;0;6;8;10;6;2;6;2;4;2;5;0;2;2;13;2
               firstWeek: 2019-10-06Z
               stars: 9
               license: Apache License 2.0
@@ -2375,9 +2375,9 @@ landscape:
                   value: 1053
                   color: '#563d7c'
               contributions: >-
-                24;33;32;60;26;36;42;23;20;37;47;37;1;12;21;21;8;36;49;45;20;32;12;28;23;19;15;23;12;16;13;23;11;23;38;23;23;22;25;6;12;4;3;29;7;9;5;35;15;32;12;13
+                24;33;43;51;24;42;35;26;20;34;49;35;5;8;21;21;8;53;33;44;23;29;12;28;24;20;13;23;12;22;7;23;11;27;34;23;23;23;24;6;12;4;8;24;7;9;8;32;16;31;14;11
               firstWeek: 2019-10-06Z
-              stars: 2919
+              stars: 2922
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
               latest_commit_date: '2020-09-26T22:23:24Z'
@@ -2386,7 +2386,7 @@ landscape:
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/perspective'
-                stars: 2919
+                stars: 2922
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -2483,7 +2483,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-25T22:05:14.000Z
+              latest_tweet_date: 2020-09-27T23:41:39.000Z
           - item:
             name: Deutsche Bank
             homepage_url: 'https://www.db.com/company/index.htm'
@@ -2526,7 +2526,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-25T13:22:27.000Z
+              latest_tweet_date: 2020-09-27T17:00:42.000Z
           - item:
             name: GitHub
             homepage_url: 'https://www.github.com'
@@ -2574,7 +2574,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-25T17:58:01.000Z
+              latest_tweet_date: 2020-09-27T16:57:15.000Z
           - item:
             name: Goldman Sachs
             homepage_url: 'https://www.goldmansachs.com'
@@ -2657,7 +2657,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T14:00:19.000Z
+              latest_tweet_date: 2020-09-27T19:00:18.000Z
           - item:
             name: JP Morgan Chase
             homepage_url: 'https://www.jpmorganchase.com'
@@ -2764,7 +2764,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T19:00:14.000Z
+              latest_tweet_date: 2020-09-27T20:00:31.000Z
           - item:
             name: Nomura
             homepage_url: 'https://www.nomura.com'
@@ -2849,7 +2849,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T17:00:01.000Z
+              latest_tweet_date: 2020-09-27T20:13:28.000Z
           - item:
             name: Symphony LLC
             homepage_url: 'https://www.symphony.com'
@@ -2880,7 +2880,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-25T12:44:28.000Z
+              latest_tweet_date: 2020-09-27T22:30:10.000Z
           - item:
             name: UBS
             homepage_url: 'https://www.ubs.com/us/en.html'
@@ -3038,7 +3038,7 @@ landscape:
               stockExchange: lse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 73542490815
+              market_cap: 73651365482
               effective_ticker: HSBA.L
             image_data:
               fileName: hsbc.svg
@@ -3228,7 +3228,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T20:50:03.000Z
+              latest_tweet_date: 2020-09-27T21:18:02.000Z
           - item:
             name: Refinitiv
             homepage_url: 'https://www.refinitiv.com/en'
@@ -3261,7 +3261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T17:00:53.000Z
+              latest_tweet_date: 2020-09-27T16:00:56.000Z
           - item:
             name: Traderwave
             homepage_url: 'https://www.traderwave.com'
@@ -3288,7 +3288,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T10:45:05.000Z
+              latest_tweet_date: 2020-09-27T10:45:04.000Z
           - item:
             name: Wells Fargo
             homepage_url: 'https://www.wellsfargo.com'
@@ -3417,7 +3417,7 @@ landscape:
               stockExchange: nse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24227202923
+              market_cap: 24235091523
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro.svg
@@ -3426,7 +3426,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T18:02:04.000Z
+              latest_tweet_date: 2020-09-27T22:02:17.000Z
       - subcategory:
         name: Silver
         items:
@@ -3624,7 +3624,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T19:53:02.000Z
+              latest_tweet_date: 2020-09-27T18:00:02.000Z
           - item:
             name: Epam
             homepage_url: 'https://www.epam.com'
@@ -3694,7 +3694,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T14:05:12.000Z
+              latest_tweet_date: 2020-09-27T12:05:12.000Z
           - item:
             name: Genesis
             homepage_url: 'https://www.genesis.global'
@@ -3762,7 +3762,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T20:18:01.000Z
+              latest_tweet_date: 2020-09-27T21:59:00.000Z
           - item:
             name: Green Key Technologies
             homepage_url: 'https://www.greenkeytech.com'
@@ -3817,7 +3817,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T22:45:46.000Z
+              latest_tweet_date: 2020-09-27T13:08:23.000Z
           - item:
             name: Nearform
             homepage_url: 'https://www.nearform.com'
@@ -3844,7 +3844,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-26T18:29:59.000Z
+              latest_tweet_date: 2020-09-27T18:59:59.000Z
           - item:
             name: Scott Logic
             homepage_url: 'https://www.scottlogic.com'
@@ -3929,8 +3929,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-25T15:35:03.000Z
+              latest_tweet_date: 2020-09-27T10:26:27.000Z
 twitter_options:
   count: 1
   since_id: '1303800383177986058'
-updated_at: 2020-09-27T00:30:38.474Z
+updated_at: 2020-09-28T00:30:28.307Z
