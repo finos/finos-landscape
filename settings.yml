@@ -55,12 +55,6 @@ relation:
           big_picture_label: FINOS Archived
           big_picture_color: 'rgb(162,171,170)'
           big_picture_order: 3
-    - id: member
-      label: FINOS Foundation Member Products/Projects
-      tag: FINOS Members
-      big_picture_label: FINOS Members
-      big_picture_color: 'rgb(72,169,52)'
-      big_picture_order: 4
 membership:
   Platinum:
     name: FINOS
