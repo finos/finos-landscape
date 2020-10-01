@@ -15,11 +15,7 @@ global:
     twitter: '@finosfoundation'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: FINOS Members
   hide_best_practices: true
-  flags:
-    hide_license_for_categories:
-      - FINOS Members
 twitter:
   search: landscape.finos.org
   url: 'https://landscape.finos.org'
@@ -55,12 +51,6 @@ relation:
           big_picture_label: FINOS Archived
           big_picture_color: 'rgb(162,171,170)'
           big_picture_order: 3
-    - id: member
-      label: FINOS Foundation Member Products/Projects
-      tag: FINOS Members
-      big_picture_label: FINOS Members
-      big_picture_color: 'rgb(72,169,52)'
-      big_picture_order: 4
     - id: false
       label: Non-FINOS Foundation Member Products/Projects
       url: 'no'
