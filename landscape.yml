@@ -275,7 +275,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/symphonyoss/symphony-rest-tools-ui
               - repo_url: https://github.com/symphonyoss/symphony-rest-tools-examples
-            project: active
+            project: archived
             homepage_url: https://github.com/symphonyoss/symphony-rest-tools
             repo_url: https://github.com/symphonyoss/symphony-rest-tools
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
@@ -291,14 +291,14 @@ landscape:
           - logo: symphony.svg
             name: Symfuny Chat Bot
             item:
-            project: active
+            project: archived
             homepage_url: https://github.com/symphonyoss/symfuny-chat-bot
             repo_url: https://github.com/symphonyoss/symfuny-chat-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony.svg
             name: Symphony .NET Client
             item:
-            project: active
+            project: archived
             homepage_url: https://github.com/symphonyoss/RestApiClient
             repo_url: https://github.com/symphonyoss/RestApiClient
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
@@ -335,7 +335,7 @@ landscape:
           - logo: symphony.svg
             name: Unfurl Bot
             item:
-            project: active
+            project: incubating
             homepage_url: https://github.com/symphonyoss/bot-unfurl
             repo_url: https://github.com/symphonyoss/bot-unfurl
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
