@@ -56,7 +56,7 @@ relation:
           big_picture_color: 'rgb(162,171,170)'
           big_picture_order: 3
     - id: member
-      label: FINOS Foundation Member Products/Projects
+      label: Organizations
       tag: FINOS Members
       big_picture_label: FINOS Members
       big_picture_color: 'rgb(72,169,52)'
@@ -135,7 +135,7 @@ big_picture:
         color: 'rgb(0,181,226)'
         fit_width: true
       - type: HorizontalCategory
-        category: Data
+        category: Data & Business Logic
         rows: 4
         width: 480
         height: 180
