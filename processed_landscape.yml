@@ -1,17 +1,17 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: Data & Business Logic
+    name: Enablement
     subcategories:
       - subcategory:
-        name: Frameworks
+        name: ODP Toolchain
         items:
           - item:
-            name: Alloy
-            homepage_url: 'https://github.com/finos/alloy'
-            project: incubating
-            repo_url: 'https://github.com/finos/alloy'
-            logo: alloy.svg
+            name: CLA Bot
+            homepage_url: 'https://github.com/finos/cla-bot'
+            project: active
+            repo_url: 'https://github.com/finos/cla-bot'
+            logo: cla-bot.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
             crunchbase_data:
               name: FINOS
@@ -30,47 +30,43 @@ landscape:
               stockExchange: null
             github_data:
               languages:
-                - name: CSS
-                  value: 27563
-                  color: '#563d7c'
-                - name: HTML
-                  value: 19914
-                  color: '#e34c26'
                 - name: JavaScript
-                  value: 8442
+                  value: 49981
                   color: '#f1e05a'
                 - name: Shell
-                  value: 2825
+                  value: 155
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;1;7;0;0;4;0;1;8;45;21;17;14;3;8;8;10;1;53;30;83;17;43;26;75;13;28;33;32;8;2;0;0;0;1;4;4;7;0;0;0;0;0;2;3;0
-              firstWeek: 2019-10-20Z
-              stars: 50
+              contributions: 1;3;5;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 35
               license: Apache License 2.0
-              description: The PURE/Alloy project
-              latest_commit_date: '2020-10-02T15:06:06Z'
-              latest_commit_link: /finos/alloy/commit/24b91f786542ea214763496c4698aae076a63617
+              description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
+              latest_commit_date: '2020-09-14T10:48:14Z'
+              latest_commit_link: /finos/cla-bot/commit/d3311528b3e24dc4ade3886abe8f8f9a4a993f59
+              release_date: '2019-02-02T15:38:03Z'
+              release_link: 'https://github.com/finos/cla-bot/releases'
               contributors_count: 12
-              contributors_link: 'https://github.com/finos/alloy/graphs/contributors'
+              contributors_link: 'https://github.com/finos/cla-bot/graphs/contributors'
             repos:
-              - url: 'https://github.com/finos/alloy'
-                stars: 50
+              - url: 'https://github.com/finos/cla-bot'
+                stars: 35
             github_start_commit_data:
-              start_commit_link: /finos/alloy/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
-              start_date: '2019-12-12T10:13:48Z'
+              start_commit_link: /finos/cla-bot/commit/09b7ad7c3d7bd2e02b82222352dcb071989eb6a9
+              start_date: '2017-04-26T05:22:44Z'
             image_data:
-              fileName: alloy.svg
-              hash: oAJUGmC17bul2enEmDUDPQWXsPuVrgiXzhbl2E0RtP4=
+              fileName: cla-bot.svg
+              hash: oMBu2EsAAwWatSMbJ4xzmxEzm9boL5i3Co/WOXmAF74=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
-            name: Exodus
-            homepage_url: 'https://github.com/finos/exodus'
+            name: Open Developer Platform
+            homepage_url: 'https://github.com/finos/open-developer-platform'
             project: incubating
-            repo_url: 'https://github.com/finos/exodus'
-            logo: exodus.svg
+            repo_url: 'https://github.com/finos/open-developer-platform'
+            logo: open-developer-platform.svg
             crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
             crunchbase_data:
               name: FINOS
@@ -89,133 +85,315 @@ landscape:
               stockExchange: null
             github_data:
               languages:
-                - name: Scheme
-                  value: 109136
-                  color: '#1e4aec'
-                - name: PLSQL
-                  value: 93753
-                  color: '#dad8d8'
-                - name: Shell
-                  value: 16887
-                  color: '#89e051'
-                - name: SQLPL
-                  value: 7755
-                - name: Batchfile
-                  value: 5166
-                  color: '#C1F12E'
-                - name: TSQL
-                  value: 5040
-                - name: PLpgSQL
-                  value: 544
-              contributions: 1;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 12
-              license: Apache License 2.0
-              description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
-              latest_commit_date: '2020-07-24T11:56:04Z'
-              latest_commit_link: /finos/exodus/commit/230df394072b7a0e0b20d74ae423ec3d176ec513
-              contributors_count: 2
-              contributors_link: 'https://github.com/finos/exodus/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/exodus'
-                stars: 12
-            github_start_commit_data:
-              start_commit_link: /finos/exodus/commit/9fbc5e3c12aab9d35d211b83b9ea2b51b78fce1a
-              start_date: '2018-10-30T15:28:52Z'
-            image_data:
-              fileName: exodus.svg
-              hash: wYKsZpWCn/Jj1y82+BytMncDalmL3vrbjfKIV8m6d+k=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-          - item:
-            name: Morphir
-            homepage_url: 'https://github.com/finos/morphir'
-            project: incubating
-            repo_url: 'https://github.com/finos/morphir'
-            logo: finos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Elm
-                  value: 869286
-                  color: '#60B5CC'
-                - name: Scala
-                  value: 357178
-                  color: '#c22d40'
-                - name: F#
-                  value: 137620
-                  color: '#b845fc'
                 - name: JavaScript
-                  value: 130085
+                  value: 21725
                   color: '#f1e05a'
                 - name: Shell
-                  value: 24012
+                  value: 7145
                   color: '#89e051'
                 - name: CSS
-                  value: 10523
+                  value: 6947
                   color: '#563d7c'
-                - name: Batchfile
-                  value: 3262
-                  color: '#C1F12E'
-                - name: C#
-                  value: 2748
-                  color: '#178600'
-                - name: Dockerfile
-                  value: 668
-                  color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;38;37;45;51;53;32;13;41;8;33;5;17;27;3;3;7;9;5;24;11;6;13;3;43;14;24;18;12;4;14;7;19;8
-              firstWeek: 2019-10-20Z
-              stars: 62
+              contributions: 3;1;11;14;0;0;0;2;0;0;10;4;0;4;34;6;7;0;0;0;7;49;48;8;0;8;7;22;0;3;1;14;1;11;30;19;45;3;35;24;1;5;0;2;0;2;19;6;10;2;2;6
+              firstWeek: 2019-11-03Z
+              stars: 35
               license: Apache License 2.0
-              description: A multi-language system and data format to work with pure business knowledge
-              latest_commit_date: '2020-10-02T13:33:47Z'
-              latest_commit_link: /finos/morphir/commit/a637c225dce85195780d6c836b2d22eab830ef80
-              contributors_count: 15
-              contributors_link: 'https://github.com/finos/morphir/graphs/contributors'
+              description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
+              latest_commit_date: '2020-10-21T10:23:31Z'
+              latest_commit_link: /finos/open-developer-platform/commit/53366c7378b1d479e4e0018d25cf4003fb50b5c3
+              contributors_count: 12
+              contributors_link: 'https://github.com/finos/open-developer-platform/graphs/contributors'
             repos:
-              - url: 'https://github.com/finos/morphir'
-                stars: 29
-              - url: 'https://github.com/finos/morphir-examples'
-                stars: 11
-              - url: 'https://github.com/finos/morphir-elm'
+              - url: 'https://github.com/finos/open-developer-platform'
+                stars: 26
+              - url: 'https://github.com/finos/community'
                 stars: 9
-              - url: 'https://github.com/finos/morphir-jvm'
-                stars: 7
-              - url: 'https://github.com/finos/morphir-dotnet'
-                stars: 5
-              - url: 'https://github.com/finos/morphir-bosque'
-                stars: 1
-              - url: 'https://github.com/finos/morphir-dapr'
-                stars: 0
             github_start_commit_data:
-              start_commit_link: /finos/morphir/commit/caa86f594cfb113b364ef257e488cbdc7d24ec6a
-              start_date: '2020-02-27T14:17:00Z'
+              start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
+              start_date: '2018-08-20T12:51:46Z'
             image_data:
-              fileName: morphir.svg
-              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+              fileName: open-developer-platform.svg
+              hash: v4tzFEwiXwGV2wxwU/laU+XGFazmHTqtgOJDjjA2Dzo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+      - subcategory:
+        name: OSS Readiness
+        items:
+          - item:
+            name: Open source readiness
+            homepage_url: 'https://github.com/finos/osr-checklists'
+            project: incubating
+            repo_url: 'https://github.com/finos/osr-checklists'
+            logo: open-source-readiness.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages: []
+              contributions: 0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 1
+              license: Creative Commons Attribution Share Alike 4.0 International
+              description: Checklists for key components and processes of open source programs
+              latest_commit_date: '2019-11-06T16:30:54Z'
+              latest_commit_link: /finos/osr-checklists/commit/cc49497a319788d31a52b63135b0a1d30bfe8a0e
+              contributors_count: 1
+              contributors_link: 'https://github.com/finos/osr-checklists/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/osr-checklists'
+                stars: 1
+            github_start_commit_data:
+              start_commit_link: /finos/osr-checklists/commit/d73ea8b8e0c862acae581b2945456fcfe2c0a3e0
+              start_date: '2019-10-23T13:26:08Z'
+            image_data:
+              fileName: open-source-readiness.svg
+              hash: m4P28XX/hwpIngu38vKmC2ExwTY8AEz3Q8IJnOVxIwU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+          - item:
+            name: OSLC Handbook
+            homepage_url: 'https://github.com/finos/OSLC-handbook'
+            project: incubating
+            repo_url: 'https://github.com/finos/OSLC-handbook'
+            logo: oslc-handbook.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: HTML
+                  value: 232059
+                  color: '#e34c26'
+                - name: CSS
+                  value: 80487
+                  color: '#563d7c'
+                - name: Python
+                  value: 7813
+                  color: '#3572A5'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 86
+              license: Other
+              description: A data store and handbook of practical information about complying with the most common open source licenses.
+              latest_commit_date: '2019-10-09T20:47:05Z'
+              latest_commit_link: /finos/OSLC-handbook/commit/eafdcdac855a0e1877606eb15eba561b2abf0dba
+              release_date: '2019-04-29T17:05:38Z'
+              release_link: 'https://github.com/finos/OSLC-handbook/releases'
+              contributors_count: 11
+              contributors_link: 'https://github.com/finos/OSLC-handbook/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/OSLC-handbook'
+                stars: 86
+            github_start_commit_data:
+              start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
+              start_date: '2018-10-26T18:13:22Z'
+            image_data:
+              fileName: oslc-handbook.svg
+              hash: WHCdtiLByN/zsb+d3AIQtQcaKTO9MBgdMDl8fwzlIy4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+          - item:
+            name: Reference FOSS Policy
+            homepage_url: 'https://github.com/finos/reference-foss-policy'
+            project: incubating
+            repo_url: 'https://github.com/finos/reference-foss-policy'
+            logo: reference-foss-policy.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 4
+              license: Creative Commons Attribution 4.0 International
+              description: Reference FOSS Policy for Financial Services Institutions
+              latest_commit_date: '2018-10-17T20:09:56Z'
+              latest_commit_link: /finos/reference-foss-policy/commit/8eb3ffea172a6e878e8098e2d56f9cf0cefac8db
+              contributors_count: 2
+              contributors_link: 'https://github.com/finos/reference-foss-policy/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/reference-foss-policy'
+                stars: 4
+            github_start_commit_data:
+              start_commit_link: /finos/reference-foss-policy/commit/c2176c273b21012ad1022b06991361eb27dbabdc
+              start_date: '2018-05-30T13:20:21Z'
+            image_data:
+              fileName: reference-foss-policy.svg
+              hash: eXYYkq14ax1dTEyA2cS70+B36Z3t1xqcqzGrHJ5matM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+  - category:
+    name: Infrastructure
+    subcategories:
+      - subcategory:
+        name: Compliance & Management
+        items:
+          - item:
+            name: Cloud Service Certification
+            homepage_url: 'https://github.com/finos/cloud-service-certification'
+            project: incubating
+            repo_url: 'https://github.com/finos/cloud-service-certification'
+            logo: cloud-service-certification.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages: []
+              contributions: 1;0;7;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;0;0;0;2;1;3;0;23;22;0;21;4;9;8;0;0;1;0;0;0;1;4;0;2
+              firstWeek: 2019-11-03Z
+              stars: 25
+              license: Apache License 2.0
+              description: Cloud Service Certification Project
+              latest_commit_date: '2020-10-22T14:19:09Z'
+              latest_commit_link: /finos/cloud-service-certification/commit/8170a15fd22674c01e3a269f3ac96ab2ec272eb5
+              contributors_count: 12
+              contributors_link: 'https://github.com/finos/cloud-service-certification/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/cloud-service-certification'
+                stars: 25
+            github_start_commit_data:
+              start_commit_link: /finos/cloud-service-certification/commit/c162e375fd5a7edcc0e5c3bb1eaf51c63d1d9f16
+              start_date: '2019-03-01T15:12:45Z'
+            image_data:
+              fileName: cloud-service-certification.svg
+              hash: IuUREabehgaRSBUA+FKLCtbS7bZ4NDB6XrphpQjwwJQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+          - item:
+            name: Waltz
+            homepage_url: 'https://github.com/finos/waltz'
+            project: active
+            repo_url: 'https://github.com/finos/waltz'
+            logo: waltz.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 3720641
+                  color: '#b07219'
+                - name: JavaScript
+                  value: 2333323
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 1448695
+                  color: '#e34c26'
+                - name: SCSS
+                  value: 148978
+                - name: Shell
+                  value: 305
+                  color: '#89e051'
+              contributions: >-
+                22;32;31;41;45;68;28;45;6;19;41;44;24;41;30;48;27;22;30;67;20;14;18;48;15;38;9;27;21;34;43;48;20;48;13;36;22;36;15;20;14;18;10;23;44;20;29;37;34;38;17;28
+              firstWeek: 2019-11-03Z
+              stars: 80
+              license: Apache License 2.0
+              description: Enterprise Information Service
+              latest_commit_date: '2020-10-23T10:46:29Z'
+              latest_commit_link: /finos/waltz/commit/9f5b7492bc261d576ed473b4b2044600dc6ad7ad
+              release_date: '2020-10-22T10:24:18Z'
+              release_link: 'https://github.com/finos/waltz/releases'
+              contributors_count: 27
+              contributors_link: 'https://github.com/finos/waltz/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/waltz'
+                stars: 80
+            github_start_commit_data:
+              start_commit_link: /finos/waltz/commit/db3992613a4b3249c249f101e8e0f04602a82fe4
+              start_date: '2016-01-18T22:06:27Z'
+            image_data:
+              fileName: waltz.svg
+              hash: 4RO5zmTtT2WpiuHj3SfHXbCSvfPjx0Vl9ZFSfMCHK10=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+  - category:
+    name: Data & Business Logic
+    subcategories:
       - subcategory:
         name: Synthetic Data
         items:
@@ -261,9 +439,9 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 67;56;69;88;33;24;33;4;21;0;0;16;62;62;2;14;3;3;2;5;0;0;0;2;2;0;0;0;0;1;11;1;3;1;0;0;0;0;21;6;0;2;0;0;3;4;2;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 81
+              contributions: 67;79;66;37;27;28;10;13;0;0;40;56;44;15;2;5;1;1;5;0;0;0;2;2;0;0;0;0;12;0;1;3;1;0;0;0;0;27;0;2;0;0;0;5;2;2;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 83
               license: Other
               description: >-
                 The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for
@@ -276,7 +454,7 @@ landscape:
               contributors_link: 'https://github.com/finos/datahelix/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/datahelix'
-                stars: 81
+                stars: 83
             github_start_commit_data:
               start_commit_link: /finos/datahelix/commit/44d4a83319012cbfb9bbeb9994ca711e2e4b17c0
               start_date: '2018-06-25T08:57:28Z'
@@ -287,7 +465,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: DataHub
             homepage_url: 'https://github.com/finos/datahub'
@@ -321,8 +499,8 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;29;35;4;0;0;0;0;0;7;1;1;0;17;0;0;0;0;1;0;0;5;15;21
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;24;23;29;1;0;0;0;0;1;6;1;1;0;17;0;0;0;1;0;0;0;5;15;21;0
+              firstWeek: 2019-11-03Z
               stars: 27
               license: Apache License 2.0
               description: DataHub - Synthetic data library
@@ -343,7 +521,244 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+      - subcategory:
+        name: Frameworks
+        items:
+          - item:
+            name: Exodus
+            homepage_url: 'https://github.com/finos/exodus'
+            project: incubating
+            repo_url: 'https://github.com/finos/exodus'
+            logo: exodus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Scheme
+                  value: 109136
+                  color: '#1e4aec'
+                - name: PLSQL
+                  value: 93753
+                  color: '#dad8d8'
+                - name: Shell
+                  value: 16887
+                  color: '#89e051'
+                - name: SQLPL
+                  value: 7755
+                - name: Batchfile
+                  value: 5166
+                  color: '#C1F12E'
+                - name: TSQL
+                  value: 5040
+                - name: PLpgSQL
+                  value: 544
+              contributions: 0;3;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;3;3;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 12
+              license: Apache License 2.0
+              description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
+              latest_commit_date: '2020-07-24T11:56:04Z'
+              latest_commit_link: /finos/exodus/commit/230df394072b7a0e0b20d74ae423ec3d176ec513
+              contributors_count: 2
+              contributors_link: 'https://github.com/finos/exodus/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/exodus'
+                stars: 12
+            github_start_commit_data:
+              start_commit_link: /finos/exodus/commit/9fbc5e3c12aab9d35d211b83b9ea2b51b78fce1a
+              start_date: '2018-10-30T15:28:52Z'
+            image_data:
+              fileName: exodus.svg
+              hash: wYKsZpWCn/Jj1y82+BytMncDalmL3vrbjfKIV8m6d+k=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+          - item:
+            name: Legend
+            homepage_url: 'https://legend.finos.org'
+            project: incubating
+            repo_url: 'https://github.com/finos/legend'
+            logo: legend.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 14282309
+                  color: '#b07219'
+                - name: TypeScript
+                  value: 2791437
+                  color: '#2b7489'
+                - name: SCSS
+                  value: 307333
+                - name: JavaScript
+                  value: 109523
+                  color: '#f1e05a'
+                - name: ANTLR
+                  value: 99717
+                  color: '#9DC3FF'
+                - name: HTML
+                  value: 41861
+                  color: '#e34c26'
+                - name: CSS
+                  value: 30813
+                  color: '#563d7c'
+                - name: Shell
+                  value: 2840
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 169
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;1;7;0;0;4;0;1;11;60;12;8;17;0;8;8;10;1;53;30;83;20;40;37;64;20;25;32;32;5;2;0;0;0;1;4;14;7;0;2;14;26;8;38;44;100;67
+              firstWeek: 2019-11-03Z
+              stars: 157
+              license: Apache License 2.0
+              description: The Legend project
+              latest_commit_date: '2020-10-24T02:21:41Z'
+              latest_commit_link: /finos/legend/commit/f4798e269bff8c59cd7d3ed4288d6f94f5db61e5
+              contributors_count: 20
+              contributors_link: 'https://github.com/finos/legend/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/legend'
+                stars: 112
+              - url: 'https://github.com/finos/legend-pure'
+                stars: 11
+              - url: 'https://github.com/finos/legend-engine'
+                stars: 10
+              - url: 'https://github.com/finos/legend-sdlc'
+                stars: 9
+              - url: 'https://github.com/finos/legend-studio'
+                stars: 8
+              - url: 'https://github.com/finos/legend-shared'
+                stars: 7
+            github_start_commit_data:
+              start_commit_link: /finos/legend/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
+              start_date: '2019-12-12T10:13:48Z'
+            image_data:
+              fileName: legend.svg
+              hash: RUXvn790nTQIDHDo1ZAygk4mte5/NDqx5buAWLV2vw0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
+          - item:
+            name: Morphir
+            homepage_url: 'https://github.com/finos/morphir'
+            project: incubating
+            repo_url: 'https://github.com/finos/morphir'
+            logo: finos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
+            crunchbase_data:
+              name: FINOS
+              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.finos.org/'
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/finosfoundation'
+              linkedin: 'https://www.linkedin.com/company/18473937'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Elm
+                  value: 877108
+                  color: '#60B5CC'
+                - name: Scala
+                  value: 364030
+                  color: '#c22d40'
+                - name: F#
+                  value: 137620
+                  color: '#b845fc'
+                - name: JavaScript
+                  value: 130085
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 24012
+                  color: '#89e051'
+                - name: CSS
+                  value: 10523
+                  color: '#563d7c'
+                - name: Batchfile
+                  value: 3262
+                  color: '#C1F12E'
+                - name: C#
+                  value: 2748
+                  color: '#178600'
+                - name: Dockerfile
+                  value: 668
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;36;51;28;59;48;28;29;26;7;38;1;27;19;0;4;6;9;5;26;9;7;12;3;46;13;22;19;12;13;6;14;16;4;14
+              firstWeek: 2019-11-03Z
+              stars: 62
+              license: Apache License 2.0
+              description: A multi-language system and data format to work with pure business knowledge
+              latest_commit_date: '2020-10-02T13:33:47Z'
+              latest_commit_link: /finos/morphir/commit/a637c225dce85195780d6c836b2d22eab830ef80
+              contributors_count: 17
+              contributors_link: 'https://github.com/finos/morphir/graphs/contributors'
+            repos:
+              - url: 'https://github.com/finos/morphir'
+                stars: 29
+              - url: 'https://github.com/finos/morphir-examples'
+                stars: 11
+              - url: 'https://github.com/finos/morphir-elm'
+                stars: 9
+              - url: 'https://github.com/finos/morphir-jvm'
+                stars: 7
+              - url: 'https://github.com/finos/morphir-dotnet'
+                stars: 5
+              - url: 'https://github.com/finos/morphir-bosque'
+                stars: 1
+              - url: 'https://github.com/finos/morphir-dapr'
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /finos/morphir/commit/caa86f594cfb113b364ef257e488cbdc7d24ec6a
+              start_date: '2020-02-27T14:17:00Z'
+            image_data:
+              fileName: morphir.svg
+              hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
       - subcategory:
         name: Models
         items:
@@ -383,9 +798,9 @@ landscape:
                 - name: Shell
                   value: 2410
                   color: '#89e051'
-              contributions: 0;0;0;3;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 13
+              contributions: 0;3;0;0;0;3;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 14
               license: Apache License 2.0
               description: FINOS Financial Objects Program Documentation
               latest_commit_date: '2020-08-05T09:01:13Z'
@@ -394,7 +809,7 @@ landscape:
               contributors_link: 'https://github.com/finos/finos-fo/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/finos-fo'
-                stars: 13
+                stars: 14
             github_start_commit_data:
               start_commit_link: /finos/finos-fo/commit/3e8a73c36eca9c6a09bb79008be482e435ad699d
               start_date: '2018-11-08T14:51:23Z'
@@ -405,7 +820,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Glue
             homepage_url: 'https://github.com/finos/glue'
@@ -436,15 +851,15 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;8;1;0;0;0;144;93
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;8;1;0;0;2;163;72;3
+              firstWeek: 2019-11-03Z
               stars: 0
               license: Apache License 2.0
               description: >-
                 Glue is an enterprise data model for the buy side, tailored for Wealth and Asset Managers and covering key entities such as Party, Business
                 Relationship, Investment Strategy, Instruments, Portfolios and more.
-              latest_commit_date: '2020-10-15T12:55:35Z'
-              latest_commit_link: /finos/glue/commit/7fd4d4f3f11e9d978658d8c9bb710cdcd98f17fc
+              latest_commit_date: '2020-10-19T13:04:51Z'
+              latest_commit_link: /finos/glue/commit/2a50bf2a8633603853d976e1a9c58e701766e974
               contributors_count: 6
               contributors_link: 'https://github.com/finos/glue/graphs/contributors'
             repos:
@@ -460,7 +875,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
       - subcategory:
         name: Tick & Reference
         items:
@@ -503,8 +918,8 @@ landscape:
                 - name: HiveQL
                   value: 104
                   color: '#dce200'
-              contributions: 0;3;0;2;2;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;5;0;2;0;0;0;1;0;0;0;0;0;1;0;0;10;1;1;0;0;0;4;0;1;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 3;1;2;1;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;5;2;0;0;0;0;1;0;0;0;0;0;1;0;0;10;2;0;0;0;4;0;0;1;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 20
               license: Apache License 2.0
               description: kdb+ Working Group from FINOS Data Technologies program
@@ -525,7 +940,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Security Reference Data
             homepage_url: 'https://github.com/finos/secref-data'
@@ -556,8 +971,8 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;0;1;0;0;0;1;1;0;1;3;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;1;0;0;0;0;2;0;0;1;3;0;0
+              firstWeek: 2019-11-03Z
               stars: 3
               license: Apache License 2.0
               description: Security Reference Data project
@@ -578,398 +993,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-  - category:
-    name: Enablement
-    subcategories:
-      - subcategory:
-        name: ODP Toolchain
-        items:
-          - item:
-            name: CLA Bot
-            homepage_url: 'https://github.com/finos/cla-bot'
-            project: active
-            repo_url: 'https://github.com/finos/cla-bot'
-            logo: cla-bot.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 49981
-                  color: '#f1e05a'
-                - name: Shell
-                  value: 155
-                  color: '#89e051'
-              contributions: 3;1;3;5;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 35
-              license: Apache License 2.0
-              description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
-              latest_commit_date: '2020-09-14T10:48:14Z'
-              latest_commit_link: /finos/cla-bot/commit/d3311528b3e24dc4ade3886abe8f8f9a4a993f59
-              release_date: '2019-02-02T15:38:03Z'
-              release_link: 'https://github.com/finos/cla-bot/releases'
-              contributors_count: 12
-              contributors_link: 'https://github.com/finos/cla-bot/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/cla-bot'
-                stars: 35
-            github_start_commit_data:
-              start_commit_link: /finos/cla-bot/commit/09b7ad7c3d7bd2e02b82222352dcb071989eb6a9
-              start_date: '2017-04-26T05:22:44Z'
-            image_data:
-              fileName: cla-bot.svg
-              hash: oMBu2EsAAwWatSMbJ4xzmxEzm9boL5i3Co/WOXmAF74=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-          - item:
-            name: Open Developer Platform
-            homepage_url: 'https://github.com/finos/open-developer-platform'
-            project: incubating
-            repo_url: 'https://github.com/finos/open-developer-platform'
-            logo: open-developer-platform.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 21725
-                  color: '#f1e05a'
-                - name: Shell
-                  value: 7145
-                  color: '#89e051'
-                - name: CSS
-                  value: 6947
-                  color: '#563d7c'
-              contributions: 0;3;0;8;18;0;0;0;1;1;0;10;4;0;4;33;1;13;0;0;0;0;15;84;13;0;4;8;20;5;3;1;1;14;11;7;42;42;5;36;24;1;1;4;2;0;2;19;6;6;6;0
-              firstWeek: 2019-10-20Z
-              stars: 36
-              license: Apache License 2.0
-              description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
-              latest_commit_date: '2020-10-02T10:32:17Z'
-              latest_commit_link: /finos/open-developer-platform/commit/2dbda0e3c2d6666a8989785d183db3770865d385
-              contributors_count: 12
-              contributors_link: 'https://github.com/finos/open-developer-platform/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/open-developer-platform'
-                stars: 26
-              - url: 'https://github.com/finos/community'
-                stars: 10
-            github_start_commit_data:
-              start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
-              start_date: '2018-08-20T12:51:46Z'
-            image_data:
-              fileName: open-developer-platform.svg
-              hash: v4tzFEwiXwGV2wxwU/laU+XGFazmHTqtgOJDjjA2Dzo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-      - subcategory:
-        name: OSS Readiness
-        items:
-          - item:
-            name: Open source readiness
-            homepage_url: 'https://github.com/finos/osr-checklists'
-            project: incubating
-            repo_url: 'https://github.com/finos/osr-checklists'
-            logo: open-source-readiness.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages: []
-              contributions: 2;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 1
-              license: Creative Commons Attribution Share Alike 4.0 International
-              description: Checklists for key components and processes of open source programs
-              latest_commit_date: '2019-11-06T16:30:54Z'
-              latest_commit_link: /finos/osr-checklists/commit/cc49497a319788d31a52b63135b0a1d30bfe8a0e
-              contributors_count: 1
-              contributors_link: 'https://github.com/finos/osr-checklists/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/osr-checklists'
-                stars: 1
-            github_start_commit_data:
-              start_commit_link: /finos/osr-checklists/commit/d73ea8b8e0c862acae581b2945456fcfe2c0a3e0
-              start_date: '2019-10-23T13:26:08Z'
-            image_data:
-              fileName: open-source-readiness.svg
-              hash: m4P28XX/hwpIngu38vKmC2ExwTY8AEz3Q8IJnOVxIwU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-          - item:
-            name: OSLC Handbook
-            homepage_url: 'https://github.com/finos/OSLC-handbook'
-            project: incubating
-            repo_url: 'https://github.com/finos/OSLC-handbook'
-            logo: oslc-handbook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: HTML
-                  value: 232059
-                  color: '#e34c26'
-                - name: CSS
-                  value: 80487
-                  color: '#563d7c'
-                - name: Python
-                  value: 7813
-                  color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 86
-              license: Other
-              description: A data store and handbook of practical information about complying with the most common open source licenses.
-              latest_commit_date: '2019-10-09T20:47:05Z'
-              latest_commit_link: /finos/OSLC-handbook/commit/eafdcdac855a0e1877606eb15eba561b2abf0dba
-              release_date: '2019-04-29T17:05:38Z'
-              release_link: 'https://github.com/finos/OSLC-handbook/releases'
-              contributors_count: 11
-              contributors_link: 'https://github.com/finos/OSLC-handbook/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/OSLC-handbook'
-                stars: 86
-            github_start_commit_data:
-              start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
-              start_date: '2018-10-26T18:13:22Z'
-            image_data:
-              fileName: oslc-handbook.svg
-              hash: WHCdtiLByN/zsb+d3AIQtQcaKTO9MBgdMDl8fwzlIy4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-          - item:
-            name: Reference FOSS Policy
-            homepage_url: 'https://github.com/finos/reference-foss-policy'
-            project: incubating
-            repo_url: 'https://github.com/finos/reference-foss-policy'
-            logo: reference-foss-policy.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 4
-              license: Creative Commons Attribution 4.0 International
-              description: Reference FOSS Policy for Financial Services Institutions
-              latest_commit_date: '2018-10-17T20:09:56Z'
-              latest_commit_link: /finos/reference-foss-policy/commit/8eb3ffea172a6e878e8098e2d56f9cf0cefac8db
-              contributors_count: 2
-              contributors_link: 'https://github.com/finos/reference-foss-policy/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/reference-foss-policy'
-                stars: 4
-            github_start_commit_data:
-              start_commit_link: /finos/reference-foss-policy/commit/c2176c273b21012ad1022b06991361eb27dbabdc
-              start_date: '2018-05-30T13:20:21Z'
-            image_data:
-              fileName: reference-foss-policy.svg
-              hash: eXYYkq14ax1dTEyA2cS70+B36Z3t1xqcqzGrHJ5matM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-  - category:
-    name: Infrastructure
-    subcategories:
-      - subcategory:
-        name: Compliance & Management
-        items:
-          - item:
-            name: Cloud Service Certification
-            homepage_url: 'https://github.com/finos/cloud-service-certification'
-            project: incubating
-            repo_url: 'https://github.com/finos/cloud-service-certification'
-            logo: cloud-service-certification.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages: []
-              contributions: 2;1;0;7;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;1;0;0;0;3;3;0;22;23;0;1;23;10;8;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 25
-              license: Apache License 2.0
-              description: Cloud Service Certification Project
-              latest_commit_date: '2020-08-13T08:20:21Z'
-              latest_commit_link: /finos/cloud-service-certification/commit/446fa04b08e5ce482482180b0bf3a609306b42a1
-              contributors_count: 11
-              contributors_link: 'https://github.com/finos/cloud-service-certification/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/cloud-service-certification'
-                stars: 25
-            github_start_commit_data:
-              start_commit_link: /finos/cloud-service-certification/commit/c162e375fd5a7edcc0e5c3bb1eaf51c63d1d9f16
-              start_date: '2019-03-01T15:12:45Z'
-            image_data:
-              fileName: cloud-service-certification.svg
-              hash: IuUREabehgaRSBUA+FKLCtbS7bZ4NDB6XrphpQjwwJQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
-          - item:
-            name: Waltz
-            homepage_url: 'https://github.com/finos/waltz'
-            project: active
-            repo_url: 'https://github.com/finos/waltz'
-            logo: waltz.svg
-            crunchbase: 'https://www.crunchbase.com/organization/finos-foundation'
-            crunchbase_data:
-              name: FINOS
-              description: 'FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.finos.org/'
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/finosfoundation'
-              linkedin: 'https://www.linkedin.com/company/18473937'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Java
-                  value: 3704208
-                  color: '#b07219'
-                - name: JavaScript
-                  value: 2327221
-                  color: '#f1e05a'
-                - name: HTML
-                  value: 1445498
-                  color: '#e34c26'
-                - name: SCSS
-                  value: 148978
-                - name: Shell
-                  value: 305
-                  color: '#89e051'
-              contributions: >-
-                33;16;28;36;37;48;70;27;48;10;16;35;40;33;34;38;28;50;16;33;64;23;13;16;54;9;39;14;24;22;34;39;42;29;50;13;29;23;41;12;22;15;11;18;23;38;23;33;13;38;32;11
-              firstWeek: 2019-10-20Z
-              stars: 80
-              license: Apache License 2.0
-              description: Enterprise Information Service
-              latest_commit_date: '2020-10-13T08:33:06Z'
-              latest_commit_link: /finos/waltz/commit/9b8b38b474277adfc68380bf566d3e2bf8a1f6ce
-              release_date: '2020-10-13T11:17:47Z'
-              release_link: 'https://github.com/finos/waltz/releases'
-              contributors_count: 26
-              contributors_link: 'https://github.com/finos/waltz/graphs/contributors'
-            repos:
-              - url: 'https://github.com/finos/waltz'
-                stars: 80
-            github_start_commit_data:
-              start_commit_link: /finos/waltz/commit/db3992613a4b3249c249f101e8e0f04602a82fe4
-              start_date: '2016-01-18T22:06:27Z'
-            image_data:
-              fileName: waltz.svg
-              hash: 4RO5zmTtT2WpiuHj3SfHXbCSvfPjx0Vl9ZFSfMCHK10=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -1004,7 +1028,7 @@ landscape:
                   value: 893681
                   color: '#e34c26'
                 - name: TypeScript
-                  value: 26019
+                  value: 33327
                   color: '#2b7489'
                 - name: JavaScript
                   value: 25024
@@ -1012,20 +1036,20 @@ landscape:
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;8;3;2;3;1;0;14;11;8;2;24;6;10;9;7;2;7;5;11;0;0;0;0;1;9;3;0;2;3;1;0;0;7;4;2;1;3;0;0;0;2;0;0;9;10;17
-              firstWeek: 2019-10-20Z
-              stars: 56
+              contributions: 0;0;0;0;0;8;3;4;2;0;7;11;10;7;2;22;6;10;10;7;6;2;5;11;0;0;0;0;8;2;3;1;3;1;1;0;2;7;2;3;1;2;0;0;2;0;0;0;10;11;20;5
+              firstWeek: 2019-11-03Z
+              stars: 57
               license: Apache License 2.0
               description: Open standards for the financial desktop.
-              latest_commit_date: '2020-10-13T14:59:43Z'
-              latest_commit_link: /finos/FDC3/commit/64a07a1140c6acacd9e6fc385e9040f15d55abb6
+              latest_commit_date: '2020-10-20T10:29:45Z'
+              latest_commit_link: /finos/FDC3/commit/d9a1a444b6d4d1dbab39a3a01bf020e33adb3f86
               release_date: '2020-10-13T15:02:47Z'
               release_link: 'https://github.com/finos/fdc3/releases'
-              contributors_count: 30
+              contributors_count: 31
               contributors_link: 'https://github.com/finos/fdc3/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/fdc3'
-                stars: 56
+                stars: 57
             github_start_commit_data:
               start_commit_link: /finos/FDC3/commit/84bc36d712b99756534015b8043ef44c1db66b4f
               start_date: '2018-02-17T04:22:36Z'
@@ -1036,7 +1060,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: FDC3 Desktop Agent
             homepage_url: 'https://github.com/finos/fdc3-desktop-agent'
@@ -1073,8 +1097,8 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;4;4;6;1;0;1;9;4;5;17;23;11;0;12;0;4;1;2;16;0;0;7;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;4;5;6;0;1;2;7;5;8;17;23;7;0;12;4;1;0;7;11;0;0;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 10
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
@@ -1095,7 +1119,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Plexus Interop
             homepage_url: 'https://github.com/finos/plexus-interop'
@@ -1146,8 +1170,8 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 0;4;0;0;5;0;0;0;1;4;1;5;49;34;5;6;0;0;0;0;0;0;2;3;0;0;3;0;0;4;3;0;1;2;0;2;1;0;1;3;5;0;0;0;0;0;2;5;0;0;0;4
-              firstWeek: 2019-10-20Z
+              contributions: 1;0;5;0;0;0;0;5;1;0;20;39;30;5;5;0;0;0;0;0;0;3;2;0;3;0;0;0;6;1;0;1;2;0;3;0;0;1;3;5;0;0;0;0;0;3;4;0;0;0;4;0
+              firstWeek: 2019-11-03Z
               stars: 244
               license: Apache License 2.0
               description: Plexus Interop open source project hosted by the Fintech Open Source Foundation
@@ -1172,7 +1196,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
@@ -1207,7 +1231,7 @@ landscape:
                   value: 795
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              firstWeek: 2019-11-03Z
               stars: 3
               license: Apache License 2.0
               description: Hadouken python language adapter.
@@ -1228,7 +1252,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: OpenFin React Hooks
             homepage_url: 'https://github.com/finos/openfin-react-hooks'
@@ -1256,9 +1280,9 @@ landscape:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 10;1;0;0;3;0;1;1;0;1;0;0;3;4;3;3;6;3;6;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
-              stars: 28
+              contributions: 1;0;0;3;0;1;1;1;0;0;0;3;4;3;5;4;7;2;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
+              stars: 29
               license: Apache License 2.0
               description: A collection of React Hooks built on top of the Openfin API - from Scott Logic
               latest_commit_date: '2020-04-12T16:47:48Z'
@@ -1269,7 +1293,7 @@ landscape:
               contributors_link: 'https://github.com/finos/openfin-react-hooks/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/openfin-react-hooks'
-                stars: 28
+                stars: 29
             github_start_commit_data:
               start_commit_link: /finos/openfin-react-hooks/commit/2b114b1f209e6be905d0c62c55855679446e044c
               start_date: '2019-05-17T10:48:16Z'
@@ -1280,7 +1304,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
       - subcategory:
         name: Containers
         items:
@@ -1320,8 +1344,8 @@ landscape:
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;3;2;2;9;24;5;2;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;3;1;6;9;22;5;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 8
               license: Apache License 2.0
               description: null
@@ -1344,7 +1368,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Symphony Electron
             homepage_url: 'https://github.com/symphonyoss/SymphonyElectron'
@@ -1370,10 +1394,10 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 701647
+                  value: 701911
                   color: '#2b7489'
                 - name: C#
-                  value: 443923
+                  value: 445223
                   color: '#178600'
                 - name: C
                   value: 59431
@@ -1382,7 +1406,7 @@ landscape:
                   value: 40679
                   color: '#e34c26'
                 - name: Batchfile
-                  value: 35346
+                  value: 35503
                   color: '#C1F12E'
                 - name: Less
                   value: 24764
@@ -1414,13 +1438,13 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 6;8;8;6;9;16;43;16;17;3;1;11;13;13;8;4;20;4;6;30;25;12;28;24;9;19;2;13;14;18;5;9;22;11;10;7;8;4;0;1;14;5;5;2;17;13;12;6;7;4;5;11
-              firstWeek: 2019-10-20Z
+              contributions: 10;6;9;6;22;39;19;14;1;2;14;14;9;9;3;19;4;15;23;24;17;26;22;8;18;2;16;12;18;5;12;18;13;8;7;9;3;0;1;14;6;4;7;20;7;12;7;6;2;10;7;13
+              firstWeek: 2019-11-03Z
               stars: 62
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2020-10-15T07:44:36Z'
-              latest_commit_link: /symphonyoss/SymphonyElectron/commit/6d9cfa12253746441a99435b35c0ddc6c49ff329
+              latest_commit_date: '2020-10-23T08:50:44Z'
+              latest_commit_link: /symphonyoss/SymphonyElectron/commit/2e9590975ef79fcec3cc43047127b090d412ed51
               release_date: '2020-08-04T16:59:21Z'
               release_link: 'https://github.com/symphonyoss/SymphonyElectron/releases'
               contributors_count: 26
@@ -1448,7 +1472,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
   - category:
     name: Applications
     subcategories:
@@ -1494,8 +1518,8 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 10;10;1;4;6;3;7;9;4;1;0;2;0;2;3;2;0;0;6;0;4;0;4;1;17;0;9;10;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 10;1;6;4;3;12;5;4;0;0;2;0;2;3;2;0;0;6;0;4;0;4;5;13;4;7;9;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 2
               license: Apache License 2.0
               description: Kubenetes Base Cloud Platform Abstraction
@@ -1522,7 +1546,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Integration Bridge
             homepage_url: 'https://github.com/symphonyoss/App-Integrations-Commons'
@@ -1563,7 +1587,7 @@ landscape:
                   value: 651
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              firstWeek: 2019-11-03Z
               stars: 10
               license: Apache License 2.0
               description: Common components for Symphony App Integrations.
@@ -1592,7 +1616,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: JCurl
             homepage_url: 'https://github.com/symphonyoss/JCurl'
@@ -1623,8 +1647,8 @@ landscape:
                 - name: Ruby
                   value: 467
                   color: '#701516'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 16
               license: Apache License 2.0
               description: JSON-aware curl (1) in Java
@@ -1647,7 +1671,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: MessageML Utilities
             homepage_url: 'https://github.com/symphonyoss/messageml-utils'
@@ -1675,8 +1699,8 @@ landscape:
                 - name: Java
                   value: 762937
                   color: '#b07219'
-              contributions: 2;0;0;0;0;0;1;0;0;0;0;0;3;5;0;0;0;0;0;3;1;0;0;0;0;3;0;0;2;4;7;5;0;1;5;6;24;0;0;9;18;0;7;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;1;0;0;0;0;0;0;3;5;0;0;0;0;0;4;0;0;0;0;0;3;0;0;2;4;7;5;0;1;11;3;21;0;0;17;10;1;6;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 6
               license: Apache License 2.0
               description: MessageML parser
@@ -1699,7 +1723,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: REST API Specification
             homepage_url: 'https://github.com/symphonyoss/symphony-api-spec'
@@ -1724,8 +1748,8 @@ landscape:
               stockExchange: null
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;5;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;1;0;1;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;5;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;1;0;1;0;1;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 8
               license: Apache License 2.0
               description: 'Swagger definitions for Symphony LLC public REST API '
@@ -1746,7 +1770,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: S2 Common Components
             homepage_url: 'https://github.com/symphonyoss/S2-common'
@@ -1774,8 +1798,8 @@ landscape:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 5;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 1
               license: Apache License 2.0
               description: S2 Common Classes - for consumption by SBE and S2
@@ -1798,7 +1822,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Symphony Clojure Client
             homepage_url: 'https://github.com/symphonyoss/clj-symphony'
@@ -1826,8 +1850,8 @@ landscape:
                 - name: Clojure
                   value: 61538
                   color: '#db5855'
-              contributions: 0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 4
               license: Apache License 2.0
               description: An idiomatic Clojure wrapper for the symphony-java-client
@@ -1848,7 +1872,7 @@ landscape:
               badge: 996
               percentage: 86
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Symphony Hubot Client
             homepage_url: 'https://github.com/symphonyoss/hubot-symphony'
@@ -1876,13 +1900,13 @@ landscape:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28;10;14;0;6;6;10;7;3;4;4;2;4;5;0;2;0;15;2;2;2;4
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;16;16;8;0;6;8;10;6;2;6;2;4;2;5;0;2;1;14;2;2;3;5;4
+              firstWeek: 2019-11-03Z
               stars: 9
               license: Apache License 2.0
               description: Hubot adapter for Symphony
-              latest_commit_date: '2020-10-12T18:48:57Z'
-              latest_commit_link: /symphonyoss/hubot-symphony/commit/81ad73f2d402230977660093d6fec0c13399244f
+              latest_commit_date: '2020-10-24T17:22:38Z'
+              latest_commit_link: /symphonyoss/hubot-symphony/commit/0790b2e994ff3e75734a8abab0dc6e2be2ddac01
               release_date: '2019-09-18T18:46:34Z'
               release_link: 'https://github.com/symphonyoss/hubot-symphony/releases'
               contributors_count: 10
@@ -1900,7 +1924,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Symphony Java Toolkit
             homepage_url: 'https://github.com/finos/symphony-java-toolkit'
@@ -1926,24 +1950,33 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 599160
+                  value: 631237
                   color: '#b07219'
+                - name: OCaml
+                  value: 5247
+                  color: '#3be133'
+                - name: Standard ML
+                  value: 4374
+                  color: '#dc566d'
                 - name: HTML
                   value: 4189
                   color: '#e34c26'
+                - name: FreeMarker
+                  value: 1693
+                  color: '#0050b2'
                 - name: JavaScript
                   value: 788
                   color: '#f1e05a'
-              contributions: 47;24;9;12;6;0;0;2;0;0;0;5;2;4;13;5;0;0;13;10;11;5;0;3;6;0;11;11;7;18;1;5;0;1;0;0;0;0;0;0;2;0;0;0;0;3;6;43;116;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 44;34;8;12;0;0;4;0;0;0;10;4;8;36;0;0;0;34;18;16;10;0;8;10;0;22;22;14;38;2;8;0;2;0;0;0;0;0;0;4;0;0;0;0;6;18;90;238;46;10;25;47
+              firstWeek: 2019-11-03Z
               stars: 11
               license: Apache License 2.0
               description: Spring Boot + Java Integration for Symphony Chat Platform Bots and Apps
-              latest_commit_date: '2020-09-23T09:35:04Z'
-              latest_commit_link: /finos/symphony-java-toolkit/commit/8c977be513cbf8ef279d1638e19c653645cccdf7
-              release_date: '2020-03-06T10:50:31Z'
+              latest_commit_date: '2020-10-23T11:36:35Z'
+              latest_commit_link: /finos/symphony-java-toolkit/commit/897ec1db92628b09a357cd622f983f14c5e763f8
+              release_date: '2020-10-21T14:12:34Z'
               release_link: 'https://github.com/finos/symphony-java-toolkit/releases'
-              contributors_count: 9
+              contributors_count: 11
               contributors_link: 'https://github.com/finos/symphony-java-toolkit/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/symphony-java-toolkit'
@@ -1958,7 +1991,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Unfurl Bot
             homepage_url: 'https://github.com/symphonyoss/bot-unfurl'
@@ -1992,8 +2025,8 @@ landscape:
                 - name: Dockerfile
                   value: 401
                   color: '#384d54'
-              contributions: 0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 4
               license: Apache License 2.0
               description: A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.
@@ -2014,7 +2047,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
       - subcategory:
         name: Voice Tech
         items:
@@ -2043,21 +2076,21 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 124789
+                  value: 126266
                   color: '#3572A5'
                 - name: Shell
-                  value: 740
+                  value: 746
                   color: '#89e051'
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;1;0;2;0;0;0;0;0;7;2;8;0;0;5;0;0;14;0;3;0;0;0;0;0;0;0;0;0;1;0;0;0;7;0;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;0;1;0;2;0;0;0;0;0;7;4;6;0;5;0;0;3;11;0;3;0;0;0;0;0;0;0;0;0;1;0;0;4;3;0;0;4;1;1;0;0;0;0;0;0;1;0;0;0;0;1
+              firstWeek: 2019-11-03Z
               stars: 20
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
-              latest_commit_date: '2020-07-28T15:33:05Z'
-              latest_commit_link: /finos/greenkey-asrtoolkit/commit/8ec5ca16fb6bd52becfa24e7036087c78568282a
+              latest_commit_date: '2020-10-20T15:59:42Z'
+              latest_commit_link: /finos/greenkey-asrtoolkit/commit/1e8e41e853d918bba5d921aac9976ccc3466a3b1
               release_date: '2020-07-21T21:43:07Z'
               release_link: 'https://github.com/finos/greenkey-asrtoolkit/releases'
               contributors_count: 11
@@ -2075,7 +2108,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Greenkey Discovery SDK
             homepage_url: 'https://github.com/finos/greenkey-discovery-sdk'
@@ -2106,8 +2139,8 @@ landscape:
                 - name: Shell
                   value: 893
                   color: '#89e051'
-              contributions: 1;2;14;14;39;6;4;0;0;0;0;8;8;0;7;1;1;1;0;0;0;0;1;0;1;0;0;0;0;0;0;3;0;0;2;1;1;0;0;0;0;0;1;0;0;7;1;1;0;1;2;0
-              firstWeek: 2019-10-20Z
+              contributions: 0;18;13;36;6;4;0;0;0;5;3;8;0;7;1;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0;3;0;0;3;0;1;0;0;0;0;1;0;0;0;8;0;1;0;1;2;0;0
+              firstWeek: 2019-11-03Z
               stars: 7
               license: Apache License 2.0
               description: Speed up business workflows through custom 'voice skills' and text (NLP) interpreters
@@ -2128,7 +2161,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
           - item:
             name: Voice Metadata Standardization
             homepage_url: 'https://github.com/finos/voice-metadata-standard'
@@ -2153,8 +2186,8 @@ landscape:
               stockExchange: null
             github_data:
               languages: []
-              contributions: 4;4;1;0;0;0;0;0;7;1;0;1;0;4;1;2;1;0;0;0;0;1;0;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-10-20Z
+              contributions: 3;1;0;0;0;0;0;7;1;0;1;0;4;1;3;0;0;0;0;1;0;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-11-03Z
               stars: 22
               license: Apache License 2.0
               description: This is a project from FINOS Voice program to define a standard for call metadata.
@@ -2175,7 +2208,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
       - subcategory:
         name: UI Frameworks
         items:
@@ -2204,13 +2237,13 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1646910
+                  value: 1647143
                   color: '#f1e05a'
                 - name: C++
                   value: 1319629
                   color: '#f34b7d'
                 - name: Python
-                  value: 801753
+                  value: 767528
                   color: '#3572A5'
                 - name: Less
                   value: 90814
@@ -2223,7 +2256,7 @@ landscape:
                   value: 33912
                   color: '#384d54'
                 - name: HTML
-                  value: 24619
+                  value: 22353
                   color: '#e34c26'
                 - name: C
                   value: 5250
@@ -2237,19 +2270,18 @@ landscape:
                 - name: CSS
                   value: 1053
                   color: '#563d7c'
-              contributions: >-
-                58;38;26;50;18;27;25;42;54;0;10;17;28;4;31;51;44;21;35;11;28;24;15;20;13;24;17;13;18;14;24;27;25;32;17;29;8;10;5;4;27;6;10;4;35;13;35;9;17;9;20;7
-              firstWeek: 2019-10-20Z
-              stars: 2947
+              contributions: 26;36;42;23;20;37;47;37;1;12;21;21;8;36;49;45;20;32;12;28;23;19;15;23;12;16;13;23;11;23;38;23;23;22;25;6;12;4;3;29;7;9;5;35;15;32;12;22;4;20;8;5
+              firstWeek: 2019-11-03Z
+              stars: 2961
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
-              latest_commit_date: '2020-10-15T12:43:47Z'
-              latest_commit_link: /finos/perspective/commit/d33b3763007e10a0eb84799bc0a41db22ff9c886
-              contributors_count: 56
+              latest_commit_date: '2020-10-23T06:42:08Z'
+              latest_commit_link: /finos/perspective/commit/f03ec9739e2ac250d1f20ff37f15babeacb52720
+              contributors_count: 58
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/perspective'
-                stars: 2947
+                stars: 2961
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -2260,7 +2292,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
   - category:
     name: FINOS
     subcategories:
@@ -2294,7 +2326,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-14T17:47:59.000Z
+              latest_tweet_date: 2020-10-24T13:41:00.000Z
   - category:
     name: FINOS Members
     subcategories:
@@ -2310,4 +2342,4 @@ landscape:
 twitter_options:
   count: 1
   since_id: '1303800383177986058'
-updated_at: 2020-10-16T01:36:10.699Z
+updated_at: 2020-10-25T07:23:13.334Z
