@@ -55,6 +55,15 @@ relation:
           big_picture_label: FINOS Archived
           big_picture_color: 'rgb(162,171,170)'
           big_picture_order: 3
+        - id: sig
+          label: Special Interest Group
+          prefix: FINOS
+          tag: Special Interest Group
+          color: 'rgb(0,181,226)'
+          big_picture_label: Special Interest Group
+          big_picture_color: 'rgb(0,181,226)'
+          big_picture_order: 4
+
     - id: member
       label: Organizations
       tag: FINOS Members
