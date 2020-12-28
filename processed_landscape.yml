@@ -836,7 +836,7 @@ landscape:
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;8;36;51;35;55;45;28;32;23;7;38;3;25;19;0;4;6;9;6;25;9;7;12;3;47;13;22;20;12;13;6;16;22;6;18;33;13;8;19;20;37;47;18;37
               firstWeek: 2020-01-05Z
-              stars: 72
+              stars: 73
               license: Apache License 2.0
               description: A multi-language system and data format to work with pure business knowledge
               latest_commit_date: '2020-10-02T13:33:47Z'
@@ -847,7 +847,7 @@ landscape:
               - url: 'https://github.com/finos/morphir'
                 stars: 32
               - url: 'https://github.com/finos/morphir-elm'
-                stars: 12
+                stars: 13
               - url: 'https://github.com/finos/morphir-examples'
                 stars: 12
               - url: 'https://github.com/finos/morphir-jvm'
@@ -2491,7 +2491,7 @@ landscape:
                   color: '#563d7c'
               contributions: 8;21;21;8;53;33;44;23;29;12;28;24;20;13;23;12;22;7;23;11;27;34;23;23;23;24;6;12;4;8;24;7;9;8;32;16;31;14;20;11;21;9;14;13;9;1;0;2;1;0;5;7
               firstWeek: 2020-01-05Z
-              stars: 3066
+              stars: 3067
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
               latest_commit_date: '2020-12-22T09:33:36Z'
@@ -2500,7 +2500,7 @@ landscape:
               contributors_link: 'https://github.com/finos/perspective/graphs/contributors'
             repos:
               - url: 'https://github.com/finos/perspective'
-                stars: 3066
+                stars: 3067
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -2561,4 +2561,4 @@ landscape:
 twitter_options:
   count: 1
   since_id: '1303800383177986058'
-updated_at: 2020-12-28T00:49:10.959Z
+updated_at: 2020-12-28T10:23:46.941Z
