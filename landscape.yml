@@ -404,10 +404,247 @@ landscape:
     subcategories:
       - subcategory:
         name: Platinum
-        items: []
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/accenture
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            name: Accenture Global Solutions Limited
+            twitter: https://twitter.com/Accenture
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/citibank
+            enduser: true
+            homepage_url: https://citi.com/
+            joined: '2021-01-25'
+            logo: citi.svg
+            name: Citi
+            twitter: https://twitter.com/Citi
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/deutsche-bank
+            homepage_url: https://db.com/
+            logo: deutsche_bank_ag.svg
+            name: Deutsche Bank AG
+            twitter: https://twitter.com/DeutscheBank
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/github
+            homepage_url: https://github.com/
+            logo: github_inc.svg
+            name: GitHub, Inc.
+            twitter: https://twitter.com/github
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+            enduser: true
+            homepage_url: https://gs.com/
+            logo: goldman_sachs.svg
+            name: Goldman Sachs
+            twitter: https://twitter.com/GoldmanSachs
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+            enduser: true
+            homepage_url: https://jpmorganchase.com/
+            logo: jpmorgan_chase.svg
+            name: JPMorgan Chase
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/morgan-stanley
+            enduser: true
+            homepage_url: https://morganstanley.com/
+            logo: morgan_stanley.svg
+            name: Morgan Stanley
+            twitter: https://twitter.com/MorganStanley
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/nomura
+            homepage_url: https://nomura.com/
+            logo: nomura_group.svg
+            name: Nomura Group
+            twitter: https://twitter.com/Nomura
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/rbc-capital-markets
+            homepage_url: https://rbccm.com/
+            logo: rbc_capital_markets_llc.svg
+            name: RBC Capital Markets, LLC
+            twitter: https://twitter.com/rbccm
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/ubs
+            homepage_url: https://ubs.com/
+            logo: ubs.svg
+            name: UBS
+            twitter: https://twitter.com/UBS
       - subcategory:
         name: Gold
-        items: []
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/capital-one
+            enduser: true
+            homepage_url: https://capitalone.com/
+            logo: capital_one.svg
+            name: Capital One
+            twitter: https://twitter.com/CapitalOne
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/hsbc
+            homepage_url: https://hsbc.com/
+            logo: hsbc.svg
+            name: HSBC
+            twitter: https://twitter.com/HSBC
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/ihs-markit
+            homepage_url: https://ihsmarkit.com/
+            logo: ihs_markit.svg
+            name: IHS Markit
+            twitter: https://twitter.com/IHSMarkit
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/intel
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            name: Intel Corporation
+            twitter: https://twitter.com/intel
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            name: Red Hat Inc.
+            twitter: https://twitter.com/RedHat
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/refinitiv
+            logo: refinitiv.svg
+            name: Refinitiv
+            twitter: https://twitter.com/Refinitiv
+            homepage_url: https://refinitiv.com/
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/suse
+            homepage_url: https://suse.com/
+            logo: suse_llc.svg
+            name: SUSE LLC
+            twitter: https://twitter.com/SUSE
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/symphony-3
+            homepage_url: https://symphony.com/
+            logo: symphony_communication_services_llc.svg
+            name: Symphony Communication Services LLC
+            twitter: https://twitter.com/Symphony
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/tradeweb
+            logo: tradeweb_markets_llc.svg
+            name: Tradeweb Markets LLC
+            twitter: https://twitter.com/Tradeweb
+            homepage_url: https://tradeweb.com/
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/wells-fargo-energy-capital
+            homepage_url: https://wellsfargo.com/
+            logo: wells_fargo.svg
+            name: Wells Fargo
+            twitter: https://twitter.com/WFInvesting
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/wipro
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            name: Wipro Limited
+            twitter: https://twitter.com/Wipro
       - subcategory:
         name: Silver
-        items: []
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/adaptive-financial-consulting
+            homepage_url: https://wearadaptive.com/
+            logo: adaptive_financial_consulting_limited.svg
+            name: Adaptive Financial Consulting Limited
+            twitter: https://twitter.com/WeAreAdaptive
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/armory
+            homepage_url: https://armory.io/
+            logo: armory_inc.svg
+            name: Armory Inc
+            twitter: https://twitter.com/cloudarmory
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/bnymellon
+            homepage_url: https://bnymellon.com/
+            logo: bank_of_new_york_mellon.svg
+            name: Bank of New York Mellon
+            twitter: https://twitter.com/BNYMellon
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            name: Canonical Group Limited
+            twitter: https://twitter.com/Canonical
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud9-technologies
+            homepage_url: https://c9tec.com/
+            logo: cloud9_technologies_llc.svg
+            name: Cloud9 Technologies LLC
+            twitter: https://twitter.com/c9tec
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloudbees
+            homepage_url: https://cloudbees.com/
+            logo: cloudbees_inc.svg
+            name: CloudBees, Inc.
+            twitter: https://twitter.com/CloudBees
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/chartiq
+            homepage_url: https://chartiq.com/
+            logo: cosaic.svg
+            name: Cosaic
+            twitter: https://twitter.com/chartiq
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/diffblue
+            logo: diffblue_ltd.svg
+            name: Diffblue Ltd
+            twitter: https://twitter.com/diffbluehq
+            homepage_url: https://diffblue.com/
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/epam-systems
+            homepage_url: https://epam.com/
+            logo: epam_systems.svg
+            name: EPAM Systems
+            twitter: https://twitter.com/EPAMSYSTEMS
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/genesis-2
+            homepage_url: https://genesis.global/
+            logo: genesis_global_technology_limited.svg
+            name: Genesis Global Technology Limited
+            twitter: https://twitter.com/GenesisFinTech
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+            homepage_url: https://gitlab.com/
+            logo: gitlab_inc.svg
+            name: GitLab, Inc.
+            twitter: https://twitter.com/gitlab
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/banco-itau-2
+            homepage_url: https://itau.com.br/
+            logo: itau_bba_usa_securities_inc.svg
+            name: ITAU BBA USA SECURITIES, INC.
+            twitter: https://twitter.com/itau
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/scott-logic
+            homepage_url: https://scottlogic.com/
+            logo: scott_logic_ltd.svg
+            name: Scott Logic Ltd
+            twitter: https://twitter.com/Scott_Logic
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/tick42
+            homepage_url: https://glue42.com/
+            logo: tick42.svg
+            name: Tick42
+            twitter: https://twitter.com/glue42
+      - subcategory:
+        name: Associate
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/international-swaps-and-derivatives-association
+            homepage_url: https://isda.org/
+            logo: international_swaps_and_derivatives_association.svg
+            name: International Swaps and Derivatives Association
+            twitter: https://twitter.com/ISDAConferences
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/interwork-alliance-e317
+            logo: interwork_alliance_inc.svg
+            name: InterWork Alliance, Inc.
+            twitter: https://twitter.com/IntWorkAll
+            homepage_url: https://interwork.org/
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
+            homepage_url: https://openuk.uk/
+            logo: openuk.svg
+            name: OpenUK
+            twitter: https://twitter.com/openuk_uk

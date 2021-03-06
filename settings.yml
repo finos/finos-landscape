@@ -63,12 +63,13 @@ relation:
           big_picture_label: Special Interest Group
           big_picture_color: rgb(0,181,226)
           big_picture_order: 4
+    - id: company
+      label: FINOS Members
+      tag: Company
+      big_picture_order: 3
     - id: member
       label: Organizations
       tag: FINOS Members
-      big_picture_label: FINOS Members
-      big_picture_color: rgb(72,169,52)
-      big_picture_order: 4
     - id: false
       label: Non-FINOS Foundation Member Products/Projects
       url: 'no'
@@ -87,6 +88,10 @@ membership:
     name: FINOS
     label: Silver Member
     funding: Silver
+  Associate:
+    name: FINOS
+    label: Associate Member
+    funding: Associate
   linux_foundation:
     name: LF
     label: Project
@@ -216,6 +221,51 @@ big_picture:
             right: 20
             top: 20
             title: FINOS Foundation Logo
+  third:
+    tab_index: 1
+    url: members
+    name: Members
+    title: FINOS Members
+    fullscreen_header: Become a FINOS member at www.finos.org/membership-benefits
+    fullscreen_hide_grey_logos: true
+    elements:
+      - type: VerticalCategory
+        category: Platinum
+        width: 1020
+        height: 190
+        top: 0
+        left: 0
+        color: '#e5e4e2'
+        fit_width: true
+      - type: VerticalCategory
+        category: Gold
+        width: 1020
+        height: 190
+        top: 200
+        left: 0
+        color: '#d4af37'
+        fit_width: true
+      - type: VerticalCategory
+        category: Silver
+        cols: 30
+        width: 1020
+        height: 140
+        top: 400
+        left: 0
+        color: '#C0C0C0'
+        fit_width: true
+      - type: VerticalCategory
+        category: Associate
+        cols: 30
+        width: 1020
+        height: 140
+        top: 550
+        left: 0
+        color: rgb(0,0,0)
+        fit_height: true
+    category: FINOS Members
+prerender:
+  members: /card-mode?style=borderless&category=finos-members&grouping=category&embed=yes
 test:
   header: FINOS Landscape
   section: FINOS Active Projects
