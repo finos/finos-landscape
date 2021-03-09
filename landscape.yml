@@ -38,7 +38,7 @@ landscape:
             homepage_url: https://github.com/finos/git-proxy
             repo_url: https://github.com/finos/git-proxy
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: finos.svg
+          - logo: innersource.svg
             name: InnerSource Special Interest Group
             item:
             project: sig
@@ -403,14 +403,14 @@ landscape:
       - subcategory:
         name: Modeling Initiatives
         items:
-          - logo: financial-objects.svg
+          - logo: fo-commodities-payout.svg
             name: Commodities Payout
             item:
             project: INCUBATING
             homepage_url: http://fo.finos.org
             repo_url: https://github.com/finos/finos-fo
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: financial-objects.svg
+          - logo: fo-product-control-common-template.svg
             name: Product Control Common Template
             item:
             project: INCUBATING
