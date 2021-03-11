@@ -164,7 +164,7 @@ big_picture:
         category: Infrastructure
         rows: 4
         width: 160
-        height: 200
+        height: 180
         top: 410
         left: 0
         color: rgb(67,176,42)
@@ -173,16 +173,25 @@ big_picture:
         category: Platforms & Runtimes
         rows: 4
         width: 350
-        height: 200
+        height: 180
         top: 410
         left: 180
         color: rgb(215,200,38)
         fit_width: true
+      - type: HorizontalCategory
+        category: Legend
+        rows: 4
+        width: 200
+        height: 180
+        top: 410
+        left: 550
+        color: rgb(0,181,226)
+        fit_width: true
       - type: LandscapeInfo
         width: 430
         height: 200
-        top: 410
-        left: 550
+        top: 620
+        left: 0
         children:
           - type: text
             text: |
