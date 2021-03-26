@@ -134,16 +134,6 @@ landscape:
             repo_url: https://github.com/symphonyoss/symphony-api-spec
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony.svg
-            name: REST API Tools
-            item:
-            additional_repos:
-              - repo_url: https://github.com/symphonyoss/symphony-rest-tools-ui
-              - repo_url: https://github.com/symphonyoss/symphony-rest-tools-examples
-            project: archived
-            homepage_url: https://github.com/symphonyoss/symphony-rest-tools
-            repo_url: https://github.com/symphonyoss/symphony-rest-tools
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony.svg
             name: S2 Common Components
             item:
             additional_repos:
@@ -151,20 +141,6 @@ landscape:
             project: active
             homepage_url: https://github.com/symphonyoss/S2-common
             repo_url: https://github.com/symphonyoss/S2-common
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony.svg
-            name: Symfuny Chat Bot
-            item:
-            project: archived
-            homepage_url: https://github.com/symphonyoss/symfuny-chat-bot
-            repo_url: https://github.com/symphonyoss/symfuny-chat-bot
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony.svg
-            name: Symphony .NET Client
-            item:
-            project: archived
-            homepage_url: https://github.com/symphonyoss/RestApiClient
-            repo_url: https://github.com/symphonyoss/RestApiClient
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony.svg
             name: Symphony BDK Java
@@ -186,15 +162,6 @@ landscape:
             project: active
             homepage_url: https://github.com/symphonyoss/hubot-symphony
             repo_url: https://github.com/symphonyoss/hubot-symphony
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony.svg
-            name: Symphony Java Client
-            item:
-            additional_repos:
-              - repo_url: https://github.com/symphonyoss/symphony-java-api
-            project: archived
-            homepage_url: https://github.com/symphonyoss/symphony-java-client
-            repo_url: https://github.com/symphonyoss/symphony-java-client
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony-java-toolkit.svg
             name: Symphony Java Toolkit
@@ -337,13 +304,6 @@ landscape:
             project: incubating
             homepage_url: https://github.com/finos/glue
             repo_url: https://github.com/finos/glue
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: finos.svg
-            name: TimeBase CE
-            item:
-            project: formation
-            homepage_url: https://github.com/finos/timebase-ce
-            repo_url: https://github.com/finos/timebase-ce
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
         name: Market Data
