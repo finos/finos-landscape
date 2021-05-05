@@ -28,6 +28,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
@@ -36,8 +46,8 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 39
               license: Apache License 2.0
               description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
@@ -60,7 +70,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Open Developer Platform
             homepage_url: https://odp.finos.org
@@ -83,10 +93,20 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
-                  value: 11092
+                  value: 11143
                   color: '#f1e05a'
                 - name: Shell
                   value: 7145
@@ -94,18 +114,18 @@ landscape:
                 - name: CSS
                   value: 6385
                   color: '#563d7c'
-              contributions: 8;4;8;3;22;3;0;1;0;0;3;0;4;2;0;30;8;2;0;2;0;0;6;5;5;4;0;0;8;3;1;0;1;0;5;2;1;0;0;0;0;0;1;0;0;0;0;0;60;3;0;0
-              firstWeek: 2020-04-12Z
-              stars: 31
+              contributions: 20;3;0;1;0;0;3;0;4;2;27;3;8;2;0;2;0;0;8;3;7;2;0;0;9;2;1;0;1;0;5;2;1;0;0;0;0;0;1;0;0;0;0;0;60;3;0;4;2;3;1;2
+              firstWeek: 2020-05-10Z
+              stars: 32
               license: Apache License 2.0
               description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
-              latest_commit_date: '2021-03-18T12:43:07Z'
-              latest_commit_link: /finos/open-developer-platform/commit/a036f9543a2ac370f5c383b74d5077126a8ead45
+              latest_commit_date: '2021-04-30T09:23:51Z'
+              latest_commit_link: /finos/open-developer-platform/commit/2ae3fe720de6740f5fd99074999fa8108f108dbc
               contributors_count: 8
               contributors_link: https://github.com/finos/open-developer-platform/graphs/contributors
             repos:
               - url: https://github.com/finos/open-developer-platform
-                stars: 31
+                stars: 32
             github_start_commit_data:
               start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
               start_date: '2018-08-20T12:51:46Z'
@@ -116,7 +136,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: OSS Readiness
         items:
@@ -142,22 +162,32 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;4;0;0;0;4;3;9;2;0;0;2;0;0;0;0;0;0;4;0;12;0;0
-              firstWeek: 2020-04-12Z
-              stars: 11
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;4;0;0;0;4;3;10;1;0;0;2;0;0;0;0;0;0;4;1;11;0;12;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 14
               license: Apache License 2.0
               description: >-
                 Provide a continuous compliance and assurance approach to DevOps that mutually benefits banks, auditors and regulators whilst accelerating
                 DevOps adoption in engineering and fintech IT departments.
-              latest_commit_date: '2021-03-19T11:06:17Z'
-              latest_commit_link: /finos/devops-mutualization/commit/ea315669213ffbfd87b20f89b3d97f7b3fd6eabc
+              latest_commit_date: '2021-04-06T14:20:24Z'
+              latest_commit_link: /finos/devops-mutualization/commit/ff9e65b8063346a3ee2a012469426c9075ffd780
               contributors_count: 3
               contributors_link: https://github.com/finos/devops-mutualization/graphs/contributors
             repos:
               - url: https://github.com/finos/devops-mutualization
-                stars: 11
+                stars: 14
             github_start_commit_data:
               start_commit_link: /finos/devops-mutualization/commit/63c7c00f8136a8d3869e961d7986b333bc66bdda
               start_date: '2020-10-08T09:57:46Z'
@@ -168,7 +198,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Git Proxy
             homepage_url: https://github.com/finos/git-proxy
@@ -191,6 +221,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
@@ -202,8 +242,8 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 0;54;16;1;4;0;7;25;6;0;0;0;0;0;1;0;0;0;0;0;0;8;13;0;8;10;43;5;0;0;28;2;22;10;1;2;0;0;0;8;0;0;9;1;0;16;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 4;0;7;25;6;0;0;0;0;0;1;0;0;0;0;0;8;0;13;0;8;10;48;0;0;1;27;2;22;10;2;1;0;0;0;8;0;0;9;1;0;16;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 14
               license: Apache License 2.0
               description: An info-security/compliance-friendly way for highly regulated industries to be more accepting of open source
@@ -224,7 +264,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: InnerSource Special Interest Group
             homepage_url: https://github.com/finos/InnerSource
@@ -247,6 +287,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
@@ -255,9 +305,9 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;1;12;2;1;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 4
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;1;12;2;1;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 5
               license: Apache License 2.0
               description: >-
                 The FINOS InnerSource SIG is a community of people implementing, or interested in implementing, InnerSource within their financial services
@@ -268,7 +318,7 @@ landscape:
               contributors_link: https://github.com/finos/InnerSource/graphs/contributors
             repos:
               - url: https://github.com/finos/InnerSource
-                stars: 4
+                stars: 5
             github_start_commit_data:
               start_commit_link: /finos/InnerSource/commit/dea4a90837a1b07350c58c8df53338a5953d2343
               start_date: '2021-02-01T08:40:03Z'
@@ -279,7 +329,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Open source readiness
             homepage_url: https://github.com/finos/osr-checklists
@@ -302,10 +352,20 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              firstWeek: 2020-05-10Z
               stars: 3
               license: Creative Commons Attribution Share Alike 4.0 International
               description: Checklists for key components and processes of open source programs
@@ -326,7 +386,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: OSLC Handbook
             homepage_url: https://github.com/finos/OSLC-handbook
@@ -349,6 +409,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: HTML
@@ -360,20 +430,20 @@ landscape:
                 - name: Python
                   value: 7813
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 95
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+              firstWeek: 2020-05-10Z
+              stars: 96
               license: Other
               description: A data store and handbook of practical information about complying with the most common open source licenses.
-              latest_commit_date: '2019-10-09T20:47:05Z'
-              latest_commit_link: /finos/OSLC-handbook/commit/eafdcdac855a0e1877606eb15eba561b2abf0dba
+              latest_commit_date: '2021-04-19T15:50:04Z'
+              latest_commit_link: /finos/OSLC-handbook/commit/53c496c60f89a284ef85b6472283d6c995c636f1
               release_date: '2019-04-29T17:05:38Z'
               release_link: https://github.com/finos/OSLC-handbook/releases
               contributors_count: 11
               contributors_link: https://github.com/finos/OSLC-handbook/graphs/contributors
             repos:
               - url: https://github.com/finos/OSLC-handbook
-                stars: 95
+                stars: 96
             github_start_commit_data:
               start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
               start_date: '2018-10-26T18:13:22Z'
@@ -384,7 +454,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Reference FOSS Policy
             homepage_url: https://github.com/finos/reference-foss-policy
@@ -407,11 +477,21 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 9
+              firstWeek: 2020-05-10Z
+              stars: 10
               license: Creative Commons Attribution 4.0 International
               description: Reference FOSS Policy for Financial Services Institutions
               latest_commit_date: '2018-10-17T20:09:56Z'
@@ -420,7 +500,7 @@ landscape:
               contributors_link: https://github.com/finos/reference-foss-policy/graphs/contributors
             repos:
               - url: https://github.com/finos/reference-foss-policy
-                stars: 9
+                stars: 10
             github_start_commit_data:
               start_commit_link: /finos/reference-foss-policy/commit/c2176c273b21012ad1022b06991361eb27dbabdc
               start_date: '2018-05-30T13:20:21Z'
@@ -431,7 +511,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Regulation
         items:
@@ -457,22 +537,32 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;13;8;0;0;3;2;0;0;0;0;0;0;5;2;0;0;2;0;4;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 9
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;2;6;0;0;3;2;0;0;0;0;0;0;7;0;0;0;2;2;2;0;0;2;0;1;0;2
+              firstWeek: 2020-05-10Z
+              stars: 11
               license: Apache License 2.0
               description: >-
                 The FINOS Regulation Innovation Special Interest Group (SIG) is a community of people interested in creating open source solutions for
                 regulatory and compliance issues in financial services.
-              latest_commit_date: '2021-03-12T16:36:50Z'
-              latest_commit_link: /finos/open-regtech-sig/commit/e4211ab92529ac38ce86dddeb3a54da7c5aa12f2
-              contributors_count: 3
+              latest_commit_date: '2021-05-03T19:57:22Z'
+              latest_commit_link: /finos/open-regtech-sig/commit/29816f5f574917707617890d62e89b7e4316cb05
+              contributors_count: 4
               contributors_link: https://github.com/finos/open-regtech-sig/graphs/contributors
             repos:
               - url: https://github.com/finos/open-regtech-sig
-                stars: 9
+                stars: 11
             github_start_commit_data:
               start_commit_link: /finos/open-regtech-sig/commit/78c8d8689aebee0acf5e57486a5abdebc718bb7f
               start_date: '2020-11-02T17:58:24Z'
@@ -483,7 +573,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: Applications
     subcategories:
@@ -512,6 +602,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
@@ -523,8 +623,8 @@ landscape:
                 - name: JavaScript
                   value: 13681
                   color: '#f1e05a'
-              contributions: 0;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 2
               license: Apache License 2.0
               description: JSON API Generation Tooling
@@ -547,13 +647,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Fugue
             homepage_url: https://symphonyoss.github.io/fugue
             project: active
             repo_url: https://github.com/symphonyoss/fugue
-            logo: symphony.svg
+            logo: fugue.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -570,6 +670,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
@@ -587,8 +697,8 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 13;5;11;4;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 3
               license: Apache License 2.0
               description: Kubenetes Base Cloud Platform Abstraction
@@ -610,18 +720,18 @@ landscape:
               start_date: '2018-01-28T18:40:20Z'
             image_data:
               fileName: fugue.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: UevFaGZxM3Em99XkiWuRe20xVZbAw5S6cFoQRHH3WNQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Integration Bridge
             homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
             project: active
             repo_url: https://github.com/symphonyoss/App-Integrations-Commons
-            logo: symphony.svg
+            logo: symphony-integration-bridge.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -638,6 +748,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
@@ -656,7 +776,7 @@ landscape:
                   value: 651
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              firstWeek: 2020-05-10Z
               stars: 13
               license: Apache License 2.0
               description: Common components for Symphony App Integrations.
@@ -680,18 +800,18 @@ landscape:
               start_date: '2016-12-15T19:23:53Z'
             image_data:
               fileName: integration-bridge.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: UMuCg/kPGVWoYszi3a4aJlpJ97YBfnbKxxPSVtuKw34=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: JCurl
             homepage_url: https://github.com/symphonyoss/JCurl
             project: active
             repo_url: https://github.com/symphonyoss/JCurl
-            logo: symphony.svg
+            logo: jcurl.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -708,6 +828,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
@@ -716,8 +846,8 @@ landscape:
                 - name: Ruby
                   value: 467
                   color: '#701516'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 19
               license: Apache License 2.0
               description: JSON-aware curl (1) in Java
@@ -735,18 +865,18 @@ landscape:
               start_date: '2017-02-01T20:10:51Z'
             image_data:
               fileName: j-curl.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: d8OuPYFKOf5FB2I+bmvEWv7Kmj+FL669Eb7iRmMlq/Q=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: MessageML Utilities
             homepage_url: https://github.com/symphonyoss/messageml-utils
             project: active
             repo_url: https://github.com/symphonyoss/messageml-utils
-            logo: symphony.svg
+            logo: messageml-utils.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -763,18 +893,28 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
                   value: 911329
                   color: '#b07219'
-              contributions: 0;3;0;1;1;8;3;5;0;3;9;4;20;0;0;19;8;2;5;0;0;0;0;0;0;0;1;0;1;2;0;0;21;6;0;5;4;5;0;9;1;5;7;51;1;2;0;0;0;3;1;4
-              firstWeek: 2020-04-12Z
+              contributions: 0;11;0;5;0;6;6;9;15;0;0;20;7;7;0;0;0;0;0;0;0;0;1;0;3;0;0;0;27;0;3;4;7;0;0;9;1;12;19;32;1;2;0;0;3;0;1;4;0;0;1;1
+              firstWeek: 2020-05-10Z
               stars: 7
               license: Apache License 2.0
               description: MessageML parser
-              latest_commit_date: '2021-04-02T07:57:16Z'
-              latest_commit_link: /symphonyoss/messageml-utils/commit/a6265b100e6759f5374990338d8eae10d31f3b0e
+              latest_commit_date: '2021-04-30T06:42:08Z'
+              latest_commit_link: /symphonyoss/messageml-utils/commit/c670f1d53badc6790476ff9c79707ddf9af043cc
               release_date: '2021-04-02T08:01:06Z'
               release_link: https://github.com/symphonyoss/messageml-utils/releases
               contributors_count: 27
@@ -787,18 +927,18 @@ landscape:
               start_date: '2017-05-03T17:10:47Z'
             image_data:
               fileName: message-ml-utilities.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: cUOiZT854h3YPPw08edxHagZgflbyIJ2quBzle23ycc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: REST API Specification
             homepage_url: https://github.com/symphonyoss/symphony-api-spec
             project: active
             repo_url: https://github.com/symphonyoss/symphony-api-spec
-            logo: symphony.svg
+            logo: symphony-rest-api-spec.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -815,16 +955,31 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
-              languages: []
-              contributions: 0;0;0;0;4;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;0;8;0;0;0;0;0;0;0;0;0;2;0;0;5;0;0;0;0;0;0;3;0;0
-              firstWeek: 2020-04-12Z
+              languages:
+                - name: Shell
+                  value: 961
+                  color: '#89e051'
+              contributions: 1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;0;8;0;0;0;0;0;0;0;0;0;2;0;0;5;0;0;0;0;0;4;1;1;0;6;2;5;0
+              firstWeek: 2020-05-10Z
               stars: 9
               license: Apache License 2.0
               description: 'Swagger definitions for Symphony LLC public REST API '
-              latest_commit_date: '2021-03-18T07:38:48Z'
-              latest_commit_link: /symphonyoss/symphony-api-spec/commit/61a906e075fdd1de1365d9fa0c73f866c3610cc7
-              contributors_count: 17
+              latest_commit_date: '2021-04-27T06:50:25Z'
+              latest_commit_link: /symphonyoss/symphony-api-spec/commit/8cbf2a49bc9c53ad7a4b99e9c6724476dcfd648e
+              release_date: '2021-04-12T07:46:49Z'
+              release_link: https://github.com/symphonyoss/symphony-api-spec/releases
+              contributors_count: 19
               contributors_link: https://github.com/symphonyoss/symphony-api-spec/graphs/contributors
             repos:
               - url: https://github.com/symphonyoss/symphony-api-spec
@@ -834,18 +989,18 @@ landscape:
               start_date: '2017-05-23T21:55:05Z'
             image_data:
               fileName: rest-api-specification.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: 7pG8TAen/JCGiujUcGVd9p6S+KwhroSaphnAVhMHdPQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: S2 Common Components
             homepage_url: https://github.com/symphonyoss/S2-common
             project: active
             repo_url: https://github.com/symphonyoss/S2-common
-            logo: symphony.svg
+            logo: symphony-s2-common.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -862,13 +1017,23 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
                   value: 439975
                   color: '#b07219'
-              contributions: 0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 3
               license: Apache License 2.0
               description: S2 Common Classes - for consumption by SBE and S2
@@ -886,18 +1051,18 @@ landscape:
               start_date: '2017-08-21T22:16:56Z'
             image_data:
               fileName: s2-common-components.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: 8exW/CdYJAYdwutFFiS59KLiH2/DmwTpUFR2FaA2fvU=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Symphony BDK Java
             homepage_url: https://symphony-bdk-java.finos.org
             project: incubating
             repo_url: https://github.com/finos/symphony-bdk-java
-            logo: symphony.svg
+            logo: symphony-bdk-java.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -914,10 +1079,20 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
-                  value: 1126081
+                  value: 1150227
                   color: '#b07219'
                 - name: Mustache
                   value: 23260
@@ -932,24 +1107,24 @@ landscape:
                   color: '#0050b2'
                 - name: Handlebars
                   value: 271
-                - name: Dockerfile
-                  value: 253
-                  color: '#384d54'
                 - name: CSS
                   value: 131
                   color: '#563d7c'
-              contributions: 0;2;2;1;2;3;1;5;7;8;7;7;1;2;6;9;8;6;2;0;9;5;14;11;12;13;26;6;8;9;10;13;9;11;7;6;5;3;1;10;8;3;3;3;8;13;8;5;1;1;0;2
-              firstWeek: 2020-04-12Z
+                - name: Dockerfile
+                  value: 54
+                  color: '#384d54'
+              contributions: 2;4;1;5;6;8;7;7;3;2;12;5;5;6;1;1;8;5;16;10;14;23;14;9;6;9;15;8;11;7;7;7;5;2;3;12;4;3;5;2;9;11;10;3;1;1;0;2;1;1;8;2
+              firstWeek: 2020-05-10Z
               stars: 11
               license: Apache License 2.0
               description: >-
                 The Symphony BDK (Bot Developer Kit) for Java helps you to create production-grade Chat Bots and Extension Applications on top of the Symphony
                 REST APIs.
-              latest_commit_date: '2021-04-02T13:59:56Z'
-              latest_commit_link: /finos/symphony-bdk-java/commit/c513ae156e9f53910497e094a86b6a9e3267c358
-              release_date: '2021-03-17T13:00:11Z'
+              latest_commit_date: '2021-04-30T12:25:57Z'
+              latest_commit_link: /finos/symphony-bdk-java/commit/ddc1b51ffc07e7d59d85e1528e1af9d8032dba10
+              release_date: '2021-04-30T10:16:45Z'
               release_link: https://github.com/finos/symphony-bdk-java/releases
-              contributors_count: 46
+              contributors_count: 48
               contributors_link: https://github.com/finos/symphony-bdk-java/graphs/contributors
             repos:
               - url: https://github.com/finos/symphony-bdk-java
@@ -959,12 +1134,12 @@ landscape:
               start_date: '2018-03-25T19:59:15Z'
             image_data:
               fileName: symphony-bdk-java.svg
-              hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
+              hash: 7ZslsVAQ6Ijz5jSQkJT1mcF+C/zXFFh6TMId3k9Ojt0=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Symphony Clojure Client
             homepage_url: https://github.com/symphonyoss/clj-symphony
@@ -987,13 +1162,23 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Clojure
                   value: 61538
                   color: '#db5855'
-              contributions: 0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 5
               license: Apache License 2.0
               description: An idiomatic Clojure wrapper for the symphony-java-client
@@ -1012,9 +1197,9 @@ landscape:
               hash: PEFs0woCXzeG+4iJ+aY8LzqDXwuGgl9zOiTQi6NzM+U=
             best_practice_data:
               badge: 996
-              percentage: 86
+              percentage: 87
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Symphony Hubot Client
             homepage_url: https://github.com/symphonyoss/hubot-symphony
@@ -1037,13 +1222,23 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;16;12;20;4;2;6;8;9;5;4;4;3;3;4;3;1;1;11;6;1;2;5;4;3;7;2;4;6;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;22;6;22;2;6;6;6;9;3;6;2;3;3;7;0;2;0;11;6;2;2;4;4;4;6;2;10;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 10
               license: Apache License 2.0
               description: Hubot adapter for Symphony
@@ -1066,7 +1261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Symphony Java Toolkit
             homepage_url: https://github.com/finos/symphony-java-toolkit
@@ -1089,16 +1284,26 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
-                  value: 848092
+                  value: 878403
                   color: '#b07219'
                 - name: FreeMarker
                   value: 15093
                   color: '#0050b2'
                 - name: OCaml
-                  value: 13497
+                  value: 13529
                   color: '#3be133'
                 - name: HTML
                   value: 4189
@@ -1109,20 +1314,20 @@ landscape:
                 - name: CSS
                   value: 777
                   color: '#563d7c'
-              contributions: 6;0;26;18;30;22;2;8;0;2;0;0;0;0;0;0;4;0;0;0;0;6;24;309;13;51;6;39;42;82;3;5;28;132;81;8;10;0;0;28;12;5;8;13;3;11;3;8;10;2;8;2
-              firstWeek: 2020-04-12Z
-              stars: 15
+              contributions: 50;2;10;0;2;0;0;0;0;0;0;0;4;0;0;0;0;6;91;247;42;17;13;32;42;82;4;6;27;133;79;13;5;0;16;16;8;9;7;10;8;6;8;9;4;3;13;5;20;6;6;17
+              firstWeek: 2020-05-10Z
+              stars: 16
               license: Apache License 2.0
               description: Spring Boot + Java Integration for Symphony Chat Platform Bots and Apps
-              latest_commit_date: '2021-04-01T12:34:30Z'
-              latest_commit_link: /finos/symphony-java-toolkit/commit/6d70e2cb23f29ea5418f7b0583f297ae53397bf1
-              release_date: '2021-03-12T12:07:27Z'
+              latest_commit_date: '2021-04-29T12:47:20Z'
+              latest_commit_link: /finos/symphony-java-toolkit/commit/2639b345d667c3022a116f3788f2587f2eddbece
+              release_date: '2021-04-29T09:34:42Z'
               release_link: https://github.com/finos/symphony-java-toolkit/releases
               contributors_count: 13
               contributors_link: https://github.com/finos/symphony-java-toolkit/graphs/contributors
             repos:
               - url: https://github.com/finos/symphony-java-toolkit
-                stars: 15
+                stars: 16
             github_start_commit_data:
               start_commit_link: /finos/symphony-java-toolkit/commit/8bbfa4b073c4d6664942784ee2ec9a44ab5641cc
               start_date: '2019-07-10T15:19:35Z'
@@ -1133,7 +1338,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Unfurl Bot
             homepage_url: https://github.com/symphonyoss/bot-unfurl
@@ -1156,6 +1361,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Clojure
@@ -1168,7 +1383,7 @@ landscape:
                   value: 401
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              firstWeek: 2020-05-10Z
               stars: 5
               license: Apache License 2.0
               description: A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.
@@ -1189,7 +1404,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Voice Tech
         items:
@@ -1215,6 +1430,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Python
@@ -1226,8 +1451,8 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;1;0;0;4;3;0;0;4;1;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;1;0;0;0;7;0;0;0;5;1;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 26
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
@@ -1250,7 +1475,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Greenkey Discovery SDK
             homepage_url: https://github.com/finos/greenkey-discovery-sdk
@@ -1273,6 +1498,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Python
@@ -1281,8 +1516,8 @@ landscape:
                 - name: Shell
                   value: 3519
                   color: '#89e051'
-              contributions: 1;0;0;0;0;0;0;3;0;2;1;0;1;0;0;0;0;1;0;0;0;8;0;1;0;2;1;0;0;0;0;0;4;1;0;0;0;0;2;2;3;10;5;19;0;8;0;4;4;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;3;0;2;1;1;0;0;0;0;0;1;0;0;0;8;0;1;1;2;0;0;0;0;0;0;5;0;0;0;0;0;3;1;6;11;3;17;0;8;0;4;4;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 11
               license: Apache License 2.0
               description: Speed up business workflows through custom 'voice skills' and text (NLP) interpreters
@@ -1303,7 +1538,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Voice Metadata Standardization
             homepage_url: https://github.com/finos/voice-metadata-standard
@@ -1326,10 +1561,20 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              firstWeek: 2020-05-10Z
               stars: 24
               license: Apache License 2.0
               description: This is a project from FINOS Voice program to define a standard for call metadata.
@@ -1350,7 +1595,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: UI Frameworks
         items:
@@ -1376,32 +1621,42 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1794515
+                  value: 1824522
                   color: '#f1e05a'
                 - name: C++
-                  value: 1345832
+                  value: 1351722
                   color: '#f34b7d'
                 - name: Python
-                  value: 823831
+                  value: 827015
                   color: '#3572A5'
                 - name: Less
-                  value: 96722
-                - name: CMake
-                  value: 62814
+                  value: 111589
                 - name: Rust
-                  value: 62347
+                  value: 84236
                   color: '#dea584'
+                - name: CMake
+                  value: 62819
                 - name: TypeScript
-                  value: 48585
+                  value: 49527
                   color: '#2b7489'
                 - name: HTML
-                  value: 23898
+                  value: 23933
                   color: '#e34c26'
                 - name: Dockerfile
-                  value: 10177
+                  value: 9998
                   color: '#384d54'
                 - name: C
                   value: 5250
@@ -1412,18 +1667,18 @@ landscape:
                 - name: CSS
                   value: 1053
                   color: '#563d7c'
-              contributions: 22;8;21;9;24;13;23;37;19;26;26;21;4;11;4;9;24;9;7;16;26;20;30;17;12;22;15;9;13;12;9;0;0;2;4;5;9;5;7;16;20;10;9;6;13;3;2;10;0;7;0;2
-              firstWeek: 2020-04-12Z
-              stars: 3304
+              contributions: 23;15;20;38;31;16;25;19;4;13;1;18;16;8;7;23;26;28;15;19;13;20;16;8;13;12;9;0;2;1;3;5;13;1;10;16;20;7;9;6;13;3;3;9;1;6;0;4;8;19;23;9
+              firstWeek: 2020-05-10Z
+              stars: 3351
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
-              latest_commit_date: '2021-04-02T18:41:11Z'
-              latest_commit_link: /finos/perspective/commit/28eddda8b2272f2c08d9373d9a2b1f4de9a5852c
-              contributors_count: 62
+              latest_commit_date: '2021-05-05T02:16:01Z'
+              latest_commit_link: /finos/perspective/commit/4d0b3fc276d8d330c11f1c493b44694353e0aabf
+              contributors_count: 63
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 3304
+                stars: 3351
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -1434,7 +1689,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -1463,20 +1718,30 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: HCL
-                  value: 27475
-              contributions: 0;0;0;0;22;0;0;0;2;1;3;0;23;22;0;21;4;9;8;0;0;1;0;0;0;3;6;0;7;6;1;0;3;0;3;5;2;0;0;0;3;0;1;4;35;2;0;8;16;3;2;0
-              firstWeek: 2020-04-12Z
+                  value: 27398
+              contributions: 22;0;0;0;3;0;3;1;27;17;0;21;4;9;8;0;0;1;0;0;2;5;2;1;6;6;1;0;3;0;7;1;2;0;0;1;2;0;1;6;35;0;6;8;15;0;2;0;0;0;1;2
+              firstWeek: 2020-05-10Z
               stars: 33
               license: Apache License 2.0
               description: >-
                 Cloud Service Certification accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that
                 meets existing regulatory and internal security controls.
-              latest_commit_date: '2021-03-25T15:34:44Z'
-              latest_commit_link: /finos/cloud-service-certification/commit/21ee6cd976b9234db1aaa88b7ba9c29486e6010b
-              contributors_count: 17
+              latest_commit_date: '2021-04-28T21:33:41Z'
+              latest_commit_link: /finos/cloud-service-certification/commit/6ac91a91dd41d871333f394df15a25f53399d044
+              contributors_count: 18
               contributors_link: https://github.com/finos/cloud-service-certification/graphs/contributors
             repos:
               - url: https://github.com/finos/cloud-service-certification
@@ -1491,7 +1756,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Waltz
             homepage_url: https://waltz.finos.org
@@ -1514,41 +1779,51 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
-                  value: 3976082
+                  value: 4005197
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2453985
+                  value: 2481702
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1475993
+                  value: 1477266
                   color: '#e34c26'
                 - name: SCSS
-                  value: 146590
+                  value: 146926
                 - name: Svelte
-                  value: 80641
+                  value: 131191
                 - name: EJS
                   value: 6468
                 - name: Shell
                   value: 305
                   color: '#89e051'
               contributions: >-
-                34;25;29;20;19;21;30;51;49;21;39;20;31;29;28;19;18;16;14;13;25;40;24;25;41;34;35;17;28;13;16;19;5;32;28;27;22;17;7;29;29;41;55;32;10;12;14;22;12;3;29;14
-              firstWeek: 2020-04-12Z
-              stars: 96
+                19;28;34;56;39;19;41;23;24;36;23;21;17;12;17;13;34;35;22;25;46;30;32;18;23;16;20;12;6;31;38;22;24;11;16;19;35;45;58;24;5;15;15;21;15;11;31;21;38;17;28;12
+              firstWeek: 2020-05-10Z
+              stars: 99
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2021-04-02T20:27:08Z'
-              latest_commit_link: /finos/waltz/commit/22b04274ec0dc6cf849a3eb6a0871a13ebc9188d
-              release_date: '2021-02-02T17:06:44Z'
+              latest_commit_date: '2021-04-29T14:08:12Z'
+              latest_commit_link: /finos/waltz/commit/0acc93eef6749d34a068bd7c2f240f37d2f17f31
+              release_date: '2021-04-14T05:00:01Z'
               release_link: https://github.com/finos/waltz/releases
               contributors_count: 28
               contributors_link: https://github.com/finos/waltz/graphs/contributors
             repos:
               - url: https://github.com/finos/waltz
-                stars: 96
+                stars: 99
             github_start_commit_data:
               start_commit_link: /finos/waltz/commit/db3992613a4b3249c249f101e8e0f04602a82fe4
               start_date: '2016-01-18T22:06:27Z'
@@ -1559,7 +1834,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: Data & Business Logic
     subcategories:
@@ -1588,6 +1863,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
@@ -1608,9 +1893,9 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 0;0;0;0;0;12;0;3;1;1;0;0;0;4;23;0;2;0;0;0;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;3;0;10;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 97
+              contributions: 0;12;0;3;1;1;0;0;0;10;17;0;2;0;0;0;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6;0;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 99
               license: Other
               description: >-
                 The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for
@@ -1623,7 +1908,7 @@ landscape:
               contributors_link: https://github.com/finos/datahelix/graphs/contributors
             repos:
               - url: https://github.com/finos/datahelix
-                stars: 97
+                stars: 99
             github_start_commit_data:
               start_commit_link: /finos/datahelix/commit/44d4a83319012cbfb9bbeb9994ca711e2e4b17c0
               start_date: '2018-06-25T08:57:28Z'
@@ -1634,7 +1919,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: DataHub
             homepage_url: https://datahub.finos.org
@@ -1657,6 +1942,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Python
@@ -1668,9 +1963,9 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 0;0;0;1;29;43;5;0;0;0;0;0;6;1;2;0;17;0;0;0;0;1;0;0;3;3;15;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 49
+              contributions: 28;35;5;0;0;0;0;0;7;1;1;0;17;0;0;0;0;1;0;0;5;12;11;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 52
               license: Apache License 2.0
               description: DataHub - Synthetic data library
               latest_commit_date: '2020-10-14T14:20:53Z'
@@ -1679,7 +1974,7 @@ landscape:
               contributors_link: https://github.com/finos/datahub/graphs/contributors
             repos:
               - url: https://github.com/finos/datahub
-                stars: 49
+                stars: 52
             github_start_commit_data:
               start_commit_link: /finos/datahub/commit/809f75f64386074d19a9d51b27715b9864412616
               start_date: '2020-05-01T10:26:21Z'
@@ -1690,7 +1985,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Frameworks
         items:
@@ -1716,33 +2011,37 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Scheme
                   value: 109136
                   color: '#1e4aec'
                 - name: PLSQL
-                  value: 93753
+                  value: 88463
                   color: '#dad8d8'
                 - name: Shell
                   value: 16887
                   color: '#89e051'
-                - name: SQLPL
-                  value: 7755
                 - name: Batchfile
                   value: 5166
                   color: '#C1F12E'
-                - name: TSQL
-                  value: 5040
-                - name: PLpgSQL
-                  value: 544
-              contributions: 0;0;0;0;0;0;0;0;0;3;0;3;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;3;3;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;0
+              firstWeek: 2020-05-10Z
               stars: 16
               license: Apache License 2.0
               description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
-              latest_commit_date: '2020-07-24T11:56:04Z'
-              latest_commit_link: /finos/exodus/commit/230df394072b7a0e0b20d74ae423ec3d176ec513
+              latest_commit_date: '2021-04-14T15:48:31Z'
+              latest_commit_link: /finos/exodus/commit/da67f954b58f0f7c24114c9461637fbbc0ad40ec
               contributors_count: 2
               contributors_link: https://github.com/finos/exodus/graphs/contributors
             repos:
@@ -1758,7 +2057,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Legend
             homepage_url: https://legend.finos.org
@@ -1781,58 +2080,68 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Java
-                  value: 17160926
+                  value: 18555179
                   color: '#b07219'
                 - name: TypeScript
-                  value: 6255712
+                  value: 6778523
                   color: '#2b7489'
                 - name: SCSS
-                  value: 345560
+                  value: 372139
                 - name: JavaScript
-                  value: 206633
+                  value: 212466
                   color: '#f1e05a'
                 - name: ANTLR
-                  value: 127223
+                  value: 154440
                   color: '#9DC3FF'
                 - name: HTML
                   value: 44766
                   color: '#e34c26'
                 - name: Shell
-                  value: 38225
+                  value: 39271
                   color: '#89e051'
                 - name: CSS
-                  value: 30876
+                  value: 31476
                   color: '#563d7c'
                 - name: HCL
                   value: 6650
                 - name: Dockerfile
-                  value: 953
+                  value: 1532
                   color: '#384d54'
-              contributions: 42;26;83;23;37;54;47;21;27;35;26;5;2;0;0;0;5;0;14;7;0;13;5;28;4;41;50;124;39;19;14;11;8;0;23;35;28;9;7;39;27;16;14;40;31;31;11;93;65;52;32;19
-              firstWeek: 2020-04-12Z
-              stars: 305
+              contributions: 47;46;44;19;33;30;20;4;0;0;0;0;5;2;12;7;0;15;10;24;4;41;55;129;27;19;21;3;8;5;26;28;29;8;9;46;22;17;11;51;26;23;19;108;45;54;29;17;13;41;57;52
+              firstWeek: 2020-05-10Z
+              stars: 321
               license: Apache License 2.0
               description: The Legend project
-              latest_commit_date: '2021-04-01T18:52:01Z'
-              latest_commit_link: /finos/legend/commit/76bbb8ff747dbe32999c81127552b3d3d03a1514
-              contributors_count: 40
+              latest_commit_date: '2021-04-13T21:32:23Z'
+              latest_commit_link: /finos/legend/commit/15c9c27763b2f8e4bffee1a7ca08a9d7e1820997
+              contributors_count: 44
               contributors_link: https://github.com/finos/legend/graphs/contributors
             repos:
               - url: https://github.com/finos/legend
-                stars: 215
+                stars: 223
               - url: https://github.com/finos/legend-pure
-                stars: 27
+                stars: 28
               - url: https://github.com/finos/legend-engine
-                stars: 20
+                stars: 22
               - url: https://github.com/finos/legend-studio
-                stars: 15
+                stars: 18
               - url: https://github.com/finos/legend-sdlc
-                stars: 15
+                stars: 16
               - url: https://github.com/finos/legend-shared
-                stars: 13
+                stars: 14
             github_start_commit_data:
               start_commit_link: /finos/legend/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
               start_date: '2019-12-12T10:13:48Z'
@@ -1843,7 +2152,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Morphir
             homepage_url: https://morphir.finos.org
@@ -1866,13 +2175,23 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: HTML
                   value: 10098776
                   color: '#e34c26'
                 - name: Elm
-                  value: 1665036
+                  value: 3810372
                   color: '#60B5CC'
                 - name: Scala
                   value: 560126
@@ -1881,7 +2200,7 @@ landscape:
                   value: 143699
                   color: '#b845fc'
                 - name: JavaScript
-                  value: 55695
+                  value: 56294
                   color: '#f1e05a'
                 - name: Shell
                   value: 25648
@@ -1901,18 +2220,18 @@ landscape:
                 - name: Forth
                   value: 38
                   color: '#341708'
-              contributions: 12;37;19;6;38;9;19;19;0;4;15;5;6;24;5;10;11;32;27;13;14;18;11;13;9;16;23;13;9;38;8;13;20;19;45;36;20;32;22;34;29;16;44;64;34;32;40;38;18;19;8;4
-              firstWeek: 2020-04-12Z
-              stars: 99
+              contributions: 30;10;22;15;0;7;12;5;8;25;2;10;12;40;18;14;25;11;6;17;7;18;19;14;9;37;10;15;18;20;48;37;28;31;10;42;19;26;56;59;22;47;27;33;25;10;9;3;4;6;8;7
+              firstWeek: 2020-05-10Z
+              stars: 101
               license: Apache License 2.0
-              description: A multi-language system and data format to work with pure business knowledge
-              latest_commit_date: '2021-03-16T15:01:56Z'
-              latest_commit_link: /finos/morphir/commit/72b5bca0e2671402dfcf58b495cc6622920e094f
+              description: A universal language for business and technology
+              latest_commit_date: '2021-04-16T18:29:59Z'
+              latest_commit_link: /finos/morphir/commit/e3c2656dd0b6ed83938bf410542857e7cd1c4831
               contributors_count: 22
               contributors_link: https://github.com/finos/morphir/graphs/contributors
             repos:
               - url: https://github.com/finos/morphir
-                stars: 41
+                stars: 42
               - url: https://github.com/finos/morphir-elm
                 stars: 19
               - url: https://github.com/finos/morphir-examples
@@ -1922,7 +2241,7 @@ landscape:
               - url: https://github.com/finos/morphir-dotnet
                 stars: 6
               - url: https://github.com/finos/morphir-service
-                stars: 2
+                stars: 3
               - url: https://github.com/finos/morphir-bosque
                 stars: 2
             github_start_commit_data:
@@ -1935,7 +2254,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Models
         items:
@@ -1961,32 +2280,42 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
-                  value: 22021
+                  value: 22783
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 6803
                   color: '#2b7489'
                 - name: CSS
-                  value: 3722
+                  value: 3792
                   color: '#563d7c'
                 - name: Shell
-                  value: 2410
+                  value: 3159
                   color: '#89e051'
-              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;4;6;4;3;2;0;0
-              firstWeek: 2020-04-12Z
-              stars: 20
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;4;7;3;3;4;0;1;0;10;0;0
+              firstWeek: 2020-05-10Z
+              stars: 21
               license: Apache License 2.0
               description: FINOS Financial Objects Program Documentation
-              latest_commit_date: '2021-03-18T08:37:42Z'
-              latest_commit_link: /finos/finos-fo/commit/fe0f019668cc21c7f0a45a829b163e678d8314a3
+              latest_commit_date: '2021-04-19T17:39:27Z'
+              latest_commit_link: /finos/finos-fo/commit/5464ff003383da17421c175ac6071cd8c5ac1060
               contributors_count: 11
               contributors_link: https://github.com/finos/finos-fo/graphs/contributors
             repos:
               - url: https://github.com/finos/finos-fo
-                stars: 20
+                stars: 21
             github_start_commit_data:
               start_commit_link: /finos/finos-fo/commit/3e8a73c36eca9c6a09bb79008be482e435ad699d
               start_date: '2018-11-08T14:51:23Z'
@@ -1997,7 +2326,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Glue
             homepage_url: https://github.com/finos/glue
@@ -2020,6 +2349,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
@@ -2028,16 +2367,16 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;8;1;0;0;8;171;61;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;2;7;0;0;0;45;163;32;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;4;1
+              firstWeek: 2020-05-10Z
               stars: 6
               license: Apache License 2.0
               description: >-
                 Glue is an enterprise data model for the buy side, tailored for Wealth and Asset Managers and covering key entities such as Party, Business
                 Relationship, Investment Strategy, Instruments, Portfolios and more.
-              latest_commit_date: '2020-11-13T12:04:21Z'
-              latest_commit_link: /finos/glue/commit/f7326224b64f9616392e3515574165668dea20fa
-              contributors_count: 6
+              latest_commit_date: '2021-04-29T08:31:24Z'
+              latest_commit_link: /finos/glue/commit/a492a1545b21d072dc6bc9bfdb708d8afd19c185
+              contributors_count: 7
               contributors_link: https://github.com/finos/glue/graphs/contributors
             repos:
               - url: https://github.com/finos/glue
@@ -2052,7 +2391,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Market Data
         items:
@@ -2078,6 +2417,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: HTML
@@ -2128,9 +2477,9 @@ landscape:
                   color: '#384d54'
                 - name: M4
                   value: 586
-              contributions: 0;0;0;1;1;0;0;0;0;0;3;2;5;3;0;1;1;0;1;10;2;3;8;26;6;3;1;0;0;0;5;4;1;0;0;0;0;0;0;0;0;0;6;2;1;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 93
+              contributions: 1;0;0;0;0;0;3;2;6;2;0;1;1;0;2;9;2;5;15;17;6;4;0;0;0;0;7;2;1;0;0;0;0;0;0;0;0;0;8;0;1;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 95
               license: Other
               description: >-
                 OpenMAMA is an open source project that provides a high performance middleware agnostic messaging API that interfaces with a variety of
@@ -2143,7 +2492,7 @@ landscape:
               contributors_link: https://github.com/finos/openMAMA/graphs/contributors
             repos:
               - url: https://github.com/finos/openMAMA
-                stars: 89
+                stars: 91
               - url: https://github.com/finos/openMAMA-testdata
                 stars: 3
               - url: https://github.com/finos/openmama.github.io
@@ -2158,7 +2507,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Tick & Reference
         items:
@@ -2184,6 +2533,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: q
@@ -2198,9 +2557,9 @@ landscape:
                 - name: Shell
                   value: 1276
                   color: '#89e051'
-              contributions: 0;1;4;2;0;0;0;1;0;0;0;0;0;1;0;0;7;3;2;0;0;0;4;0;0;1;0;0;0;4;0;0;1;0;2;2;0;0;4;0;1;0;0;1;0;0;2;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 25
+              contributions: 0;0;0;1;0;0;0;0;0;1;0;0;7;3;2;0;0;0;4;0;1;0;0;0;0;4;0;0;1;0;4;0;0;0;4;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 27
               license: Apache License 2.0
               description: kdb+ Working Group from FINOS Data Technologies program
               latest_commit_date: '2021-02-28T14:54:06Z'
@@ -2209,7 +2568,7 @@ landscape:
               contributors_link: https://github.com/finos/kdb/graphs/contributors
             repos:
               - url: https://github.com/finos/kdb
-                stars: 25
+                stars: 27
             github_start_commit_data:
               start_commit_link: /finos/kdb/commit/baea0768b8b1dcf6612eefc3f4513845f2802d07
               start_date: '2018-09-27T09:32:03Z'
@@ -2220,7 +2579,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Security Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -2243,6 +2602,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
@@ -2251,13 +2620,13 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 0;0;0;2;0;0;0;0;0;0;0;0;0;4;8;0;0;1;0;0;0;0;2;0;1;0;3;0;0;0;0;0;0;0;3;0;0;0;0;0;0;6;6;0;0;0;1;0;0;0;4;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;4;8;0;0;1;0;0;0;0;2;0;1;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;12;0;0;0;0;1;0;0;2;2;1;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 9
               license: Apache License 2.0
               description: Security Reference Data project
-              latest_commit_date: '2021-03-24T21:41:18Z'
-              latest_commit_link: /finos/secref-data/commit/7d77b0500c99f51860d574412661bdd617486ae0
+              latest_commit_date: '2021-04-06T19:09:07Z'
+              latest_commit_link: /finos/secref-data/commit/e4f6f6f02f9cb987e7f48ae3aa68655187dbd19d
               contributors_count: 5
               contributors_link: https://github.com/finos/secref-data/graphs/contributors
             repos:
@@ -2273,7 +2642,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -2302,34 +2671,44 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: HTML
-                  value: 893681
+                  value: 894325
                   color: '#e34c26'
                 - name: TypeScript
-                  value: 43962
+                  value: 47502
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 23790
+                  value: 23383
                   color: '#f1e05a'
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 9;0;0;0;0;10;0;3;2;2;2;0;0;2;7;2;3;1;2;0;0;2;0;0;0;15;7;25;10;2;0;11;5;3;13;8;0;0;3;1;0;6;20;1;4;1;21;20;9;3;8;0
-              firstWeek: 2020-04-12Z
-              stars: 75
+              contributions: 0;10;0;3;2;2;2;0;0;3;8;0;3;1;2;0;0;2;0;0;1;16;19;12;9;2;0;13;4;2;20;1;0;0;3;1;0;16;10;4;1;1;25;21;4;3;9;0;20;16;3;8
+              firstWeek: 2020-05-10Z
+              stars: 77
               license: Apache License 2.0
-              description: Open standards for the financial desktop.
-              latest_commit_date: '2021-03-29T17:11:25Z'
-              latest_commit_link: /finos/FDC3/commit/4cbde0c536e46ee5d254b5bad57561bcd7b69f12
-              release_date: '2020-10-26T21:18:27Z'
+              description: An open standard for the financial desktop.
+              latest_commit_date: '2021-04-30T10:30:09Z'
+              latest_commit_link: /finos/FDC3/commit/760378587071bc13f26e0e0eb1a90236996bf67a
+              release_date: '2021-04-19T21:40:17Z'
               release_link: https://github.com/finos/fdc3/releases
               contributors_count: 37
               contributors_link: https://github.com/finos/fdc3/graphs/contributors
             repos:
               - url: https://github.com/finos/fdc3
-                stars: 75
+                stars: 77
             github_start_commit_data:
               start_commit_link: /finos/FDC3/commit/84bc36d712b99756534015b8043ef44c1db66b4f
               start_date: '2018-02-17T04:22:36Z'
@@ -2340,7 +2719,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: FDC3 Desktop Agent
             homepage_url: https://github.com/finos/fdc3-desktop-agent
@@ -2363,6 +2742,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: TypeScript
@@ -2377,8 +2766,8 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;6;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 13
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
@@ -2399,7 +2788,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Plexus Interop
             homepage_url: https://plexus.finos.org
@@ -2422,6 +2811,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: C#
@@ -2450,8 +2849,8 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 0;3;0;0;0;6;1;0;1;2;0;3;0;0;1;4;4;0;0;0;0;0;3;4;0;0;1;3;0;0;0;0;6;10;3;0;0;0;0;0;6;3;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 2;4;1;0;1;2;2;1;0;0;1;6;2;0;0;0;0;0;3;4;0;0;1;3;0;0;0;1;5;10;3;0;0;0;0;0;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 249
               license: Apache License 2.0
               description: Plexus Interop open source project hosted by the Fintech Open Source Foundation
@@ -2476,7 +2875,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
@@ -2502,6 +2901,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: Python
@@ -2511,7 +2920,7 @@ landscape:
                   value: 795
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              firstWeek: 2020-05-10Z
               stars: 5
               license: Apache License 2.0
               description: Hadouken python language adapter.
@@ -2532,7 +2941,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: OpenFin React Hooks
             homepage_url: https://github.com/finos/openfin-react-hooks
@@ -2555,14 +2964,24 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: TypeScript
                   value: 48332
                   color: '#2b7489'
-              contributions: 3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
-              stars: 35
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
+              stars: 37
               license: Apache License 2.0
               description: A collection of React Hooks built on top of the Openfin API - from Scott Logic
               latest_commit_date: '2020-04-12T16:47:48Z'
@@ -2573,7 +2992,7 @@ landscape:
               contributors_link: https://github.com/finos/openfin-react-hooks/graphs/contributors
             repos:
               - url: https://github.com/finos/openfin-react-hooks
-                stars: 35
+                stars: 37
             github_start_commit_data:
               start_commit_link: /finos/openfin-react-hooks/commit/2b114b1f209e6be905d0c62c55855679446e044c
               start_date: '2019-05-17T10:48:16Z'
@@ -2584,7 +3003,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
       - subcategory:
         name: Containers
         items:
@@ -2610,6 +3029,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: JavaScript
@@ -2624,8 +3053,8 @@ landscape:
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 8;9;20;5;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-04-12Z
+              contributions: 0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-05-10Z
               stars: 12
               license: Apache License 2.0
               description: null
@@ -2648,7 +3077,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Symphony Electron
             homepage_url: https://github.com/symphonyoss/SymphonyElectron
@@ -2671,16 +3100,26 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             github_data:
               languages:
                 - name: TypeScript
-                  value: 751088
+                  value: 753576
                   color: '#2b7489'
                 - name: C#
-                  value: 485505
+                  value: 487742
                   color: '#178600'
                 - name: C
-                  value: 59431
+                  value: 57209
                   color: '#555555'
                 - name: HTML
                   value: 41820
@@ -2690,21 +3129,21 @@ landscape:
                   color: '#C1F12E'
                 - name: Less
                   value: 32534
+                - name: Objective-C
+                  value: 23378
+                  color: '#438eff'
+                - name: C++
+                  value: 17763
+                  color: '#f34b7d'
                 - name: Shell
                   value: 16296
                   color: '#89e051'
                 - name: Smalltalk
                   value: 8444
                   color: '#596706'
-                - name: C++
-                  value: 8084
-                  color: '#f34b7d'
                 - name: CSS
                   value: 6788
                   color: '#563d7c'
-                - name: Objective-C
-                  value: 6496
-                  color: '#438eff'
                 - name: JavaScript
                   value: 3237
                   color: '#f1e05a'
@@ -2718,20 +3157,20 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 7;17;10;9;12;17;6;15;18;12;5;7;9;3;0;2;13;6;4;9;18;10;11;5;7;2;9;8;14;4;15;14;20;8;39;19;35;2;6;8;8;5;24;11;11;4;4;6;1;3;13;0
-              firstWeek: 2020-04-12Z
-              stars: 69
+              contributions: 14;13;7;17;18;10;6;8;8;0;1;6;9;7;3;15;12;11;9;8;4;5;6;17;5;4;21;13;17;10;41;22;27;2;5;8;8;6;32;3;11;4;3;6;2;8;11;4;8;0;3;7
+              firstWeek: 2020-05-10Z
+              stars: 70
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2021-03-29T09:10:38Z'
-              latest_commit_link: /symphonyoss/SymphonyElectron/commit/c621018c22463a88b6d1bc7a9db5e5ccc5758597
+              latest_commit_date: '2021-05-04T14:12:06Z'
+              latest_commit_link: /symphonyoss/SymphonyElectron/commit/5e13a291067b34a522a73c5afb7fe398976a96d1
               release_date: '2021-02-17T06:57:08Z'
               release_link: https://github.com/symphonyoss/SymphonyElectron/releases
               contributors_count: 27
               contributors_link: https://github.com/symphonyoss/SymphonyElectron/graphs/contributors
             repos:
               - url: https://github.com/symphonyoss/SymphonyElectron
-                stars: 58
+                stars: 59
               - url: https://github.com/symphonyoss/SwiftSearch
                 stars: 5
               - url: https://github.com/symphonyoss/ScreenSnippet
@@ -2752,7 +3191,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: Legend
     subcategories:
@@ -2781,6 +3220,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             repos:
               - url: https://gitlab.legend.finos.org/legend-pilot/cdm
             image_data:
@@ -2790,7 +3239,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Commodities Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -2813,6 +3262,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             repos:
               - url: https://gitlab.legend.finos.org/legend-pilot/commodrefdata
             image_data:
@@ -2822,7 +3281,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Currency Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -2845,6 +3304,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             repos:
               - url: https://gitlab.legend.finos.org/legend-pilot/currencyrefdata
             image_data:
@@ -2854,7 +3323,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
           - item:
             name: Product Control Common Template
             homepage_url: http://fo.finos.org
@@ -2877,6 +3346,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             repos:
               - url: https://gitlab.legend.finos.org/financial-objects/product-control-common-template
             image_data:
@@ -2886,7 +3365,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: FINOS
     subcategories:
@@ -2913,6 +3392,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
             image_data:
               fileName: finos.svg
               hash: 1ozGw38hyv3pOVlMNAeh/NM+vxHnW13PZ8aR3kMOwBA=
@@ -2920,7 +3409,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:46:59.000Z
+              latest_tweet_date: 2021-05-04T18:47:00.000Z
   - category:
     name: FINOS Members
     subcategories:
@@ -2936,4 +3425,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1372655525620547584'
-updated_at: 2021-04-06T05:33:40.983Z
+updated_at: 2021-05-05T05:35:01.178Z
