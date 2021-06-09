@@ -46,8 +46,8 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 39
               license: Apache License 2.0
               description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
@@ -70,7 +70,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Open Developer Platform
             homepage_url: https://odp.finos.org
@@ -114,8 +114,8 @@ landscape:
                 - name: CSS
                   value: 6385
                   color: '#563d7c'
-              contributions: 0;1;0;0;3;0;4;2;0;30;8;2;0;2;0;0;6;5;5;4;0;0;8;3;1;0;1;0;5;2;1;0;0;0;0;0;1;0;0;0;0;0;60;3;0;0;6;1;3;2;1;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;3;0;4;2;27;3;8;2;0;2;0;0;8;3;7;2;0;0;9;2;1;0;1;0;5;2;1;0;0;0;0;0;1;0;0;0;0;0;60;3;0;4;2;3;1;2;1;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 32
               license: Apache License 2.0
               description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry
@@ -136,7 +136,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: OSS Readiness
         items:
@@ -174,8 +174,8 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;4;0;0;0;4;3;9;2;0;0;2;0;0;0;0;0;0;4;0;12;0;11;1;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;4;0;0;0;4;3;10;1;0;0;2;0;0;0;0;0;0;4;1;11;0;12;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 14
               license: Apache License 2.0
               description: >-
@@ -198,7 +198,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Git Proxy
             homepage_url: https://github.com/finos/git-proxy
@@ -242,9 +242,9 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 7;25;6;0;0;0;0;0;1;0;0;0;0;0;0;8;13;0;8;10;43;5;0;0;28;2;22;10;1;2;0;0;0;8;0;0;9;1;0;16;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 15
+              contributions: 0;0;0;0;0;1;0;0;0;0;0;8;0;13;0;8;10;48;0;0;1;27;2;22;10;2;1;0;0;0;8;0;0;9;1;0;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 16
               license: Apache License 2.0
               description: An info-security/compliance-friendly way for highly regulated industries to be more accepting of open source
               latest_commit_date: '2021-02-22T13:31:41Z'
@@ -253,7 +253,7 @@ landscape:
               contributors_link: https://github.com/finos/git-proxy/graphs/contributors
             repos:
               - url: https://github.com/finos/git-proxy
-                stars: 15
+                stars: 16
             github_start_commit_data:
               start_commit_link: /finos/git-proxy/commit/33e1f3330ef1d9cdb8798f11984f40a3074056ff
               start_date: '2020-04-17T13:49:50Z'
@@ -264,7 +264,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: InnerSource Special Interest Group
             homepage_url: https://github.com/finos/InnerSource
@@ -305,9 +305,9 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;1;12;2;1;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 5
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;1;12;2;1;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 6
               license: Apache License 2.0
               description: >-
                 The FINOS InnerSource SIG is a community of people implementing, or interested in implementing, InnerSource within their financial services
@@ -318,7 +318,7 @@ landscape:
               contributors_link: https://github.com/finos/InnerSource/graphs/contributors
             repos:
               - url: https://github.com/finos/InnerSource
-                stars: 5
+                stars: 6
             github_start_commit_data:
               start_commit_link: /finos/InnerSource/commit/dea4a90837a1b07350c58c8df53338a5953d2343
               start_date: '2021-02-01T08:40:03Z'
@@ -329,7 +329,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Open source readiness
             homepage_url: https://github.com/finos/osr-checklists
@@ -365,7 +365,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 3
               license: Creative Commons Attribution Share Alike 4.0 International
               description: Checklists for key components and processes of open source programs
@@ -386,7 +386,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: OSLC Handbook
             homepage_url: https://github.com/finos/OSLC-handbook
@@ -430,9 +430,9 @@ landscape:
                 - name: Python
                   value: 7813
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 98
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 99
               license: Other
               description: A data store and handbook of practical information about complying with the most common open source licenses.
               latest_commit_date: '2021-04-19T15:50:04Z'
@@ -443,7 +443,7 @@ landscape:
               contributors_link: https://github.com/finos/OSLC-handbook/graphs/contributors
             repos:
               - url: https://github.com/finos/OSLC-handbook
-                stars: 98
+                stars: 99
             github_start_commit_data:
               start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
               start_date: '2018-10-26T18:13:22Z'
@@ -454,7 +454,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Reference FOSS Policy
             homepage_url: https://github.com/finos/reference-foss-policy
@@ -490,7 +490,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 10
               license: Creative Commons Attribution 4.0 International
               description: Reference FOSS Policy for Financial Services Institutions
@@ -511,7 +511,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Regulation
         items:
@@ -549,9 +549,9 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;13;8;0;0;3;2;0;0;0;0;0;0;5;2;0;0;2;0;4;0;0;0;2;1;0;2;1;0
-              firstWeek: 2020-05-24Z
-              stars: 11
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;2;6;0;0;3;2;0;0;0;0;0;0;7;0;0;0;2;2;2;0;0;2;0;1;0;2;1;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 12
               license: Apache License 2.0
               description: >-
                 The FINOS Regulation Innovation Special Interest Group (SIG) is a community of people interested in creating open source solutions for
@@ -562,7 +562,7 @@ landscape:
               contributors_link: https://github.com/finos/open-regtech-sig/graphs/contributors
             repos:
               - url: https://github.com/finos/open-regtech-sig
-                stars: 11
+                stars: 12
             github_start_commit_data:
               start_commit_link: /finos/open-regtech-sig/commit/78c8d8689aebee0acf5e57486a5abdebc718bb7f
               start_date: '2020-11-02T17:58:24Z'
@@ -573,7 +573,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: Applications
     subcategories:
@@ -624,8 +624,8 @@ landscape:
                   value: 13681
                   color: '#f1e05a'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 2
+              firstWeek: 2020-06-14Z
+              stars: 3
               license: Apache License 2.0
               description: JSON API Generation Tooling
               latest_commit_date: '2020-05-01T05:55:21Z'
@@ -636,7 +636,7 @@ landscape:
               - url: https://github.com/symphonyoss/canon
                 stars: 1
               - url: https://github.com/symphonyoss/canon-example
-                stars: 1
+                stars: 2
             github_start_commit_data:
               start_commit_link: /symphonyoss/canon/commit/24245bac6612d2c7867ac7637664723fa5bbfa0a
               start_date: '2018-02-08T09:33:46Z'
@@ -647,7 +647,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Fugue
             homepage_url: https://symphonyoss.github.io/fugue
@@ -697,8 +697,8 @@ landscape:
                 - name: HTML
                   value: 16297
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 3
               license: Apache License 2.0
               description: Kubenetes Base Cloud Platform Abstraction
@@ -725,7 +725,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Integration Bridge
             homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
@@ -776,7 +776,7 @@ landscape:
                   value: 651
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 13
               license: Apache License 2.0
               description: Common components for Symphony App Integrations.
@@ -805,7 +805,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: JCurl
             homepage_url: https://github.com/symphonyoss/JCurl
@@ -846,8 +846,8 @@ landscape:
                 - name: Ruby
                   value: 467
                   color: '#701516'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 19
               license: Apache License 2.0
               description: JSON-aware curl (1) in Java
@@ -870,7 +870,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: MessageML Utilities
             homepage_url: https://github.com/symphonyoss/messageml-utils
@@ -906,16 +906,16 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 1018768
+                  value: 1019193
                   color: '#b07219'
-              contributions: 3;5;0;3;9;4;20;0;0;19;8;2;5;0;0;0;0;0;0;0;1;0;1;2;0;0;21;6;0;5;4;5;0;9;1;5;7;51;1;2;0;0;0;3;1;4;0;0;1;10;10;6
-              firstWeek: 2020-05-24Z
+              contributions: 6;6;9;15;0;0;20;7;7;0;0;0;0;0;0;0;0;1;0;3;0;0;0;27;0;3;4;7;0;0;9;1;12;19;32;1;2;0;0;3;0;1;4;0;0;1;15;11;0;1;6;5
+              firstWeek: 2020-06-14Z
               stars: 7
               license: Apache License 2.0
               description: MessageML parser
-              latest_commit_date: '2021-05-11T14:22:56Z'
-              latest_commit_link: /symphonyoss/messageml-utils/commit/3875ca5993ce546783597c543051d2a1d755b979
-              release_date: '2021-05-11T14:27:39Z'
+              latest_commit_date: '2021-06-03T14:28:22Z'
+              latest_commit_link: /symphonyoss/messageml-utils/commit/fa98ed16be692bd1031e78b7cf40a5505a9ca3ce
+              release_date: '2021-06-03T14:31:12Z'
               release_link: https://github.com/symphonyoss/messageml-utils/releases
               contributors_count: 28
               contributors_link: https://github.com/symphonyoss/messageml-utils/graphs/contributors
@@ -932,7 +932,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: REST API Specification
             homepage_url: https://github.com/symphonyoss/symphony-api-spec
@@ -970,8 +970,8 @@ landscape:
                 - name: Shell
                   value: 961
                   color: '#89e051'
-              contributions: 0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;0;8;0;0;0;0;0;0;0;0;0;2;0;0;5;0;0;0;0;0;0;5;1;0;3;5;4;1;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;0;8;0;0;0;0;0;0;0;0;0;2;0;0;5;0;0;0;0;0;4;1;1;0;6;2;5;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 9
               license: Apache License 2.0
               description: 'Swagger definitions for Symphony LLC public REST API '
@@ -994,7 +994,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: S2 Common Components
             homepage_url: https://github.com/symphonyoss/S2-common
@@ -1033,7 +1033,7 @@ landscape:
                   value: 439975
                   color: '#b07219'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 3
               license: Apache License 2.0
               description: S2 Common Classes - for consumption by SBE and S2
@@ -1056,7 +1056,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Symphony BDK Java
             homepage_url: https://symphony-bdk-java.finos.org
@@ -1092,7 +1092,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 1150227
+                  value: 1162843
                   color: '#b07219'
                 - name: Mustache
                   value: 23260
@@ -1113,18 +1113,18 @@ landscape:
                 - name: Dockerfile
                   value: 54
                   color: '#384d54'
-              contributions: 1;5;7;8;7;7;1;2;6;9;8;6;2;0;9;5;14;11;12;13;26;6;8;9;10;13;9;11;7;6;5;3;1;10;8;3;3;3;8;13;8;5;1;1;0;2;1;1;7;3;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 8;7;7;3;2;12;5;5;6;1;1;8;5;16;10;14;23;14;9;6;9;15;8;11;7;7;7;5;2;3;12;4;3;5;2;9;11;10;3;1;1;0;2;1;1;8;2;0;0;4;1;3
+              firstWeek: 2020-06-14Z
               stars: 11
               license: Apache License 2.0
               description: >-
                 The Symphony BDK (Bot Developer Kit) for Java helps you to create production-grade Chat Bots and Extension Applications on top of the Symphony
                 REST APIs.
-              latest_commit_date: '2021-04-30T12:25:57Z'
-              latest_commit_link: /finos/symphony-bdk-java/commit/ddc1b51ffc07e7d59d85e1528e1af9d8032dba10
-              release_date: '2021-04-30T10:16:45Z'
+              latest_commit_date: '2021-06-07T15:01:37Z'
+              latest_commit_link: /finos/symphony-bdk-java/commit/0c7115a4aac44eaf0a04c041645306dad0ae1e22
+              release_date: '2021-06-03T09:36:12Z'
               release_link: https://github.com/finos/symphony-bdk-java/releases
-              contributors_count: 48
+              contributors_count: 49
               contributors_link: https://github.com/finos/symphony-bdk-java/graphs/contributors
             repos:
               - url: https://github.com/finos/symphony-bdk-java
@@ -1139,7 +1139,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Symphony Clojure Client
             homepage_url: https://github.com/symphonyoss/clj-symphony
@@ -1178,7 +1178,7 @@ landscape:
                   value: 61538
                   color: '#db5855'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 5
               license: Apache License 2.0
               description: An idiomatic Clojure wrapper for the symphony-java-client
@@ -1199,7 +1199,7 @@ landscape:
               badge: 996
               percentage: 87
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Symphony Hubot Client
             homepage_url: https://github.com/symphonyoss/hubot-symphony
@@ -1237,8 +1237,8 @@ landscape:
                 - name: JavaScript
                   value: 82020
                   color: '#f1e05a'
-              contributions: 12;20;4;2;6;8;9;5;4;4;3;3;4;3;1;1;11;6;1;2;5;4;3;7;2;4;6;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2
-              firstWeek: 2020-05-24Z
+              contributions: 6;6;6;9;3;6;2;3;3;7;0;2;0;11;6;2;2;4;4;4;6;2;10;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 10
               license: Apache License 2.0
               description: Hubot adapter for Symphony
@@ -1261,7 +1261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Symphony Java Toolkit
             homepage_url: https://github.com/finos/symphony-java-toolkit
@@ -1297,14 +1297,14 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 878529
+                  value: 916788
                   color: '#b07219'
-                - name: FreeMarker
-                  value: 15093
-                  color: '#0050b2'
                 - name: OCaml
-                  value: 13687
+                  value: 21488
                   color: '#3be133'
+                - name: FreeMarker
+                  value: 15555
+                  color: '#0050b2'
                 - name: HTML
                   value: 4189
                   color: '#e34c26'
@@ -1314,13 +1314,15 @@ landscape:
                 - name: CSS
                   value: 777
                   color: '#563d7c'
-              contributions: 2;8;0;2;0;0;0;0;0;0;4;0;0;0;0;6;24;309;13;51;6;39;42;82;3;5;28;132;81;8;10;0;0;28;12;5;8;13;3;11;3;8;10;3;12;6;20;6;0;24;7;0
-              firstWeek: 2020-05-24Z
+                - name: Fluent
+                  value: 6
+              contributions: 0;0;0;0;0;0;0;4;0;0;0;0;6;91;247;42;17;13;32;42;82;4;6;27;133;79;13;5;0;16;16;8;9;7;10;8;6;8;9;4;3;13;5;23;11;34;20;14;8;7;2;4
+              firstWeek: 2020-06-14Z
               stars: 16
               license: Apache License 2.0
               description: Spring Boot + Java Integration for Symphony Chat Platform Bots and Apps
-              latest_commit_date: '2021-05-07T05:47:03Z'
-              latest_commit_link: /finos/symphony-java-toolkit/commit/ee0dc9bf831d8ecf07c47c55e4a8a6e0863b77b4
+              latest_commit_date: '2021-06-08T07:59:43Z'
+              latest_commit_link: /finos/symphony-java-toolkit/commit/9a8de1c802c32be1b14345e1a3967c4eac78979b
               release_date: '2021-05-07T06:09:24Z'
               release_link: https://github.com/finos/symphony-java-toolkit/releases
               contributors_count: 13
@@ -1338,7 +1340,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Unfurl Bot
             homepage_url: https://github.com/symphonyoss/bot-unfurl
@@ -1383,7 +1385,7 @@ landscape:
                   value: 401
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 5
               license: Apache License 2.0
               description: A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.
@@ -1404,7 +1406,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Voice Tech
         items:
@@ -1443,7 +1445,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 126557
+                  value: 126629
                   color: '#3572A5'
                 - name: Shell
                   value: 746
@@ -1451,20 +1453,20 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;1;0;0;4;3;0;0;4;1;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 26
+              contributions: 0;7;0;0;0;5;1;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+              firstWeek: 2020-06-14Z
+              stars: 27
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
-              latest_commit_date: '2021-02-19T00:37:52Z'
-              latest_commit_link: /finos/greenkey-asrtoolkit/commit/f225916edcf730d17fd0dcc034fc18d8fc81c05f
-              release_date: '2020-07-21T21:43:07Z'
+              latest_commit_date: '2021-05-19T18:47:19Z'
+              latest_commit_link: /finos/greenkey-asrtoolkit/commit/0c0741e9689dcffc9fbce941c63c586c156a33fb
+              release_date: '2021-05-19T18:51:22Z'
               release_link: https://github.com/finos/greenkey-asrtoolkit/releases
               contributors_count: 13
               contributors_link: https://github.com/finos/greenkey-asrtoolkit/graphs/contributors
             repos:
               - url: https://github.com/finos/greenkey-asrtoolkit
-                stars: 26
+                stars: 27
             github_start_commit_data:
               start_commit_link: /finos/greenkey-asrtoolkit/commit/bad2b8be1f023a1ebb864d55fb92cc1ed35b79eb
               start_date: '2018-10-01T18:55:21Z'
@@ -1475,7 +1477,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Greenkey Discovery SDK
             homepage_url: https://github.com/finos/greenkey-discovery-sdk
@@ -1516,13 +1518,13 @@ landscape:
                 - name: Shell
                   value: 3519
                   color: '#89e051'
-              contributions: 0;3;0;2;1;0;1;0;0;0;0;1;0;0;0;8;0;1;0;2;1;0;0;0;0;0;4;1;0;0;0;0;2;2;3;10;5;19;0;8;0;4;4;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 2;1;1;0;0;0;0;0;1;0;0;0;8;0;1;1;2;0;0;0;0;0;0;5;0;0;0;0;0;3;1;6;11;3;17;0;8;0;4;4;0;0;0;0;0;0;0;0;0;0;1;0
+              firstWeek: 2020-06-14Z
               stars: 11
               license: Apache License 2.0
               description: Speed up business workflows through custom 'voice skills' and text (NLP) interpreters
-              latest_commit_date: '2021-03-15T14:04:56Z'
-              latest_commit_link: /finos/greenkey-discovery-sdk/commit/2f56173c13e00ed80eba91f350bfe8ff35984e33
+              latest_commit_date: '2021-06-01T15:35:35Z'
+              latest_commit_link: /finos/greenkey-discovery-sdk/commit/d0ef2df693f15e967dce809c410b00870de79ccd
               contributors_count: 17
               contributors_link: https://github.com/finos/greenkey-discovery-sdk/graphs/contributors
             repos:
@@ -1538,7 +1540,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Voice Metadata Standardization
             homepage_url: https://github.com/finos/voice-metadata-standard
@@ -1574,7 +1576,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 24
               license: Apache License 2.0
               description: This is a project from FINOS Voice program to define a standard for call metadata.
@@ -1595,7 +1597,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: UI Frameworks
         items:
@@ -1634,26 +1636,26 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1663824
+                  value: 1737889
                   color: '#f1e05a'
                 - name: C++
-                  value: 1357520
+                  value: 1388399
                   color: '#f34b7d'
                 - name: Python
-                  value: 811705
+                  value: 824178
                   color: '#3572A5'
-                - name: Less
-                  value: 109908
                 - name: Rust
-                  value: 100494
+                  value: 143065
                   color: '#dea584'
+                - name: Less
+                  value: 116528
                 - name: CMake
-                  value: 63034
+                  value: 63080
                 - name: TypeScript
                   value: 49395
                   color: '#2b7489'
                 - name: HTML
-                  value: 24595
+                  value: 24712
                   color: '#e34c26'
                 - name: Dockerfile
                   value: 9998
@@ -1667,18 +1669,18 @@ landscape:
                 - name: CSS
                   value: 1053
                   color: '#563d7c'
-              contributions: 23;37;19;26;26;21;4;11;4;9;24;9;7;16;26;20;30;17;12;22;15;9;13;13;9;0;0;2;4;5;9;5;7;16;20;10;9;7;13;3;5;11;3;8;2;5;8;16;26;15;17;15
-              firstWeek: 2020-05-24Z
-              stars: 3366
+              contributions: 16;25;19;4;13;1;18;16;8;7;23;26;28;15;19;13;20;16;8;13;12;9;0;2;1;3;5;13;1;10;16;20;7;9;7;13;4;6;9;4;8;1;6;8;21;26;12;23;9;2;15;6
+              firstWeek: 2020-06-14Z
+              stars: 3394
               license: Apache License 2.0
               description: Streaming pivot visualization via WebAssembly
-              latest_commit_date: '2021-05-14T21:05:52Z'
-              latest_commit_link: /finos/perspective/commit/6bab63ca5d4c50983de5b13be2619c82e2804a9c
-              contributors_count: 63
+              latest_commit_date: '2021-06-08T21:34:07Z'
+              latest_commit_link: /finos/perspective/commit/36dfe7cd075f432d85920e1792cf6da48cca76a0
+              contributors_count: 64
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 3366
+                stars: 3394
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -1689,7 +1691,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -1732,16 +1734,16 @@ landscape:
               languages:
                 - name: HCL
                   value: 34046
-              contributions: 0;0;2;1;3;0;23;22;0;21;4;9;8;0;0;1;0;0;0;3;6;0;7;6;1;0;3;0;3;5;2;0;0;0;3;0;1;4;35;2;0;10;16;3;2;0;3;0;3;2;0;1
-              firstWeek: 2020-05-24Z
+              contributions: 0;3;1;27;17;0;21;4;9;8;0;0;1;0;0;2;5;2;1;6;6;1;0;3;0;7;1;2;0;0;1;2;0;1;6;35;0;6;8;15;0;2;2;5;0;4;2;0;1;1;0;0
+              firstWeek: 2020-06-14Z
               stars: 36
               license: Apache License 2.0
               description: >-
                 Cloud Service Certification accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that
                 meets existing regulatory and internal security controls.
-              latest_commit_date: '2021-05-17T12:41:33Z'
-              latest_commit_link: /finos/cloud-service-certification/commit/4f27e057357e2a57c23c2df148644e6da52053bd
-              contributors_count: 18
+              latest_commit_date: '2021-05-24T07:41:16Z'
+              latest_commit_link: /finos/cloud-service-certification/commit/77a064b8dcc14b231ab60659d578a576de3e3054
+              contributors_count: 19
               contributors_link: https://github.com/finos/cloud-service-certification/graphs/contributors
             repos:
               - url: https://github.com/finos/cloud-service-certification
@@ -1756,7 +1758,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Waltz
             homepage_url: https://waltz.finos.org
@@ -1792,38 +1794,38 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 4008701
+                  value: 4023234
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2482110
+                  value: 2498527
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1478584
+                  value: 1487258
                   color: '#e34c26'
                 - name: SCSS
-                  value: 147039
+                  value: 148084
                 - name: Svelte
-                  value: 131459
+                  value: 131664
                 - name: EJS
                   value: 6468
                 - name: Shell
-                  value: 305
+                  value: 112
                   color: '#89e051'
               contributions: >-
-                30;51;49;21;39;20;31;29;28;19;18;16;14;13;26;40;24;25;41;34;35;17;28;13;16;19;5;32;28;27;22;17;7;29;29;41;55;32;10;12;14;22;18;3;31;19;53;17;20;26;29;2
-              firstWeek: 2020-05-24Z
-              stars: 99
+                19;41;23;24;36;23;21;17;12;17;13;34;35;22;25;46;30;32;18;23;16;20;12;6;31;38;22;24;11;16;19;35;45;58;24;5;15;15;21;15;11;33;22;43;17;28;15;35;6;28;20;0
+              firstWeek: 2020-06-14Z
+              stars: 101
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2021-05-12T12:33:17Z'
-              latest_commit_link: /finos/waltz/commit/d660f378bcbd17f7fc6726977fc18c564521972e
-              release_date: '2021-05-11T17:08:11Z'
+              latest_commit_date: '2021-06-01T10:19:41Z'
+              latest_commit_link: /finos/waltz/commit/073cfc31cb636e97975da5c0c128928deb925bee
+              release_date: '2021-05-27T20:21:54Z'
               release_link: https://github.com/finos/waltz/releases
               contributors_count: 28
               contributors_link: https://github.com/finos/waltz/graphs/contributors
             repos:
               - url: https://github.com/finos/waltz
-                stars: 99
+                stars: 101
             github_start_commit_data:
               start_commit_link: /finos/waltz/commit/db3992613a4b3249c249f101e8e0f04602a82fe4
               start_date: '2016-01-18T22:06:27Z'
@@ -1834,7 +1836,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: Data & Business Logic
     subcategories:
@@ -1893,9 +1895,9 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 0;3;1;1;0;0;0;4;23;0;2;0;0;0;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;3;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 99
+              contributions: 1;0;0;0;10;17;0;2;0;0;0;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6;0;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 100
               license: Other
               description: >-
                 The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for
@@ -1908,7 +1910,7 @@ landscape:
               contributors_link: https://github.com/finos/datahelix/graphs/contributors
             repos:
               - url: https://github.com/finos/datahelix
-                stars: 99
+                stars: 100
             github_start_commit_data:
               start_commit_link: /finos/datahelix/commit/44d4a83319012cbfb9bbeb9994ca711e2e4b17c0
               start_date: '2018-06-25T08:57:28Z'
@@ -1919,7 +1921,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: DataHub
             homepage_url: https://datahub.finos.org
@@ -1963,9 +1965,9 @@ landscape:
                 - name: CSS
                   value: 2867
                   color: '#563d7c'
-              contributions: 5;0;0;0;0;0;6;1;2;0;17;0;0;0;0;1;0;0;3;3;15;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 52
+              contributions: 0;0;0;7;1;1;0;17;0;0;0;0;1;0;0;5;12;11;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 53
               license: Apache License 2.0
               description: DataHub - Synthetic data library
               latest_commit_date: '2020-10-14T14:20:53Z'
@@ -1974,7 +1976,7 @@ landscape:
               contributors_link: https://github.com/finos/datahub/graphs/contributors
             repos:
               - url: https://github.com/finos/datahub
-                stars: 52
+                stars: 53
             github_start_commit_data:
               start_commit_link: /finos/datahub/commit/809f75f64386074d19a9d51b27715b9864412616
               start_date: '2020-05-01T10:26:21Z'
@@ -1985,7 +1987,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Frameworks
         items:
@@ -2035,8 +2037,8 @@ landscape:
                 - name: Batchfile
                   value: 5166
                   color: '#C1F12E'
-              contributions: 0;0;0;3;0;3;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 3;3;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 16
               license: Apache License 2.0
               description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
@@ -2057,7 +2059,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Legend
             homepage_url: https://legend.finos.org
@@ -2093,18 +2095,18 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 18708347
+                  value: 19041787
                   color: '#b07219'
                 - name: TypeScript
-                  value: 6804923
+                  value: 6347513
                   color: '#2b7489'
                 - name: SCSS
-                  value: 372177
+                  value: 369072
                 - name: JavaScript
-                  value: 209921
+                  value: 211685
                   color: '#f1e05a'
                 - name: ANTLR
-                  value: 154440
+                  value: 157562
                   color: '#9DC3FF'
                 - name: HTML
                   value: 44766
@@ -2120,28 +2122,28 @@ landscape:
                 - name: Dockerfile
                   value: 1532
                   color: '#384d54'
-              contributions: 47;21;27;35;26;5;2;0;0;0;5;0;14;7;0;13;5;28;4;41;50;124;39;19;14;11;8;0;23;35;28;9;7;39;27;16;14;40;31;31;11;93;65;52;32;19;12;42;43;50;36;16
-              firstWeek: 2020-05-24Z
-              stars: 323
+              contributions: 30;20;4;0;0;0;0;5;2;12;7;0;15;10;24;4;41;55;129;27;19;21;3;8;5;26;28;29;8;9;46;22;17;11;51;26;23;19;108;45;54;29;17;13;41;57;52;25;15;19;77;59
+              firstWeek: 2020-06-14Z
+              stars: 331
               license: Apache License 2.0
               description: The Legend project
-              latest_commit_date: '2021-05-11T16:26:38Z'
-              latest_commit_link: /finos/legend/commit/1de5b10b416397ac0cf0fcd284f4d7617dbfc783
-              contributors_count: 46
+              latest_commit_date: '2021-06-07T15:38:29Z'
+              latest_commit_link: /finos/legend/commit/4d825ab32d6f4e11c2a2de33d81fe9dda4dccdbb
+              contributors_count: 47
               contributors_link: https://github.com/finos/legend/graphs/contributors
             repos:
               - url: https://github.com/finos/legend
-                stars: 225
+                stars: 228
               - url: https://github.com/finos/legend-pure
-                stars: 28
+                stars: 29
               - url: https://github.com/finos/legend-engine
-                stars: 22
+                stars: 23
               - url: https://github.com/finos/legend-studio
-                stars: 18
+                stars: 19
               - url: https://github.com/finos/legend-sdlc
-                stars: 16
+                stars: 17
               - url: https://github.com/finos/legend-shared
-                stars: 14
+                stars: 15
             github_start_commit_data:
               start_commit_link: /finos/legend/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
               start_date: '2019-12-12T10:13:48Z'
@@ -2152,7 +2154,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Morphir
             homepage_url: https://morphir.finos.org
@@ -2188,7 +2190,7 @@ landscape:
             github_data:
               languages:
                 - name: Elm
-                  value: 3862137
+                  value: 3903017
                   color: '#60B5CC'
                 - name: Scala
                   value: 560126
@@ -2200,7 +2202,7 @@ landscape:
                   value: 143699
                   color: '#b845fc'
                 - name: JavaScript
-                  value: 56294
+                  value: 56900
                   color: '#f1e05a'
                 - name: Shell
                   value: 25648
@@ -2215,25 +2217,25 @@ landscape:
                   value: 4009
                   color: '#178600'
                 - name: Dockerfile
-                  value: 567
+                  value: 787
                   color: '#384d54'
                 - name: Forth
                   value: 38
                   color: '#341708'
-              contributions: 19;19;0;4;15;5;6;24;5;10;11;32;27;13;14;18;11;13;9;16;23;13;9;38;8;13;20;19;45;36;20;32;22;34;29;16;44;64;34;32;40;38;18;19;8;4;4;8;10;7;26;9
-              firstWeek: 2020-05-24Z
-              stars: 102
+              contributions: 7;12;5;8;25;2;10;12;40;18;14;25;11;6;17;7;18;19;14;9;37;10;15;18;20;48;37;28;31;10;42;19;26;56;59;22;47;27;33;25;10;9;3;4;9;9;7;28;29;17;36;19
+              firstWeek: 2020-06-14Z
+              stars: 107
               license: Apache License 2.0
               description: A universal language for business and technology
-              latest_commit_date: '2021-04-16T18:29:59Z'
-              latest_commit_link: /finos/morphir/commit/e3c2656dd0b6ed83938bf410542857e7cd1c4831
+              latest_commit_date: '2021-05-26T18:40:08Z'
+              latest_commit_link: /finos/morphir/commit/fdc1844fb851357ca80b2a92d2e3c2c65af3bf58
               contributors_count: 23
               contributors_link: https://github.com/finos/morphir/graphs/contributors
             repos:
               - url: https://github.com/finos/morphir
-                stars: 43
+                stars: 47
               - url: https://github.com/finos/morphir-elm
-                stars: 19
+                stars: 20
               - url: https://github.com/finos/morphir-examples
                 stars: 16
               - url: https://github.com/finos/morphir-jvm
@@ -2254,15 +2256,15 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Models
         items:
           - item:
             name: Financial Objects
             homepage_url: https://fo.finos.org
-            project: incubating
-            repo_url: https://github.com/finos/finos-fo
+            project: sig
+            repo_url: https://github.com/finos/financial-objects
             logo: financial-objects.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
@@ -2304,20 +2306,20 @@ landscape:
                 - name: Shell
                   value: 3159
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;4;6;4;3;2;2;0;1;10;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 21
+              contributions: 0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;4;7;3;3;4;0;1;0;10;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 22
               license: Apache License 2.0
               description: FINOS Financial Objects Program Documentation
               latest_commit_date: '2021-04-19T17:39:27Z'
-              latest_commit_link: /finos/finos-fo/commit/5464ff003383da17421c175ac6071cd8c5ac1060
+              latest_commit_link: /finos/financial-objects/commit/5464ff003383da17421c175ac6071cd8c5ac1060
               contributors_count: 11
-              contributors_link: https://github.com/finos/finos-fo/graphs/contributors
+              contributors_link: https://github.com/finos/financial-objects/graphs/contributors
             repos:
-              - url: https://github.com/finos/finos-fo
-                stars: 21
+              - url: https://github.com/finos/financial-objects
+                stars: 22
             github_start_commit_data:
-              start_commit_link: /finos/finos-fo/commit/3e8a73c36eca9c6a09bb79008be482e435ad699d
+              start_commit_link: /finos/financial-objects/commit/3e8a73c36eca9c6a09bb79008be482e435ad699d
               start_date: '2018-11-08T14:51:23Z'
             image_data:
               fileName: financial-objects.svg
@@ -2326,7 +2328,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Glue
             homepage_url: https://github.com/finos/glue
@@ -2367,8 +2369,8 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;8;1;0;0;8;171;61;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;4;1;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;0;0;0;0;2;0;1;2;7;0;0;0;45;163;32;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;4;1;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 7
               license: Apache License 2.0
               description: >-
@@ -2391,7 +2393,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Market Data
         items:
@@ -2433,10 +2435,10 @@ landscape:
                   value: 51014643
                   color: '#e34c26'
                 - name: C++
-                  value: 6209285
+                  value: 6139878
                   color: '#f34b7d'
                 - name: C
-                  value: 4696137
+                  value: 4739867
                   color: '#555555'
                 - name: Java
                   value: 2965068
@@ -2455,12 +2457,12 @@ landscape:
                 - name: Python
                   value: 46848
                   color: '#3572A5'
-                - name: Shell
-                  value: 18360
-                  color: '#89e051'
                 - name: Objective-C
-                  value: 17372
+                  value: 43049
                   color: '#438eff'
+                - name: Shell
+                  value: 18435
+                  color: '#89e051'
                 - name: Lex
                   value: 9517
                   color: '#DBCA00'
@@ -2477,18 +2479,18 @@ landscape:
                   color: '#384d54'
                 - name: M4
                   value: 586
-              contributions: 0;0;0;0;3;2;5;3;0;1;1;0;1;10;2;3;8;26;6;3;1;0;0;0;5;4;1;0;0;0;0;0;0;0;0;0;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;3;2;6;2;0;1;1;0;2;9;2;5;15;17;6;4;0;0;0;0;7;2;1;0;0;0;0;0;0;0;0;0;8;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0
+              firstWeek: 2020-06-14Z
               stars: 95
               license: Other
               description: >-
                 OpenMAMA is an open source project that provides a high performance middleware agnostic messaging API that interfaces with a variety of
                 proprietary and open source message oriented middleware systems.
-              latest_commit_date: '2021-02-12T12:27:18Z'
-              latest_commit_link: /finos/OpenMAMA/commit/f1aa17145f9227c4a7c545c2fc0b42e62165dbec
+              latest_commit_date: '2021-05-19T13:44:08Z'
+              latest_commit_link: /finos/OpenMAMA/commit/e4db8b114ddbe5dd08c5655226d467c8174c3e12
               release_date: '2020-10-14T12:58:52Z'
               release_link: https://github.com/finos/openMAMA/releases
-              contributors_count: 32
+              contributors_count: 31
               contributors_link: https://github.com/finos/openMAMA/graphs/contributors
             repos:
               - url: https://github.com/finos/openMAMA
@@ -2507,7 +2509,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Tick & Reference
         items:
@@ -2557,13 +2559,13 @@ landscape:
                 - name: Shell
                   value: 1276
                   color: '#89e051'
-              contributions: 0;1;0;0;0;0;0;1;0;0;7;3;2;0;0;0;4;0;0;1;0;0;0;4;0;0;1;0;2;2;0;0;4;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;1;0;0;7;3;2;0;0;0;4;0;1;0;0;0;0;4;0;0;1;0;4;0;0;0;4;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;1;0;0;0;3
+              firstWeek: 2020-06-14Z
               stars: 27
               license: Apache License 2.0
               description: kdb+ Working Group from FINOS Data Technologies program
-              latest_commit_date: '2021-02-28T14:54:06Z'
-              latest_commit_link: /finos/kdb/commit/6b4c056b6313439e2de13456ff5d9ca488f27037
+              latest_commit_date: '2021-06-07T13:07:29Z'
+              latest_commit_link: /finos/kdb/commit/892d0741ad011a3a351f071cede659016c49d31d
               contributors_count: 11
               contributors_link: https://github.com/finos/kdb/graphs/contributors
             repos:
@@ -2579,7 +2581,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Security Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -2620,9 +2622,9 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;4;8;0;0;1;0;0;0;0;2;0;1;0;3;0;0;0;0;0;0;0;3;0;0;0;0;0;0;6;6;0;0;0;1;0;0;0;4;0;1;0;0;0;0;0
-              firstWeek: 2020-05-24Z
-              stars: 9
+              contributions: 0;0;0;0;4;8;0;0;1;0;0;0;0;2;0;1;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;12;0;0;0;0;1;0;0;2;2;1;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
+              stars: 11
               license: Apache License 2.0
               description: Security Reference Data project
               latest_commit_date: '2021-04-06T19:09:07Z'
@@ -2631,7 +2633,7 @@ landscape:
               contributors_link: https://github.com/finos/secref-data/graphs/contributors
             repos:
               - url: https://github.com/finos/secref-data
-                stars: 9
+                stars: 11
             github_start_commit_data:
               start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
               start_date: '2020-04-29T08:05:47Z'
@@ -2642,7 +2644,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -2695,20 +2697,20 @@ landscape:
                 - name: CSS
                   value: 3463
                   color: '#563d7c'
-              contributions: 0;3;2;2;2;0;0;2;7;2;3;1;2;0;0;2;0;0;0;15;7;25;10;2;0;11;5;3;13;8;0;0;3;1;0;6;20;1;4;1;21;20;9;3;8;1;18;18;0;11;3;7
-              firstWeek: 2020-05-24Z
-              stars: 79
+              contributions: 2;2;0;0;3;8;0;3;1;2;0;0;2;0;0;1;16;19;12;9;2;0;13;4;2;20;1;0;0;3;1;0;16;10;4;1;1;25;21;4;3;9;0;20;16;3;9;5;5;2;2;1
+              firstWeek: 2020-06-14Z
+              stars: 80
               license: Apache License 2.0
               description: An open standard for the financial desktop.
-              latest_commit_date: '2021-05-14T11:16:57Z'
-              latest_commit_link: /finos/FDC3/commit/f40b7526763d4e3a72e9de2d177dd2c9be29098c
+              latest_commit_date: '2021-06-07T10:05:59Z'
+              latest_commit_link: /finos/FDC3/commit/c0df3ce81ae299f6ce5161ebfaa1953605c5902b
               release_date: '2021-04-19T21:40:17Z'
               release_link: https://github.com/finos/fdc3/releases
-              contributors_count: 37
+              contributors_count: 38
               contributors_link: https://github.com/finos/fdc3/graphs/contributors
             repos:
               - url: https://github.com/finos/fdc3
-                stars: 79
+                stars: 80
             github_start_commit_data:
               start_commit_link: /finos/FDC3/commit/84bc36d712b99756534015b8043ef44c1db66b4f
               start_date: '2018-02-17T04:22:36Z'
@@ -2719,7 +2721,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: FDC3 Desktop Agent
             homepage_url: https://github.com/finos/fdc3-desktop-agent
@@ -2766,8 +2768,8 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 13
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
@@ -2788,7 +2790,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Plexus Interop
             homepage_url: https://plexus.finos.org
@@ -2849,8 +2851,8 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 1;0;1;2;0;3;0;0;1;4;4;0;0;0;0;0;3;4;0;0;1;3;0;0;0;0;6;10;3;0;0;0;0;0;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 2;2;1;0;0;1;6;2;0;0;0;0;0;3;4;0;0;1;3;0;0;0;1;5;10;3;0;0;0;0;0;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 249
               license: Apache License 2.0
               description: Plexus Interop open source project hosted by the Fintech Open Source Foundation
@@ -2875,7 +2877,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
@@ -2920,7 +2922,7 @@ landscape:
                   value: 795
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 5
               license: Apache License 2.0
               description: Hadouken python language adapter.
@@ -2941,7 +2943,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: OpenFin React Hooks
             homepage_url: https://github.com/finos/openfin-react-hooks
@@ -2980,7 +2982,7 @@ landscape:
                   value: 48332
                   color: '#2b7489'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              firstWeek: 2020-06-14Z
               stars: 38
               license: Apache License 2.0
               description: A collection of React Hooks built on top of the Openfin API - from Scott Logic
@@ -2988,7 +2990,7 @@ landscape:
               latest_commit_link: /finos/openfin-react-hooks/commit/735358503d93e93b002f16328030d02cde7b6bd2
               release_date: '2020-02-10T11:41:46Z'
               release_link: https://github.com/finos/openfin-react-hooks/releases
-              contributors_count: 14
+              contributors_count: 15
               contributors_link: https://github.com/finos/openfin-react-hooks/graphs/contributors
             repos:
               - url: https://github.com/finos/openfin-react-hooks
@@ -3003,7 +3005,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
       - subcategory:
         name: Containers
         items:
@@ -3053,8 +3055,8 @@ landscape:
                 - name: TypeScript
                   value: 907
                   color: '#2b7489'
-              contributions: 0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-05-24Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-06-14Z
               stars: 12
               license: Apache License 2.0
               description: null
@@ -3077,7 +3079,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Symphony Electron
             homepage_url: https://github.com/symphonyoss/SymphonyElectron
@@ -3119,13 +3121,13 @@ landscape:
                   value: 487742
                   color: '#178600'
                 - name: C
-                  value: 73875
+                  value: 108813
                   color: '#555555'
                 - name: HTML
                   value: 41820
                   color: '#e34c26'
                 - name: Batchfile
-                  value: 37616
+                  value: 38066
                   color: '#C1F12E'
                 - name: Less
                   value: 32534
@@ -3133,7 +3135,7 @@ landscape:
                   value: 23378
                   color: '#438eff'
                 - name: C++
-                  value: 20375
+                  value: 21356
                   color: '#f34b7d'
                 - name: Shell
                   value: 16296
@@ -3157,22 +3159,22 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 6;15;18;12;5;7;9;3;0;2;13;6;4;9;18;10;11;5;7;2;9;8;14;4;15;14;20;8;39;19;35;2;6;8;8;5;24;11;11;4;4;6;1;3;16;2;5;6;3;6;15;4
-              firstWeek: 2020-05-24Z
-              stars: 70
+              contributions: 10;6;8;8;0;1;6;9;7;3;15;12;11;9;8;4;5;6;17;5;4;21;13;17;10;41;22;27;2;5;8;8;6;32;3;11;4;3;6;2;8;11;4;8;0;3;8;13;4;11;0;7
+              firstWeek: 2020-06-14Z
+              stars: 72
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2021-05-12T12:10:50Z'
-              latest_commit_link: /symphonyoss/SymphonyElectron/commit/6c836059ceb334c9bf2f38a750ced0046d9c4155
+              latest_commit_date: '2021-06-07T08:54:58Z'
+              latest_commit_link: /symphonyoss/SymphonyElectron/commit/0995633c379ba470cee094c5aad4eda3617d2abb
               release_date: '2021-02-17T06:57:08Z'
               release_link: https://github.com/symphonyoss/SymphonyElectron/releases
               contributors_count: 27
               contributors_link: https://github.com/symphonyoss/SymphonyElectron/graphs/contributors
             repos:
               - url: https://github.com/symphonyoss/SymphonyElectron
-                stars: 59
+                stars: 60
               - url: https://github.com/symphonyoss/SwiftSearch
-                stars: 5
+                stars: 6
               - url: https://github.com/symphonyoss/ScreenSnippet
                 stars: 4
               - url: https://github.com/symphonyoss/electron-utils
@@ -3191,7 +3193,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: Legend
     subcategories:
@@ -3239,7 +3241,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Commodities Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -3281,7 +3283,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Currency Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -3323,7 +3325,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
           - item:
             name: Product Control Common Template
             homepage_url: http://fo.finos.org
@@ -3365,7 +3367,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: FINOS
     subcategories:
@@ -3409,7 +3411,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-17T17:58:47.000Z
+              latest_tweet_date: 2021-06-08T19:21:52.000Z
   - category:
     name: FINOS Members
     subcategories:
@@ -3425,4 +3427,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1372655525620547584'
-updated_at: 2021-05-18T05:37:37.786Z
+updated_at: 2021-06-09T05:34:59.635Z
