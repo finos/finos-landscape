@@ -304,7 +304,7 @@ landscape:
             homepage_url: https://github.com/finos/glue
             repo_url: https://github.com/finos/glue
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: finos.svg
+          - logo: timebase-ce.svg
             name: TimeBase CE
             item:
             project: incubating
@@ -457,15 +457,4 @@ landscape:
             homepage_url: https://www.finos.org
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
-    name: FINOS Members
-    subcategories:
-      - subcategory:
-        name: Platinum
-        items: []
-      - subcategory:
-        name: Gold
-        items: []
-      - subcategory:
-        name: Silver
-        items: []
+  - null
