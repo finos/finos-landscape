@@ -145,7 +145,7 @@ big_picture:
       - type: HorizontalCategory
         category: Data & Business Logic
         rows: 4
-        width: 480
+        width: 640
         height: 180
         top: 200
         left: 0
@@ -157,7 +157,7 @@ big_picture:
         width: 475
         height: 180
         top: 200
-        left: 500
+        left: 660
         color: rgb(107,202,186)
         fit_width: true
       - type: HorizontalCategory
