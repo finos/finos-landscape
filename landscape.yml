@@ -444,7 +444,7 @@ landscape:
             item:
             project: incubating
             homepage_url: http://github.com/finos/secref-data
-            repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/currencyrefdata
+            repo_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: FINOS
@@ -457,15 +457,4 @@ landscape:
             homepage_url: https://www.finos.org
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
-    name: FINOS Members
-    subcategories:
-      - subcategory:
-        name: Platinum
-        items: []
-      - subcategory:
-        name: Gold
-        items: []
-      - subcategory:
-        name: Silver
-        items: []
+  - null
