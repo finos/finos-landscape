@@ -423,28 +423,28 @@ landscape:
             item:
             project: incubating
             homepage_url: http://fo.finos.org
-            repo_url: https://gitlab.com/finosfoundationlegend/financial-objects/cdm
+            repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/cdm
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: fo-product-control-common-template.svg
             name: Product Control Common Template
             item:
             project: incubating
             homepage_url: http://fo.finos.org
-            repo_url: https://gitlab.com/finosfoundationlegend/financial-objects/product-control-common-template
+            repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: security-reference-data.svg
             name: Commodities Reference Data
             item:
             project: incubating
             homepage_url: http://github.com/finos/secref-data
-            repo_url: https://gitlab.com/finosfoundationlegend/financial-objects/commodrefdata
+            repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/commodrefdata
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: security-reference-data.svg
             name: Currency Reference Data
             item:
             project: incubating
             homepage_url: http://github.com/finos/secref-data
-            repo_url: https://gitlab.com/finosfoundationlegend/financial-objects/currencyrefdata
+            repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/currencyrefdata
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: FINOS
@@ -457,15 +457,4 @@ landscape:
             homepage_url: https://www.finos.org
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
-    name: FINOS Members
-    subcategories:
-      - subcategory:
-        name: Platinum
-        items: []
-      - subcategory:
-        name: Gold
-        items: []
-      - subcategory:
-        name: Silver
-        items: []
+  - null
