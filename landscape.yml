@@ -473,4 +473,15 @@ landscape:
             homepage_url: https://www.finos.org
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - null
+  - category:
+    name: FINOS Members
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items: []
+      - subcategory:
+        name: Gold
+        items: []
+      - subcategory:
+        name: Silver
+        items: []
