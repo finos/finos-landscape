@@ -164,13 +164,6 @@ landscape:
             homepage_url: https://symphony-bdk-python.finos.org
             repo_url: https://github.com/finos/symphony-bdk-python
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony.svg
-            name: Symphony Clojure Client
-            item:
-            project: active
-            homepage_url: https://github.com/symphonyoss/clj-symphony
-            repo_url: https://github.com/symphonyoss/clj-symphony
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony-java-toolkit.svg
             name: Symphony Java Toolkit
             item:
@@ -184,13 +177,6 @@ landscape:
             project: incubating
             homepage_url: https://github.com/finos/symphony-wdk
             repo_url: https://github.com/finos/symphony-wdk
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony.svg
-            name: Unfurl Bot
-            item:
-            project: incubating
-            homepage_url: https://github.com/symphonyoss/bot-unfurl
-            repo_url: https://github.com/symphonyoss/bot-unfurl
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
         name: Voice Tech
