@@ -257,6 +257,10 @@ landscape:
               - repo_url: https://github.com/finos/legend-sdlc
               - repo_url: https://github.com/finos/legend-pure
               - repo_url: https://github.com/finos/legend-engine
+              - repo_url: https://github.com/finos/legend-depot
+              - repo_url: https://github.com/finos/legend-integration-juju
+              - repo_url: https://github.com/finos/legend-integration-morphir
+              - repo_url: https://github.com/finos/legend-integration-helm
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
