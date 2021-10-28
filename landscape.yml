@@ -85,120 +85,6 @@ landscape:
             repo_url: https://github.com/finos/open-regtech-sig
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
-    name: Applications
-    subcategories:
-      - subcategory:
-        name: Symphony Ecosystem
-        items:
-          - logo: canon.svg
-            name: Canon
-            item:
-            additional_repos:
-              - repo_url: https://github.com/symphonyoss/canon-example
-            project: active
-            homepage_url: https://github.com/symphonyoss/canon
-            repo_url: https://github.com/symphonyoss/canon
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: fugue.svg
-            name: Fugue
-            item:
-            additional_repos:
-              - repo_url: https://github.com/symphonyoss/fugue-example
-              - repo_url: https://github.com/symphonyoss/fugue-cicd
-            project: active
-            homepage_url: https://symphonyoss.github.io/fugue
-            repo_url: https://github.com/symphonyoss/fugue
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-integration-bridge.svg
-            name: Integration Bridge
-            item:
-            additional_repos:
-              - repo_url: https://github.com/symphonyoss/App-Integrations-Core
-              - repo_url: https://github.com/symphonyoss/App-Integrations-FE-Commons
-              - repo_url: https://github.com/symphonyoss/Integrations-Docs
-            project: active
-            homepage_url: https://github.com/symphonyoss/App-Integrations-Commons
-            repo_url: https://github.com/symphonyoss/App-Integrations-Commons
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: jcurl.svg
-            name: JCurl
-            item:
-            project: active
-            homepage_url: https://github.com/symphonyoss/JCurl
-            repo_url: https://github.com/symphonyoss/JCurl
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: messageml-utils.svg
-            name: MessageML Utilities
-            item:
-            project: active
-            homepage_url: https://github.com/symphonyoss/messageml-utils
-            repo_url: https://github.com/symphonyoss/messageml-utils
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-rest-api-spec.svg
-            name: REST API Specification
-            item:
-            project: active
-            homepage_url: https://github.com/symphonyoss/symphony-api-spec
-            repo_url: https://github.com/symphonyoss/symphony-api-spec
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-bdk-java.svg
-            name: Symphony BDK Java
-            item:
-            project: incubating
-            homepage_url: https://symphony-bdk-java.finos.org
-            repo_url: https://github.com/finos/symphony-bdk-java
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-bdk-python.svg
-            name: Symphony BDK Python
-            item:
-            project: incubating
-            homepage_url: https://symphony-bdk-python.finos.org
-            repo_url: https://github.com/finos/symphony-bdk-python
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-java-toolkit.svg
-            name: Symphony Java Toolkit
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/symphony-java-toolkit
-            repo_url: https://github.com/finos/symphony-java-toolkit
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-wdk.svg
-            name: Symphony WDK
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/symphony-wdk-gallery
-            project: incubating
-            homepage_url: https://github.com/finos/symphony-wdk
-            repo_url: https://github.com/finos/symphony-wdk
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: Voice Tech
-        items:
-          - logo: greenkey-asr-toolkit.svg
-            name: Greenkey Automatic Speech Recognition Toolkit
-            item:
-            project: active
-            homepage_url: https://github.com/finos/greenkey-asrtoolkit
-            repo_url: https://github.com/finos/greenkey-asrtoolkit
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: greenkey-discovery-sdk.svg
-            name: Greenkey Discovery SDK
-            item:
-            project: active
-            homepage_url: https://github.com/finos/greenkey-discovery-sdk
-            repo_url: https://github.com/finos/greenkey-discovery-sdk
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: UI Frameworks
-        items:
-          - logo: perspective.svg
-            name: Perspective
-            item:
-            project: active
-            homepage_url: https://perspective.finos.org
-            repo_url: https://github.com/finos/perspective
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
     name: Infrastructure
     subcategories:
       - subcategory:
@@ -396,6 +282,90 @@ landscape:
             project: active
             homepage_url: https://github.com/symphonyoss/SymphonyElectron
             repo_url: https://github.com/symphonyoss/SymphonyElectron
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+  - category:
+    name: Applications
+    subcategories:
+      - subcategory:
+        name: Voice Tech
+        items:
+          - logo: greenkey-asr-toolkit.svg
+            name: Greenkey Automatic Speech Recognition Toolkit
+            item:
+            project: active
+            homepage_url: https://github.com/finos/greenkey-asrtoolkit
+            repo_url: https://github.com/finos/greenkey-asrtoolkit
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: greenkey-discovery-sdk.svg
+            name: Greenkey Discovery SDK
+            item:
+            project: active
+            homepage_url: https://github.com/finos/greenkey-discovery-sdk
+            repo_url: https://github.com/finos/greenkey-discovery-sdk
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: Symphony Ecosystem
+        items:
+          - logo: jcurl.svg
+            name: JCurl
+            item:
+            project: active
+            homepage_url: https://github.com/symphonyoss/JCurl
+            repo_url: https://github.com/symphonyoss/JCurl
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: messageml-utils.svg
+            name: MessageML Utilities
+            item:
+            project: active
+            homepage_url: https://github.com/symphonyoss/messageml-utils
+            repo_url: https://github.com/symphonyoss/messageml-utils
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-rest-api-spec.svg
+            name: REST API Specification
+            item:
+            project: active
+            homepage_url: https://github.com/symphonyoss/symphony-api-spec
+            repo_url: https://github.com/symphonyoss/symphony-api-spec
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-bdk-java.svg
+            name: Symphony BDK Java
+            item:
+            project: incubating
+            homepage_url: https://symphony-bdk-java.finos.org
+            repo_url: https://github.com/finos/symphony-bdk-java
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-bdk-python.svg
+            name: Symphony BDK Python
+            item:
+            project: incubating
+            homepage_url: https://symphony-bdk-python.finos.org
+            repo_url: https://github.com/finos/symphony-bdk-python
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-java-toolkit.svg
+            name: Symphony Java Toolkit
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/symphony-java-toolkit
+            repo_url: https://github.com/finos/symphony-java-toolkit
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-wdk.svg
+            name: Symphony WDK
+            item:
+            additional_repos:
+              - repo_url: https://github.com/finos/symphony-wdk-gallery
+            project: incubating
+            homepage_url: https://github.com/finos/symphony-wdk
+            repo_url: https://github.com/finos/symphony-wdk
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: UI Frameworks
+        items:
+          - logo: perspective.svg
+            name: Perspective
+            item:
+            project: active
+            homepage_url: https://perspective.finos.org
+            repo_url: https://github.com/finos/perspective
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Legend
