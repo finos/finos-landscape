@@ -143,6 +143,15 @@ big_picture:
         color: rgb(0,181,226)
         fit_width: true
       - type: HorizontalCategory
+        category: Platforms & Runtimes
+        rows: 4
+        width: 350
+        height: 180
+        top: 0
+        left: 520
+        color: rgb(215,200,38)
+        fit_width: true
+      - type: HorizontalCategory
         category: Data & Business Logic
         rows: 4
         width: 640
@@ -152,13 +161,13 @@ big_picture:
         color: rgb(0,134,191)
         fit_width: true
       - type: HorizontalCategory
-        category: Enablement
+        category: Legend
         rows: 4
-        width: 500
+        width: 200
         height: 180
         top: 200
         left: 660
-        color: rgb(107,202,186)
+        color: rgb(0,181,226)
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
@@ -170,22 +179,13 @@ big_picture:
         color: rgb(67,176,42)
         fit_width: true
       - type: HorizontalCategory
-        category: Platforms & Runtimes
+        category: Enablement
         rows: 4
-        width: 350
+        width: 500
         height: 180
         top: 410
         left: 180
-        color: rgb(215,200,38)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Legend
-        rows: 4
-        width: 200
-        height: 180
-        top: 410
-        left: 550
-        color: rgb(0,181,226)
+        color: rgb(107,202,186)
         fit_width: true
       - type: LandscapeInfo
         width: 430
