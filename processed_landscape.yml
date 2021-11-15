@@ -114,7 +114,7 @@ landscape:
                 - name: CSS
                   value: 6385
                   color: '#563d7c'
-              contributions: 1;0;5;1;2;0;0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0
+              contributions: 1;0;5;2;1;0;0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-11-22Z
               stars: 35
               license: Apache License 2.0
@@ -180,7 +180,7 @@ landscape:
                 - name: Shell
                   value: 523
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;1;3;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;1;0;3;0;0;0;0;0;0;0;0
               firstWeek: 2020-11-22Z
               stars: 8
               license: Apache License 2.0
@@ -305,7 +305,7 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 12;16;7;2;0;0;0;2;6;0;8;2;0;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 12;22;1;2;0;0;0;6;2;0;8;2;0;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-11-22Z
               stars: 21
               license: Apache License 2.0
@@ -687,7 +687,7 @@ landscape:
               languages:
                 - name: HCL
                   value: 34136
-              contributions: 3;0;3;5;2;0;0;0;3;0;1;3;8;30;0;8;17;4;2;0;5;2;4;2;0;0;1;1;0;0;0;1;1;0;0;3;0;0;14;0;1;0;0;0;2;0;3;14;2;13;5;0
+              contributions: 3;0;3;5;2;0;0;0;3;0;1;3;8;30;0;8;17;4;2;0;5;2;4;2;0;0;1;1;0;0;0;1;1;0;0;3;0;0;14;0;1;0;0;0;2;0;3;14;2;14;4;0
               firstWeek: 2020-11-22Z
               stars: 48
               license: Apache License 2.0
@@ -747,7 +747,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 4439265
+                  value: 4439850
                   color: '#b07219'
                 - name: JavaScript
                   value: 2512382
@@ -765,13 +765,13 @@ landscape:
                   value: 112
                   color: '#89e051'
               contributions: >-
-                5;20;27;37;21;19;5;27;23;48;47;39;17;7;14;22;17;7;29;22;37;34;10;36;25;16;25;27;23;32;44;39;40;33;39;38;11;6;23;60;74;0;17;26;25;20;59;38;39;49;37;6
+                5;27;22;35;21;19;5;28;23;47;49;37;17;7;14;22;17;7;31;20;37;34;10;36;28;13;25;27;23;32;44;44;35;33;40;37;11;6;23;62;72;0;17;26;26;19;59;38;43;45;37;8
               firstWeek: 2020-11-22Z
               stars: 113
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2021-11-10T11:53:03Z'
-              latest_commit_link: /finos/waltz/commit/9d13fd9e62c07297e9bcb431ae2f73bcb0d0d786
+              latest_commit_date: '2021-11-14T16:07:49Z'
+              latest_commit_link: /finos/waltz/commit/589e6b7e722480f9da44a1b8fc4283e1cd08a8d3
               release_date: '2021-10-26T16:11:21Z'
               release_link: https://github.com/finos/waltz/releases
               contributors_count: 29
@@ -920,7 +920,7 @@ landscape:
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-11-22Z
-              stars: 61
+              stars: 62
               license: Apache License 2.0
               description: DataHub - Synthetic data library
               latest_commit_date: '2020-10-14T14:20:53Z'
@@ -929,7 +929,7 @@ landscape:
               contributors_link: https://github.com/finos/datahub/graphs/contributors
             repos:
               - url: https://github.com/finos/datahub
-                stars: 61
+                stars: 62
             github_start_commit_data:
               start_commit_link: /finos/datahub/commit/809f75f64386074d19a9d51b27715b9864412616
               start_date: '2020-05-01T10:26:21Z'
@@ -1056,7 +1056,7 @@ landscape:
                 - name: SCSS
                   value: 399459
                 - name: JavaScript
-                  value: 251289
+                  value: 251481
                   color: '#f1e05a'
                 - name: ANTLR
                   value: 190091
@@ -1076,7 +1076,7 @@ landscape:
                   value: 3489
                   color: '#384d54'
               contributions: >-
-                5;3;22;36;22;15;1;30;33;21;17;36;36;28;12;71;87;40;46;18;8;47;32;54;29;29;25;56;52;75;17;27;6;25;39;28;35;41;18;29;37;51;37;39;31;64;35;34;43;56;16;17
+                5;3;22;36;22;15;1;30;34;20;17;36;36;28;12;75;83;40;46;19;7;47;32;54;29;29;25;56;52;75;17;27;6;25;39;28;35;41;18;29;37;51;39;37;31;64;35;34;43;56;16;26
               firstWeek: 2020-11-22Z
               stars: 411
               license: Apache License 2.0
@@ -1183,7 +1183,7 @@ landscape:
                 - name: Forth
                   value: 38
                   color: '#341708'
-              contributions: 19;20;37;47;18;37;20;37;31;9;44;62;41;30;40;35;17;28;8;1;7;8;9;8;27;10;36;23;37;10;30;25;11;36;17;17;4;3;7;13;11;2;23;18;56;13;9;18;23;24;11;10
+              contributions: 19;20;37;47;18;37;20;37;31;9;44;62;42;29;40;35;17;28;8;1;7;8;9;8;27;18;28;23;37;10;30;25;11;36;17;17;4;3;7;13;11;2;23;18;56;13;9;18;23;24;11;10
               firstWeek: 2020-11-22Z
               stars: 129
               license: Apache License 2.0
@@ -1423,7 +1423,7 @@ landscape:
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;14;5;0;3;19;1;27;1;6;1;4;23;34;35;25;0;0;0;0;0;2;1;0;0;2;1;0
               firstWeek: 2020-11-22Z
-              stars: 25
+              stars: 26
               license: Other
               description: High performance time series database
               latest_commit_date: '2021-11-03T11:13:33Z'
@@ -1432,7 +1432,7 @@ landscape:
               contributors_link: https://github.com/finos/TimeBase-ce/graphs/contributors
             repos:
               - url: https://github.com/finos/TimeBase-ce
-                stars: 25
+                stars: 26
             github_start_commit_data:
               start_commit_link: /finos/TimeBase-CE/commit/28fb8ec8f479a7ca56df548a813164368a0a238e
               start_date: '2021-02-05T01:10:30Z'
@@ -1526,7 +1526,7 @@ landscape:
                   color: '#384d54'
                 - name: M4
                   value: 586
-              contributions: 1;0;0;0;0;0;0;0;0;0;0;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0
+              contributions: 1;0;0;0;0;0;0;0;0;0;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2020-11-22Z
               stars: 103
               license: Other
@@ -1606,7 +1606,7 @@ landscape:
                 - name: Shell
                   value: 1472
                   color: '#89e051'
-              contributions: 1;0;2;2;0;0;0;4;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;1;0;0;0;0;3;0;1;0;2;1;0;0;0;1;1;0;0;1;1;0;2;0;1;1;0;0;0
+              contributions: 1;0;2;2;0;0;0;4;1;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;1;0;0;0;1;2;0;1;0;2;1;0;0;0;1;1;0;0;1;1;0;2;0;1;1;0;0;0
               firstWeek: 2020-11-22Z
               stars: 31
               license: Apache License 2.0
@@ -1669,7 +1669,7 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 0;0;3;0;0;0;0;0;0;6;6;0;0;0;0;1;0;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;2;0;0;0;0
+              contributions: 0;0;3;0;0;0;0;0;0;6;6;0;0;0;0;1;0;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;2;0;0;0;0;0
               firstWeek: 2020-11-22Z
               stars: 15
               license: Apache License 2.0
@@ -1747,7 +1747,7 @@ landscape:
                 - name: Shell
                   value: 25
                   color: '#89e051'
-              contributions: 5;3;13;8;0;0;1;3;0;6;20;1;3;2;15;16;19;0;9;3;16;18;2;12;2;9;1;4;1;4;1;14;1;0;4;13;0;5;2;0;0;1;1;9;12;13;27;13;1;2;3;10
+              contributions: 5;3;13;8;0;0;1;3;0;6;20;1;3;2;20;11;19;0;9;3;16;18;2;12;2;9;1;5;0;4;1;14;1;0;4;13;0;5;2;0;0;1;1;9;12;13;27;13;1;2;3;10
               firstWeek: 2020-11-22Z
               stars: 86
               license: Apache License 2.0
@@ -1807,7 +1807,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 104678
+                  value: 118180
                   color: '#2b7489'
                 - name: JavaScript
                   value: 34806
@@ -1818,13 +1818,13 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 3;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;2;0
               firstWeek: 2020-11-22Z
               stars: 14
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
-              latest_commit_date: '2020-12-21T12:55:34Z'
-              latest_commit_link: /finos/fdc3-desktop-agent/commit/9a970485c0eae531bee1316850c56fe3e328767b
+              latest_commit_date: '2021-11-15T02:03:08Z'
+              latest_commit_link: /finos/fdc3-desktop-agent/commit/5f4ecd7d0cc7f096a564d3c9a98aa60115dd4c93
               contributors_count: 5
               contributors_link: https://github.com/finos/fdc3-desktop-agent/graphs/contributors
             repos:
@@ -1901,7 +1901,7 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 6;5;8;0;0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;5;0;15;56;5;4;0;0;3;7;12;24
+              contributions: 6;6;7;0;0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;5;0;15;56;5;4;0;0;3;7;12;24
               firstWeek: 2020-11-22Z
               stars: 256
               license: Apache License 2.0
@@ -2146,7 +2146,7 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 19;7;33;25;37;3;3;11;8;2;22;15;12;4;1;9;1;3;13;5;3;8;3;4;14;7;7;4;2;24;4;1;2;0;1;0;2;10;6;0;2;3;12;9;5;3;3;9;6;22;7;1
+              contributions: 19;7;33;25;37;3;3;11;8;2;22;15;12;4;1;9;1;3;14;4;3;8;3;4;14;7;7;4;2;24;4;1;2;0;1;0;2;10;6;0;2;3;12;9;5;3;3;9;6;22;7;1
               firstWeek: 2020-11-22Z
               stars: 75
               license: Apache License 2.0
@@ -2230,7 +2230,7 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0
               firstWeek: 2020-11-22Z
               stars: 29
               license: Apache License 2.0
@@ -2872,9 +2872,9 @@ landscape:
                 - name: Shell
                   value: 585
                   color: '#89e051'
-              contributions: 0;2;2;5;7;9;1;22;9;21;7;9;11;3;7;11;2;3;7;5;5;19;19;17;20;21;2;14;6;9;21;12;25;13;6;3;2;0;4;5;6;20;13;18;39;34;12;25;11;18;6;0
+              contributions: 0;2;4;3;7;9;2;21;16;14;8;8;12;4;5;11;2;7;3;5;6;19;20;17;20;19;2;15;5;10;20;19;18;14;5;5;0;0;4;5;6;21;16;26;41;20;12;27;13;19;1;0
               firstWeek: 2020-11-22Z
-              stars: 3903
+              stars: 3905
               license: Apache License 2.0
               description: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
               latest_commit_date: '2021-11-04T05:47:38Z'
@@ -2883,7 +2883,7 @@ landscape:
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 3903
+                stars: 3905
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -3128,4 +3128,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1372655525620547584'
-updated_at: 2021-11-14T06:00:52.097Z
+updated_at: 2021-11-15T06:02:03.412Z
