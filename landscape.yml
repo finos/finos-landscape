@@ -147,6 +147,13 @@ landscape:
               - repo_url: https://github.com/finos/legend-integration-juju
               - repo_url: https://github.com/finos/legend-integration-morphir
               - repo_url: https://github.com/finos/legend-integration-helm
+              - repo_url: https://github.com/finos/legend-juju-bundle
+              - repo_url: https://github.com/finos/legend-juju-db-operator
+              - repo_url: https://github.com/finos/legend-juju-engine-server-operator
+              - repo_url: https://github.com/finos/legend-juju-gitlab-integrator
+              - repo_url: https://github.com/finos/legend-juju-libs
+              - repo_url: https://github.com/finos/legend-juju-sdlc-server-operator
+              - repo_url: https://github.com/finos/legend-juju-studio-operator
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
