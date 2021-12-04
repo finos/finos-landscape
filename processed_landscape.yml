@@ -70,7 +70,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Open Developer Platform
             homepage_url: https://odp.finos.org
@@ -114,7 +114,7 @@ landscape:
                 - name: CSS
                   value: 6385
                   color: '#563d7c'
-              contributions: 4;2;0;0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+              contributions: 1;2;0;0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0
               firstWeek: 2020-12-06Z
               stars: 34
               license: Apache License 2.0
@@ -136,7 +136,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: OSS Readiness
         items:
@@ -182,7 +182,7 @@ landscape:
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
-              stars: 9
+              stars: 10
               license: Apache License 2.0
               description: Source code secret scanner
               latest_commit_date: '2021-09-15T13:40:23Z'
@@ -191,7 +191,7 @@ landscape:
               contributors_link: https://github.com/finos/CatchIT/graphs/contributors
             repos:
               - url: https://github.com/finos/CatchIT
-                stars: 9
+                stars: 10
             github_start_commit_data:
               start_commit_link: /finos/CatchIT/commit/5114c3cd7fa17d08a4e1a839814a5ceece8d7c42
               start_date: '2021-08-19T08:06:51Z'
@@ -202,7 +202,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: DevOps Mutualization
             homepage_url: https://github.com/finos/devops-mutualization
@@ -237,7 +237,7 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 7;9;2;0;0;0;2;0;0;0;0;0;0;4;10;2;11;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+              contributions: 7;9;2;0;0;0;2;0;0;0;0;0;4;0;12;0;11;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
               firstWeek: 2020-12-06Z
               stars: 16
               license: Apache License 2.0
@@ -261,7 +261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Git Proxy
             homepage_url: https://github.com/finos/git-proxy
@@ -305,7 +305,7 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 2;0;0;0;1;7;0;8;2;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;0;0;0;1;7;0;8;2;0;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 21
               license: Apache License 2.0
@@ -327,7 +327,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: InnerSource Special Interest Group
             homepage_url: https://github.com/finos/InnerSource
@@ -368,7 +368,7 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;3;4;0;13;0;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;1;1;2;0;0;0;16;6;1;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;6;1;0;13;0;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;2;0;2;0;0;0;16;6;1;0;0;0
               firstWeek: 2020-12-06Z
               stars: 10
               license: Other
@@ -392,7 +392,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Open source readiness
             homepage_url: https://github.com/finos/osr-checklists
@@ -457,7 +457,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: OSLC Handbook
             homepage_url: https://github.com/finos/OSLC-handbook
@@ -525,7 +525,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Reference FOSS Policy
             homepage_url: https://github.com/finos/reference-foss-policy
@@ -582,7 +582,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Regulation
         items:
@@ -620,7 +620,7 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 3;0;0;0;0;0;0;0;7;0;0;2;0;2;2;0;0;2;1;0;0;3;0;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;0;0;0;0;0;0;5;2;0;0;2;0;4;0;0;0;2;1;0;0;3;0;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 16
               license: Apache License 2.0
@@ -644,7 +644,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -687,7 +687,7 @@ landscape:
               languages:
                 - name: HCL
                   value: 34136
-              contributions: 5;2;0;0;0;3;0;1;2;9;30;0;8;17;4;2;0;5;2;4;2;0;0;1;1;0;0;0;1;1;0;0;3;0;0;14;0;1;0;0;0;1;1;0;11;8;13;5;4;2;0;3
+              contributions: 5;2;0;0;0;3;0;1;3;8;30;0;8;17;4;2;0;5;2;4;2;0;0;1;1;0;0;0;1;1;0;0;3;0;0;14;0;1;0;0;0;2;0;3;14;2;13;6;3;2;0;3
               firstWeek: 2020-12-06Z
               stars: 48
               license: Apache License 2.0
@@ -711,7 +711,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Waltz
             homepage_url: https://waltz.finos.org
@@ -765,7 +765,7 @@ landscape:
                   value: 112
                   color: '#89e051'
               contributions: >-
-                41;22;16;8;19;25;42;48;47;20;7;12;18;19;11;21;23;35;42;6;40;16;26;16;31;26;19;50;33;53;30;34;40;19;6;22;47;83;5;13;18;32;19;58;39;35;49;30;33;36;30;3
+                37;21;18;6;27;22;43;52;40;17;7;14;22;17;7;26;25;37;34;10;36;23;18;24;28;23;32;40;43;40;33;35;42;11;6;23;50;84;0;17;26;25;20;59;38;36;55;41;9;45;21;3
               firstWeek: 2020-12-06Z
               stars: 113
               license: Apache License 2.0
@@ -789,7 +789,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: Data & Business Logic
     subcategories:
@@ -848,7 +848,7 @@ landscape:
                 - name: Dockerfile
                   value: 581
                   color: '#384d54'
-              contributions: 0;2;5;0;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;3;4;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 115
               license: Other
@@ -874,7 +874,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: DataHub
             homepage_url: https://datahub.finos.org
@@ -940,7 +940,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Frameworks
         items:
@@ -1012,7 +1012,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Legend
             homepage_url: https://legend.finos.org
@@ -1051,12 +1051,12 @@ landscape:
                   value: 21578939
                   color: '#b07219'
                 - name: TypeScript
-                  value: 7703571
+                  value: 7727131
                   color: '#2b7489'
                 - name: SCSS
-                  value: 402312
+                  value: 402588
                 - name: JavaScript
-                  value: 264969
+                  value: 265717
                   color: '#f1e05a'
                 - name: ANTLR
                   value: 190693
@@ -1078,7 +1078,7 @@ landscape:
                 - name: Smarty
                   value: 1772
               contributions: >-
-                25;28;33;1;23;35;24;17;28;39;29;12;49;96;55;39;28;8;32;38;56;36;27;26;43;62;71;26;24;8;23;38;30;36;29;28;24;34;45;39;47;30;64;39;38;33;62;23;12;47;58;20
+                30;27;16;1;30;33;21;17;28;44;28;12;65;93;40;46;18;8;47;26;54;35;29;25;56;52;75;17;27;5;26;38;29;35;41;18;29;37;46;42;38;32;64;35;34;43;59;17;19;49;49;21
               firstWeek: 2020-12-06Z
               stars: 415
               license: Apache License 2.0
@@ -1116,7 +1116,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Morphir
             homepage_url: https://morphir.finos.org
@@ -1187,7 +1187,7 @@ landscape:
                 - name: Forth
                   value: 38
                   color: '#341708'
-              contributions: 48;19;41;20;16;45;14;37;56;45;33;50;22;26;29;9;3;7;4;8;7;19;24;34;19;34;16;33;22;12;39;12;20;6;0;8;15;11;2;15;15;61;18;6;19;22;35;39;53;37;8;11
+              contributions: 48;18;39;20;31;37;9;46;58;43;32;40;35;16;29;8;1;7;8;9;8;25;13;35;22;39;9;31;25;11;36;17;17;4;0;9;14;11;2;23;15;59;13;9;17;24;33;47;58;22;8;11
               firstWeek: 2020-12-06Z
               stars: 129
               license: Apache License 2.0
@@ -1221,7 +1221,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Models
         items:
@@ -1271,7 +1271,7 @@ landscape:
                 - name: Shell
                   value: 3159
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;9;0;8;6;2;3;2;0;1;7;3;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;6;3;0;9;5;3;2;2;0;1;7;3;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 29
               license: Apache License 2.0
@@ -1293,7 +1293,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Glue
             homepage_url: https://github.com/finos/glue
@@ -1333,7 +1333,7 @@ landscape:
                   color: '#f1e05a'
                 - name: SCSS
                   value: 17980
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;5;0;0;0;0;0;0;15;0;117;9;35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;5;0;0;0;0;0;0;15;0;121;5;35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 12
               license: Apache License 2.0
@@ -1357,7 +1357,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: TimeBase CE
             homepage_url: https://github.com/finos/TimeBase-ce
@@ -1425,7 +1425,7 @@ landscape:
                 - name: HTML
                   value: 356
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;11;8;0;1;16;6;27;1;3;4;4;23;29;24;41;0;0;0;0;0;2;0;1;0;2;1;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;12;7;0;3;19;1;27;1;6;1;4;23;34;35;25;0;0;0;0;0;2;1;0;0;2;1;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 29
               license: Other
@@ -1447,7 +1447,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Market Data
         items:
@@ -1530,7 +1530,7 @@ landscape:
                   color: '#384d54'
                 - name: M4
                   value: 586
-              contributions: 0;0;0;0;0;0;0;0;8;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 104
               license: Other
@@ -1560,7 +1560,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Tick & Reference
         items:
@@ -1610,7 +1610,7 @@ landscape:
                 - name: Shell
                   value: 1472
                   color: '#89e051'
-              contributions: 3;0;0;0;4;1;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;1;0;2;0;1;0;0;1;1;0;0;1;1;0;2;0;1;1;0;0;0;0;0;0
+              contributions: 2;0;0;0;4;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;1;0;0;0;0;3;0;1;0;2;1;0;0;0;1;1;0;0;1;1;0;2;0;1;1;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 31
               license: Apache License 2.0
@@ -1632,7 +1632,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Security Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -1673,7 +1673,7 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 1;0;0;0;0;0;6;6;0;0;0;0;1;0;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;6;6;0;0;0;0;1;0;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 15
               license: Apache License 2.0
@@ -1695,7 +1695,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -1751,7 +1751,7 @@ landscape:
                 - name: Shell
                   value: 25
                   color: '#89e051'
-              contributions: 9;1;0;1;3;0;6;20;1;3;1;15;15;21;0;9;3;1;32;3;8;5;5;5;5;1;3;2;14;1;0;4;8;5;5;2;0;0;1;1;9;12;9;24;15;6;1;4;9;2;0;3
+              contributions: 8;0;0;1;3;0;6;20;1;3;2;15;16;19;0;9;3;16;18;2;12;2;9;0;5;1;3;2;14;1;0;4;13;0;5;2;0;0;1;1;9;12;13;27;13;1;2;3;10;1;3;0
               firstWeek: 2020-12-06Z
               stars: 87
               license: Apache License 2.0
@@ -1775,7 +1775,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: FDC3 Desktop Agent
             homepage_url: https://github.com/finos/fdc3-desktop-agent
@@ -1844,7 +1844,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Plexus Interop
             homepage_url: https://plexus.finos.org
@@ -1905,7 +1905,7 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 1;0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;4;1;9;56;11;4;0;0;0;7;15;24;0;3;6
+              contributions: 0;0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;5;0;15;56;5;4;0;0;3;7;12;24;0;3;6
               firstWeek: 2020-12-06Z
               stars: 255
               license: Apache License 2.0
@@ -1931,7 +1931,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
@@ -1996,7 +1996,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Containers
         items:
@@ -2070,7 +2070,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Symphony Electron
             homepage_url: https://github.com/finos/SymphonyElectron
@@ -2150,7 +2150,7 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 31;30;11;3;7;8;6;11;25;13;4;1;9;0;4;12;6;3;8;3;1;14;10;4;7;1;18;11;1;2;0;0;1;2;6;8;2;2;3;6;14;2;7;1;10;5;24;7;1;4;3;5
+              contributions: 25;37;3;3;11;8;2;22;15;12;4;1;9;1;3;13;5;3;8;3;4;14;7;7;4;2;24;4;1;2;0;1;0;2;10;6;0;2;3;12;9;5;3;3;9;6;22;7;1;4;3;5
               firstWeek: 2020-12-06Z
               stars: 73
               license: Apache License 2.0
@@ -2182,7 +2182,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: Applications
     subcategories:
@@ -2232,7 +2232,7 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;1;6;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 29
               license: Apache License 2.0
@@ -2256,7 +2256,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Greenkey Discovery SDK
             homepage_url: https://github.com/finos/greenkey-discovery-sdk
@@ -2297,7 +2297,7 @@ landscape:
                 - name: Shell
                   value: 3519
                   color: '#89e051'
-              contributions: 0;0;0;0;3;3;11;5;12;7;8;0;0;7;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;3;4;10;5;19;0;8;0;4;3;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-06Z
               stars: 11
               license: Apache License 2.0
@@ -2319,7 +2319,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: Symphony Ecosystem
         items:
@@ -2387,7 +2387,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: MessageML Utilities
             homepage_url: https://github.com/finos/messageml-utils
@@ -2425,7 +2425,7 @@ landscape:
                 - name: Java
                   value: 1110199
                   color: '#b07219'
-              contributions: 3;5;6;0;9;0;4;9;41;10;1;2;0;0;3;0;1;4;0;0;3;16;8;0;7;5;0;0;0;21;6;1;8;8;0;0;0;0;0;2;3;0;0;0;0;0;13;2;5;7;0;0
+              contributions: 3;5;6;0;9;0;4;9;41;11;0;2;0;0;3;1;4;0;0;0;4;17;6;0;7;5;0;0;4;17;7;0;8;8;0;0;0;0;0;2;3;0;0;0;0;0;13;7;0;7;0;0
               firstWeek: 2020-12-06Z
               stars: 7
               license: Apache License 2.0
@@ -2451,7 +2451,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: REST API Specification
             homepage_url: https://github.com/finos/symphony-api-spec
@@ -2489,13 +2489,13 @@ landscape:
                 - name: Shell
                   value: 961
                   color: '#89e051'
-              contributions: 0;0;0;0;2;0;0;1;4;0;0;0;0;0;5;1;0;0;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;3;0;0;2;0;0;0;1;0;0;1;1;1;0;0;0
+              contributions: 0;0;0;0;2;0;0;4;1;0;0;0;0;0;5;1;0;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;2;3;3;0;0;0;2;0;0;0;1;0;0;1;2;0;0;0;1
               firstWeek: 2020-12-06Z
               stars: 10
               license: Apache License 2.0
               description: 'Swagger definitions for Symphony LLC public REST API '
-              latest_commit_date: '2021-11-05T09:38:00Z'
-              latest_commit_link: /finos/symphony-api-spec/commit/9952d4e1ae0bc23b6c62ed020e4d9c6106315048
+              latest_commit_date: '2021-12-03T12:23:03Z'
+              latest_commit_link: /finos/symphony-api-spec/commit/5bc6adafb7ef7268bcbd9b3cdfa73a993ee27826
               release_date: '2021-09-09T14:04:49Z'
               release_link: https://github.com/finos/symphony-api-spec/releases
               contributors_count: 21
@@ -2513,7 +2513,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Symphony BDK Java
             homepage_url: https://symphony-bdk-java.finos.org
@@ -2570,7 +2570,7 @@ landscape:
                 - name: Dockerfile
                   value: 54
                   color: '#384d54'
-              contributions: 9;6;5;0;7;9;4;4;4;4;13;11;4;2;2;0;1;1;2;6;2;2;0;3;2;1;3;0;1;3;1;2;0;1;3;2;0;1;3;0;3;1;1;1;2;1;1;0;2;1;1;2
+              contributions: 10;5;3;0;10;6;6;2;4;5;16;7;4;2;2;0;2;0;2;6;4;0;0;3;2;1;3;0;2;2;1;2;0;1;3;2;0;2;2;1;2;1;1;1;2;1;1;1;1;2;0;2
               firstWeek: 2020-12-06Z
               stars: 16
               license: Apache License 2.0
@@ -2596,7 +2596,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Symphony BDK Python
             homepage_url: https://symphony-bdk-python.finos.org
@@ -2645,7 +2645,7 @@ landscape:
                 - name: Makefile
                   value: 634
                   color: '#427819'
-              contributions: 4;2;1;0;3;0;4;2;2;11;5;3;4;6;5;2;2;3;7;5;1;3;2;4;0;5;3;0;0;0;1;2;0;0;7;0;0;7;0;0;2;1;0;1;1;0;0;0;2;1;3;4
+              contributions: 6;0;1;0;3;0;4;2;2;12;4;3;5;6;4;3;2;5;4;5;1;3;2;4;0;5;3;0;0;0;3;0;0;0;7;0;6;1;0;1;2;0;0;2;0;0;0;0;2;1;3;4
               firstWeek: 2020-12-06Z
               stars: 21
               license: Apache License 2.0
@@ -2669,7 +2669,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Symphony Java Toolkit
             homepage_url: https://github.com/finos/symphony-java-toolkit
@@ -2724,7 +2724,7 @@ landscape:
                   color: '#563d7c'
                 - name: Fluent
                   value: 6
-              contributions: 74;15;1;0;28;12;0;13;6;9;6;9;8;9;2;9;11;17;12;9;49;6;9;8;10;2;12;8;15;10;28;7;11;4;14;4;0;0;3;26;4;12;13;1;18;3;0;0;5;0;10;11
+              contributions: 77;10;0;0;28;12;0;13;13;2;6;9;8;10;3;8;10;21;9;13;45;7;14;1;11;5;9;7;15;17;23;5;11;4;16;2;0;0;6;23;6;11;12;1;18;3;0;0;5;0;14;7
               firstWeek: 2020-12-06Z
               stars: 19
               license: Apache License 2.0
@@ -2748,7 +2748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Symphony WDK
             homepage_url: https://github.com/finos/symphony-wdk
@@ -2784,19 +2784,19 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 423075
+                  value: 423524
                   color: '#b07219'
                 - name: FreeMarker
                   value: 24
                   color: '#0050b2'
-              contributions: 0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;32;9;29;15;15;15;17;30;33;5;20;28;25;5;7;4;5;0;7;1;7;16
+              contributions: 0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;34;8;32;12;16;15;14;48;15;6;23;28;22;5;6;4;5;2;5;1;10;18
               firstWeek: 2020-12-06Z
               stars: 0
               license: Apache License 2.0
               description: Symphony Workflow Developer Kit (WDK), a bot capable of running workflows
-              latest_commit_date: '2021-12-02T17:30:42Z'
-              latest_commit_link: /finos/symphony-wdk/commit/720c786ce0224f74bc29df2d5e6c5034045540eb
-              release_date: '2021-10-21T16:21:16Z'
+              latest_commit_date: '2021-12-03T18:14:58Z'
+              latest_commit_link: /finos/symphony-wdk/commit/a85548af3a0e8fa879485cffd90afeab2d1ddc0a
+              release_date: '2021-12-03T18:10:48Z'
               release_link: https://github.com/finos/symphony-wdk/releases
               contributors_count: 7
               contributors_link: https://github.com/finos/symphony-wdk/graphs/contributors
@@ -2813,7 +2813,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
       - subcategory:
         name: UI Frameworks
         items:
@@ -2852,21 +2852,21 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 1487095
+                  value: 1487096
                   color: '#f34b7d'
                 - name: JavaScript
-                  value: 586737
+                  value: 588125
                   color: '#f1e05a'
                 - name: Rust
-                  value: 413413
+                  value: 423140
                   color: '#dea584'
                 - name: Python
                   value: 262639
                   color: '#3572A5'
                 - name: Less
-                  value: 105116
+                  value: 105032
                 - name: TypeScript
-                  value: 32666
+                  value: 31756
                   color: '#2b7489'
                 - name: C
                   value: 4200
@@ -2877,18 +2877,18 @@ landscape:
                 - name: Shell
                   value: 585
                   color: '#89e051'
-              contributions: 4;9;8;2;17;9;22;7;7;12;7;7;11;2;4;7;2;5;21;13;23;15;25;3;7;14;8;18;16;23;12;6;6;2;0;3;4;7;18;13;19;39;35;7;26;12;17;14;0;19;32;17
+              contributions: 5;7;9;1;22;9;20;4;11;13;3;7;11;2;3;7;5;2;22;19;16;17;25;1;12;9;8;22;12;25;13;6;3;2;0;4;5;6;19;12;19;39;35;6;26;12;20;11;0;20;31;27
               firstWeek: 2020-12-06Z
-              stars: 3960
+              stars: 3963
               license: Apache License 2.0
               description: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-              latest_commit_date: '2021-12-02T22:58:10Z'
-              latest_commit_link: /finos/perspective/commit/0bd2cfc4df99d30be2f69db147c6d056ecb2e36b
+              latest_commit_date: '2021-12-03T22:48:08Z'
+              latest_commit_link: /finos/perspective/commit/03242240d734a0f7dc39bfff8a76cf6397c3d624
               contributors_count: 65
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 3960
+                stars: 3963
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -2899,7 +2899,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: Legend
     subcategories:
@@ -2947,7 +2947,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Commodities Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -2989,7 +2989,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Currency Reference Data
             homepage_url: https://github.com/finos/secref-data
@@ -3031,7 +3031,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
           - item:
             name: Product Control Common Template
             homepage_url: https://fo.finos.org
@@ -3073,7 +3073,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: FINOS
     subcategories:
@@ -3117,7 +3117,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T20:47:00.000Z
+              latest_tweet_date: 2021-12-03T17:57:35.000Z
   - category:
     name: FINOS Members
     subcategories:
@@ -3133,4 +3133,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1372655525620547584'
-updated_at: 2021-12-03T06:01:39.106Z
+updated_at: 2021-12-04T06:05:01.273Z
