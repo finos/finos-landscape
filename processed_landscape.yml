@@ -114,7 +114,7 @@ landscape:
                 - name: CSS
                   value: 6385
                   color: '#563d7c'
-              contributions: 2;0;0;0;0;0;0;1;0;0;0;0;0;60;3;0;5;1;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0
+              contributions: 2;0;0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
               firstWeek: 2020-12-13Z
               stars: 34
               license: Apache License 2.0
@@ -180,9 +180,9 @@ landscape:
                 - name: Shell
                   value: 523
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
-              stars: 10
+              stars: 11
               license: Apache License 2.0
               description: Source code secret scanner
               latest_commit_date: '2021-09-15T13:40:23Z'
@@ -191,7 +191,7 @@ landscape:
               contributors_link: https://github.com/finos/CatchIT/graphs/contributors
             repos:
               - url: https://github.com/finos/CatchIT
-                stars: 10
+                stars: 11
             github_start_commit_data:
               start_commit_link: /finos/CatchIT/commit/5114c3cd7fa17d08a4e1a839814a5ceece8d7c42
               start_date: '2021-08-19T08:06:51Z'
@@ -237,7 +237,7 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 12;2;0;0;0;2;0;0;0;0;0;0;4;5;7;11;1;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+              contributions: 9;2;0;0;0;2;0;0;0;0;0;0;4;10;2;11;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
               firstWeek: 2020-12-13Z
               stars: 16
               license: Apache License 2.0
@@ -305,9 +305,9 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 0;0;0;1;7;0;4;6;0;5;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;1;7;0;8;2;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
-              stars: 21
+              stars: 22
               license: Apache License 2.0
               description: An info-security/compliance-friendly way for highly regulated industries to be more accepting of open source
               latest_commit_date: '2021-02-22T13:31:41Z'
@@ -316,7 +316,7 @@ landscape:
               contributors_link: https://github.com/finos/git-proxy/graphs/contributors
             repos:
               - url: https://github.com/finos/git-proxy
-                stars: 21
+                stars: 22
             github_start_commit_data:
               start_commit_link: /finos/git-proxy/commit/33e1f3330ef1d9cdb8798f11984f40a3074056ff
               start_date: '2020-04-17T13:49:50Z'
@@ -368,7 +368,7 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;3;4;0;11;2;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;1;1;2;0;0;0;16;6;1;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;3;4;0;13;0;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;1;1;2;0;0;0;16;6;1;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 10
               license: Other
@@ -433,7 +433,7 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;1;8;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;3;6;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 7
               license: Other
@@ -620,7 +620,7 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 2;0;0;0;0;0;0;7;0;0;0;2;2;2;0;0;2;0;1;0;2;1;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;7;0;0;2;0;2;2;0;0;2;1;0;0;3;0;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 16
               license: Apache License 2.0
@@ -656,7 +656,7 @@ landscape:
             homepage_url: https://github.com/finos/compliant-financial-infrastructure
             project: incubating
             repo_url: https://github.com/finos/compliant-financial-infrastructure
-            logo: cloud-service-certification.svg
+            logo: compliant-financial-infrastruture.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -687,7 +687,7 @@ landscape:
               languages:
                 - name: HCL
                   value: 34136
-              contributions: 1;2;0;0;3;0;1;0;10;31;0;8;13;8;0;2;2;5;0;6;0;0;1;1;0;0;0;1;0;1;0;3;0;0;14;0;1;0;0;0;0;2;0;6;13;13;1;8;2;0;3;2
+              contributions: 2;0;0;0;3;0;1;2;9;30;0;8;17;4;2;0;5;2;4;2;0;0;1;1;0;0;0;1;1;0;0;3;0;0;14;0;1;0;0;0;1;1;0;11;8;13;5;4;2;0;3;2
               firstWeek: 2020-12-13Z
               stars: 48
               license: Apache License 2.0
@@ -706,7 +706,7 @@ landscape:
               start_date: '2019-03-01T15:12:45Z'
             image_data:
               fileName: compliant-financial-infrastructure.svg
-              hash: IuUREabehgaRSBUA+FKLCtbS7bZ4NDB6XrphpQjwwJQ=
+              hash: yczSqOSGZbG5bfob7aEBJfVbl3IYrGNcx8LoZvIDMlI=
             best_practice_data:
               badge: false
               percentage: null
@@ -747,16 +747,16 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 4488369
+                  value: 4490426
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2532108
+                  value: 2535078
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1430678
+                  value: 1430905
                   color: '#e34c26'
                 - name: Svelte
-                  value: 475857
+                  value: 489100
                 - name: SCSS
                   value: 134710
                 - name: EJS
@@ -765,13 +765,13 @@ landscape:
                   value: 112
                   color: '#89e051'
               contributions: >-
-                20;25;10;16;26;38;50;45;22;9;10;19;20;13;17;26;29;42;11;33;18;33;10;30;30;14;48;35;61;21;36;41;20;11;15;30;88;24;9;20;25;23;57;42;27;52;34;36;32;35;7;8
+                22;16;8;19;25;42;48;47;20;7;12;18;19;11;21;23;35;42;6;40;16;26;16;31;26;19;50;33;53;30;34;40;19;6;22;47;83;5;13;18;32;19;58;39;35;49;30;33;36;31;9;17
               firstWeek: 2020-12-13Z
               stars: 112
               license: Apache License 2.0
               description: Enterprise Information Service
-              latest_commit_date: '2021-12-07T12:23:19Z'
-              latest_commit_link: /finos/waltz/commit/d9b0e57c2111b5e908a3533380c020cff61d2cac
+              latest_commit_date: '2021-12-09T14:00:19Z'
+              latest_commit_link: /finos/waltz/commit/041808862c88eec2044b4b5d05cb090592a47bd7
               release_date: '2021-10-26T16:11:21Z'
               release_link: https://github.com/finos/waltz/releases
               contributors_count: 30
@@ -990,7 +990,7 @@ landscape:
                 - name: Batchfile
                   value: 5166
                   color: '#C1F12E'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0
               firstWeek: 2020-12-13Z
               stars: 18
               license: Apache License 2.0
@@ -1048,13 +1048,16 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 21578939
+                  value: 21594504
                   color: '#b07219'
                 - name: TypeScript
-                  value: 7727148
+                  value: 7737038
                   color: '#2b7489'
+                - name: Python
+                  value: 408762
+                  color: '#3572A5'
                 - name: SCSS
-                  value: 402588
+                  value: 402869
                 - name: JavaScript
                   value: 265750
                   color: '#f1e05a'
@@ -1078,14 +1081,14 @@ landscape:
                 - name: Smarty
                   value: 1772
               contributions: >-
-                25;35;2;13;44;23;14;32;35;27;18;42;99;42;53;28;7;14;56;48;47;25;17;48;54;77;36;21;11;6;35;44;33;23;38;20;37;42;41;54;28;61;38;30;47;44;40;11;43;60;10;25
+                28;33;1;23;35;24;17;28;39;29;12;49;96;55;39;28;8;32;38;56;36;27;26;43;62;71;26;24;8;23;38;30;36;29;28;24;37;47;42;69;38;86;47;47;67;62;23;12;47;64;20;30
               firstWeek: 2020-12-13Z
               stars: 417
               license: Apache License 2.0
               description: The Legend project
-              latest_commit_date: '2021-11-25T05:22:42Z'
-              latest_commit_link: /finos/legend/commit/b2091215b805575a98c60983b2d201849634ca9e
-              contributors_count: 63
+              latest_commit_date: '2021-12-09T17:58:50Z'
+              latest_commit_link: /finos/legend/commit/9b72d1301f58f5899a5c2e13df3f2885e5f3b078
+              contributors_count: 64
               contributors_link: https://github.com/finos/legend/graphs/contributors
             repos:
               - url: https://github.com/finos/legend
@@ -1105,6 +1108,20 @@ landscape:
               - url: https://github.com/finos/legend-integration-juju
                 stars: 0
               - url: https://github.com/finos/legend-integration-helm
+                stars: 0
+              - url: https://github.com/finos/legend-juju-bundle
+                stars: 0
+              - url: https://github.com/finos/legend-juju-db-operator
+                stars: 0
+              - url: https://github.com/finos/legend-juju-engine-server-operator
+                stars: 0
+              - url: https://github.com/finos/legend-juju-gitlab-integrator
+                stars: 0
+              - url: https://github.com/finos/legend-juju-libs
+                stars: 0
+              - url: https://github.com/finos/legend-juju-sdlc-server-operator
+                stars: 0
+              - url: https://github.com/finos/legend-juju-studio-operator
                 stars: 0
             github_start_commit_data:
               start_commit_link: /finos/legend/commit/0e86b276957bf1e9db299208ea29bce2f0b97753
@@ -1182,12 +1199,12 @@ landscape:
                   value: 4009
                   color: '#178600'
                 - name: Dockerfile
-                  value: 1719
+                  value: 1782
                   color: '#384d54'
                 - name: Forth
                   value: 38
                   color: '#341708'
-              contributions: 28;34;28;13;46;12;34;61;47;26;57;18;30;26;12;3;4;5;7;10;16;20;30;23;41;14;21;30;18;37;11;23;6;0;6;17;7;4;15;15;40;39;4;17;27;26;34;59;37;14;14;0
+              contributions: 19;41;20;16;45;14;37;56;45;33;50;22;26;29;9;3;7;4;8;7;19;24;34;19;34;16;33;22;12;39;12;20;6;0;8;15;11;2;15;15;61;18;6;19;22;35;39;53;37;8;11;4
               firstWeek: 2020-12-13Z
               stars: 130
               license: Apache License 2.0
@@ -1271,7 +1288,7 @@ landscape:
                 - name: Shell
                   value: 3159
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;9;0;8;5;3;2;3;0;1;4;6;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;9;0;8;6;2;3;2;0;1;7;3;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 29
               license: Apache License 2.0
@@ -1333,7 +1350,7 @@ landscape:
                   color: '#f1e05a'
                 - name: SCSS
                   value: 17980
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;4;1;0;0;0;0;0;0;15;117;9;26;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53;5;0;0;0;0;0;0;15;0;117;9;35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 12
               license: Apache License 2.0
@@ -1425,9 +1442,9 @@ landscape:
                 - name: HTML
                   value: 356
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;7;12;0;0;12;11;26;2;2;5;2;8;46;17;45;3;0;0;0;0;2;0;1;0;2;1;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;11;8;0;1;16;6;27;1;3;4;4;23;29;24;41;0;0;0;0;0;2;0;1;0;2;1;0;0;0;0;0
               firstWeek: 2020-12-13Z
-              stars: 29
+              stars: 30
               license: Other
               description: High performance time series database
               latest_commit_date: '2021-11-03T11:13:33Z'
@@ -1436,7 +1453,7 @@ landscape:
               contributors_link: https://github.com/finos/TimeBase-ce/graphs/contributors
             repos:
               - url: https://github.com/finos/TimeBase-ce
-                stars: 29
+                stars: 30
             github_start_commit_data:
               start_commit_link: /finos/TimeBase-CE/commit/28fb8ec8f479a7ca56df548a813164368a0a238e
               start_date: '2021-02-05T01:10:30Z'
@@ -1530,7 +1547,7 @@ landscape:
                   color: '#384d54'
                 - name: M4
                   value: 586
-              contributions: 0;0;0;0;0;0;0;8;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;8;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 105
               license: Other
@@ -1610,7 +1627,7 @@ landscape:
                 - name: Shell
                   value: 1472
                   color: '#89e051'
-              contributions: 0;0;0;4;1;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;1;0;0;2;1;0;0;1;1;0;0;1;1;0;2;0;1;1;0;0;0;0;0;0;0
+              contributions: 0;0;0;4;1;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;1;0;2;0;1;0;0;1;1;0;0;1;1;0;2;0;1;1;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 31
               license: Apache License 2.0
@@ -1743,7 +1760,7 @@ landscape:
                   value: 130659
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 23445
+                  value: 23867
                   color: '#f1e05a'
                 - name: CSS
                   value: 3902
@@ -1751,20 +1768,20 @@ landscape:
                 - name: Shell
                   value: 25
                   color: '#89e051'
-              contributions: 1;0;0;4;0;3;16;8;3;1;5;21;23;2;3;9;0;27;9;4;9;5;5;5;1;3;2;4;11;0;3;4;10;5;1;1;0;1;1;7;6;13;19;22;8;0;5;7;4;0;3;0
+              contributions: 1;0;1;3;0;6;20;1;3;1;15;15;21;0;9;3;1;32;3;8;5;5;5;5;1;3;2;14;1;0;4;8;5;5;2;0;0;1;1;9;12;9;24;15;6;1;4;9;2;0;5;1
               firstWeek: 2020-12-13Z
-              stars: 88
+              stars: 89
               license: Apache License 2.0
               description: An open standard for the financial desktop.
-              latest_commit_date: '2021-11-26T17:44:46Z'
-              latest_commit_link: /finos/FDC3/commit/203eecff7b9b6d7661b0093cc9802463778afe59
+              latest_commit_date: '2021-12-09T12:26:04Z'
+              latest_commit_link: /finos/FDC3/commit/ae7751a8a5cc8704c55cca90bbcc09ca1754da3c
               release_date: '2021-04-19T21:40:17Z'
               release_link: https://github.com/finos/fdc3/releases
-              contributors_count: 40
+              contributors_count: 41
               contributors_link: https://github.com/finos/fdc3/graphs/contributors
             repos:
               - url: https://github.com/finos/fdc3
-                stars: 88
+                stars: 89
             github_start_commit_data:
               start_commit_link: /finos/FDC3/commit/84bc36d712b99756534015b8043ef44c1db66b4f
               start_date: '2018-02-17T04:22:36Z'
@@ -1905,7 +1922,7 @@ landscape:
                 - name: Shell
                   value: 550
                   color: '#89e051'
-              contributions: 0;0;0;0;0;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;2;3;3;41;32;4;0;0;0;7;15;18;6;1;7;1
+              contributions: 0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;4;1;9;56;11;4;0;0;0;7;15;24;0;3;6;0
               firstWeek: 2020-12-13Z
               stars: 255
               license: Apache License 2.0
@@ -2150,7 +2167,7 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 30;16;2;4;11;6;6;31;9;8;1;8;1;3;8;10;4;8;2;1;13;12;2;9;0;17;13;1;1;1;0;1;2;4;10;2;0;5;4;12;5;8;1;8;7;18;13;1;4;3;4;3
+              contributions: 30;11;3;7;8;6;11;25;13;4;1;9;0;4;12;6;3;8;3;1;14;10;4;7;1;18;11;1;2;0;0;1;2;6;8;2;2;3;6;14;2;7;1;10;5;24;7;1;4;3;5;2
               firstWeek: 2020-12-13Z
               stars: 73
               license: Apache License 2.0
@@ -2232,7 +2249,7 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;1;6;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 29
               license: Apache License 2.0
@@ -2297,7 +2314,7 @@ landscape:
                 - name: Shell
                   value: 3519
                   color: '#89e051'
-              contributions: 0;0;0;3;1;12;6;5;14;0;8;0;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;3;3;11;5;12;7;8;0;0;7;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-12-13Z
               stars: 11
               license: Apache License 2.0
@@ -2425,7 +2442,7 @@ landscape:
                 - name: Java
                   value: 1110199
                   color: '#b07219'
-              contributions: 5;6;0;0;9;4;9;22;29;1;2;0;0;3;0;1;4;0;0;2;15;10;0;4;3;5;0;0;20;5;3;4;8;4;0;0;0;0;2;3;0;0;0;0;0;13;1;6;7;0;0;0
+              contributions: 5;6;0;9;0;4;9;41;10;1;2;0;0;3;0;1;4;0;0;3;16;8;0;7;5;0;0;0;21;6;1;8;8;0;0;0;0;0;2;3;0;0;0;0;0;13;2;5;7;0;0;0
               firstWeek: 2020-12-13Z
               stars: 7
               license: Apache License 2.0
@@ -2489,7 +2506,7 @@ landscape:
                 - name: Shell
                   value: 961
                   color: '#89e051'
-              contributions: 0;0;0;1;1;0;1;4;0;0;0;0;0;4;2;0;0;6;2;5;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;3;0;0;0;2;0;0;1;0;0;1;0;2;0;0;0;1
+              contributions: 0;0;0;2;0;0;1;4;0;0;0;0;0;5;1;0;0;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;3;0;0;2;0;0;0;1;0;0;1;1;1;0;0;0;1
               firstWeek: 2020-12-13Z
               stars: 10
               license: Apache License 2.0
@@ -2549,7 +2566,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 1207128
+                  value: 1208946
                   color: '#b07219'
                 - name: Mustache
                   value: 26039
@@ -2570,15 +2587,15 @@ landscape:
                 - name: Dockerfile
                   value: 54
                   color: '#384d54'
-              contributions: 7;5;1;5;11;4;3;5;3;11;12;6;2;2;0;0;2;1;6;3;2;0;1;3;2;3;0;1;3;1;1;1;1;3;2;0;0;4;0;3;1;1;1;2;1;1;0;2;1;1;2;1
+              contributions: 6;5;0;7;9;4;4;4;4;13;11;4;2;2;0;1;1;2;6;2;2;0;3;2;1;3;0;1;3;1;2;0;1;3;2;0;1;3;0;3;1;1;1;2;1;1;0;2;1;1;2;2
               firstWeek: 2020-12-13Z
               stars: 16
               license: Apache License 2.0
               description: >-
                 The Symphony BDK (Bot Developer Kit) for Java helps you to create production-grade Chat Bots and Extension Applications on top of the Symphony
                 REST APIs.
-              latest_commit_date: '2021-12-07T07:09:37Z'
-              latest_commit_link: /finos/symphony-bdk-java/commit/4536ed2701e1a678f4359bb068814ea3b2c15d29
+              latest_commit_date: '2021-12-09T14:22:46Z'
+              latest_commit_link: /finos/symphony-bdk-java/commit/4d74432ac7fc26f30a440068a180afa802ac92a5
               release_date: '2021-12-02T16:48:59Z'
               release_link: https://github.com/finos/symphony-bdk-java/releases
               contributors_count: 53
@@ -2645,7 +2662,7 @@ landscape:
                 - name: Makefile
                   value: 634
                   color: '#427819'
-              contributions: 2;1;0;3;0;4;2;2;11;5;2;3;8;5;2;2;3;6;6;1;3;2;4;0;4;4;0;0;0;0;3;0;0;7;0;0;7;0;0;2;1;0;1;1;0;0;0;2;1;3;4;0
+              contributions: 2;1;0;3;0;4;2;2;11;5;3;4;6;5;2;2;3;7;5;1;3;2;4;0;5;3;0;0;0;1;2;0;0;7;0;0;7;0;0;2;1;0;1;1;0;0;0;2;1;3;4;0
               firstWeek: 2020-12-13Z
               stars: 21
               license: Apache License 2.0
@@ -2724,7 +2741,7 @@ landscape:
                   color: '#563d7c'
                 - name: Fluent
                   value: 6
-              contributions: 14;3;0;21;19;0;12;7;8;7;9;7;9;2;8;8;19;9;11;42;15;11;8;8;4;12;5;10;14;28;10;7;6;17;4;0;0;0;19;14;12;8;6;11;9;1;0;5;0;2;19;1
+              contributions: 15;1;0;28;12;0;13;6;9;6;9;8;9;2;9;11;17;12;9;49;6;9;8;10;2;12;8;15;10;28;7;11;4;14;4;0;0;3;26;4;12;13;1;18;3;0;0;5;0;10;11;1
               firstWeek: 2020-12-13Z
               stars: 19
               license: Apache License 2.0
@@ -2744,6 +2761,85 @@ landscape:
             image_data:
               fileName: symphony-java-toolkit.svg
               hash: QkkxRqmu31keCdrvK8lvNvlNV+SvbU6Dz5yS7xfHLg8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-09T01:47:30.000Z
+          - item:
+            name: Symphony Media Bridge
+            homepage_url: https://github.com/finos/SymphonyMediaBridge
+            project: incubating
+            repo_url: https://github.com/finos/SymphonyMediaBridge
+            logo: symphony-media-bridge.svg
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            crunchbase_data:
+              name: FINOS
+              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.finos.org/
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: https://twitter.com/finosfoundation
+              linkedin: https://www.linkedin.com/company/18473937
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: C++
+                  value: 2026888
+                  color: '#f34b7d'
+                - name: Shell
+                  value: 18865
+                  color: '#89e051'
+                - name: CMake
+                  value: 17953
+                - name: Dockerfile
+                  value: 4905
+                  color: '#384d54'
+                - name: Groovy
+                  value: 3163
+                  color: '#e69f56'
+                - name: Objective-C
+                  value: 2845
+                  color: '#438eff'
+                - name: C
+                  value: 521
+                  color: '#555555'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;3;5;8;4;1;5;5
+              firstWeek: 2020-12-13Z
+              stars: 2
+              license: Apache License 2.0
+              description: null
+              latest_commit_date: '2021-12-09T12:24:05Z'
+              latest_commit_link: /finos/SymphonyMediaBridge/commit/8005dd02f37737fdafca84887ebfbdecce628731
+              release_date: '2021-12-01T14:07:03Z'
+              release_link: https://github.com/finos/SymphonyMediaBridge/releases
+              contributors_count: 4
+              contributors_link: https://github.com/finos/SymphonyMediaBridge/graphs/contributors
+            repos:
+              - url: https://github.com/finos/SymphonyMediaBridge
+                stars: 2
+            github_start_commit_data:
+              start_commit_link: /finos/SymphonyMediaBridge/commit/cc9a80dcc966d83f0c8e6f9b533390d3e1c74038
+              start_date: '2021-10-18T07:35:15Z'
+            image_data:
+              fileName: symphony-media-bridge.svg
+              hash: YUrSxT9b24krqp7aEf53zijudnCDZ57A5KTVwZbK5lg=
             best_practice_data:
               badge: false
               percentage: null
@@ -2784,18 +2880,18 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 423524
+                  value: 430644
                   color: '#b07219'
                 - name: FreeMarker
                   value: 24
                   color: '#0050b2'
-              contributions: 0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;25;15;19;22;20;11;15;24;44;6;11;34;20;13;3;7;6;0;7;0;7;11;11
+              contributions: 0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;32;9;29;15;15;15;17;30;33;5;20;28;25;5;7;4;5;0;7;1;7;17;6
               firstWeek: 2020-12-13Z
               stars: 0
               license: Apache License 2.0
               description: Symphony Workflow Developer Kit (WDK), a bot capable of running workflows
-              latest_commit_date: '2021-12-03T18:14:58Z'
-              latest_commit_link: /finos/symphony-wdk/commit/a85548af3a0e8fa879485cffd90afeab2d1ddc0a
+              latest_commit_date: '2021-12-09T14:18:03Z'
+              latest_commit_link: /finos/symphony-wdk/commit/701a01d6087ce6aa9dafda716a29d5ee96862ccc
               release_date: '2021-12-03T18:10:48Z'
               release_link: https://github.com/finos/symphony-wdk/releases
               contributors_count: 7
@@ -2855,16 +2951,16 @@ landscape:
                   value: 1487096
                   color: '#f34b7d'
                 - name: JavaScript
-                  value: 588877
+                  value: 588824
                   color: '#f1e05a'
                 - name: Rust
-                  value: 423289
+                  value: 425279
                   color: '#dea584'
                 - name: Python
                   value: 262639
                   color: '#3572A5'
                 - name: Less
-                  value: 105032
+                  value: 105487
                 - name: TypeScript
                   value: 32836
                   color: '#2b7489'
@@ -2877,18 +2973,18 @@ landscape:
                 - name: Shell
                   value: 585
                   color: '#89e051'
-              contributions: 10;8;2;14;11;22;5;10;8;11;4;8;8;4;7;2;5;19;11;27;12;28;3;4;15;10;18;9;26;12;9;7;2;0;0;7;7;13;18;18;33;41;8;15;19;20;14;1;18;33;18;27
+              contributions: 9;8;2;17;9;22;7;7;12;7;7;11;2;4;7;2;5;21;13;23;15;25;3;7;14;8;18;16;23;12;6;6;2;0;3;4;7;18;13;19;39;35;7;26;12;18;14;0;19;32;21;30
               firstWeek: 2020-12-13Z
-              stars: 3970
+              stars: 3973
               license: Apache License 2.0
               description: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-              latest_commit_date: '2021-12-09T02:34:28Z'
-              latest_commit_link: /finos/perspective/commit/8728ad6ec17e3792ebf13fa72d81ccdb710c4f38
+              latest_commit_date: '2021-12-10T03:11:03Z'
+              latest_commit_link: /finos/perspective/commit/d587e16ffc13fdd60549a30b2d655f66863cbe4b
               contributors_count: 65
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 3970
+                stars: 3973
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -3133,4 +3229,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1372655525620547584'
-updated_at: 2021-12-09T06:00:08.476Z
+updated_at: 2021-12-10T06:02:44.396Z
