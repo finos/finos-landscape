@@ -114,7 +114,7 @@ landscape:
                 - name: CSS
                   value: 6385
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;3;7
+              contributions: 0;0;0;0;0;1;0;0;0;0;60;3;0;0;5;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;4;6
               firstWeek: 2021-01-03Z
               stars: 34
               license: Apache License 2.0
@@ -180,7 +180,7 @@ landscape:
                 - name: Shell
                   value: 523
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;2;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;2;0
               firstWeek: 2021-01-03Z
               stars: 13
               license: Apache License 2.0
@@ -368,7 +368,7 @@ landscape:
                 - name: CSS
                   value: 2988
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;6;1;1;12;0;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;2;1;1;0;0;0;21;3;1;0;0;0;0;3;0
+              contributions: 0;0;0;0;0;6;1;1;12;0;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;2;1;1;0;0;0;23;1;1;0;0;0;0;3;0
               firstWeek: 2021-01-03Z
               stars: 10
               license: Other
@@ -426,27 +426,19 @@ landscape:
                 - Software
                 - Web Development
             github_data:
-              languages:
-                - name: JavaScript
-                  value: 8311
-                  color: '#f1e05a'
-                - name: CSS
-                  value: 2988
-                  color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;3;6;0;0;0;0;0;0
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-01-03Z
-              stars: 9
+              stars: 7
               license: Other
               description: Checklists for key components and processes of open source programs
               latest_commit_date: '2021-09-22T16:23:38Z'
               latest_commit_link: /finos/osr-checklists/commit/e1a81eaee1b345817b96760ad66305b644e77969
-              contributors_count: 3
+              contributors_count: 1
               contributors_link: https://github.com/finos/osr-checklists/graphs/contributors
             repos:
               - url: https://github.com/finos/osr-checklists
                 stars: 7
-              - url: https://github.com/finos/osmm
-                stars: 2
             github_start_commit_data:
               start_commit_link: /finos/osr-checklists/commit/d73ea8b8e0c862acae581b2945456fcfe2c0a3e0
               start_date: '2019-10-23T13:26:08Z'
@@ -1048,47 +1040,47 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 21640936
+                  value: 14937424
                   color: '#b07219'
                 - name: TypeScript
-                  value: 7796066
+                  value: 7749253
                   color: '#2b7489'
                 - name: HTML
-                  value: 3264638
+                  value: 3255841
                   color: '#e34c26'
                 - name: JavaScript
-                  value: 1271886
+                  value: 1274160
                   color: '#f1e05a'
                 - name: SCSS
                   value: 424984
                 - name: Python
-                  value: 408762
+                  value: 167781
                   color: '#3572A5'
                 - name: ANTLR
-                  value: 191864
+                  value: 48195
                   color: '#9DC3FF'
                 - name: Shell
-                  value: 39434
+                  value: 39316
                   color: '#89e051'
                 - name: CSS
-                  value: 31476
+                  value: 30389
                   color: '#563d7c'
                 - name: HCL
                   value: 6650
                 - name: Dockerfile
-                  value: 5913
+                  value: 3361
                   color: '#384d54'
                 - name: Smarty
                   value: 1772
               contributions: >-
-                1;30;33;21;17;36;36;28;12;71;87;40;46;18;8;47;32;54;29;29;25;56;52;75;17;27;6;25;39;28;35;41;18;29;40;53;40;63;39;89;39;46;73;85;27;19;60;49;33;38;33;3
+                1;15;16;13;11;28;27;17;5;65;68;30;40;14;6;31;24;37;23;24;18;31;31;50;10;14;6;11;30;26;24;27;18;22;22;26;29;39;19;42;20;27;46;62;23;22;29;29;21;21;20;4
               firstWeek: 2021-01-03Z
-              stars: 419
+              stars: 389
               license: Apache License 2.0
               description: The Legend project
               latest_commit_date: '2021-12-20T19:35:59Z'
               latest_commit_link: /finos/legend/commit/f3df20db28111e39ed648f4bd39ea4b6cdd245fe
-              contributors_count: 64
+              contributors_count: 59
               contributors_link: https://github.com/finos/legend/graphs/contributors
             repos:
               - url: https://github.com/finos/legend
@@ -1097,31 +1089,15 @@ landscape:
                 stars: 35
               - url: https://github.com/finos/legend-studio
                 stars: 29
-              - url: https://github.com/finos/legend-engine
-                stars: 29
               - url: https://github.com/finos/legend-sdlc
                 stars: 23
               - url: https://github.com/finos/legend-shared
                 stars: 15
-              - url: https://github.com/finos/legend-depot
-                stars: 1
-              - url: https://github.com/finos/legend-integration-juju
-                stars: 0
               - url: https://github.com/finos/legend-integration-morphir
                 stars: 0
               - url: https://github.com/finos/legend-integration-helm
                 stars: 0
-              - url: https://github.com/finos/legend-juju-bundle
-                stars: 0
-              - url: https://github.com/finos/legend-juju-db-operator
-                stars: 0
               - url: https://github.com/finos/legend-juju-engine-server-operator
-                stars: 0
-              - url: https://github.com/finos/legend-juju-gitlab-integrator
-                stars: 0
-              - url: https://github.com/finos/legend-juju-libs
-                stars: 0
-              - url: https://github.com/finos/legend-juju-sdlc-server-operator
                 stars: 0
               - url: https://github.com/finos/legend-juju-studio-operator
                 stars: 0
@@ -1171,63 +1147,71 @@ landscape:
             github_data:
               languages:
                 - name: Elm
-                  value: 4448238
+                  value: 4996894
                   color: '#60B5CC'
                 - name: HTML
-                  value: 3597414
+                  value: 4320120
                   color: '#e34c26'
-                - name: JavaScript
-                  value: 1054974
-                  color: '#f1e05a'
                 - name: Scala
-                  value: 561373
+                  value: 1683395
                   color: '#c22d40'
+                - name: JavaScript
+                  value: 1105378
+                  color: '#f1e05a'
                 - name: F#
-                  value: 143699
+                  value: 431097
                   color: '#b845fc'
                 - name: Shell
-                  value: 25648
+                  value: 73672
                   color: '#89e051'
+                - name: CSS
+                  value: 25593
+                  color: '#563d7c'
                 - name: TypeScript
                   value: 15291
                   color: '#2b7489'
-                - name: CSS
-                  value: 10523
-                  color: '#563d7c'
                 - name: Batchfile
-                  value: 6448
+                  value: 12972
                   color: '#C1F12E'
                 - name: C#
-                  value: 4009
+                  value: 12027
                   color: '#178600'
                 - name: Dockerfile
-                  value: 1782
+                  value: 2780
                   color: '#384d54'
                 - name: Forth
-                  value: 38
+                  value: 114
                   color: '#341708'
-              contributions: 20;37;31;9;46;62;41;30;40;35;17;29;8;1;7;8;9;8;28;10;36;23;37;10;30;25;11;36;19;17;4;3;7;13;11;2;23;18;56;13;9;18;23;33;47;58;25;7;11;4;8;11
+              contributions: 34;45;37;9;48;82;47;30;44;35;17;33;8;1;7;8;9;8;28;14;36;23;101;26;42;25;11;36;21;19;4;3;9;13;19;4;23;22;98;25;11;48;41;33;47;58;25;7;11;4;8;11
               firstWeek: 2021-01-03Z
-              stars: 130
+              stars: 220
               license: Apache License 2.0
               description: A universal language for business and technology
               latest_commit_date: '2021-12-01T07:41:37Z'
               latest_commit_link: /finos/morphir/commit/5361361adf69282745b2665aefec98912c0729ba
-              contributors_count: 31
+              contributors_count: 17
               contributors_link: https://github.com/finos/morphir/graphs/contributors
             repos:
               - url: https://github.com/finos/morphir
-                stars: 59
-              - url: https://github.com/finos/morphir-elm
-                stars: 26
+                stars: 130
+              - url: https://github.com/finos/morphir-examples
+                stars: 19
               - url: https://github.com/finos/morphir-examples
                 stars: 19
               - url: https://github.com/finos/morphir-jvm
                 stars: 14
+              - url: https://github.com/finos/morphir-jvm
+                stars: 14
+              - url: https://github.com/finos/morphir-dotnet
+                stars: 6
               - url: https://github.com/finos/morphir-dotnet
                 stars: 6
               - url: https://github.com/finos/morphir-service
                 stars: 4
+              - url: https://github.com/finos/morphir-service
+                stars: 4
+              - url: https://github.com/finos/morphir-bosque
+                stars: 2
               - url: https://github.com/finos/morphir-bosque
                 stars: 2
             github_start_commit_data:
@@ -1560,15 +1544,11 @@ landscape:
               latest_commit_link: /finos/OpenMAMA/commit/f078ad3f4f831dc30c21faf4a6743fecb68f5504
               release_date: '2020-10-14T12:58:52Z'
               release_link: https://github.com/finos/openMAMA/releases
-              contributors_count: 31
+              contributors_count: 1
               contributors_link: https://github.com/finos/openMAMA/graphs/contributors
             repos:
               - url: https://github.com/finos/openMAMA
-                stars: 101
-              - url: https://github.com/finos/openMAMA-testdata
-                stars: 3
-              - url: https://github.com/finos/openmama.github.io
-                stars: 1
+                stars: 105
             github_start_commit_data:
               start_commit_link: /finos/OpenMAMA/commit/25123988f347ea89dcfc451d9827e022a6d91484
               start_date: '2011-10-14T03:35:56Z'
@@ -1629,7 +1609,7 @@ landscape:
                 - name: Shell
                   value: 1472
                   color: '#89e051'
-              contributions: 0;4;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;1;0;0;0;0;3;0;1;0;2;1;0;0;0;1;1;0;0;1;1;0;2;0;1;1;0;1;0;0;0;0;1;0;0
+              contributions: 0;4;1;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;1;0;0;0;1;2;0;1;0;2;1;0;0;0;1;1;0;0;1;1;0;2;0;1;1;0;1;0;0;0;0;1;0;0
               firstWeek: 2021-01-03Z
               stars: 31
               license: Apache License 2.0
@@ -1692,7 +1672,7 @@ landscape:
                 - name: CSS
                   value: 3644
                   color: '#563d7c'
-              contributions: 0;0;0;6;6;0;0;0;0;1;0;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;6;6;0;0;0;0;1;0;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-01-03Z
               stars: 15
               license: Apache License 2.0
@@ -1902,10 +1882,10 @@ landscape:
                   value: 2610122
                   color: '#178600'
                 - name: TypeScript
-                  value: 1216975
+                  value: 1260171
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 1040759
+                  value: 1057271
                   color: '#f1e05a'
                 - name: Xtend
                   value: 221711
@@ -1919,7 +1899,7 @@ landscape:
                   value: 10853
                   color: '#C1F12E'
                 - name: CSS
-                  value: 3543
+                  value: 9519
                   color: '#563d7c'
                 - name: Shell
                   value: 550
@@ -1933,11 +1913,13 @@ landscape:
               latest_commit_link: /finos/plexus-interop/commit/4ba6bc2e55677e61aaad0bf6ea1c495ad8aabdca
               release_date: '2021-08-18T12:52:54Z'
               release_link: https://github.com/finos/plexus-interop/releases
-              contributors_count: 17
+              contributors_count: 3
               contributors_link: https://github.com/finos/plexus-interop/graphs/contributors
             repos:
               - url: https://github.com/finos/plexus-interop
                 stars: 255
+              - url: https://github.com/finos/plexus-interop-desktop-api
+                stars: 0
               - url: https://github.com/finos/plexus-interop-desktop-api
                 stars: 0
             github_start_commit_data:
@@ -2072,13 +2054,11 @@ landscape:
               description: null
               latest_commit_date: '2020-06-08T20:06:38Z'
               latest_commit_link: /finos/secure-electron-adapter/commit/ccad879c1f2eb32261e6cd1d843758f8c0c94e1c
-              contributors_count: 4
+              contributors_count: 1
               contributors_link: https://github.com/finos/secure-electron-adapter/graphs/contributors
             repos:
               - url: https://github.com/finos/secure-electron-adapter
-                stars: 12
-              - url: https://github.com/finos/sea-quick-start
-                stars: 3
+                stars: 15
             github_start_commit_data:
               start_commit_link: /finos/secure-electron-adapter/commit/113f09032ed054ab68e053ff4fc0b07270e474f4
               start_date: '2019-10-22T15:46:13Z'
@@ -2122,75 +2102,13 @@ landscape:
                 - Information Technology
                 - Software
                 - Web Development
-            github_data:
-              languages:
-                - name: TypeScript
-                  value: 790404
-                  color: '#2b7489'
-                - name: C#
-                  value: 483184
-                  color: '#178600'
-                - name: C
-                  value: 164171
-                  color: '#555555'
-                - name: HTML
-                  value: 41893
-                  color: '#e34c26'
-                - name: Batchfile
-                  value: 36350
-                  color: '#C1F12E'
-                - name: Less
-                  value: 36291
-                - name: C++
-                  value: 20349
-                  color: '#f34b7d'
-                - name: Shell
-                  value: 16296
-                  color: '#89e051'
-                - name: Smalltalk
-                  value: 8444
-                  color: '#596706'
-                - name: CSS
-                  value: 6788
-                  color: '#563d7c'
-                - name: Objective-C
-                  value: 6067
-                  color: '#438eff'
-                - name: JavaScript
-                  value: 3136
-                  color: '#f1e05a'
-                - name: ASP.NET
-                  value: 964
-                - name: Dockerfile
-                  value: 743
-                  color: '#384d54'
-                - name: VBScript
-                  value: 175
-                - name: PowerShell
-                  value: 116
-                  color: '#012456'
-              contributions: 3;11;8;2;22;15;12;4;1;9;1;3;13;5;3;8;3;4;14;7;7;4;2;24;4;1;2;0;1;0;2;10;6;0;2;3;12;9;5;3;3;9;6;22;7;1;4;3;5;2;0;0
-              firstWeek: 2021-01-03Z
-              stars: 74
-              license: Apache License 2.0
-              description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2021-12-07T14:51:13Z'
-              latest_commit_link: /finos/SymphonyElectron/commit/9e4a51fcfc04c6845c181cbded707ff1aedd41d6
-              release_date: '2021-09-28T09:03:34Z'
-              release_link: https://github.com/finos/SymphonyElectron/releases
-              contributors_count: 29
-              contributors_link: https://github.com/finos/SymphonyElectron/graphs/contributors
             repos:
               - url: https://github.com/finos/SymphonyElectron
-                stars: 64
-              - url: https://github.com/finos/SwiftSearch
-                stars: 6
               - url: https://github.com/finos/ScreenSnippet
-                stars: 4
               - url: https://github.com/finos/ScreenSnippet2
-                stars: 0
+              - url: https://github.com/finos/SwiftSearch
               - url: https://github.com/finos/ScreenShareIndicatorFrame
-                stars: 0
+              - url: https://github.com/finos/ElectronSpellchecker
             github_start_commit_data:
               start_commit_link: /finos/SymphonyElectron/commit/aee8779c164222f4ba65c329b093859f38ffef10
               start_date: '2016-09-27T02:33:09Z'
@@ -2251,7 +2169,7 @@ landscape:
                 - name: Dockerfile
                   value: 704
                   color: '#384d54'
-              contributions: 0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;1;0;7;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-01-03Z
               stars: 29
               license: Apache License 2.0
@@ -2824,7 +2742,7 @@ landscape:
                   color: '#555555'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;2;6;9;2;1;6;5;1;0
               firstWeek: 2021-01-03Z
-              stars: 4
+              stars: 5
               license: Apache License 2.0
               description: >-
                 The Symphony Media Bridge (SMB) is a media server application that handles audio, video and screen sharing media streams in an RTC conference
@@ -2837,7 +2755,7 @@ landscape:
               contributors_link: https://github.com/finos/SymphonyMediaBridge/graphs/contributors
             repos:
               - url: https://github.com/finos/SymphonyMediaBridge
-                stars: 4
+                stars: 5
             github_start_commit_data:
               start_commit_link: /finos/SymphonyMediaBridge/commit/cc9a80dcc966d83f0c8e6f9b533390d3e1c74038
               start_date: '2021-10-18T07:35:15Z'
@@ -2977,9 +2895,9 @@ landscape:
                 - name: Shell
                   value: 640
                   color: '#89e051'
-              contributions: 1;22;9;21;7;9;11;3;7;11;2;3;7;5;5;19;19;17;20;21;2;14;6;9;21;12;25;13;6;3;2;0;4;5;6;20;13;18;39;34;12;25;11;19;9;0;24;28;31;33;22;13
+              contributions: 2;21;16;14;8;8;12;4;5;11;2;7;3;5;6;19;20;17;20;19;2;15;5;10;20;19;18;14;5;5;0;0;4;5;6;21;16;26;41;20;12;27;13;21;3;0;31;27;26;34;20;13
               firstWeek: 2021-01-03Z
-              stars: 3999
+              stars: 4001
               license: Apache License 2.0
               description: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
               latest_commit_date: '2021-12-23T21:43:34Z'
@@ -2988,7 +2906,7 @@ landscape:
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 3999
+                stars: 4001
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -3233,4 +3151,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1372655525620547584'
-updated_at: 2021-12-26T06:02:44.817Z
+updated_at: 2021-12-27T06:14:17.388Z
