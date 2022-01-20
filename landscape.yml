@@ -292,7 +292,6 @@ landscape:
               - repo_url: https://github.com/finos/ScreenSnippet2
               - repo_url: https://github.com/finos/SwiftSearch
               - repo_url: https://github.com/finos/ScreenShareIndicatorFrame
-              - repo_url: https://github.com/finos/ElectronSpellchecker
             project: active
             homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
@@ -354,6 +353,13 @@ landscape:
             project: incubating
             homepage_url: https://symphony-bdk-python.finos.org
             repo_url: https://github.com/finos/symphony-bdk-python
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-generator.svg
+            name: Symphony Generator
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/generator-symphony
+            repo_url: https://github.com/finos/generator-symphony
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony-java-toolkit.svg
             name: Symphony Java Toolkit
