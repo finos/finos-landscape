@@ -136,7 +136,7 @@ big_picture:
       - type: HorizontalCategory
         category: Applications
         rows: 4
-        width: 550
+        width: 570
         height: 180
         top: 0
         left: 0
@@ -148,7 +148,7 @@ big_picture:
         width: 350
         height: 180
         top: 0
-        left: 570
+        left: 590
         color: rgb(215,200,38)
         fit_width: true
       - type: HorizontalCategory
