@@ -224,6 +224,20 @@ landscape:
             homepage_url: https://github.com/finos/glue
             repo_url: https://github.com/finos/glue
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: fo-product-control-common-template.svg
+            name: Product Control Common Template
+            item:
+            project: incubating
+            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
+            repo_url: null
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: structured-products.svg
+            name: Structured Products
+            item:
+            project: incubating
+            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/structured-products
+            repo_url: null
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: timebase-ce.svg
             name: TimeBase CE
             item:
@@ -243,23 +257,6 @@ landscape:
             project: active
             homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: Modeling
-        items:
-          - logo: fo-product-control-common-template.svg
-            name: Product Control Common Template
-            item:
-            project: incubating
-            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
-            repo_url: null
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: structured-products.svg
-            name: Structured Products
-            item:
-            project: incubating
-            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/structured-products
-            repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Platforms & Runtimes
