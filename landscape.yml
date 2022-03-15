@@ -115,7 +115,7 @@ landscape:
             name: Currency Reference Data
             item:
             project: incubating
-            homepage_url: https://github.com/finos/curref-data
+            homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             repo_url: https://github.com/finos/curref-data
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: security-reference-data.svg
@@ -428,13 +428,6 @@ landscape:
       - subcategory:
         name: Modeling Initiatives
         items:
-          - logo: security-reference-data.svg
-            name: Currency Reference Data Model
-            item:
-            project: incubating
-            homepage_url: http://github.com/finos/secref-data
-            repo_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: fo-commodities-payout.svg
             name: Commodities Payout
             item:
