@@ -102,9 +102,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://events.linuxfoundation.org/open-source-strategy-forum/
-    image: /images/2021-ossf.png
-    title: Open Source Strategy Forum 2021
+  - url: https://events.linuxfoundation.org/open-source-finance-forum/
+    image: /images/2022-OSFF.jpeg
+    title: Open Source in Finance Forum 2022
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -136,7 +136,7 @@ big_picture:
       - type: HorizontalCategory
         category: Applications
         rows: 4
-        width: 500
+        width: 570
         height: 180
         top: 0
         left: 0
@@ -148,13 +148,13 @@ big_picture:
         width: 350
         height: 180
         top: 0
-        left: 520
+        left: 590
         color: rgb(215,200,38)
         fit_width: true
       - type: HorizontalCategory
         category: Data & Business Logic
         rows: 4
-        width: 640
+        width: 730
         height: 180
         top: 200
         left: 0
@@ -166,7 +166,7 @@ big_picture:
         width: 200
         height: 180
         top: 200
-        left: 660
+        left: 750
         color: rgb(0,181,226)
         fit_width: true
       - type: HorizontalCategory
