@@ -51,7 +51,6 @@ landscape:
             homepage_url: https://github.com/finos/InnerSource
             repo_url: https://github.com/finos/InnerSource
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: oslc-handbook.svg
             name: OSLC Handbook
             item:
@@ -59,7 +58,6 @@ landscape:
             homepage_url: https://github.com/finos/OSLC-handbook
             repo_url: https://github.com/finos/OSLC-handbook
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: open-source-readiness.svg
             name: Open source readiness
             item:
@@ -120,7 +118,6 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             repo_url: https://github.com/finos/curref-data
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: security-reference-data.svg
             name: Security Reference Data
             item:
@@ -148,7 +145,6 @@ landscape:
             homepage_url: https://finos.github.io/datahelix
             repo_url: https://github.com/finos/datahelix
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: datahub.svg
             name: DataHub
             item:
@@ -230,7 +226,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: fo-product-control-common-template.svg
             name: Product Control Common Template
-            open_source: true
             item:
             project: incubating
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
@@ -243,7 +238,6 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/structured-products
             repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: timebase-ce.svg
             name: TimeBase CE
             item:
@@ -251,7 +245,6 @@ landscape:
             homepage_url: https://github.com/finos/TimeBase-ce
             repo_url: https://github.com/finos/TimeBase-ce
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
       - subcategory:
         name: Market Data
         items:
@@ -265,7 +258,6 @@ landscape:
             homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -440,7 +432,6 @@ landscape:
             homepage_url: http://fo.finos.org
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/cdm
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: security-reference-data.svg
             name: Commodities Reference Data
             item:
@@ -448,7 +439,6 @@ landscape:
             homepage_url: http://github.com/finos/secref-data
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/commodrefdata
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
   - category:
     name: FINOS
     subcategories:
