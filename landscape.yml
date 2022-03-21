@@ -16,9 +16,8 @@ landscape:
           - logo: open-developer-platform.svg
             name: Open Developer Platform
             item:
-            homepage_url: https://community.finos.org/docs/collaboration-infrastructure
             project: incubating
-            homepage_url: https://odp.finos.org
+            homepage_url: https://community.finos.org
             repo_url: https://github.com/finos/open-developer-platform
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
@@ -52,7 +51,6 @@ landscape:
             homepage_url: https://github.com/finos/InnerSource
             repo_url: https://github.com/finos/InnerSource
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: oslc-handbook.svg
             name: OSLC Handbook
             item:
@@ -60,7 +58,6 @@ landscape:
             homepage_url: https://github.com/finos/OSLC-handbook
             repo_url: https://github.com/finos/OSLC-handbook
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: open-source-readiness.svg
             name: Open source readiness
             item:
@@ -121,7 +118,6 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             repo_url: https://github.com/finos/curref-data
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: security-reference-data.svg
             name: Security Reference Data
             item:
@@ -149,7 +145,6 @@ landscape:
             homepage_url: https://finos.github.io/datahelix
             repo_url: https://github.com/finos/datahelix
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: datahub.svg
             name: DataHub
             item:
@@ -250,7 +245,6 @@ landscape:
             homepage_url: https://github.com/finos/TimeBase-ce
             repo_url: https://github.com/finos/TimeBase-ce
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
       - subcategory:
         name: Market Data
         items:
@@ -264,7 +258,6 @@ landscape:
             homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -372,7 +365,7 @@ landscape:
             homepage_url: https://github.com/finos/symphony-api-spec
             repo_url: https://github.com/finos/symphony-api-spec
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-java-toolkit.svg
+          - logo: springbot.svg
             name: Spring Bot
             item:
             project: incubating
