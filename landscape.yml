@@ -231,7 +231,6 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            open_source: true
           - logo: structured-products.svg
             name: Structured Products
             item:
@@ -287,6 +286,13 @@ landscape:
             project: incubating
             homepage_url: https://plexus.finos.org
             repo_url: https://github.com/finos/plexus-interop
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: springbot.svg
+            name: Spring Bot
+            item:
+            project: incubating
+            homepage_url: https://springbot.finos.org
+            repo_url: https://github.com/finos/spring-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
         name: Openfin Ecosystem
@@ -365,13 +371,6 @@ landscape:
             project: active
             homepage_url: https://github.com/finos/symphony-api-spec
             repo_url: https://github.com/finos/symphony-api-spec
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: springbot.svg
-            name: Spring Bot
-            item:
-            project: incubating
-            homepage_url: https://springbot.finos.org
-            repo_url: https://github.com/finos/spring-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: symphony-bdk-java.svg
             name: Symphony BDK Java
