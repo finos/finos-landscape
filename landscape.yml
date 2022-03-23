@@ -118,6 +118,7 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             repo_url: https://github.com/finos/curref-data
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            open_source: true
           - logo: security-reference-data.svg
             name: Security Reference Data
             item:
@@ -231,6 +232,7 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            open_source: true
           - logo: structured-products.svg
             name: Structured Products
             item:
@@ -238,6 +240,7 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/structured-products
             repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            open_source: true
           - logo: timebase-ce.svg
             name: TimeBase CE
             item:
@@ -432,6 +435,7 @@ landscape:
             homepage_url: http://fo.finos.org
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/cdm
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            open_source: true
           - logo: security-reference-data.svg
             name: Commodities Reference Data
             item:
@@ -439,6 +443,7 @@ landscape:
             homepage_url: http://github.com/finos/secref-data
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/commodrefdata
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            open_source: true
   - category:
     name: FINOS
     subcategories:
