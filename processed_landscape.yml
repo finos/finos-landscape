@@ -6,12 +6,12 @@ landscape:
       - subcategory:
         name: ODP Toolchain
         items:
-          - item:
+          - logo: cla-bot.svg
             name: CLA Bot
-            homepage_url: https://finos.github.io/cla-bot
+            item: null
             project: active
+            homepage_url: https://finos.github.io/cla-bot
             repo_url: https://github.com/finos/cla-bot
-            logo: cla-bot.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -71,12 +71,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: open-developer-platform.svg
             name: Open Developer Platform
-            homepage_url: https://community.finos.org/docs/collaboration-infrastructure
+            item: null
             project: incubating
+            homepage_url: https://community.finos.org
             repo_url: https://github.com/finos/open-developer-platform
-            logo: open-developer-platform.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -134,12 +134,12 @@ landscape:
       - subcategory:
         name: OSS Readiness
         items:
-          - item:
+          - logo: catchit.svg
             name: CatchIT
-            homepage_url: https://github.com/finos/CatchIT
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/CatchIT
             repo_url: https://github.com/finos/CatchIT
-            logo: catchit.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -197,12 +197,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: devops-mutualization.svg
             name: DevOps Mutualization
-            homepage_url: https://github.com/finos/devops-mutualization
+            item: null
             project: sig
+            homepage_url: https://github.com/finos/devops-mutualization
             repo_url: https://github.com/finos/devops-mutualization
-            logo: devops-mutualization.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -256,12 +256,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: git-proxy.svg
             name: Git Proxy
-            homepage_url: https://github.com/finos/git-proxy
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/git-proxy
             repo_url: https://github.com/finos/git-proxy
-            logo: git-proxy.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -322,12 +322,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: innersource.svg
             name: InnerSource Special Interest Group
-            homepage_url: https://github.com/finos/InnerSource
+            item: null
             project: sig
+            homepage_url: https://github.com/finos/InnerSource
             repo_url: https://github.com/finos/InnerSource
-            logo: innersource.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -387,12 +387,80 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: oslc-handbook.svg
+            name: OSLC Handbook
+            item: null
+            project: incubating
+            homepage_url: https://github.com/finos/OSLC-handbook
+            repo_url: https://github.com/finos/OSLC-handbook
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            crunchbase_data:
+              name: FINOS
+              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.finos.org/
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: https://twitter.com/finosfoundation
+              linkedin: https://www.linkedin.com/company/finosfoundation
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: HTML
+                  value: 232059
+                  color: '#e34c26'
+                - name: CSS
+                  value: 80487
+                  color: '#563d7c'
+                - name: Python
+                  value: 7813
+                  color: '#3572A5'
+              contributions: 0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-03-28Z
+              stars: 108
+              license: Other
+              description: A data store and handbook of practical information about complying with the most common open source licenses.
+              latest_commit_date: '2021-04-19T15:50:04Z'
+              latest_commit_link: /finos/OSLC-handbook/commit/53c496c60f89a284ef85b6472283d6c995c636f1
+              release_date: '2019-04-29T17:05:38Z'
+              release_link: https://github.com/finos/OSLC-handbook/releases
+              contributors_count: 11
+              contributors_link: https://github.com/finos/OSLC-handbook/graphs/contributors
+            repos:
+              - url: https://github.com/finos/OSLC-handbook
+                stars: 108
+            github_start_commit_data:
+              start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
+              start_date: '2018-10-26T18:13:22Z'
+            image_data:
+              fileName: oslc-handbook.svg
+              hash: WHCdtiLByN/zsb+d3AIQtQcaKTO9MBgdMDl8fwzlIy4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-22T13:50:00.000Z
+          - logo: open-source-readiness.svg
             name: Open source readiness
-            homepage_url: https://github.com/finos/open-source-readiness
+            item: null
             project: sig
+            homepage_url: https://github.com/finos/open-source-readiness
             repo_url: https://github.com/finos/open-source-readiness
-            logo: open-source-readiness.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -464,80 +532,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
-            name: OSLC Handbook
-            homepage_url: https://github.com/finos/OSLC-handbook
-            project: incubating
-            repo_url: https://github.com/finos/OSLC-handbook
-            logo: oslc-handbook.svg
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            crunchbase_data:
-              name: FINOS
-              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.finos.org/
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: https://twitter.com/finosfoundation
-              linkedin: https://www.linkedin.com/company/finosfoundation
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Banking
-                - Developer Platform
-                - FinTech
-                - Finance
-                - Financial Services
-                - Information Technology
-                - Software
-                - Web Development
-            github_data:
-              languages:
-                - name: HTML
-                  value: 232059
-                  color: '#e34c26'
-                - name: CSS
-                  value: 80487
-                  color: '#563d7c'
-                - name: Python
-                  value: 7813
-                  color: '#3572A5'
-              contributions: 0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
-              stars: 108
-              license: Other
-              description: A data store and handbook of practical information about complying with the most common open source licenses.
-              latest_commit_date: '2021-04-19T15:50:04Z'
-              latest_commit_link: /finos/OSLC-handbook/commit/53c496c60f89a284ef85b6472283d6c995c636f1
-              release_date: '2019-04-29T17:05:38Z'
-              release_link: https://github.com/finos/OSLC-handbook/releases
-              contributors_count: 11
-              contributors_link: https://github.com/finos/OSLC-handbook/graphs/contributors
-            repos:
-              - url: https://github.com/finos/OSLC-handbook
-                stars: 108
-            github_start_commit_data:
-              start_commit_link: /finos/OSLC-handbook/commit/c24bf3696155500a3aca23564d8eedef1fa58b8d
-              start_date: '2018-10-26T18:13:22Z'
-            image_data:
-              fileName: oslc-handbook.svg
-              hash: WHCdtiLByN/zsb+d3AIQtQcaKTO9MBgdMDl8fwzlIy4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: reference-foss-policy.svg
             name: Reference FOSS Policy
-            homepage_url: https://github.com/finos/reference-foss-policy
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/reference-foss-policy
             repo_url: https://github.com/finos/reference-foss-policy
-            logo: reference-foss-policy.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -592,12 +592,12 @@ landscape:
       - subcategory:
         name: Regulation
         items:
-          - item:
+          - logo: regulation-innovation.svg
             name: Regulation Innovation Special Interest Group
-            homepage_url: https://github.com/finos/open-regtech-sig
+            item: null
             project: sig
+            homepage_url: https://github.com/finos/open-regtech-sig
             repo_url: https://github.com/finos/open-regtech-sig
-            logo: regulation-innovation.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -657,12 +657,12 @@ landscape:
       - subcategory:
         name: Compliance & Management
         items:
-          - item:
+          - logo: compliant-financial-infrastruture.svg
             name: Compliant Financial Infrastructure
-            homepage_url: https://github.com/finos/compliant-financial-infrastructure
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/compliant-financial-infrastructure
             repo_url: https://github.com/finos/compliant-financial-infrastructure
-            logo: compliant-financial-infrastruture.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -718,12 +718,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: waltz.svg
             name: Waltz
-            homepage_url: https://waltz.finos.org
+            item: null
             project: active
+            homepage_url: https://waltz.finos.org
             repo_url: https://github.com/finos/waltz
-            logo: waltz.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -805,13 +805,14 @@ landscape:
       - subcategory:
         name: Tick & Reference
         items:
-          - item:
+          - logo: currency-reference-data.svg
             name: Currency Reference Data
-            homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
+            item: null
             project: incubating
+            homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             repo_url: https://github.com/finos/curref-data
-            logo: currency-reference-data.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            license: CSLA 1.0
             crunchbase_data:
               name: FINOS
               description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
@@ -862,12 +863,75 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
-            name: kdb+
-            homepage_url: https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project
+          - logo: security-reference-data.svg
+            name: Security Reference Data
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/secref-data
+            repo_url: https://github.com/finos/secref-data
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            crunchbase_data:
+              name: FINOS
+              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.finos.org/
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: https://twitter.com/finosfoundation
+              linkedin: https://www.linkedin.com/company/finosfoundation
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 15734
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 3644
+                  color: '#563d7c'
+              contributions: 2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-03-28Z
+              stars: 17
+              license: Apache License 2.0
+              description: Security Reference Data project
+              latest_commit_date: '2022-01-12T23:13:05Z'
+              latest_commit_link: /finos/secref-data/commit/75e0de828fb9048d56111a8aefb35e925401f17f
+              contributors_count: 6
+              contributors_link: https://github.com/finos/secref-data/graphs/contributors
+            repos:
+              - url: https://github.com/finos/secref-data
+                stars: 17
+            github_start_commit_data:
+              start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
+              start_date: '2020-04-29T08:05:47Z'
+            image_data:
+              fileName: security-reference-data.svg
+              hash: aRfTCmhAjtWmr2Bg8YgU7DwDNkMacPVU2MStQ7Nxffk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-22T13:50:00.000Z
+          - logo: finos.svg
+            name: kdb+
+            item: null
+            project: incubating
+            homepage_url: https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project
             repo_url: https://github.com/finos/kdb
-            logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -946,78 +1010,15 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
-            name: Security Reference Data
-            homepage_url: https://github.com/finos/secref-data
-            project: incubating
-            repo_url: https://github.com/finos/secref-data
-            logo: security-reference-data.svg
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            crunchbase_data:
-              name: FINOS
-              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.finos.org/
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: https://twitter.com/finosfoundation
-              linkedin: https://www.linkedin.com/company/finosfoundation
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Banking
-                - Developer Platform
-                - FinTech
-                - Finance
-                - Financial Services
-                - Information Technology
-                - Software
-                - Web Development
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 15734
-                  color: '#f1e05a'
-                - name: CSS
-                  value: 3644
-                  color: '#563d7c'
-              contributions: 2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
-              stars: 17
-              license: Apache License 2.0
-              description: Security Reference Data project
-              latest_commit_date: '2022-01-12T23:13:05Z'
-              latest_commit_link: /finos/secref-data/commit/75e0de828fb9048d56111a8aefb35e925401f17f
-              contributors_count: 6
-              contributors_link: https://github.com/finos/secref-data/graphs/contributors
-            repos:
-              - url: https://github.com/finos/secref-data
-                stars: 17
-            github_start_commit_data:
-              start_commit_link: /finos/secref-data/commit/c127d959c2db5e9da603fa1fee37dd296f6133ee
-              start_date: '2020-04-29T08:05:47Z'
-            image_data:
-              fileName: security-reference-data.svg
-              hash: aRfTCmhAjtWmr2Bg8YgU7DwDNkMacPVU2MStQ7Nxffk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-03-22T13:50:00.000Z
       - subcategory:
         name: Synthetic Data
         items:
-          - item:
+          - logo: datahelix.svg
             name: Data Helix
-            homepage_url: https://finos.github.io/datahelix
+            item: null
             project: incubating
+            homepage_url: https://finos.github.io/datahelix
             repo_url: https://github.com/finos/datahelix
-            logo: datahelix.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1091,12 +1092,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: datahub.svg
             name: DataHub
-            homepage_url: https://datahub.finos.org
+            item: null
             project: incubating
+            homepage_url: https://datahub.finos.org
             repo_url: https://github.com/finos/datahub
-            logo: datahub.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1160,12 +1161,12 @@ landscape:
       - subcategory:
         name: Frameworks
         items:
-          - item:
+          - logo: exodus.svg
             name: Exodus
-            homepage_url: https://github.com/finos/exodus
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/exodus
             repo_url: https://github.com/finos/exodus
-            logo: exodus.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1229,12 +1230,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: legend.svg
             name: Legend
-            homepage_url: https://legend.finos.org
+            item: null
             project: incubating
+            homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
-            logo: legend.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1355,12 +1356,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: morphir.svg
             name: Morphir
-            homepage_url: https://morphir.finos.org
+            item: null
             project: incubating
+            homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
-            logo: morphir.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1460,12 +1461,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: finos.svg
             name: TRAC d.a.p.
-            homepage_url: https://trac-platform.readthedocs.io/en/stable/
+            item: null
             project: incubating
+            homepage_url: https://trac-platform.readthedocs.io/en/stable/
             repo_url: https://github.com/finos/tracdap
-            logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1546,12 +1547,12 @@ landscape:
       - subcategory:
         name: Models
         items:
-          - item:
+          - logo: financial-objects.svg
             name: Financial Objects
-            homepage_url: https://fo.finos.org
+            item: null
             project: sig
+            homepage_url: http://fo.finos.org
             repo_url: https://github.com/finos/financial-objects
-            logo: financial-objects.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1615,12 +1616,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: glue.svg
             name: Glue
-            homepage_url: https://github.com/finos/glue
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/glue
             repo_url: https://github.com/finos/glue
-            logo: glue.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1679,13 +1680,14 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: fo-product-control-common-template.svg
             name: Product Control Common Template
-            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
+            item: null
             project: incubating
+            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             repo_url: null
-            logo: fo-product-control-common-template.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            license: CSLA 1.0
             crunchbase_data:
               name: FINOS
               description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
@@ -1719,13 +1721,14 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: structured-products.svg
             name: Structured Products
-            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/structured-products
+            item: null
             project: incubating
+            homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/structured-products
             repo_url: null
-            logo: structured-products.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            license: CSLA 1.0
             crunchbase_data:
               name: FINOS
               description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
@@ -1759,12 +1762,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: timebase-ce.svg
             name: TimeBase CE
-            homepage_url: https://github.com/finos/TimeBase-ce
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/TimeBase-ce
             repo_url: https://github.com/finos/TimeBase-ce
-            logo: timebase-ce.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1852,12 +1855,12 @@ landscape:
       - subcategory:
         name: Market Data
         items:
-          - item:
+          - logo: openmama.svg
             name: OpenMAMA
-            homepage_url: https://openmama.finos.org
+            item: null
             project: active
+            homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
-            logo: openmama.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -1968,12 +1971,12 @@ landscape:
       - subcategory:
         name: Interop
         items:
-          - item:
+          - logo: fdc3.svg
             name: FDC3
-            homepage_url: https://fdc3.finos.org
+            item: null
             project: active
+            homepage_url: https://fdc3.finos.org
             repo_url: https://github.com/finos/fdc3
-            logo: fdc3.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2042,12 +2045,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: fdc3-desktop-agent.svg
             name: FDC3 Desktop Agent
-            homepage_url: https://github.com/finos/fdc3-desktop-agent
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/fdc3-desktop-agent
             repo_url: https://github.com/finos/fdc3-desktop-agent
-            logo: fdc3-desktop-agent.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2111,12 +2114,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: plexus-interop.svg
             name: Plexus Interop
-            homepage_url: https://plexus.finos.org
+            item: null
             project: incubating
+            homepage_url: https://plexus.finos.org
             repo_url: https://github.com/finos/plexus-interop
-            logo: plexus-interop.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2198,15 +2201,88 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
+          - logo: springbot.svg
+            name: Spring Bot
+            item: null
+            project: incubating
+            homepage_url: https://springbot.finos.org
+            repo_url: https://github.com/finos/spring-bot
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            crunchbase_data:
+              name: FINOS
+              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.finos.org/
+              city: Burlingame
+              region: California
+              country: United States
+              twitter: https://twitter.com/finosfoundation
+              linkedin: https://www.linkedin.com/company/finosfoundation
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Banking
+                - Developer Platform
+                - FinTech
+                - Finance
+                - Financial Services
+                - Information Technology
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: Java
+                  value: 668972
+                  color: '#b07219'
+                - name: FreeMarker
+                  value: 32359
+                  color: '#0050b2'
+                - name: HTML
+                  value: 22867
+                  color: '#e34c26'
+                - name: JavaScript
+                  value: 19593
+                  color: '#f1e05a'
+                - name: Fluent
+                  value: 6
+              contributions: 13;5;23;11;34;20;14;8;7;4;12;4;11;14;24;15;5;7;15;7;0;0;0;12;21;10;9;6;9;29;27;7;8;0;3;35;21;10;4;0;1;6;0;4;35;6;0;1;7;14;1;10
+              firstWeek: 2021-03-28Z
+              stars: 24
+              license: Apache License 2.0
+              description: Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps
+              latest_commit_date: '2022-03-18T11:49:41Z'
+              latest_commit_link: /finos/spring-bot/commit/79120962e5a62de27c7e4d388b50a3ae97bf1f05
+              release_date: '2022-03-03T10:47:00Z'
+              release_link: https://github.com/finos/spring-bot/releases
+              contributors_count: 18
+              contributors_link: https://github.com/finos/spring-bot/graphs/contributors
+            repos:
+              - url: https://github.com/finos/spring-bot
+                stars: 24
+            github_start_commit_data:
+              start_commit_link: /finos/spring-bot/commit/8bbfa4b073c4d6664942784ee2ec9a44ab5641cc
+              start_date: '2019-07-10T15:19:35Z'
+            image_data:
+              fileName: spring-bot.svg
+              hash: 6R/au401dh2ClzuODRmvkwKPkf0Q7Ge7abeem2wfa5w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-22T13:50:00.000Z
       - subcategory:
         name: Openfin Ecosystem
         items:
-          - item:
+          - logo: openfin-react-hooks.svg
             name: OpenFin React Hooks
-            homepage_url: https://github.com/finos/openfin-react-hooks
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/openfin-react-hooks
             repo_url: https://github.com/finos/openfin-react-hooks
-            logo: openfin-react-hooks.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2266,12 +2342,12 @@ landscape:
       - subcategory:
         name: Containers
         items:
-          - item:
+          - logo: secure-electron-adapter.svg
             name: Secure Electron Adapter
-            homepage_url: https://sea.finos.org
+            item: null
             project: incubating
+            homepage_url: https://sea.finos.org
             repo_url: https://github.com/finos/secure-electron-adapter
-            logo: secure-electron-adapter.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2337,12 +2413,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-electron.svg
             name: Symphony Electron
-            homepage_url: https://github.com/finos/SymphonyElectron
+            item: null
             project: active
+            homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
-            logo: symphony-electron.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2455,12 +2531,12 @@ landscape:
       - subcategory:
         name: Voice Tech
         items:
-          - item:
+          - logo: greenkey-asr-toolkit.svg
             name: Greenkey Automatic Speech Recognition Toolkit
-            homepage_url: https://github.com/finos/greenkey-asrtoolkit
+            item: null
             project: active
+            homepage_url: https://github.com/finos/greenkey-asrtoolkit
             repo_url: https://github.com/finos/greenkey-asrtoolkit
-            logo: greenkey-asr-toolkit.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2523,12 +2599,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: greenkey-discovery-sdk.svg
             name: Greenkey Discovery SDK
-            homepage_url: https://github.com/finos/greenkey-discovery-sdk
+            item: null
             project: active
+            homepage_url: https://github.com/finos/greenkey-discovery-sdk
             repo_url: https://github.com/finos/greenkey-discovery-sdk
-            logo: greenkey-discovery-sdk.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2589,12 +2665,12 @@ landscape:
       - subcategory:
         name: Symphony Ecosystem
         items:
-          - item:
+          - logo: jcurl.svg
             name: JCurl
-            homepage_url: https://github.com/finos/JCurl
+            item: null
             project: active
+            homepage_url: https://github.com/finos/JCurl
             repo_url: https://github.com/finos/JCurl
-            logo: jcurl.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2654,12 +2730,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: messageml-utils.svg
             name: MessageML Utilities
-            homepage_url: https://github.com/finos/messageml-utils
+            item: null
             project: active
+            homepage_url: https://github.com/finos/messageml-utils
             repo_url: https://github.com/finos/messageml-utils
-            logo: messageml-utils.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2718,12 +2794,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-rest-api-spec.svg
             name: REST API Specification
-            homepage_url: https://github.com/finos/symphony-api-spec
+            item: null
             project: active
+            homepage_url: https://github.com/finos/symphony-api-spec
             repo_url: https://github.com/finos/symphony-api-spec
-            logo: symphony-rest-api-spec.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2780,85 +2856,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
-            name: Spring Bot
-            homepage_url: https://springbot.finos.org
-            project: incubating
-            repo_url: https://github.com/finos/spring-bot
-            logo: symphony-java-toolkit.svg
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            crunchbase_data:
-              name: FINOS
-              description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.finos.org/
-              city: Burlingame
-              region: California
-              country: United States
-              twitter: https://twitter.com/finosfoundation
-              linkedin: https://www.linkedin.com/company/finosfoundation
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Banking
-                - Developer Platform
-                - FinTech
-                - Finance
-                - Financial Services
-                - Information Technology
-                - Software
-                - Web Development
-            github_data:
-              languages:
-                - name: Java
-                  value: 668972
-                  color: '#b07219'
-                - name: FreeMarker
-                  value: 32359
-                  color: '#0050b2'
-                - name: HTML
-                  value: 22867
-                  color: '#e34c26'
-                - name: JavaScript
-                  value: 19593
-                  color: '#f1e05a'
-                - name: Fluent
-                  value: 6
-              contributions: 13;5;23;11;34;20;14;8;7;4;12;4;11;14;24;15;5;7;15;7;0;0;0;12;21;10;9;6;9;29;27;7;8;0;3;35;21;10;4;0;1;6;0;4;35;6;0;1;7;14;1;10
-              firstWeek: 2021-03-28Z
-              stars: 24
-              license: Apache License 2.0
-              description: Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps
-              latest_commit_date: '2022-03-18T11:49:41Z'
-              latest_commit_link: /finos/spring-bot/commit/79120962e5a62de27c7e4d388b50a3ae97bf1f05
-              release_date: '2022-03-03T10:47:00Z'
-              release_link: https://github.com/finos/spring-bot/releases
-              contributors_count: 18
-              contributors_link: https://github.com/finos/spring-bot/graphs/contributors
-            repos:
-              - url: https://github.com/finos/spring-bot
-                stars: 24
-            github_start_commit_data:
-              start_commit_link: /finos/symphony-java-toolkit/commit/8bbfa4b073c4d6664942784ee2ec9a44ab5641cc
-              start_date: '2019-07-10T15:19:35Z'
-            image_data:
-              fileName: spring-bot.svg
-              hash: QkkxRqmu31keCdrvK8lvNvlNV+SvbU6Dz5yS7xfHLg8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-bdk-java.svg
             name: Symphony BDK Java
-            homepage_url: https://symphony-bdk-java.finos.org
+            item: null
             project: incubating
+            homepage_url: https://symphony-bdk-java.finos.org
             repo_url: https://github.com/finos/symphony-bdk-java
-            logo: symphony-bdk-java.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -2936,12 +2939,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-bdk-python.svg
             name: Symphony BDK Python
-            homepage_url: https://symphony-bdk-python.finos.org
+            item: null
             project: incubating
+            homepage_url: https://symphony-bdk-python.finos.org
             repo_url: https://github.com/finos/symphony-bdk-python
-            logo: symphony-bdk-python.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -3007,12 +3010,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-generator.svg
             name: Symphony Generator
-            homepage_url: https://github.com/finos/generator-symphony
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/generator-symphony
             repo_url: https://github.com/finos/generator-symphony
-            logo: symphony-generator.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -3091,12 +3094,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-media-bridge.svg
             name: Symphony Media Bridge
-            homepage_url: https://github.com/finos/SymphonyMediaBridge
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/SymphonyMediaBridge
             repo_url: https://github.com/finos/SymphonyMediaBridge
-            logo: symphony-media-bridge.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -3169,12 +3172,12 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: symphony-wdk.svg
             name: Symphony WDK
-            homepage_url: https://github.com/finos/symphony-wdk
+            item: null
             project: incubating
+            homepage_url: https://github.com/finos/symphony-wdk
             repo_url: https://github.com/finos/symphony-wdk
-            logo: symphony-wdk.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -3204,18 +3207,18 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 454460
+                  value: 455690
                   color: '#b07219'
                 - name: FreeMarker
-                  value: 24
+                  value: 51
                   color: '#0050b2'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;30;16;23;18;15;11;21;44;13;2;35;27;14;3;7;5;1;6;1;7;9;13;2;0;0;2;0;0;2;0;1;0;0;1;1;2;6
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;30;16;23;18;15;11;21;44;13;2;35;27;14;3;7;5;1;6;1;7;9;13;2;0;0;2;0;0;2;0;1;0;0;1;1;2;7
               firstWeek: 2021-03-28Z
               stars: 0
               license: Apache License 2.0
               description: Symphony Workflow Developer Kit (WDK), a bot capable of running workflows
-              latest_commit_date: '2022-03-17T15:31:13Z'
-              latest_commit_link: /finos/symphony-wdk/commit/11d61912dfd7a200fe3903676d483ec8218afee8
+              latest_commit_date: '2022-03-23T15:24:50Z'
+              latest_commit_link: /finos/symphony-wdk/commit/8a3d64d551841333415ec58021f270bb0e94ff68
               release_date: '2021-12-15T09:58:58Z'
               release_link: https://github.com/finos/symphony-wdk/releases
               contributors_count: 7
@@ -3237,12 +3240,12 @@ landscape:
       - subcategory:
         name: UI Frameworks
         items:
-          - item:
+          - logo: perspective.svg
             name: Perspective
-            homepage_url: https://perspective.finos.org
+            item: null
             project: active
+            homepage_url: https://perspective.finos.org
             repo_url: https://github.com/finos/perspective
-            logo: perspective.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             crunchbase_data:
               name: FINOS
@@ -3326,13 +3329,14 @@ landscape:
       - subcategory:
         name: Modeling Initiatives
         items:
-          - item:
+          - logo: fo-commodities-payout.svg
             name: Commodities Payout
-            homepage_url: https://fo.finos.org
+            item: null
             project: incubating
+            homepage_url: http://fo.finos.org
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/cdm
-            logo: fo-commodities-payout.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            license: CSLA 1.0
             crunchbase_data:
               name: FINOS
               description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
@@ -3368,13 +3372,14 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-03-22T13:50:00.000Z
-          - item:
+          - logo: security-reference-data.svg
             name: Commodities Reference Data
-            homepage_url: https://github.com/finos/secref-data
+            item: null
             project: incubating
+            homepage_url: http://github.com/finos/secref-data
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/commodrefdata
-            logo: security-reference-data.svg
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            license: CSLA 1.0
             crunchbase_data:
               name: FINOS
               description: FINOS is a non-profit foundation with Wall Street roots, setting out to build a new open source innovation model for fintech.
