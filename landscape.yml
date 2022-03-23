@@ -141,7 +141,8 @@ landscape:
       - subcategory:
         name: Synthetic Data
         items:
-          - logo: datahelix.svg
+          - license: Apache License 2.0
+            logo: datahelix.svg
             name: Data Helix
             item:
             project: incubating
