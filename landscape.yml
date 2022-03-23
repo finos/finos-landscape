@@ -111,7 +111,8 @@ landscape:
       - subcategory:
         name: Tick & Reference
         items:
-          - logo: currency-reference-data.svg
+          - license: CSLA 1.0
+            logo: currency-reference-data.svg
             name: Currency Reference Data
             item:
             project: incubating
@@ -210,7 +211,8 @@ landscape:
       - subcategory:
         name: Models
         items:
-          - logo: financial-objects.svg
+          - license: CSLA 1.0
+            logo: financial-objects.svg
             name: Financial Objects
             item:
             project: sig
@@ -224,14 +226,16 @@ landscape:
             homepage_url: https://github.com/finos/glue
             repo_url: https://github.com/finos/glue
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: fo-product-control-common-template.svg
+          - license: CSLA 1.0
+            logo: fo-product-control-common-template.svg
             name: Product Control Common Template
             item:
             project: incubating
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: structured-products.svg
+          - license: CSLA 1.0
+            logo: structured-products.svg
             name: Structured Products
             item:
             project: incubating
@@ -264,7 +268,8 @@ landscape:
       - subcategory:
         name: Interop
         items:
-          - logo: fdc3.svg
+          - license: FINOS IP Policy
+            logo: fdc3.svg
             name: FDC3
             item:
             project: active
@@ -425,14 +430,16 @@ landscape:
       - subcategory:
         name: Modeling Initiatives
         items:
-          - logo: fo-commodities-payout.svg
+          - license: CSLA 1.0
+            logo: fo-commodities-payout.svg
             name: Commodities Payout
             item:
             project: incubating
             homepage_url: http://fo.finos.org
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/cdm
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: security-reference-data.svg
+          - license: CSLA 1.0
+            logo: security-reference-data.svg
             name: Commodities Reference Data
             item:
             project: incubating
