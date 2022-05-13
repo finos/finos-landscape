@@ -188,6 +188,8 @@ landscape:
               - repo_url: https://github.com/finos/legend-juju-libs
               - repo_url: https://github.com/finos/legend-juju-sdlc-server-operator
               - repo_url: https://github.com/finos/legend-juju-studio-operator
+              - repo_url: https://github.com/finos/legend-persistence
+              - repo_url: https://github.com/finos/legend-delta
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
