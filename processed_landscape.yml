@@ -1282,7 +1282,7 @@ landscape:
                   value: 23846797
                   color: '#b07219'
                 - name: TypeScript
-                  value: 9355434
+                  value: 9346891
                   color: '#2b7489'
                 - name: HTML
                   value: 3260619
@@ -1405,7 +1405,7 @@ landscape:
             github_data:
               languages:
                 - name: Elm
-                  value: 4751962
+                  value: 4757262
                   color: '#60B5CC'
                 - name: HTML
                   value: 3599052
@@ -1440,7 +1440,7 @@ landscape:
                 - name: Forth
                   value: 38
                   color: '#341708'
-              contributions: 37;10;30;25;11;36;19;17;4;3;7;13;11;2;23;18;56;13;9;18;23;33;47;58;27;5;11;4;8;11;0;7;0;7;3;1;9;56;58;44;36;41;64;34;38;30;18;20;32;16;51;10
+              contributions: 37;10;30;25;11;36;19;17;4;3;7;13;11;2;23;18;56;13;9;18;23;33;47;58;27;5;11;4;8;11;0;7;0;7;3;1;9;56;58;44;36;41;64;34;38;30;18;20;32;16;52;10
               firstWeek: 2021-06-06Z
               stars: 147
               license: Apache License 2.0
@@ -1510,7 +1510,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 2103978
+                  value: 2110989
                   color: '#b07219'
                 - name: Python
                   value: 509934
@@ -1538,8 +1538,8 @@ landscape:
               stars: 20
               license: Apache License 2.0
               description: A next-generation data and analytics platform for use in highly regulated environments
-              latest_commit_date: '2022-05-25T13:58:27Z'
-              latest_commit_link: /finos/tracdap/commit/2bc2b42ea27eb6685ff5aeba02d7f39f5bdd0fbb
+              latest_commit_date: '2022-05-30T16:13:27Z'
+              latest_commit_link: /finos/tracdap/commit/0bdd966ea1496f87588e1b83f57f66ea93d51f9e
               release_date: '2022-05-25T10:20:37Z'
               release_link: https://github.com/finos/tracdap/releases
               contributors_count: 4
@@ -1950,7 +1950,7 @@ landscape:
                   value: 586
               contributions: 0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;0;0;0;0;0;0;12;0;1;6;1;0;0
               firstWeek: 2021-06-06Z
-              stars: 115
+              stars: 116
               license: LGPL 2.1
               description: >-
                 OpenMAMA is an open source project that provides a high performance middleware agnostic messaging API that interfaces with a variety of
@@ -1963,7 +1963,7 @@ landscape:
               contributors_link: https://github.com/finos/openMAMA/graphs/contributors
             repos:
               - url: https://github.com/finos/openMAMA
-                stars: 111
+                stars: 112
               - url: https://github.com/finos/openMAMA-testdata
                 stars: 3
               - url: https://github.com/finos/openmama.github.io
@@ -2463,7 +2463,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 832825
+                  value: 833416
                   color: '#2b7489'
                 - name: C#
                   value: 482643
@@ -2507,13 +2507,13 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 2;24;4;1;2;0;1;0;2;10;6;0;2;3;12;9;5;3;3;9;6;22;7;1;4;3;5;2;0;2;3;4;3;4;3;7;4;4;1;2;0;3;0;1;7;5;3;2;3;9;3;0
+              contributions: 2;24;4;1;2;0;1;0;2;10;6;0;2;3;12;9;5;3;3;9;6;22;7;1;4;3;5;2;0;2;3;4;3;4;3;7;4;4;1;2;0;3;0;1;7;5;3;2;3;10;3;0
               firstWeek: 2021-06-06Z
               stars: 78
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
-              latest_commit_date: '2022-05-19T02:31:54Z'
-              latest_commit_link: /finos/SymphonyElectron/commit/e258aa3460b0c2958eb147ee5488f8e2ec78792a
+              latest_commit_date: '2022-05-30T06:16:32Z'
+              latest_commit_link: /finos/SymphonyElectron/commit/266e7a3aee42ce46838c79af4a351fe6d9d37035
               release_date: '2022-02-14T09:08:34Z'
               release_link: https://github.com/finos/SymphonyElectron/releases
               contributors_count: 31
@@ -3144,7 +3144,7 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 2121641
+                  value: 2130340
                   color: '#f34b7d'
                 - name: CMake
                   value: 22272
@@ -3167,8 +3167,8 @@ landscape:
               description: >-
                 The Symphony Media Bridge (SMB) is a media server application that handles audio, video and screen sharing media streams in an RTC conference
                 system.
-              latest_commit_date: '2022-05-24T12:07:14Z'
-              latest_commit_link: /finos/SymphonyMediaBridge/commit/694859493efa7f197a4b3470151eec247200728f
+              latest_commit_date: '2022-05-30T10:42:54Z'
+              latest_commit_link: /finos/SymphonyMediaBridge/commit/9daceb5d3fa1eb6012fa49944ed2effaf5039990
               release_date: '2021-12-01T14:07:03Z'
               release_link: https://github.com/finos/SymphonyMediaBridge/releases
               contributors_count: 6
@@ -3489,4 +3489,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1490388520334245888'
-updated_at: 2022-05-30T00:54:26.733Z
+updated_at: 2022-05-30T17:01:55.782Z
