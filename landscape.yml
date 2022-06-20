@@ -78,6 +78,16 @@ landscape:
             repo_url: https://github.com/finos/reference-foss-policy
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
+        name: DEI
+        items:
+          - logo: dei-sig.svg
+            name: Diversity Equity & Inclusion Special Interest Group
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/DEI-SIG
+            repo_url: https://github.com/finos/DEI-SIG
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
         name: Regulation
         items:
           - logo: regulation-innovation.svg
