@@ -204,6 +204,8 @@ landscape:
               - repo_url: https://github.com/finos/morphir-service
               - repo_url: https://github.com/finos/morphir-bosque
               - repo_url: https://github.com/finos/morphir-examples
+              - repo_url: https://github.com/finos/morphir-mps
+              - repo_url: https://github.com/finos/morphir4s
             project: incubating
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
@@ -314,6 +316,14 @@ landscape:
             project: active
             homepage_url: https://fdc3.finos.org
             repo_url: https://github.com/finos/fdc3
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: Apache License 2.0
+            logo: finos.svg
+            name: FDC3 Conformance Framework
+            item:
+            project: incubating
+            homepage_url: https://fdc3.finos.org
+            repo_url: https://github.com/finos/FDC3-conformance-framework
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: fdc3-desktop-agent.svg
             name: FDC3 Desktop Agent
