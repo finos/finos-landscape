@@ -46,7 +46,7 @@ landscape:
                 - name: Shell
                   value: 155
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 43
               license: Apache License 2.0
@@ -108,9 +108,9 @@ landscape:
                 - name: Shell
                   value: 7145
                   color: '#89e051'
-              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;4;6;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;10;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
-              stars: 38
+              stars: 39
               license: Apache License 2.0
               description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry .
               latest_commit_date: '2022-03-17T13:39:43Z'
@@ -119,7 +119,7 @@ landscape:
               contributors_link: https://github.com/finos/open-developer-platform/graphs/contributors
             repos:
               - url: https://github.com/finos/open-developer-platform
-                stars: 38
+                stars: 39
             github_start_commit_data:
               start_commit_link: /finos/open-developer-platform/commit/9d2e2b1261637799542bbdeaa58050a79a402e16
               start_date: '2018-08-20T12:51:46Z'
@@ -174,7 +174,7 @@ landscape:
                 - name: Shell
                   value: 523
                   color: '#89e051'
-              contributions: 1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 1;1;2;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 23
               license: Apache License 2.0
@@ -299,7 +299,7 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;2;0;10;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;5;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;2;10;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 35
               license: Apache License 2.0
@@ -366,7 +366,7 @@ landscape:
                 - name: Dockerfile
                   value: 968
                   color: '#384d54'
-              contributions: 0;0;2;1;1;0;0;0;23;5;1;0;0;0;0;5;0;0;0;7;1;3;8;0;0;0;0;0;2;0;0;0;6;0;0;2;0;0;0;6;0;0;0;1;0;0;0;0;0;0;0;0
+              contributions: 0;0;2;2;0;0;0;16;12;1;0;0;0;0;3;2;0;0;7;0;1;3;8;0;0;0;0;2;0;0;0;6;0;0;0;2;0;0;0;6;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 12
               license: Apache License 2.0
@@ -442,7 +442,7 @@ landscape:
                 - name: Shell
                   value: 1691
                   color: '#89e051'
-              contributions: 0;1;1;1;0;0;0;0;3;8;14;0;0;0;0;0;0;0;1;2;0;0;3;3;0;2;2;0;0;0;0;13;8;0;0;3;0;12;1;11;0;0;0;0;3;3;11;4;12;2;3;0
+              contributions: 0;1;1;1;0;0;0;0;3;8;14;0;0;0;0;0;0;0;2;1;0;1;5;0;0;2;2;0;0;0;1;20;0;0;2;1;7;6;1;10;0;0;0;0;3;4;14;6;6;2;3;0
               firstWeek: 2021-09-05Z
               stars: 20
               license: Apache License 2.0
@@ -640,7 +640,7 @@ landscape:
                 - name: CSS
                   value: 7364
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;8;0;0;0;0;0;0;0;0;0;0;5;0;0;1;0;2;2;0;0;1;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;0;0;0;0;0;0;0;0;0;0;5;0;0;0;1;0;2;2;0;0;1;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 1
               license: Apache License 2.0
@@ -770,7 +770,7 @@ landscape:
                 - name: Shell
                   value: 541
                   color: '#89e051'
-              contributions: 0;0;0;3;0;3;17;2;14;6;4;20;0;3;2;0;0;0;0;2;3;10;6;3;1;4;0;2;3;1;2;20;0;8;0;3;0;3;0;7;0;13;9;9;21;16;12;1;3;1;4;1
+              contributions: 0;0;0;3;0;3;17;2;14;6;9;15;2;3;0;0;0;0;0;4;1;12;4;3;2;3;0;2;3;1;2;20;0;8;0;3;0;3;0;7;0;13;11;8;20;18;10;1;3;1;5;0
               firstWeek: 2021-09-05Z
               stars: 70
               license: Apache License 2.0
@@ -853,7 +853,7 @@ landscape:
                   value: 1338
                   color: '#384d54'
               contributions: >-
-                0;17;26;26;20;59;38;43;49;40;11;45;21;11;19;5;19;7;20;37;52;52;22;19;21;29;34;18;6;25;4;12;18;11;18;33;42;27;28;14;19;32;18;29;33;22;34;53;12;13;7;27
+                3;21;22;29;37;51;25;52;43;36;19;43;16;9;19;19;5;7;30;42;47;46;24;15;24;40;21;15;7;24;8;9;17;11;18;43;45;19;28;18;12;35;15;34;31;28;33;46;10;16;5;25
               firstWeek: 2021-09-05Z
               stars: 129
               license: Apache License 2.0
@@ -919,7 +919,7 @@ landscape:
                 - Web Development
             github_data:
               languages: []
-              contributions: 0;0;0;1;0;0;0;0;23;0;5;0;0;0;0;1;0;0;0;9;6;14;0;5;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;1;0;0;0;0;23;0;5;0;0;0;0;1;0;0;0;9;6;14;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 2
               license: Unknown License
@@ -999,7 +999,7 @@ landscape:
                 - name: Batchfile
                   value: 71
                   color: '#C1F12E'
-              contributions: 12;12;9;6;6;7;13;8;5;1;15;9;4;2;16;6;2;0;0;2;16;5;4;4;6;4;5;5;12;2;0;2;6;5;1;0;1;2;0;0;8;6;7;9;0;0;0;0;0;4;0;0
+              contributions: 15;11;7;7;5;9;13;7;4;3;16;9;1;2;18;4;2;0;0;3;15;5;4;4;8;3;6;5;10;2;0;2;7;4;1;0;1;2;0;0;8;7;11;4;0;0;0;0;0;4;0;0
               firstWeek: 2021-09-05Z
               stars: 50
               license: Apache License 2.0
@@ -1348,7 +1348,7 @@ landscape:
                   value: 24719203
                   color: '#b07219'
                 - name: TypeScript
-                  value: 9961798
+                  value: 9977751
                   color: '#2b7489'
                 - name: HTML
                   value: 3259589
@@ -1357,7 +1357,7 @@ landscape:
                   value: 1286119
                   color: '#f1e05a'
                 - name: SCSS
-                  value: 551331
+                  value: 551736
                 - name: Python
                   value: 520521
                   color: '#3572A5'
@@ -1387,7 +1387,7 @@ landscape:
                 - name: Smarty
                   value: 1772
               contributions: >-
-                53;42;61;39;89;39;46;73;87;29;28;51;49;33;38;33;4;10;45;27;33;69;30;97;18;47;50;28;23;89;51;90;58;39;26;48;31;58;27;49;54;27;85;64;38;84;47;36;60;13;78;59
+                40;56;48;64;71;34;78;41;96;17;35;59;34;35;35;34;3;9;46;26;45;59;55;75;13;56;44;34;33;88;39;95;52;37;25;53;26;65;19;50;57;25;98;49;47;86;47;25;59;27;69;59
               firstWeek: 2021-09-05Z
               stars: 861
               license: Apache License 2.0
@@ -1485,7 +1485,7 @@ landscape:
                   value: 3599186
                   color: '#e34c26'
                 - name: JavaScript
-                  value: 1075415
+                  value: 1076129
                   color: '#f1e05a'
                 - name: Scala
                   value: 941626
@@ -1514,7 +1514,7 @@ landscape:
                 - name: GLSL
                   value: 38
               contributions: >-
-                2;23;18;56;13;9;18;23;33;47;58;27;5;11;4;8;11;0;12;4;12;3;8;22;60;79;51;41;49;70;41;40;37;24;22;32;16;57;51;44;24;39;37;56;22;27;47;86;10;21;17;32
+                13;12;22;58;8;10;16;31;33;44;53;27;7;9;4;8;11;7;5;8;8;3;12;22;70;71;49;44;55;66;45;38;26;29;19;37;22;49;56;34;29;44;33;56;24;27;85;40;21;10;20;37
               firstWeek: 2021-09-05Z
               stars: 150
               license: Apache License 2.0
@@ -1589,7 +1589,7 @@ landscape:
                   value: 2116024
                   color: '#b07219'
                 - name: Python
-                  value: 567294
+                  value: 567303
                   color: '#3572A5'
                 - name: JavaScript
                   value: 14552
@@ -1609,13 +1609,13 @@ landscape:
                 - name: Dockerfile
                   value: 524
                   color: '#384d54'
-              contributions: 3;2;4;0;0;0;0;2;0;1;0;1;1;6;1;2;0;0;0;2;2;2;0;1;1;0;1;8;10;0;0;4;0;0;0;1;0;0;3;2;3;0;2;2;0;1;1;5;0;0;1;3
+              contributions: 4;3;2;0;0;0;0;2;0;1;0;1;2;5;1;2;0;0;1;1;3;1;0;1;1;0;4;7;8;0;0;4;0;0;0;1;0;0;4;1;3;0;2;2;0;2;1;4;0;0;1;4
               firstWeek: 2021-09-05Z
               stars: 21
               license: Apache License 2.0
               description: A next-generation data and analytics platform for use in highly regulated environments
-              latest_commit_date: '2022-08-25T09:56:46Z'
-              latest_commit_link: /finos/tracdap/commit/6da84698ac0549534e2d9b2800eb160139993751
+              latest_commit_date: '2022-08-29T12:35:49Z'
+              latest_commit_link: /finos/tracdap/commit/ce44759078e2d9a296783dc93911501f85ab4d9a
               release_date: '2022-08-25T10:41:43Z'
               release_link: https://github.com/finos/tracdap/releases
               contributors_count: 5
@@ -1916,7 +1916,7 @@ landscape:
                 - name: HTML
                   value: 356
                   color: '#e34c26'
-              contributions: 0;0;0;0;2;1;0;0;2;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;17;0;4;0;2;0;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0
+              contributions: 0;0;0;2;0;1;0;0;2;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;1;17;1;3;0;2;0;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 47
               license: Apache License 2.0
@@ -2024,7 +2024,7 @@ landscape:
                   color: '#384d54'
                 - name: M4
                   value: 586
-              contributions: 0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;0;0;0;0;0;0;12;0;1;6;1;0;0;1;19;5;7;1;0;0;0;8;4;0;0;0
+              contributions: 0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;0;0;0;0;0;0;12;0;1;6;1;0;1;4;15;5;7;1;0;0;0;12;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 116
               license: LGPL 2.1
@@ -2107,7 +2107,7 @@ landscape:
                 - name: CSS
                   value: 893
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;17;14;0;26;5;7;7;9;0;2;2;0;4;0;2;2;2;0;1;5;1;0;1;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6;21;9;3;24;4;7;7;9;0;2;2;0;4;0;2;3;1;0;2;4;1;1;0;0;0
               firstWeek: 2021-09-05Z
               stars: 15
               license: Apache License 2.0
@@ -2284,7 +2284,7 @@ landscape:
                 - name: PowerShell
                   value: 116
                   color: '#012456'
-              contributions: 3;12;9;5;3;3;9;6;22;7;1;4;3;5;2;0;2;3;4;3;4;3;7;4;4;1;2;0;3;0;1;7;5;3;2;3;10;3;0;2;0;3;0;0;2;4;3;8;3;4;1;3
+              contributions: 5;10;9;5;3;3;11;10;16;7;2;4;3;5;1;0;2;3;5;2;4;5;5;4;4;2;1;0;3;0;1;8;4;3;2;4;10;2;1;1;0;3;0;0;3;3;4;7;4;3;1;3
               firstWeek: 2021-09-05Z
               stars: 78
               license: Apache License 2.0
@@ -2370,7 +2370,7 @@ landscape:
                 - name: Shell
                   value: 25
                   color: '#89e051'
-              contributions: 1;2;9;17;15;27;15;3;4;5;24;14;17;3;2;6;27;0;12;6;23;14;21;5;8;29;21;14;10;12;19;12;3;45;30;24;61;71;69;14;21;12;17;2;2;9;6;7;10;0;0;12
+              contributions: 1;2;10;16;15;29;13;3;7;2;25;19;11;3;6;2;27;0;15;11;16;13;22;4;23;21;16;17;9;10;24;5;3;48;27;30;68;69;61;16;17;16;12;2;6;5;7;6;10;0;8;4
               firstWeek: 2021-09-05Z
               stars: 121
               license: Apache License 2.0
@@ -2431,10 +2431,10 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 13027
+                  value: 14350
                   color: '#2b7489'
                 - name: HTML
-                  value: 1885
+                  value: 2297
                   color: '#e34c26'
                 - name: JavaScript
                   value: 1613
@@ -2442,13 +2442,13 @@ landscape:
                 - name: CSS
                   value: 391
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;3;3;16;1;2;4;2;1;0;0;1;0;1;1
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;2;5;14;2;5;0;2;1;0;0;1;1;0;2
               firstWeek: 2021-09-05Z
               stars: 2
               license: Apache License 2.0
               description: A framework for testing whether desktop containers implement the FDC3 standard
-              latest_commit_date: '2022-08-26T09:48:52Z'
-              latest_commit_link: /finos/FDC3-conformance-framework/commit/93e814307e2919ab869914a9e02e6d7b58320889
+              latest_commit_date: '2022-08-30T08:48:04Z'
+              latest_commit_link: /finos/FDC3-conformance-framework/commit/146b281c46e89254c34849e63d6bef5f0e05fb1d
               contributors_count: 8
               contributors_link: https://github.com/finos/FDC3-conformance-framework/graphs/contributors
             repos:
@@ -2511,7 +2511,7 @@ landscape:
                 - name: HTML
                   value: 3242
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;5;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 16
               license: Apache License 2.0
@@ -2569,7 +2569,7 @@ landscape:
             github_data:
               languages:
                 - name: C#
-                  value: 2852420
+                  value: 2852469
                   color: '#178600'
                 - name: TypeScript
                   value: 1214565
@@ -2594,13 +2594,13 @@ landscape:
                 - name: Shell
                   value: 411
                   color: '#89e051'
-              contributions: 0;15;56;5;4;0;0;3;7;12;24;0;3;6;0;0;0;0;0;0;4;2;6;11;2;6;17;0;1;5;12;0;0;0;0;0;0;5;6;0;8;7;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;16;57;3;4;0;0;6;7;16;17;0;5;4;0;0;0;0;0;0;4;3;5;12;3;8;13;0;1;7;10;0;0;0;0;0;3;2;6;1;7;7;0;0;0;0;1;0;0;0;1;4
               firstWeek: 2021-09-05Z
               stars: 260
               license: Apache License 2.0
               description: Plexus Interop open source project hosted by the Fintech Open Source Foundation
-              latest_commit_date: '2022-06-17T12:58:30Z'
-              latest_commit_link: /finos/plexus-interop/commit/4089a00862950a4f830579d3bd2fbb462585886a
+              latest_commit_date: '2022-08-29T11:53:01Z'
+              latest_commit_link: /finos/plexus-interop/commit/6cf9caca4ad08fb3c823258e7fd870c5b8ae5d09
               release_date: '2021-08-18T12:52:54Z'
               release_link: https://github.com/finos/plexus-interop/releases
               contributors_count: 18
@@ -2669,7 +2669,7 @@ landscape:
                   color: '#f1e05a'
                 - name: Fluent
                   value: 6
-              contributions: 6;23;6;11;12;3;32;21;10;7;7;2;24;33;10;4;0;0;7;0;4;23;13;5;1;4;16;2;10;0;1;6;7;8;16;0;9;0;2;0;4;5;16;1;4;1;0;3;8;1;2;0
+              contributions: 8;24;6;13;7;5;30;27;4;13;1;2;28;29;10;4;0;0;7;0;4;23;13;5;1;7;14;1;10;0;1;6;8;10;13;0;9;0;2;4;0;6;15;1;4;1;0;5;6;1;2;0
               firstWeek: 2021-09-05Z
               stars: 35
               license: Apache License 2.0
@@ -2939,7 +2939,7 @@ landscape:
                 - name: Ruby
                   value: 467
                   color: '#701516'
-              contributions: 0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 19
               license: Apache License 2.0
@@ -3001,7 +3001,7 @@ landscape:
                 - name: Java
                   value: 1138452
                   color: '#b07219'
-              contributions: 0;2;3;0;0;0;0;0;13;7;0;7;0;0;0;13;6;0;0;6;0;0;0;0;18;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+              contributions: 0;2;3;0;0;0;0;0;13;7;0;7;0;0;5;8;6;0;0;6;0;0;0;4;14;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 9
               license: Apache License 2.0
@@ -3065,7 +3065,7 @@ landscape:
                 - name: Shell
                   value: 961
                   color: '#89e051'
-              contributions: 0;2;0;0;0;1;0;0;1;2;0;0;0;1;0;0;0;0;0;1;0;0;2;0;2;3;2;0;0;2;0;2;0;1;1;3;0;1;0;0;0;0;0;0;0;1;0;0;1;1;0;0
+              contributions: 0;2;0;0;0;1;0;0;1;2;0;0;0;1;0;0;0;0;0;1;0;0;2;0;2;3;2;0;2;0;0;2;0;1;1;3;0;1;0;0;0;0;0;0;1;0;0;0;1;1;0;0
               firstWeek: 2021-09-05Z
               stars: 12
               license: Apache License 2.0
@@ -3146,7 +3146,7 @@ landscape:
                 - name: Dockerfile
                   value: 54
                   color: '#384d54'
-              contributions: 2;1;2;1;1;1;2;1;1;1;1;2;0;2;3;5;2;0;4;5;1;4;2;0;4;1;0;3;6;3;4;1;0;0;4;2;1;3;2;3;1;3;0;0;0;0;0;0;0;1;0;1
+              contributions: 2;1;2;1;2;1;2;0;1;1;2;1;1;1;3;7;0;0;4;6;1;5;0;3;1;1;0;6;5;1;5;0;0;0;4;3;0;3;2;3;1;3;0;0;0;0;0;0;0;1;1;0
               firstWeek: 2021-09-05Z
               stars: 19
               license: Apache License 2.0
@@ -3219,7 +3219,7 @@ landscape:
                 - name: Makefile
                   value: 634
                   color: '#427819'
-              contributions: 0;1;2;0;0;2;0;0;0;0;2;1;3;4;0;3;0;0;0;5;0;2;0;0;6;1;1;2;2;5;7;9;0;0;2;5;0;2;1;5;1;2;1;2;1;0;2;0;0;0;1;0
+              contributions: 0;1;2;0;0;2;0;0;0;0;3;0;7;0;1;2;0;0;2;3;0;2;0;2;4;1;2;1;2;10;5;6;0;0;2;5;0;2;1;5;2;1;1;2;1;0;2;0;0;0;1;0
               firstWeek: 2021-09-05Z
               stars: 24
               license: Apache License 2.0
@@ -3303,7 +3303,7 @@ landscape:
                 - name: CSS
                   value: 262
                   color: '#563d7c'
-              contributions: 0;1;3;7;1;0;2;0;2;0;0;0;0;0;0;1;0;0;1;5;3;1;2;7;1;0;0;0;0;0;4;0;0;0;0;0;0;2;0;0;0;3;1;0;0;1;0;2;0;0;0;0
+              contributions: 0;1;3;7;1;0;2;2;0;0;0;0;0;0;1;0;0;0;2;4;3;1;2;7;1;0;0;0;0;3;1;0;0;0;0;0;0;2;0;0;0;3;1;0;0;1;1;1;0;0;0;0
               firstWeek: 2021-09-05Z
               stars: 7
               license: Apache License 2.0
@@ -3363,7 +3363,7 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 2356684
+                  value: 2356648
                   color: '#f34b7d'
                 - name: CMake
                   value: 23824
@@ -3379,22 +3379,22 @@ landscape:
                 - name: C
                   value: 955
                   color: '#555555'
-              contributions: 0;0;0;0;0;0;0;7;2;6;9;2;1;6;5;1;0;0;0;0;2;2;0;3;0;1;3;1;1;0;16;3;2;3;2;6;2;3;2;6;1;0;0;1;4;2;6;1;1;5;4;7
+              contributions: 0;0;0;0;0;0;2;5;2;6;9;2;2;5;5;1;0;0;0;0;2;2;0;3;0;2;2;2;0;5;12;2;2;3;2;8;0;4;3;4;1;0;0;2;3;5;3;1;3;3;6;6
               firstWeek: 2021-09-05Z
-              stars: 11
+              stars: 12
               license: Apache License 2.0
               description: >-
                 The Symphony Media Bridge (SMB) is a media server application that handles audio, video and screen sharing media streams in an RTC conference
                 system.
-              latest_commit_date: '2022-08-26T08:56:45Z'
-              latest_commit_link: /finos/SymphonyMediaBridge/commit/608aef4d42ed7bfe3affceb4aef9cde5d2116a37
+              latest_commit_date: '2022-08-29T18:23:40Z'
+              latest_commit_link: /finos/SymphonyMediaBridge/commit/e93a5a6a1b019f5c80891087642a4f3d33848900
               release_date: '2021-12-01T14:07:03Z'
               release_link: https://github.com/finos/SymphonyMediaBridge/releases
               contributors_count: 7
               contributors_link: https://github.com/finos/SymphonyMediaBridge/graphs/contributors
             repos:
               - url: https://github.com/finos/SymphonyMediaBridge
-                stars: 11
+                stars: 12
             github_start_commit_data:
               start_commit_link: /finos/SymphonyMediaBridge/commit/cc9a80dcc966d83f0c8e6f9b533390d3e1c74038
               start_date: '2021-10-18T07:35:15Z'
@@ -3446,14 +3446,14 @@ landscape:
                 - name: FreeMarker
                   value: 3994
                   color: '#0050b2'
-              contributions: 15;6;23;28;22;5;6;4;20;2;5;1;10;18;2;0;0;2;0;0;2;0;0;1;0;0;1;1;8;3;1;2;0;0;0;0;2;0;0;1;0;5;1;1;0;0;2;0;0;0;2;2
+              contributions: 12;4;31;30;13;5;7;3;18;3;4;2;12;15;2;0;0;2;0;0;2;0;0;1;0;0;2;1;7;3;1;2;0;0;0;0;2;0;0;1;0;5;1;1;0;0;2;0;0;0;2;2
               firstWeek: 2021-09-05Z
               stars: 1
               license: Apache License 2.0
               description: Symphony Workflow Developer Kit (WDK), a bot capable of running workflows
               latest_commit_date: '2022-08-26T12:03:14Z'
               latest_commit_link: /finos/symphony-wdk/commit/9d0c0bd4a097751adb666714cf2465d5fb6753da
-              release_date: '2022-06-02T12:58:00Z'
+              release_date: '2022-08-29T09:44:13Z'
               release_link: https://github.com/finos/symphony-wdk/releases
               contributors_count: 12
               contributors_link: https://github.com/finos/symphony-wdk/graphs/contributors
@@ -3514,18 +3514,18 @@ landscape:
                   value: 1516786
                   color: '#f34b7d'
                 - name: JavaScript
-                  value: 699682
+                  value: 699647
                   color: '#f1e05a'
                 - name: Rust
-                  value: 595025
+                  value: 598504
                   color: '#dea584'
                 - name: Python
                   value: 276648
                   color: '#3572A5'
                 - name: Less
-                  value: 137346
+                  value: 137305
                 - name: TypeScript
-                  value: 52477
+                  value: 52449
                   color: '#2b7489'
                 - name: HTML
                   value: 4266
@@ -3536,18 +3536,18 @@ landscape:
                 - name: Shell
                   value: 490
                   color: '#89e051'
-              contributions: 21;16;26;41;20;13;27;13;21;3;0;31;27;26;34;20;13;6;9;2;8;11;10;1;3;9;39;29;20;0;2;0;4;9;14;0;14;7;5;2;25;18;7;11;20;12;9;23;12;4;0;12
+              contributions: 23;18;27;35;20;15;25;16;18;3;0;47;23;20;33;17;11;6;9;2;8;14;7;1;4;12;35;41;8;1;1;0;10;5;12;2;15;4;6;9;20;15;10;23;12;6;13;19;11;4;5;9
               firstWeek: 2021-09-05Z
-              stars: 4816
+              stars: 4818
               license: Apache License 2.0
               description: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-              latest_commit_date: '2022-08-26T15:51:05Z'
-              latest_commit_link: /finos/perspective/commit/40dcab4d154cd86db83d2da3bbc910036d1f7b82
+              latest_commit_date: '2022-08-30T06:50:53Z'
+              latest_commit_link: /finos/perspective/commit/cbb25cf12bb864d8f99c7e1dd6645134037134dd
               contributors_count: 72
               contributors_link: https://github.com/finos/perspective/graphs/contributors
             repos:
               - url: https://github.com/finos/perspective
-                stars: 4816
+                stars: 4818
             github_start_commit_data:
               start_commit_link: /finos/perspective/commit/617dc2213131f78eb6e09221a6d3e3a84b333432
               start_date: '2017-11-02T16:27:55Z'
@@ -3710,4 +3710,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1490388520334245888'
-updated_at: 2022-08-29T09:11:10.317Z
+updated_at: 2022-08-30T09:14:49.702Z
