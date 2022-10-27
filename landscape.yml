@@ -13,6 +13,13 @@ landscape:
             homepage_url: https://finos.github.io/cla-bot
             repo_url: https://github.com/finos/cla-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: finos-security-scanning.svg
+            name: FINOS Security Scanning
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/security-scanning
+            repo_url: https://github.com/finos/security-scanning
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: open-developer-platform.svg
             name: Open Developer Platform
             item:
@@ -90,6 +97,13 @@ landscape:
       - subcategory:
         name: Regulation
         items:
+          - logo: open-reg-tech-us-lcr.svg
+            name: Open Reg Tech US LCR
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/open-reg-tech-us-lcr
+            repo_url: https://github.com/finos/open-reg-tech-us-lcr
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: regulation-innovation.svg
             name: Regulation Innovation Special Interest Group
             item:
@@ -107,7 +121,9 @@ landscape:
             name: Compliant Financial Infrastructure
             item:
             additional_repos:
-              - repo_url: https://github.com/finos/terraform-aws-eks_cdmc
+              - repo_url: https://github.com/finos/terraform-aws-cfi-eks
+              - repo_url: https://github.com/finos/cfi-terraform-template-child-module
+              - repo_url: https://github.com/finos/cfi-terraform-gcp-ocp
             project: incubating
             homepage_url: https://github.com/finos/compliant-financial-infrastructure
             repo_url: https://github.com/finos/compliant-financial-infrastructure
@@ -199,7 +215,7 @@ landscape:
               - repo_url: https://github.com/finos/legend-juju-sdlc-server-operator
               - repo_url: https://github.com/finos/legend-juju-studio-operator
               - repo_url: https://github.com/finos/legend-persistence
-              - repo_url: https://github.com/finos/legend-delta
+              - repo_url: https://github.com/finos/legend-community-delta
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
@@ -214,8 +230,8 @@ landscape:
               - repo_url: https://github.com/finos/morphir-service
               - repo_url: https://github.com/finos/morphir-bosque
               - repo_url: https://github.com/finos/morphir-examples
-              - repo_url: https://github.com/finos/morphir-mps
-              - repo_url: https://github.com/finos/morphir4s
+              - repo_url: https://github.com/finos/morphir-editor
+              - repo_url: https://github.com/finos/morphir-scala
             project: incubating
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
@@ -288,7 +304,7 @@ landscape:
       - subcategory:
         name: Containers
         items:
-          - logo: finos.svg
+          - logo: fdc3-electron.svg
             name: Electron FDC3 Desktop Agent & App Directory
             item:
             project: incubating
@@ -328,7 +344,7 @@ landscape:
             repo_url: https://github.com/finos/fdc3
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - license: Apache License 2.0
-            logo: finos.svg
+            logo: fdc3-conformance.svg
             name: FDC3 Conformance Framework
             item:
             project: incubating
