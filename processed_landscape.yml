@@ -46,8 +46,8 @@ landscape:
                 - name: TypeScript
                   value: 5867
                   color: '#2b7489'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;22;37;16
-              firstWeek: 2021-11-28Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;19;37;16
+              firstWeek: 2021-12-05Z
               stars: 0
               license: Apache License 2.0
               description: FDC3 Desktop Agent Bridge
@@ -119,8 +119,8 @@ landscape:
                 - name: Shell
                   value: 25
                   color: '#89e051'
-              contributions: 3;2;6;26;1;12;4;24;15;21;5;7;28;23;14;9;13;19;11;4;44;31;24;60;72;69;14;21;12;17;2;2;9;6;7;10;0;0;13;4;1;6;5;0;5;2;3;14;3;41;10;21
-              firstWeek: 2021-11-28Z
+              contributions: 3;2;6;26;1;12;5;24;14;21;5;8;29;21;14;9;13;19;12;3;45;30;24;61;71;69;14;21;12;17;2;2;9;6;7;10;0;0;13;4;1;6;5;0;5;2;3;14;3;41;10;21
+              firstWeek: 2021-12-05Z
               stars: 125
               license: Apache License 2.0
               description: An open standard for the financial desktop.
@@ -192,7 +192,7 @@ landscape:
                   value: 390
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;3;3;16;1;2;4;2;0;1;0;1;0;1;2;18;15;33;8;1;14;13;11;13;27;31;97;77
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 6
               license: Apache License 2.0
               description: A framework for testing whether desktop containers implement the FDC3 standard
@@ -261,7 +261,7 @@ landscape:
                   value: 3242
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 17
               license: Apache License 2.0
               description: Chrome Extension implementation of an FDC3 Desktop Agent
@@ -340,8 +340,8 @@ landscape:
                 - name: CSS
                   value: 3543
                   color: '#563d7c'
-              contributions: 6;0;0;0;0;0;0;4;2;6;11;2;6;16;1;1;1;16;0;0;0;0;0;0;5;6;0;8;7;0;0;0;0;1;0;0;0;1;2;8;7;0;6;2;5;7;1;16;2;0;0;0
-              firstWeek: 2021-11-28Z
+              contributions: 6;0;0;0;0;0;0;4;2;6;11;2;6;17;0;1;5;12;0;0;0;0;0;0;5;6;0;8;7;0;0;0;0;1;0;0;0;1;2;8;7;0;6;2;5;7;1;16;2;0;0;0
+              firstWeek: 2021-12-05Z
               stars: 259
               license: Apache License 2.0
               description: Plexus Interop open source project hosted by the Fintech Open Source Foundation
@@ -416,7 +416,7 @@ landscape:
                 - name: Fluent
                   value: 6
               contributions: 36;10;4;0;0;7;0;4;23;13;5;1;2;17;3;10;0;1;6;7;8;16;0;9;0;2;0;4;5;16;1;5;1;0;3;8;1;3;1;4;1;0;3;2;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 39
               license: Apache License 2.0
               description: Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps
@@ -478,7 +478,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 218054
+                  value: 218735
                   color: '#2b7489'
                 - name: JavaScript
                   value: 11359
@@ -487,15 +487,15 @@ landscape:
                   value: 2512
                   color: '#e34c26'
                 - name: CSS
-                  value: 1949
+                  value: 1365
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;4;17;16;0;24;7;7;5;11;0;2;2;0;4;0;2;2;2;0;1;5;1;0;1;0;0;4;0;9;5;6;5;4;3;12;18;5;26;33
-              firstWeek: 2021-11-28Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;1;3;17;16;0;26;5;7;5;11;0;2;2;0;4;0;2;2;2;0;1;5;1;0;1;0;0;4;0;9;5;6;7;2;3;13;17;6;25;36
+              firstWeek: 2021-12-05Z
               stars: 16
               license: Apache License 2.0
               description: 'Open implementation of the FDC3 standard using Electron and an integrated App Directory. '
-              latest_commit_date: '2022-11-25T13:37:56Z'
-              latest_commit_link: /finos/FDC3-Sail/commit/42681cdd403c1f95dab516f80fe2322f2e3b5d6c
+              latest_commit_date: '2022-11-27T15:38:20Z'
+              latest_commit_link: /finos/FDC3-Sail/commit/27355923423799f758ec7b8d94c4019418774174
               release_date: '2022-03-16T12:31:33Z'
               release_link: https://github.com/finos/FDC3-Sail/releases
               contributors_count: 6
@@ -561,7 +561,7 @@ landscape:
                   value: 907
                   color: '#2b7489'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 14
               license: Apache License 2.0
               description: null
@@ -667,7 +667,7 @@ landscape:
                   value: 116
                   color: '#012456'
               contributions: 5;2;0;2;3;4;3;4;3;7;4;4;1;2;0;3;0;1;7;5;3;2;3;10;3;0;2;0;3;0;0;2;4;3;8;3;4;1;3;2;1;2;5;2;1;4;3;1;7;4;9;2
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 80
               license: Apache License 2.0
               description: A desktop client for the Symphony Collaboration Platform built using Electron
@@ -740,7 +740,7 @@ landscape:
                   value: 48332
                   color: '#2b7489'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 44
               license: Apache License 2.0
               description: A collection of React Hooks built on top of the Openfin API - from Scott Logic
@@ -811,7 +811,7 @@ landscape:
                   value: 155
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 44
               license: Apache License 2.0
               description: cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
@@ -899,8 +899,8 @@ landscape:
                 - name: Dockerfile
                   value: 43
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66;0;7;3;0;0;1;0;1;0;0;0;0;0;6;33;9;3;3;17;5
-              firstWeek: 2021-11-28Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66;0;7;3;0;0;1;0;1;0;0;0;0;0;6;33;9;5;2;17;4
+              firstWeek: 2021-12-05Z
               stars: 3
               license: Apache License 2.0
               description: How to protect FINOS hosted projects from security threats
@@ -960,7 +960,7 @@ landscape:
                   value: 7145
                   color: '#89e051'
               contributions: 0;0;3;7;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 39
               license: Apache License 2.0
               description: Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry .
@@ -1026,7 +1026,7 @@ landscape:
                   value: 523
                   color: '#89e051'
               contributions: 0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 29
               license: Apache License 2.0
               description: Source code secret scanner
@@ -1083,7 +1083,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 24
               license: Apache License 2.0
               description: >-
@@ -1150,8 +1150,8 @@ landscape:
                 - name: HTML
                   value: 3094
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;1;6;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;2;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;1;6;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;2;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-12-05Z
               stars: 37
               license: Apache License 2.0
               description: An info-security/compliance-friendly way for highly regulated industries to be more accepting of open source
@@ -1209,7 +1209,7 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 9040
+                  value: 9028
                   color: '#f1e05a'
                 - name: CSS
                   value: 7729
@@ -1217,16 +1217,16 @@ landscape:
                 - name: Dockerfile
                   value: 968
                   color: '#384d54'
-              contributions: 0;0;5;0;0;0;7;1;3;8;0;0;0;0;0;2;0;0;0;6;0;0;0;2;0;0;6;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              contributions: 0;0;5;0;0;0;7;1;3;8;0;0;0;0;0;2;0;0;0;6;0;0;0;2;0;0;6;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+              firstWeek: 2021-12-05Z
               stars: 14
               license: Apache License 2.0
               description: >-
                 The FINOS InnerSource SIG is a community of people implementing, or interested in implementing, InnerSource within their financial services
                 organization.
-              latest_commit_date: '2022-07-01T14:02:17Z'
-              latest_commit_link: /finos/InnerSource/commit/a0c3b17f332f03d911e156fb297dcfc8219a0cc2
-              contributors_count: 9
+              latest_commit_date: '2022-11-27T04:25:56Z'
+              latest_commit_link: /finos/InnerSource/commit/f1ff950e30c9a933e31044587ddea827bf88c120
+              contributors_count: 10
               contributors_link: https://github.com/finos/InnerSource/graphs/contributors
             repos:
               - url: https://github.com/finos/InnerSource
@@ -1294,7 +1294,7 @@ landscape:
                   value: 1691
                   color: '#89e051'
               contributions: 0;0;0;0;0;1;2;0;0;3;3;0;2;2;0;0;0;0;13;8;0;0;3;0;12;1;11;0;0;0;0;3;3;11;4;13;2;3;0;6;1;2;0;0;4;2;2;1;0;0;1;6
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 23
               license: Apache License 2.0
               description: >-
@@ -1367,7 +1367,7 @@ landscape:
                   value: 7813
                   color: '#3572A5'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 114
               license: Other
               description: A data store and handbook of practical information about complying with the most common open source licenses.
@@ -1426,7 +1426,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 11
               license: Creative Commons Attribution 4.0 International
               description: Reference FOSS Policy for Financial Services Institutions
@@ -1492,7 +1492,7 @@ landscape:
                   value: 7364
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;5;8;0;0;0;0;0;0;0;0;0;0;5;0;0;1;0;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 2
               license: Apache License 2.0
               description: null
@@ -1558,7 +1558,7 @@ landscape:
                   value: 440
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5;2;0;44;9;5
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 4
               license: Apache License 2.0
               description: 'Open Reg Tech: US LCR'
@@ -1615,7 +1615,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 21
               license: Apache License 2.0
               description: >-
@@ -1690,8 +1690,8 @@ landscape:
                 - name: Shell
                   value: 541
                   color: '#89e051'
-              contributions: 3;2;0;0;0;0;2;3;10;6;3;1;4;0;0;5;1;2;20;0;6;2;3;0;3;0;7;0;13;9;9;21;16;15;3;3;1;4;5;1;4;0;5;8;2;1;1;1;1;0;0;0
-              firstWeek: 2021-11-28Z
+              contributions: 3;2;0;0;0;0;2;3;10;6;3;1;4;0;2;3;1;2;20;0;8;0;3;0;3;0;7;0;13;9;9;21;16;15;3;3;1;4;5;1;4;0;5;8;2;1;1;1;1;0;0;0
+              firstWeek: 2021-12-05Z
               stars: 79
               license: Apache License 2.0
               description: >-
@@ -1780,8 +1780,8 @@ landscape:
                   value: 1338
                   color: '#384d54'
               contributions: >-
-                11;19;5;19;7;20;37;52;52;22;19;16;30;38;16;7;25;5;12;18;11;18;33;42;26;29;14;19;32;18;29;33;22;34;53;10;12;10;35;20;10;12;16;14;16;15;37;39;25;11;12;22
-              firstWeek: 2021-11-28Z
+                11;19;5;19;7;20;37;52;52;22;19;20;28;36;16;8;25;4;12;18;11;18;33;42;26;29;14;19;32;18;29;33;22;34;53;12;10;10;35;20;10;12;16;14;16;15;37;39;31;5;12;22
+              firstWeek: 2021-12-05Z
               stars: 133
               license: Apache License 2.0
               description: Enterprise Information Service
@@ -1847,7 +1847,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;1;0;0;0;9;6;14;0;5;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 2
               license: Unknown License
               description: null
@@ -1926,8 +1926,8 @@ landscape:
                 - name: Batchfile
                   value: 71
                   color: '#C1F12E'
-              contributions: 2;15;7;2;0;0;1;13;9;4;3;7;4;5;4;10;5;0;2;6;5;1;0;1;2;0;0;5;9;6;10;0;0;0;0;0;4;0;0;7;0;0;0;0;0;1;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              contributions: 2;16;6;2;0;0;1;17;5;4;4;6;4;5;5;10;4;0;2;6;5;1;0;1;2;0;0;8;6;6;10;0;0;0;0;0;4;0;0;7;0;0;0;0;0;1;0;0;0;0;0;0
+              firstWeek: 2021-12-05Z
               stars: 55
               license: Apache License 2.0
               description: kdb+ Working Group from FINOS Data Technologies program
@@ -1994,7 +1994,7 @@ landscape:
                   value: 3644
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 18
               license: Apache License 2.0
               description: Security Reference Data project
@@ -2073,7 +2073,7 @@ landscape:
                   value: 581
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 136
               license: Apache License 2.0
               description: >-
@@ -2143,7 +2143,7 @@ landscape:
                   value: 2867
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 73
               license: Apache License 2.0
               description: DataHub - Synthetic data library
@@ -2215,7 +2215,7 @@ landscape:
                   value: 5166
                   color: '#C1F12E'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 19
               license: Apache License 2.0
               description: Migration tools for Tabular Data to Oracle JSON/Tabular Data
@@ -2312,8 +2312,8 @@ landscape:
                 - name: Smarty
                   value: 1772
               contributions: >-
-                30;41;33;3;11;44;28;33;66;33;97;18;32;61;30;25;88;50;92;58;37;28;48;31;58;27;44;58;26;85;65;36;78;57;32;66;15;74;58;22;56;50;43;56;77;51;86;18;43;83;88;31
-              firstWeek: 2021-11-28Z
+                33;38;33;3;11;45;27;33;69;30;97;18;47;50;28;23;89;50;91;58;39;26;48;31;58;27;48;55;27;85;63;38;83;50;36;64;13;74;58;22;59;47;46;53;79;49;86;18;45;84;85;31
+              firstWeek: 2021-12-05Z
               stars: 909
               license: Apache License 2.0
               description: The Legend project
@@ -2442,8 +2442,8 @@ landscape:
                 - name: GLSL
                   value: 38
               contributions: >-
-                11;4;8;11;0;7;9;12;3;7;16;67;78;53;44;47;71;40;40;39;25;21;33;16;57;54;48;32;48;39;56;22;27;40;97;11;26;18;51;41;41;31;20;29;31;40;44;67;17;31;19;1
-              firstWeek: 2021-11-28Z
+                11;4;8;11;0;12;4;12;3;8;22;60;79;52;44;50;69;40;42;37;24;21;33;16;57;56;47;32;47;39;56;22;27;48;89;11;26;18;51;41;42;30;20;30;30;50;36;65;17;31;19;1
+              firstWeek: 2021-12-05Z
               stars: 157
               license: Apache License 2.0
               description: A universal language for business and technology
@@ -2537,8 +2537,8 @@ landscape:
                 - name: PowerShell
                   value: 1774
                   color: '#012456'
-              contributions: 6;2;2;0;0;0;2;2;2;0;1;1;0;0;9;10;0;0;4;0;0;0;1;0;0;3;2;3;0;2;2;0;1;1;5;0;0;1;3;1;3;2;3;2;3;7;4;4;1;3;7;1
-              firstWeek: 2021-11-28Z
+              contributions: 6;2;2;0;0;0;2;2;2;0;1;1;0;1;8;10;0;0;4;0;0;0;1;0;0;3;2;3;0;2;2;0;1;1;5;0;0;1;3;1;3;2;4;1;6;4;4;4;2;2;7;2
+              firstWeek: 2021-12-05Z
               stars: 28
               license: Apache License 2.0
               description: A next-generation data and analytics platform for use in highly regulated environments
@@ -2607,7 +2607,7 @@ landscape:
                   value: 3792
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 34
               license: Apache License 2.0
               description: FINOS Financial Objects Program Documentation
@@ -2671,7 +2671,7 @@ landscape:
                 - name: SCSS
                   value: 17980
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 21
               license: Apache License 2.0
               description: >-
@@ -2845,7 +2845,7 @@ landscape:
                   value: 356
                   color: '#e34c26'
               contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;17;0;4;0;2;0;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;9;0;0;0;0;1;0;0;0;0;0;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 53
               license: Apache License 2.0
               description: High performance time series database
@@ -2953,7 +2953,7 @@ landscape:
                 - name: M4
                   value: 586
               contributions: 0;0;0;0;0;0;2;0;0;0;3;0;0;0;0;0;0;0;0;12;0;1;6;1;0;0;1;19;4;8;1;0;0;0;8;4;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 119
               license: LGPL 2.1
               description: >-
@@ -3033,7 +3033,7 @@ landscape:
                   value: 704
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 30
               license: Apache License 2.0
               description: A collection of useful tools for handling speech recognition data
@@ -3098,7 +3098,7 @@ landscape:
                   value: 3519
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 13
               license: Apache License 2.0
               description: Speed up business workflows through custom 'voice skills' and text (NLP) interpreters
@@ -3164,7 +3164,7 @@ landscape:
                   value: 467
                   color: '#701516'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 20
               license: Apache License 2.0
               description: JSON-aware curl (1) in Java
@@ -3226,7 +3226,7 @@ landscape:
                   value: 1137921
                   color: '#b07219'
               contributions: 0;0;13;6;0;0;6;0;0;0;0;18;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;2
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 10
               license: Apache License 2.0
               description: >-
@@ -3290,7 +3290,7 @@ landscape:
                   value: 961
                   color: '#89e051'
               contributions: 1;0;0;0;0;0;1;0;0;2;0;2;3;2;0;0;2;0;2;0;1;1;3;0;1;0;0;0;0;0;0;0;1;0;0;1;1;0;0;1;0;1;0;1;0;1;0;0;0;2;0;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 12
               license: Apache License 2.0
               description: 'Swagger definitions for Symphony LLC public REST API '
@@ -3370,8 +3370,8 @@ landscape:
                 - name: Dockerfile
                   value: 54
                   color: '#384d54'
-              contributions: 2;3;5;2;0;4;5;1;4;2;0;4;1;0;3;6;3;4;1;0;0;4;2;1;3;2;3;1;3;0;0;0;0;0;0;0;1;0;1;0;1;0;1;0;1;0;0;2;0;0;3;1
-              firstWeek: 2021-11-28Z
+              contributions: 2;3;5;2;0;4;5;1;4;2;0;4;1;0;3;6;3;4;1;0;0;4;2;1;3;2;3;1;3;0;0;0;0;0;0;0;1;0;1;0;1;0;1;0;1;0;1;1;0;0;3;1
+              firstWeek: 2021-12-05Z
               stars: 19
               license: Apache License 2.0
               description: >-
@@ -3444,7 +3444,7 @@ landscape:
                   value: 634
                   color: '#427819'
               contributions: 4;0;3;0;0;0;5;0;2;0;0;6;1;1;2;2;5;7;9;0;0;2;5;0;2;1;5;1;2;1;2;1;0;2;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0;2;0;2
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 24
               license: Apache License 2.0
               description: Symphony Python Bot Development Kit (BDK)
@@ -3528,7 +3528,7 @@ landscape:
                   value: 262
                   color: '#563d7c'
               contributions: 0;0;1;0;0;1;5;3;1;2;7;1;0;0;0;0;0;4;0;0;0;0;0;0;2;0;0;0;3;1;0;0;1;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;1;0
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 7
               license: Apache License 2.0
               description: Yeoman based generator for Symphony Bots and Applications
@@ -3603,8 +3603,8 @@ landscape:
                 - name: C
                   value: 1220
                   color: '#555555'
-              contributions: 6;5;1;0;0;0;0;2;2;0;3;0;1;3;1;1;0;14;5;2;2;3;6;2;3;2;6;1;0;0;1;4;2;6;1;1;5;4;7;9;5;8;12;7;5;2;2;6;4;2;8;8
-              firstWeek: 2021-11-28Z
+              contributions: 6;5;1;0;0;0;0;2;2;0;3;0;1;3;1;1;0;15;4;2;3;2;6;2;3;2;6;1;0;0;1;4;2;6;1;1;5;4;7;9;5;8;12;7;5;2;3;5;4;2;8;8
+              firstWeek: 2021-12-05Z
               stars: 19
               license: Apache License 2.0
               description: >-
@@ -3671,7 +3671,7 @@ landscape:
                   value: 3967
                   color: '#0050b2'
               contributions: 18;2;0;0;2;0;0;2;0;0;1;0;0;1;1;8;3;1;2;0;0;0;0;2;0;0;1;0;5;1;1;0;0;3;0;0;0;1;3;1;0;5;4;3;7;5;7;3;7;2;1;22
-              firstWeek: 2021-11-28Z
+              firstWeek: 2021-12-05Z
               stars: 2
               license: Apache License 2.0
               description: Symphony Workflow Developer Kit (WDK), a bot capable of running workflows
@@ -3760,8 +3760,8 @@ landscape:
                 - name: Shell
                   value: 490
                   color: '#89e051'
-              contributions: 30;32;25;13;5;10;0;9;1;19;2;3;9;26;41;21;1;2;0;1;10;7;9;12;9;4;3;19;22;7;10;22;13;7;22;14;5;0;12;3;1;1;0;3;12;1;0;0;0;0;1;12
-              firstWeek: 2021-11-28Z
+              contributions: 31;33;22;13;6;9;0;10;10;10;2;3;8;27;42;20;0;2;0;4;8;6;9;14;7;4;3;22;21;5;10;22;13;7;25;12;4;0;12;3;1;1;0;4;12;0;0;0;0;0;1;12
+              firstWeek: 2021-12-05Z
               stars: 5016
               license: Apache License 2.0
               description: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -3841,8 +3841,8 @@ landscape:
                 - name: Shell
                   value: 162
                   color: '#89e051'
-              contributions: 3;1;38;14;0;1;3;3;13;15;1;1;1;0;0;0;0;2;0;0;0;0;0;0;1;3;11;2;2;0;1;4;0;2;0;2;1;0;59;0;3;1;1;0;16;0;4;4;4;20;23;10
-              firstWeek: 2021-11-28Z
+              contributions: 3;1;38;14;0;2;2;10;7;14;2;0;1;0;0;0;1;1;0;0;0;0;0;0;1;3;11;2;2;0;1;4;0;2;1;1;1;0;59;0;3;1;1;0;16;0;4;4;4;26;18;9
+              firstWeek: 2021-12-05Z
               stars: 5
               license: Apache License 2.0
               description: Vuu - an open source view server and html 5 based UI system
@@ -4015,4 +4015,4 @@ landscape:
 twitter_options:
   count: 4
   since_id: '1582654634807922689'
-updated_at: 2022-11-26T18:19:24.921Z
+updated_at: 2022-11-27T18:21:02.845Z
