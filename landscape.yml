@@ -219,6 +219,13 @@ landscape:
               - repo_url: https://github.com/finos/terraform-aws-cfi-eks
               - repo_url: https://github.com/finos/cfi-terraform-template-child-module
               - repo_url: https://github.com/finos/ansible-cfi-ocp
+              - repo_url: https://github.com/finos/terraform-google-cfi-gke
+              - repo_url: https://github.com/finos/terraform-azurerm-cfi-aks
+              - repo_url: https://github.com/finos/terraform-aws-cfi-dynamodb
+              - repo_url: https://github.com/finos/terraform-aws-cfi-lambda
+              - repo_url: https://github.com/finos/terraform-azurerm-cfi-postgresql
+              - repo_url: https://github.com/finos/terraform-aws-cfi-redshift
+              - repo_url: https://github.com/finos/terraform-aws-cfi-sqs
             project: incubating
             homepage_url: https://github.com/finos/compliant-financial-infrastructure
             repo_url: https://github.com/finos/compliant-financial-infrastructure
