@@ -72,7 +72,8 @@ landscape:
             homepage_url: https://sea.finos.org
             repo_url: https://github.com/finos/secure-electron-adapter
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-electron.svg
+          - license: Apache License 2.0
+            logo: symphony-electron.svg
             name: Symphony Electron
             item:
             additional_repos:
