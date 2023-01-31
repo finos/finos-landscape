@@ -296,7 +296,8 @@ landscape:
             homepage_url: https://github.com/finos/exodus
             repo_url: https://github.com/finos/exodus
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: legend.svg
+          - license: Apache License 2.0
+            logo: legend.svg
             name: Legend
             item:
             additional_repos:
@@ -322,7 +323,8 @@ landscape:
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: morphir.svg
+          - license: Apache License 2.0
+            logo: morphir.svg
             name: Morphir
             item:
             additional_repos:
@@ -469,7 +471,8 @@ landscape:
       - subcategory:
         name: UI Frameworks
         items:
-          - logo: jupyterlab-templates.svg
+          - license: Apache License 2.0
+            logo: jupyterlab-templates.svg
             name: JupyterLab Templates
             item:
             project: active
@@ -483,7 +486,8 @@ landscape:
             homepage_url: https://perspective.finos.org
             repo_url: https://github.com/finos/perspective
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: regular-table.svg
+          - license: Apache License 2.0
+            logo: regular-table.svg
             name: Regular Table
             item:
             project: active
