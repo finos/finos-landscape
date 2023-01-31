@@ -72,7 +72,8 @@ landscape:
             homepage_url: https://sea.finos.org
             repo_url: https://github.com/finos/secure-electron-adapter
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-electron.svg
+          - license: Apache License 2.0
+            logo: symphony-electron.svg
             name: Symphony Electron
             item:
             additional_repos:
@@ -80,6 +81,7 @@ landscape:
               - repo_url: https://github.com/finos/ScreenSnippet2
               - repo_url: https://github.com/finos/SwiftSearch
               - repo_url: https://github.com/finos/ScreenShareIndicatorFrame
+              - repo_url: https://github.com/finos/SymphonyWindowsHwndHelper
             project: active
             homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
@@ -218,6 +220,13 @@ landscape:
               - repo_url: https://github.com/finos/terraform-aws-cfi-eks
               - repo_url: https://github.com/finos/cfi-terraform-template-child-module
               - repo_url: https://github.com/finos/ansible-cfi-ocp
+              - repo_url: https://github.com/finos/terraform-google-cfi-gke
+              - repo_url: https://github.com/finos/terraform-azurerm-cfi-aks
+              - repo_url: https://github.com/finos/terraform-aws-cfi-dynamodb
+              - repo_url: https://github.com/finos/terraform-aws-cfi-lambda
+              - repo_url: https://github.com/finos/terraform-azurerm-cfi-postgresql
+              - repo_url: https://github.com/finos/terraform-aws-cfi-redshift
+              - repo_url: https://github.com/finos/terraform-aws-cfi-sqs
             project: incubating
             homepage_url: https://github.com/finos/compliant-financial-infrastructure
             repo_url: https://github.com/finos/compliant-financial-infrastructure
@@ -288,7 +297,8 @@ landscape:
             homepage_url: https://github.com/finos/exodus
             repo_url: https://github.com/finos/exodus
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: legend.svg
+          - license: Apache License 2.0
+            logo: legend.svg
             name: Legend
             item:
             additional_repos:
@@ -314,7 +324,8 @@ landscape:
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: morphir.svg
+          - license: Apache License 2.0
+            logo: morphir.svg
             name: Morphir
             item:
             additional_repos:
@@ -326,6 +337,8 @@ landscape:
               - repo_url: https://github.com/finos/morphir-examples
               - repo_url: https://github.com/finos/morphir-editor
               - repo_url: https://github.com/finos/morphir-scala
+              - repo_url: https://github.com/finos/morphir-go
+              - repo_url: https://github.com/finos/morphir-rust
             project: incubating
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
@@ -459,7 +472,8 @@ landscape:
       - subcategory:
         name: UI Frameworks
         items:
-          - logo: finos.svg
+          - license: Apache License 2.0
+            logo: jupyterlab-templates.svg
             name: JupyterLab Templates
             item:
             project: active
@@ -473,7 +487,8 @@ landscape:
             homepage_url: https://perspective.finos.org
             repo_url: https://github.com/finos/perspective
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: regular-table.svg
+          - license: Apache License 2.0
+            logo: regular-table.svg
             name: Regular Table
             item:
             project: active
