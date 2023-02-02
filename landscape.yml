@@ -133,12 +133,13 @@ landscape:
             homepage_url: https://github.com/finos/CatchIT
             repo_url: https://github.com/finos/CatchIT
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: devops-mutualization.svg
-            name: DevOps Mutualization
+          - license: Apache License 2.0
+            logo: devops-automation.svg
+            name: DevOps Automation
             item:
             project: sig
-            homepage_url: https://github.com/finos/devops-mutualization
-            repo_url: https://github.com/finos/devops-mutualization
+            homepage_url: https://github.com/finos/devops-automation
+            repo_url: https://github.com/finos/devops-automation
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: git-proxy.svg
             name: Git Proxy
@@ -213,7 +214,8 @@ landscape:
       - subcategory:
         name: Compliance & Management
         items:
-          - logo: compliant-financial-infrastruture.svg
+          - license: Apache License 2.0
+            logo: compliant-financial-infrastruture.svg
             name: Compliant Financial Infrastructure
             item:
             additional_repos:
