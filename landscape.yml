@@ -214,7 +214,8 @@ landscape:
       - subcategory:
         name: Models
         items:
-          - logo: cdm.svg
+          - license: Community License Specification
+            logo: cdm.svg
             name: Common Domain Model
             item:
             project: incubating
