@@ -168,7 +168,6 @@ landscape:
             name: Open source readiness
             item:
             additional_repos:
-              - repo_url: https://github.com/finos/osr-checklists
               - repo_url: https://github.com/finos/osmm
             project: sig
             homepage_url: https://github.com/finos/open-source-readiness
