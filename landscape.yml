@@ -174,13 +174,6 @@ landscape:
             homepage_url: https://github.com/finos/open-source-readiness
             repo_url: https://github.com/finos/open-source-readiness
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: reference-foss-policy.svg
-            name: Reference FOSS Policy
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/reference-foss-policy
-            repo_url: https://github.com/finos/reference-foss-policy
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
         name: DEI
         items:
@@ -339,6 +332,7 @@ landscape:
               - repo_url: https://github.com/finos/legend-juju-studio-operator
               - repo_url: https://github.com/finos/legend-persistence
               - repo_url: https://github.com/finos/legend-community-delta
+              - repo_url: https://github.com/finos/pylegend
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
