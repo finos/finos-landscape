@@ -40,8 +40,6 @@ landscape:
           - logo: plexus-interop.svg
             name: Plexus Interop
             item:
-            additional_repos:
-              - repo_url: https://github.com/finos/plexus-interop-desktop-api
             project: incubating
             homepage_url: https://plexus.finos.org
             repo_url: https://github.com/finos/plexus-interop
