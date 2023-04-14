@@ -40,8 +40,6 @@ landscape:
           - logo: plexus-interop.svg
             name: Plexus Interop
             item:
-            additional_repos:
-              - repo_url: https://github.com/finos/plexus-interop-desktop-api
             project: incubating
             homepage_url: https://plexus.finos.org
             repo_url: https://github.com/finos/plexus-interop
@@ -168,18 +166,10 @@ landscape:
             name: Open source readiness
             item:
             additional_repos:
-              - repo_url: https://github.com/finos/osr-checklists
               - repo_url: https://github.com/finos/osmm
             project: sig
             homepage_url: https://github.com/finos/open-source-readiness
             repo_url: https://github.com/finos/open-source-readiness
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: reference-foss-policy.svg
-            name: Reference FOSS Policy
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/reference-foss-policy
-            repo_url: https://github.com/finos/reference-foss-policy
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
         name: DEI
@@ -291,14 +281,6 @@ landscape:
       - subcategory:
         name: Synthetic Data
         items:
-          - license: Apache License 2.0
-            logo: datahelix.svg
-            name: Data Helix
-            item:
-            project: incubating
-            homepage_url: https://finos.github.io/datahelix
-            repo_url: https://github.com/finos/datahelix
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: datahub.svg
             name: DataHub
             item:
@@ -339,6 +321,7 @@ landscape:
               - repo_url: https://github.com/finos/legend-juju-studio-operator
               - repo_url: https://github.com/finos/legend-persistence
               - repo_url: https://github.com/finos/legend-community-delta
+              - repo_url: https://github.com/finos/pylegend
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
