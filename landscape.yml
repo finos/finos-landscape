@@ -281,14 +281,6 @@ landscape:
       - subcategory:
         name: Synthetic Data
         items:
-          - license: Apache License 2.0
-            logo: datahelix.svg
-            name: Data Helix
-            item:
-            project: incubating
-            homepage_url: https://finos.github.io/datahelix
-            repo_url: https://github.com/finos/datahelix
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: datahub.svg
             name: DataHub
             item:
