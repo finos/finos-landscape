@@ -279,16 +279,6 @@ landscape:
             repo_url: https://github.com/finos/kdb
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
-        name: Synthetic Data
-        items:
-          - logo: datahub.svg
-            name: DataHub
-            item:
-            project: incubating
-            homepage_url: https://datahub.finos.org
-            repo_url: https://github.com/finos/datahub
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
         name: Frameworks
         items:
           - logo: exodus.svg
