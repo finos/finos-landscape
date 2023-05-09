@@ -162,7 +162,8 @@ landscape:
             homepage_url: https://github.com/finos/OSLC-handbook
             repo_url: https://github.com/finos/OSLC-handbook
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: open-source-readiness.svg
+          - license: Apache License 2.0
+            logo: open-source-readiness.svg
             name: Open source readiness
             item:
             additional_repos:
@@ -279,16 +280,6 @@ landscape:
             repo_url: https://github.com/finos/kdb
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
-        name: Synthetic Data
-        items:
-          - logo: datahub.svg
-            name: DataHub
-            item:
-            project: incubating
-            homepage_url: https://datahub.finos.org
-            repo_url: https://github.com/finos/datahub
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
         name: Frameworks
         items:
           - logo: exodus.svg
@@ -341,7 +332,7 @@ landscape:
               - repo_url: https://github.com/finos/morphir-scala
               - repo_url: https://github.com/finos/morphir-go
               - repo_url: https://github.com/finos/morphir-rust
-            project: incubating
+            project: active
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
