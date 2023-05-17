@@ -75,7 +75,6 @@ landscape:
             name: Symphony Electron
             item:
             additional_repos:
-              - repo_url: https://github.com/finos/ScreenSnippet
               - repo_url: https://github.com/finos/ScreenSnippet2
               - repo_url: https://github.com/finos/SwiftSearch
               - repo_url: https://github.com/finos/ScreenShareIndicatorFrame
@@ -220,13 +219,6 @@ landscape:
             project: sig
             homepage_url: http://fo.finos.org
             repo_url: https://github.com/finos/financial-objects
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: glue.svg
-            name: Glue
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/glue
-            repo_url: https://github.com/finos/glue
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - license: CSLA 1.0
             logo: fo-product-control-common-template.svg
