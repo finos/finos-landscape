@@ -198,6 +198,16 @@ landscape:
             homepage_url: https://github.com/finos/open-regtech-sig
             repo_url: https://github.com/finos/open-regtech-sig
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: Innovation
+        items:
+          - logo: zenith.svg
+            name: Zenith
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/zenith
+            repo_url: https://github.com/finos/zenith
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Data & Business Logic
     subcategories:
