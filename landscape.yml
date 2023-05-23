@@ -201,7 +201,8 @@ landscape:
       - subcategory:
         name: Innovation
         items:
-          - logo: zenith.svg
+          - license: Apache License 2.0
+            logo: zenith.svg
             name: Zenith
             item:
             project: sig
