@@ -107,9 +107,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://events.linuxfoundation.org/open-source-strategy-forum/
-    image: /images/2020-ossf-virtual.jpg
-    title: Open Source Strategy Forum 2020 - Virtual Experience
+  - url: https://events.linuxfoundation.org/open-source-finance-forum/
+    image: /images/2022-OSFF.jpeg
+    title: Open Source in Finance Forum 2022
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -141,53 +141,62 @@ big_picture:
       - type: HorizontalCategory
         category: Applications
         rows: 4
-        width: 975
+        width: 570
         height: 180
         top: 0
         left: 0
         color: rgb(0,181,226)
         fit_width: true
       - type: HorizontalCategory
+        category: Platforms & Runtimes
+        rows: 4
+        width: 500
+        height: 180
+        top: 0
+        left: 590
+        color: rgb(215,200,38)
+        fit_width: true
+      - type: HorizontalCategory
         category: Data & Business Logic
         rows: 4
-        width: 480
+        width: 730
         height: 180
         top: 200
         left: 0
         color: rgb(0,134,191)
         fit_width: true
       - type: HorizontalCategory
-        category: Enablement
+        category: Legend
         rows: 4
-        width: 475
+        width: 200
         height: 180
         top: 200
-        left: 500
-        color: rgb(107,202,186)
+        left: 750
+        color: rgb(0,181,226)
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
         rows: 4
         width: 160
-        height: 200
+        height: 180
         top: 410
         left: 0
         color: rgb(67,176,42)
         fit_width: true
       - type: HorizontalCategory
-        category: Platforms & Runtimes
+        category: Enablement
         rows: 4
-        width: 350
-        height: 200
+        width: 650
+        height: 180
         top: 410
         left: 180
-        color: rgb(215,200,38)
+        color: rgb(107,202,186)
         fit_width: true
       - type: LandscapeInfo
         width: 430
         height: 200
-        top: 410
-        left: 550
+        top: 620
+        left: 0
         children:
           - type: text
             text: |
