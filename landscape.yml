@@ -47,7 +47,7 @@ landscape:
           - logo: springbot.svg
             name: Spring Bot
             item:
-            project: incubating
+            project: active
             homepage_url: https://springbot.finos.org
             repo_url: https://github.com/finos/spring-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
@@ -197,6 +197,17 @@ landscape:
             project: sig
             homepage_url: https://github.com/finos/open-regtech-sig
             repo_url: https://github.com/finos/open-regtech-sig
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: Innovation
+        items:
+          - license: Apache License 2.0
+            logo: zenith.svg
+            name: Zenith
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/zenith
+            repo_url: https://github.com/finos/zenith
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Data & Business Logic
