@@ -212,6 +212,8 @@ landscape:
             logo: cdm.svg
             name: Common Domain Model
             item:
+            additional_repos:
+              - repo_url: https://github.com/finos/object-builder
             project: incubating
             homepage_url: https://github.com/finos/common-domain-model
             repo_url: https://github.com/finos/common-domain-model
