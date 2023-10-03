@@ -473,6 +473,15 @@ landscape:
             homepage_url: https://github.com/finos/regular-table
             repo_url: https://github.com/finos/regular-table
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: themebuilder.svg
+            name: Theme Builder
+            item:
+            additional_repos:
+              - repo_url: https://github.com/finos/a11y-theme-builder-sdk
+            project: incubating
+            homepage_url: https://a11y-theme-builder.finos.org
+            repo_url: https://github.com/finos/a11y-theme-builder
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - logo: vuu.svg
             name: VUU
             item:
