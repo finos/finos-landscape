@@ -2,6 +2,112 @@
 
 landscape:
   - category:
+    name: Applications
+    subcategories:
+      - subcategory:
+        name: UI Frameworks
+        items:
+          - logo: themebuilder.svg
+            name: Accessibility Theme Builder
+            item:
+            additional_repos:
+              - repo_url: https://github.com/finos/a11y-theme-builder-sdk
+            project: incubating
+            homepage_url: https://a11y-theme-builder.finos.org
+            repo_url: https://github.com/finos/a11y-theme-builder
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: Apache License 2.0
+            logo: jupyterlab-templates.svg
+            name: JupyterLab Templates
+            item:
+            project: active
+            homepage_url: https://github.com/finos/jupyterlab_templates
+            repo_url: https://github.com/finos/jupyterlab_templates
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: perspective.svg
+            name: Perspective
+            item:
+            project: active
+            homepage_url: https://perspective.finos.org
+            repo_url: https://github.com/finos/perspective
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: Apache License 2.0
+            logo: regular-table.svg
+            name: Regular Table
+            item:
+            project: active
+            homepage_url: https://github.com/finos/regular-table
+            repo_url: https://github.com/finos/regular-table
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: vuu.svg
+            name: VUU
+            item:
+            project: incubating
+            homepage_url: https://vuu.finos.org
+            repo_url: https://github.com/finos/vuu
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: Symphony Ecosystem
+        items:
+          - logo: jcurl.svg
+            name: JCurl
+            item:
+            project: active
+            homepage_url: https://github.com/finos/JCurl
+            repo_url: https://github.com/finos/JCurl
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: messageml-utils.svg
+            name: MessageML Utilities
+            item:
+            project: active
+            homepage_url: https://github.com/finos/messageml-utils
+            repo_url: https://github.com/finos/messageml-utils
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-rest-api-spec.svg
+            name: REST API Specification
+            item:
+            project: active
+            homepage_url: https://github.com/finos/symphony-api-spec
+            repo_url: https://github.com/finos/symphony-api-spec
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-bdk-java.svg
+            name: Symphony BDK Java
+            item:
+            project: incubating
+            homepage_url: https://symphony-bdk-java.finos.org
+            repo_url: https://github.com/finos/symphony-bdk-java
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-bdk-python.svg
+            name: Symphony BDK Python
+            item:
+            project: incubating
+            homepage_url: https://symphony-bdk-python.finos.org
+            repo_url: https://github.com/finos/symphony-bdk-python
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-generator.svg
+            name: Symphony Generator
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/generator-symphony
+            repo_url: https://github.com/finos/generator-symphony
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-media-bridge.svg
+            name: Symphony Media Bridge
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/SymphonyMediaBridge
+            repo_url: https://github.com/finos/SymphonyMediaBridge
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: symphony-wdk.svg
+            name: Symphony WDK
+            item:
+            additional_repos:
+              - repo_url: https://github.com/finos/symphony-wdk-gallery
+            project: incubating
+            homepage_url: https://github.com/finos/symphony-wdk
+            repo_url: https://github.com/finos/symphony-wdk
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+  - category:
     name: Platforms & Runtimes
     subcategories:
       - subcategory:
@@ -382,112 +488,6 @@ landscape:
             project: active
             homepage_url: https://waltz.finos.org
             repo_url: https://github.com/finos/waltz
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
-    name: Applications
-    subcategories:
-      - subcategory:
-        name: Symphony Ecosystem
-        items:
-          - logo: jcurl.svg
-            name: JCurl
-            item:
-            project: active
-            homepage_url: https://github.com/finos/JCurl
-            repo_url: https://github.com/finos/JCurl
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: messageml-utils.svg
-            name: MessageML Utilities
-            item:
-            project: active
-            homepage_url: https://github.com/finos/messageml-utils
-            repo_url: https://github.com/finos/messageml-utils
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-rest-api-spec.svg
-            name: REST API Specification
-            item:
-            project: active
-            homepage_url: https://github.com/finos/symphony-api-spec
-            repo_url: https://github.com/finos/symphony-api-spec
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-bdk-java.svg
-            name: Symphony BDK Java
-            item:
-            project: incubating
-            homepage_url: https://symphony-bdk-java.finos.org
-            repo_url: https://github.com/finos/symphony-bdk-java
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-bdk-python.svg
-            name: Symphony BDK Python
-            item:
-            project: incubating
-            homepage_url: https://symphony-bdk-python.finos.org
-            repo_url: https://github.com/finos/symphony-bdk-python
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-generator.svg
-            name: Symphony Generator
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/generator-symphony
-            repo_url: https://github.com/finos/generator-symphony
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-media-bridge.svg
-            name: Symphony Media Bridge
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/SymphonyMediaBridge
-            repo_url: https://github.com/finos/SymphonyMediaBridge
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: symphony-wdk.svg
-            name: Symphony WDK
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/symphony-wdk-gallery
-            project: incubating
-            homepage_url: https://github.com/finos/symphony-wdk
-            repo_url: https://github.com/finos/symphony-wdk
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: UI Frameworks
-        items:
-          - license: Apache License 2.0
-            logo: jupyterlab-templates.svg
-            name: JupyterLab Templates
-            item:
-            project: active
-            homepage_url: https://github.com/finos/jupyterlab_templates
-            repo_url: https://github.com/finos/jupyterlab_templates
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: perspective.svg
-            name: Perspective
-            item:
-            project: active
-            homepage_url: https://perspective.finos.org
-            repo_url: https://github.com/finos/perspective
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - license: Apache License 2.0
-            logo: regular-table.svg
-            name: Regular Table
-            item:
-            project: active
-            homepage_url: https://github.com/finos/regular-table
-            repo_url: https://github.com/finos/regular-table
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: themebuilder.svg
-            name: Theme Builder
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/a11y-theme-builder-sdk
-            project: incubating
-            homepage_url: https://a11y-theme-builder.finos.org
-            repo_url: https://github.com/finos/a11y-theme-builder
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: vuu.svg
-            name: VUU
-            item:
-            project: incubating
-            homepage_url: https://vuu.finos.org
-            repo_url: https://github.com/finos/vuu
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Legend
