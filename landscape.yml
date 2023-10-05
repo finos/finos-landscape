@@ -386,13 +386,6 @@ landscape:
       - subcategory:
         name: Frameworks
         items:
-          - logo: exodus.svg
-            name: Exodus
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/exodus
-            repo_url: https://github.com/finos/exodus
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - license: Apache License 2.0
             logo: legend.svg
             name: Legend
