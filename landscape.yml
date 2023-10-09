@@ -182,16 +182,6 @@ landscape:
             homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: Openfin Ecosystem
-        items:
-          - logo: openfin-react-hooks.svg
-            name: OpenFin React Hooks
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/openfin-react-hooks
-            repo_url: https://github.com/finos/openfin-react-hooks
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Enablement
     subcategories:
