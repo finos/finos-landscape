@@ -196,13 +196,6 @@ landscape:
       - subcategory:
         name: OSS Readiness
         items:
-          - logo: catchit.svg
-            name: CatchIT
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/CatchIT
-            repo_url: https://github.com/finos/CatchIT
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - license: Apache License 2.0
             logo: devops-automation.svg
             name: DevOps Automation
