@@ -120,7 +120,7 @@ landscape:
             homepage_url: https://backplane.finos.org
             repo_url: https://github.com/finos/backplane
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - license: FINOS IP Policy
+          - license: Community License Specification
             logo: fdc3.svg
             name: FDC3
             item:
@@ -276,6 +276,46 @@ landscape:
             repo_url: https://github.com/finos/zenith
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
+    name: Infrastructure
+    subcategories:
+      - subcategory:
+        name: Compliance & Management
+        items:
+          - license: Community Specification License
+            logo: ccc.svg
+            name: Common Cloud Controls
+            item:
+            project: incubating
+            homepage_url: https://finos.org/common-cloud-controls
+            repo_url: https://github.com/finos/common-cloud-controls
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: Apache License 2.0
+            logo: compliant-financial-infrastruture.svg
+            name: Compliant Financial Infrastructure
+            item:
+            additional_repos:
+              - repo_url: https://github.com/finos/terraform-aws-cfi-eks
+              - repo_url: https://github.com/finos/cfi-terraform-template-child-module
+              - repo_url: https://github.com/finos/ansible-cfi-ocp
+              - repo_url: https://github.com/finos/terraform-google-cfi-gke
+              - repo_url: https://github.com/finos/terraform-azurerm-cfi-aks
+              - repo_url: https://github.com/finos/terraform-aws-cfi-dynamodb
+              - repo_url: https://github.com/finos/terraform-aws-cfi-lambda
+              - repo_url: https://github.com/finos/terraform-azurerm-cfi-postgresql
+              - repo_url: https://github.com/finos/terraform-aws-cfi-redshift
+              - repo_url: https://github.com/finos/terraform-aws-cfi-sqs
+            project: incubating
+            homepage_url: https://github.com/finos/compliant-financial-infrastructure
+            repo_url: https://github.com/finos/compliant-financial-infrastructure
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: waltz.svg
+            name: Waltz
+            item:
+            project: active
+            homepage_url: https://waltz.finos.org
+            repo_url: https://github.com/finos/waltz
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+  - category:
     name: Data & Business Logic
     subcategories:
       - subcategory:
@@ -416,38 +456,6 @@ landscape:
             project: active
             homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
-    name: Infrastructure
-    subcategories:
-      - subcategory:
-        name: Compliance & Management
-        items:
-          - license: Apache License 2.0
-            logo: compliant-financial-infrastruture.svg
-            name: Compliant Financial Infrastructure
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/terraform-aws-cfi-eks
-              - repo_url: https://github.com/finos/cfi-terraform-template-child-module
-              - repo_url: https://github.com/finos/ansible-cfi-ocp
-              - repo_url: https://github.com/finos/terraform-google-cfi-gke
-              - repo_url: https://github.com/finos/terraform-azurerm-cfi-aks
-              - repo_url: https://github.com/finos/terraform-aws-cfi-dynamodb
-              - repo_url: https://github.com/finos/terraform-aws-cfi-lambda
-              - repo_url: https://github.com/finos/terraform-azurerm-cfi-postgresql
-              - repo_url: https://github.com/finos/terraform-aws-cfi-redshift
-              - repo_url: https://github.com/finos/terraform-aws-cfi-sqs
-            project: incubating
-            homepage_url: https://github.com/finos/compliant-financial-infrastructure
-            repo_url: https://github.com/finos/compliant-financial-infrastructure
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: waltz.svg
-            name: Waltz
-            item:
-            project: active
-            homepage_url: https://waltz.finos.org
-            repo_url: https://github.com/finos/waltz
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Legend
