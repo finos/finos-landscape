@@ -443,6 +443,13 @@ landscape:
             homepage_url: https://trac-platform.readthedocs.io/en/stable/
             repo_url: https://github.com/finos/tracdap
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: traderx.svg
+            name: TraderX
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/traderX
+            repo_url: https://github.com/finos/traderX
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
       - subcategory:
         name: Market Data
         items:
