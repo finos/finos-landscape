@@ -124,6 +124,8 @@ landscape:
             logo: fdc3.svg
             name: FDC3
             item:
+            additional_repos:
+              - repo_url: https://github.com/finos/fdc3-dotnet
             project: active
             homepage_url: https://fdc3.finos.org
             repo_url: https://github.com/finos/fdc3
@@ -304,6 +306,7 @@ landscape:
               - repo_url: https://github.com/finos/terraform-azurerm-cfi-postgresql
               - repo_url: https://github.com/finos/terraform-aws-cfi-redshift
               - repo_url: https://github.com/finos/terraform-aws-cfi-sqs
+              - repo_url: https://github.com/finos/cfi-ansible-aws-rds
             project: incubating
             homepage_url: https://github.com/finos/compliant-financial-infrastructure
             repo_url: https://github.com/finos/compliant-financial-infrastructure
