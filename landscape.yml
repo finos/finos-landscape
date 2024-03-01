@@ -2,6 +2,119 @@
 
 landscape:
   - category:
+    name: Enablement
+    subcategories:
+      - subcategory:
+        name: AI
+        items:
+          - license: Apache License 2.0
+            logo: finos.svg
+            name: AI Readiness
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/zenith
+            repo_url: https://github.com/finos/ai-readiness
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: ODP Toolchain
+        items:
+          - logo: cla-bot.svg
+            name: CLA Bot
+            item:
+            project: active
+            homepage_url: https://finos.github.io/cla-bot
+            repo_url: https://github.com/finos/cla-bot
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: finos-code-scanning.svg
+            name: FINOS Code Scanning
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/security-scanning
+            repo_url: https://github.com/finos/security-scanning
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: OSS Readiness
+        items:
+          - license: Apache License 2.0
+            logo: devops-automation.svg
+            name: DevOps Automation
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/devops-automation
+            repo_url: https://github.com/finos/devops-automation
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: git-proxy.svg
+            name: Git Proxy
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/git-proxy
+            repo_url: https://github.com/finos/git-proxy
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: CC-BY-SA-4.0
+            logo: innersource.svg
+            name: InnerSource Special Interest Group
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/InnerSource
+            repo_url: https://github.com/finos/InnerSource
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: CC-BY-SA-4.0
+            logo: oslc-handbook.svg
+            name: OSLC Handbook
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/OSLC-handbook
+            repo_url: https://github.com/finos/OSLC-handbook
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - license: Apache License 2.0
+            logo: open-source-readiness.svg
+            name: Open source readiness
+            item:
+            additional_repos:
+              - repo_url: https://github.com/finos/osmm
+            project: sig
+            homepage_url: https://github.com/finos/open-source-readiness
+            repo_url: https://github.com/finos/open-source-readiness
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: DEI
+        items:
+          - logo: dei-sig.svg
+            name: Diversity Equity & Inclusion Special Interest Group
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/DEI-SIG
+            repo_url: https://github.com/finos/DEI-SIG
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: Regulation
+        items:
+          - logo: open-reg-tech-us-lcr.svg
+            name: Open Reg Tech US LCR
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/open-reg-tech-us-lcr
+            repo_url: https://github.com/finos/open-reg-tech-us-lcr
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+          - logo: regulation-innovation.svg
+            name: Regulation Innovation Special Interest Group
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/open-regtech-sig
+            repo_url: https://github.com/finos/open-regtech-sig
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+      - subcategory:
+        name: Innovation
+        items:
+          - license: Apache License 2.0
+            logo: zenith.svg
+            name: Zenith
+            item:
+            project: sig
+            homepage_url: https://github.com/finos/zenith
+            repo_url: https://github.com/finos/zenith
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+  - category:
     name: Applications
     subcategories:
       - subcategory:
@@ -174,108 +287,6 @@ landscape:
             project: active
             homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-  - category:
-    name: Enablement
-    subcategories:
-      - subcategory:
-        name: ODP Toolchain
-        items:
-          - logo: cla-bot.svg
-            name: CLA Bot
-            item:
-            project: active
-            homepage_url: https://finos.github.io/cla-bot
-            repo_url: https://github.com/finos/cla-bot
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: finos-code-scanning.svg
-            name: FINOS Code Scanning
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/security-scanning
-            repo_url: https://github.com/finos/security-scanning
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: OSS Readiness
-        items:
-          - license: Apache License 2.0
-            logo: devops-automation.svg
-            name: DevOps Automation
-            item:
-            project: sig
-            homepage_url: https://github.com/finos/devops-automation
-            repo_url: https://github.com/finos/devops-automation
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: git-proxy.svg
-            name: Git Proxy
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/git-proxy
-            repo_url: https://github.com/finos/git-proxy
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - license: CC-BY-SA-4.0
-            logo: innersource.svg
-            name: InnerSource Special Interest Group
-            item:
-            project: sig
-            homepage_url: https://github.com/finos/InnerSource
-            repo_url: https://github.com/finos/InnerSource
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - license: CC-BY-SA-4.0
-            logo: oslc-handbook.svg
-            name: OSLC Handbook
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/OSLC-handbook
-            repo_url: https://github.com/finos/OSLC-handbook
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - license: Apache License 2.0
-            logo: open-source-readiness.svg
-            name: Open source readiness
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/osmm
-            project: sig
-            homepage_url: https://github.com/finos/open-source-readiness
-            repo_url: https://github.com/finos/open-source-readiness
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: DEI
-        items:
-          - logo: dei-sig.svg
-            name: Diversity Equity & Inclusion Special Interest Group
-            item:
-            project: sig
-            homepage_url: https://github.com/finos/DEI-SIG
-            repo_url: https://github.com/finos/DEI-SIG
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: Regulation
-        items:
-          - logo: open-reg-tech-us-lcr.svg
-            name: Open Reg Tech US LCR
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/open-reg-tech-us-lcr
-            repo_url: https://github.com/finos/open-reg-tech-us-lcr
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - logo: regulation-innovation.svg
-            name: Regulation Innovation Special Interest Group
-            item:
-            project: sig
-            homepage_url: https://github.com/finos/open-regtech-sig
-            repo_url: https://github.com/finos/open-regtech-sig
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-      - subcategory:
-        name: Innovation
-        items:
-          - license: Apache License 2.0
-            logo: zenith.svg
-            name: Zenith
-            item:
-            project: sig
-            homepage_url: https://github.com/finos/zenith
-            repo_url: https://github.com/finos/zenith
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
   - category:
     name: Infrastructure
