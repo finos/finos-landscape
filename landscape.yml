@@ -187,7 +187,6 @@ landscape:
               contribution_date: 2019-04-30
               activation_date: 2020-02-24
               lead: texodus
-              contribution_date: 2019-04-30
           - license: Apache License 2.0
             logo: regular-table.svg
             name: Regular Table
@@ -264,7 +263,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
               contribution_date: 2021-02-17
-              lead: opoupeney(?)
+              lead: Yannick-Malins
           - logo: symphony-generator.svg
             name: Symphony Generator
             item:
@@ -378,7 +377,7 @@ landscape:
             repo_url: https://github.com/finos/SymphonyElectron
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
-              announcementDate: 2020-01-02
+              activation_date: 2020-01-02
               contribution_date: 2016-11-28
               lead: andreaslindvall
   - category:
@@ -624,7 +623,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
               contribution_date: 2020-11-09
-              announcementDate: 2020-11-09
+              activation_date: 2020-11-09
               lead: fquinner
   - category:
     name: Legend
