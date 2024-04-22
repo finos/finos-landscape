@@ -89,9 +89,9 @@ landscape:
             repo_url: https://github.com/finos/InnerSource
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
-              slack_channels: [C01SYB503QT, C01TAPTAHUZ]
+              slack_channels: ["C01SYB503QT", "C01TAPTAHUZ"]
               contribution_date: 2021-02-01
-              lead: "danizheleva",
+              lead: danizheleva
               mailing_list: innersource@finos.org
           - license: CC-BY-SA-4.0
             logo: oslc-handbook.svg
@@ -455,7 +455,7 @@ landscape:
             repo_url: https://github.com/finos/waltz
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
-              slack_channels: [ "C01S1D746TW" ]
+              slack_channels: ["C01S1D746TW"]
               activation_date: 2020-07-10
               contribution_date: 2020-03-09
               lead: davidwatkins73
