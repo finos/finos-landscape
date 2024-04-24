@@ -15,8 +15,12 @@ landscape:
             homepage_url: https://github.com/finos/ai-readiness
             repo_url: https://github.com/finos/ai-readiness
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2023-02-26
+              lead: ColinEberhardt
+              mailing_list: ai-readiness-private@lists.finos.org
       - subcategory:
-        name: ODP Toolchain
+        name: Toolchain
         items:
           - logo: cla-bot.svg
             name: CLA Bot
@@ -25,6 +29,10 @@ landscape:
             homepage_url: https://finos.github.io/cla-bot
             repo_url: https://github.com/finos/cla-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              activation_date: 2020-01-15
+              contribution_date: 2019-02-22
+              lead: ColinEberhardt
           - logo: finos-code-scanning.svg
             name: FINOS Code Scanning
             item:
@@ -32,6 +40,9 @@ landscape:
             homepage_url: https://github.com/finos/security-scanning
             repo_url: https://github.com/finos/security-scanning
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-10-11
+              lead: maoo
       - subcategory:
         name: OSS Readiness
         items:
@@ -43,6 +54,10 @@ landscape:
             homepage_url: https://github.com/finos/devops-automation
             repo_url: https://github.com/finos/devops-automation
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2020-10-21
+              lead: ashukla13
+              mailing_list: devops-mutualization@finos.org
           - logo: git-proxy.svg
             name: Git Proxy
             item:
@@ -50,6 +65,11 @@ landscape:
             homepage_url: https://github.com/finos/git-proxy
             repo_url: https://github.com/finos/git-proxy
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              lead: JamieSlome
+              contribution_date: 2020-11-19
+              mailing_list: git-proxy@lists.finos.org
+              slack_channels: ["C06LXNW0W76"]
           - license: CC-BY-SA-4.0
             logo: innersource.svg
             name: InnerSource Special Interest Group
@@ -58,24 +78,24 @@ landscape:
             homepage_url: https://github.com/finos/InnerSource
             repo_url: https://github.com/finos/InnerSource
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
-          - license: CC-BY-SA-4.0
-            logo: oslc-handbook.svg
-            name: OSLC Handbook
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/OSLC-handbook
-            repo_url: https://github.com/finos/OSLC-handbook
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              slack_channels: ["C01SYB503QT", "C01TAPTAHUZ"]
+              contribution_date: 2021-02-01
+              lead: danizheleva
+              mailing_list: innersource@finos.org
           - license: Apache License 2.0
             logo: open-source-readiness.svg
             name: Open source readiness
             item:
-            additional_repos:
-              - repo_url: https://github.com/finos/osmm
             project: sig
             homepage_url: https://github.com/finos/open-source-readiness
             repo_url: https://github.com/finos/open-source-readiness
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2018-04-24
+              lead: psmulovics
+              mailing_list: osr@finos.org
+              slack_channels: ["C01RVPM6YDU"]
       - subcategory:
         name: DEI
         items:
@@ -86,6 +106,9 @@ landscape:
             homepage_url: https://github.com/finos/DEI-SIG
             repo_url: https://github.com/finos/DEI-SIG
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-06-01
+              lead: paulapaul
       - subcategory:
         name: Regulation
         items:
@@ -96,6 +119,10 @@ landscape:
             homepage_url: https://github.com/finos/open-reg-tech-us-lcr
             repo_url: https://github.com/finos/open-reg-tech-us-lcr
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-10-26
+              lead: stephengoldbaum
+              mailing_list: open-regtech-sig@finos.org
           - logo: regulation-innovation.svg
             name: Regulation Innovation Special Interest Group
             item:
@@ -103,6 +130,9 @@ landscape:
             homepage_url: https://github.com/finos/open-regtech-sig
             repo_url: https://github.com/finos/open-regtech-sig
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2020-10-21
+              lead: stephengoldbaum
       - subcategory:
         name: Innovation
         items:
@@ -114,6 +144,9 @@ landscape:
             homepage_url: https://github.com/finos/zenith
             repo_url: https://github.com/finos/zenith
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2023-01-24
+              lead: psmulovics
   - category:
     name: Applications
     subcategories:
@@ -129,6 +162,9 @@ landscape:
             homepage_url: https://a11y-theme-builder.finos.org
             repo_url: https://github.com/finos/a11y-theme-builder
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2023-10-03
+              lead: AndySmithSL
           - license: Apache License 2.0
             logo: jupyterlab-templates.svg
             name: JupyterLab Templates
@@ -137,6 +173,9 @@ landscape:
             homepage_url: https://github.com/finos/jupyterlab_templates
             repo_url: https://github.com/finos/jupyterlab_templates
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-12-20
+              lead: timkpaine
           - logo: perspective.svg
             name: Perspective
             item:
@@ -144,6 +183,10 @@ landscape:
             homepage_url: https://perspective.finos.org
             repo_url: https://github.com/finos/perspective
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2019-04-30
+              activation_date: 2020-02-24
+              lead: texodus
           - license: Apache License 2.0
             logo: regular-table.svg
             name: Regular Table
@@ -152,6 +195,9 @@ landscape:
             homepage_url: https://github.com/finos/regular-table
             repo_url: https://github.com/finos/regular-table
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-12-20
+              lead: texodus
           - logo: vuu.svg
             name: VUU
             item:
@@ -159,6 +205,9 @@ landscape:
             homepage_url: https://vuu.finos.org
             repo_url: https://github.com/finos/vuu
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-11-09
+              lead: chrisjstevo
       - subcategory:
         name: Symphony Ecosystem
         items:
@@ -169,6 +218,10 @@ landscape:
             homepage_url: https://github.com/finos/JCurl
             repo_url: https://github.com/finos/JCurl
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2017-06-06
+              activation_date: 2020-01-02
+              lead: ldrozdz
           - logo: messageml-utils.svg
             name: MessageML Utilities
             item:
@@ -176,6 +229,10 @@ landscape:
             homepage_url: https://github.com/finos/messageml-utils
             repo_url: https://github.com/finos/messageml-utils
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2017-05-19
+              activation_date: 2020-01-02
+              lead: justinesymphony
           - logo: symphony-rest-api-spec.svg
             name: REST API Specification
             item:
@@ -183,6 +240,10 @@ landscape:
             homepage_url: https://github.com/finos/symphony-api-spec
             repo_url: https://github.com/finos/symphony-api-spec
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2017-05-04
+              activation_date: 2020-01-02
+              lead: justinesymphony
           - logo: symphony-bdk-java.svg
             name: Symphony BDK Java
             item:
@@ -190,6 +251,9 @@ landscape:
             homepage_url: https://symphony-bdk-java.finos.org
             repo_url: https://github.com/finos/symphony-bdk-java
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2021-02-17
+              lead: Yannick-Malins
           - logo: symphony-bdk-python.svg
             name: Symphony BDK Python
             item:
@@ -197,6 +261,9 @@ landscape:
             homepage_url: https://symphony-bdk-python.finos.org
             repo_url: https://github.com/finos/symphony-bdk-python
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2021-02-17
+              lead: Yannick-Malins
           - logo: symphony-generator.svg
             name: Symphony Generator
             item:
@@ -204,6 +271,9 @@ landscape:
             homepage_url: https://github.com/finos/generator-symphony
             repo_url: https://github.com/finos/generator-symphony
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-01-11
+              lead: symphony-soufiane
           - logo: symphony-media-bridge.svg
             name: Symphony Media Bridge
             item:
@@ -211,6 +281,9 @@ landscape:
             homepage_url: https://github.com/finos/SymphonyMediaBridge
             repo_url: https://github.com/finos/SymphonyMediaBridge
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2021-11-23
+              lead: olofkallander
           - logo: symphony-wdk.svg
             name: Symphony WDK
             item:
@@ -220,6 +293,9 @@ landscape:
             homepage_url: https://github.com/finos/symphony-wdk
             repo_url: https://github.com/finos/symphony-wdk
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2021-09-30
+              lead: Yannick-Malins
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -233,6 +309,9 @@ landscape:
             homepage_url: https://backplane.finos.org
             repo_url: https://github.com/finos/backplane
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-11-22
+              lead: Vivek-Natwest
           - license: Community License Specification
             logo: fdc3.svg
             name: FDC3
@@ -243,6 +322,12 @@ landscape:
             homepage_url: https://fdc3.finos.org
             repo_url: https://github.com/finos/fdc3
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2018-04-20
+              activation_date: 2019-07-19
+              lead: kriswest
+              slack_channels: ["C01R0P7H5LH", "C01UH66AKJL"]
+              mailing_list: fdc3@finos.org
           - license: Apache License 2.0
             logo: fdc3-conformance.svg
             name: FDC3 Conformance Framework
@@ -251,6 +336,9 @@ landscape:
             homepage_url: https://fdc3.finos.org
             repo_url: https://github.com/finos/FDC3-conformance-framework
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-06-08
+              lead: ColinEberhardt
           - logo: springbot.svg
             name: Spring Bot
             item:
@@ -258,6 +346,10 @@ landscape:
             homepage_url: https://springbot.finos.org
             repo_url: https://github.com/finos/spring-bot
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2020-09-15
+              activation_date: 2023-05-22
+              lead: robmoffat
       - subcategory:
         name: Containers
         items:
@@ -268,6 +360,9 @@ landscape:
             homepage_url: https://github.com/finos/FDC3-Sail
             repo_url: https://github.com/finos/FDC3-Sail
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-04-26
+              lead: nkolba
           - license: Apache License 2.0
             logo: symphony-electron.svg
             name: Symphony Electron
@@ -281,6 +376,10 @@ landscape:
             homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              activation_date: 2020-01-02
+              contribution_date: 2016-11-28
+              lead: andreaslindvall
   - category:
     name: Infrastructure
     subcategories:
@@ -295,6 +394,10 @@ landscape:
             homepage_url: https://finos.org/common-cloud-controls
             repo_url: https://github.com/finos/common-cloud-controls
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              formation_date: 2023-07-06
+              contribution_date: 2023-10-24
+              lead: akan
           - license: Apache License 2.0
             logo: compliant-financial-infrastruture.svg
             name: Compliant Financial Infrastructure
@@ -315,6 +418,11 @@ landscape:
             homepage_url: https://github.com/finos/compliant-financial-infrastructure
             repo_url: https://github.com/finos/compliant-financial-infrastructure
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2019-02-26
+              lead: eddie-knight
+              slack_channels: ["C01RNUMC2DP"]
+              mailing_list: compliant-financial-infrastructure@finos.org
           - logo: waltz.svg
             name: Waltz
             item:
@@ -322,6 +430,11 @@ landscape:
             homepage_url: https://waltz.finos.org
             repo_url: https://github.com/finos/waltz
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              slack_channels: ["C01S1D746TW"]
+              activation_date: 2020-07-10
+              contribution_date: 2020-03-09
+              lead: davidwatkins73
   - category:
     name: Data & Business Logic
     subcategories:
@@ -338,6 +451,9 @@ landscape:
             homepage_url: https://github.com/finos/common-domain-model
             repo_url: https://github.com/finos/common-domain-model
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2023-02-14
+              lead: dshoneisda
           - license: CSLA 1.0
             logo: financial-objects.svg
             name: Financial Objects
@@ -346,6 +462,10 @@ landscape:
             homepage_url: http://fo.finos.org
             repo_url: https://github.com/finos/financial-objects
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2018-04-24
+              lead: ffionwiggins
+              mailing_list: fo-financial-objects@finos.org
           - license: CSLA 1.0
             logo: fo-product-control-common-template.svg
             name: Product Control Common Template
@@ -354,6 +474,9 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             repo_url: null
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-03-14
+              lead: kenneth-hei
           - logo: timebase-ce.svg
             name: TimeBase CE
             item:
@@ -361,6 +484,11 @@ landscape:
             homepage_url: https://github.com/finos/TimeBase-ce
             repo_url: https://github.com/finos/TimeBase-ce
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              formation_date: 2021-03-19
+              contribution_date: 2021-07-09
+              lead: avavilau
+              docker_hub: [ "finos timebase-ce-client", "finos /timebase-ce-server"]
       - subcategory:
         name: Tick & Reference
         items:
@@ -372,6 +500,10 @@ landscape:
             homepage_url: https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata
             repo_url: https://github.com/finos/curref-data
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2021-01-19
+              lead: ElaineFraser
+              mailing_list: currency-ref-data@finos.org
           - logo: security-reference-data.svg
             name: Security Reference Data
             item:
@@ -379,6 +511,10 @@ landscape:
             homepage_url: https://github.com/finos/secref-data
             repo_url: https://github.com/finos/secref-data
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2018-11-05
+              lead: saileshpandey
+              mailing_list: data-tech-sec-ref@finos.org
           - logo: finos.svg
             name: kdb+
             item:
@@ -389,6 +525,10 @@ landscape:
             homepage_url: https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/329383945/kdb+Project
             repo_url: https://github.com/finos/kdb
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2018-07-11
+              lead: alvin-c-shih
+              mailing_list: data-tech-kdb@finos.org
       - subcategory:
         name: Frameworks
         items:
@@ -419,6 +559,12 @@ landscape:
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              formation_date: 2020-01-30
+              contribution_date: 2020-10-19
+              lead: pierredebelen
+              mailing_list: legend@finos.org
+              docker_hub: [ "finos legend-studio", "finos legend-sdlc-server",  "finos legend-engine-server"]
           - license: Apache License 2.0
             logo: morphir.svg
             name: Morphir
@@ -435,6 +581,12 @@ landscape:
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2020-08-24
+              activation_date: 2023-05-09
+              lead: stephengoldbaum
+              slack_channels: ["C01RDPAMYJW"]
+              mailing_list: morphir@finos.org
           - logo: tracdap.svg
             name: TRAC d.a.p.
             item:
@@ -442,6 +594,9 @@ landscape:
             homepage_url: https://trac-platform.readthedocs.io/en/stable/
             repo_url: https://github.com/finos/tracdap
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2022-03-08
+              lead: martin-traverse
           - logo: traderx.svg
             name: TraderX
             item:
@@ -449,6 +604,9 @@ landscape:
             homepage_url: https://github.com/finos/traderX
             repo_url: https://github.com/finos/traderX
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2023-02-13
+              lead: dovops
       - subcategory:
         name: Market Data
         items:
@@ -463,6 +621,10 @@ landscape:
             homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2020-11-09
+              activation_date: 2020-11-09
+              lead: fquinner
   - category:
     name: Legend
     subcategories:
