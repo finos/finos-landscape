@@ -587,6 +587,17 @@ landscape:
               lead: stephengoldbaum
               slack_channels: ["C01RDPAMYJW"]
               mailing_list: morphir@finos.org
+          - license: Apache License 2.0
+            logo: rune.svg
+            name: Rune
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/rune-dsl
+            repo_url: https://github.com/finos/rune-dsl
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2024-04-24
+              lead: minesh-s-patel
           - logo: tracdap.svg
             name: TRAC d.a.p.
             item:
