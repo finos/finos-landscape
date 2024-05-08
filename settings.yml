@@ -101,10 +101,10 @@ home:
     on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
-ads:
-  - url: https://events.linuxfoundation.org/open-source-finance-forum/
-    image: /images/2022-OSFF.jpeg
-    title: Open Source in Finance Forum 2022
+# ads:
+#   - url: https://events.linuxfoundation.org/open-source-finance-forum/
+#     image: /images/2022-OSFF.jpeg
+#     title: Open Source in Finance Forum 2022
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
