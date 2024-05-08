@@ -22,17 +22,6 @@ landscape:
       - subcategory:
         name: Toolchain
         items:
-          - logo: cla-bot.svg
-            name: CLA Bot
-            item:
-            project: active
-            homepage_url: https://finos.github.io/cla-bot
-            repo_url: https://github.com/finos/cla-bot
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            extra:
-              activation_date: 2020-01-15
-              contribution_date: 2019-02-22
-              lead: ColinEberhardt
           - logo: finos-code-scanning.svg
             name: FINOS Code Scanning
             item:
