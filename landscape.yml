@@ -43,6 +43,8 @@ landscape:
             homepage_url: https://github.com/finos/devops-automation
             repo_url: https://github.com/finos/devops-automation
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            additional_repos:
+              - repo_url: https://github.com/finos/architecture-as-code
             extra:
               contribution_date: 2020-10-21
               lead: ashukla13
