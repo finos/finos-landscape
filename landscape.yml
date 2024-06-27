@@ -582,7 +582,10 @@ landscape:
             item:
             project: incubating
             homepage_url: https://github.com/finos/rune-dsl
-            repo_url: https://github.com/finos/rune-dsl
+            additional_repos:
+              - repo_url: https://github.com/finos/rune-dsl
+              - repo_url: https://github.com/finos/rune-testing
+              - repo_url: https://github.com/finos/rune-common
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
               contribution_date: 2024-04-24
