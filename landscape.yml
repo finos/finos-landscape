@@ -30,6 +30,17 @@ landscape:
             extra:
               contribution_date: 2022-10-11
               lead: maoo
+          - license: Apache License 2.0
+            logo: htc-grid.svg
+            name: High Throughput Compute Grid
+            item:
+            project: incubating
+            homepage_url: https://finos.github.io/htc-grid/
+            repo_url: https://github.com/finos/htc-grid
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2024-09-03
+              lead: kirillsc
       - subcategory:
         name: OSS Readiness
         items:
