@@ -119,6 +119,8 @@ landscape:
             homepage_url: https://github.com/finos/open-reg-tech-us-lcr
             repo_url: https://github.com/finos/open-reg-tech-us-lcr
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            additional_repos:
+              - repo_url: https://github.com/finos/opensource-reg-reporting
             extra:
               contribution_date: 2022-10-26
               lead: stephengoldbaum
