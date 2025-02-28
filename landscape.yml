@@ -214,14 +214,14 @@ landscape:
           - logo: jcurl.svg
             name: JCurl
             item:
-            project: active
+            project: archived
             homepage_url: https://github.com/finos/JCurl
             repo_url: https://github.com/finos/JCurl
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
               contribution_date: 2017-06-06
               activation_date: 2020-01-02
-              lead: ldrozdz
+              lead: Yannick-Malins
           - logo: messageml-utils.svg
             name: MessageML Utilities
             item:
@@ -247,7 +247,7 @@ landscape:
           - logo: symphony-bdk-java.svg
             name: Symphony BDK Java
             item:
-            project: incubating
+            project: active
             homepage_url: https://symphony-bdk-java.finos.org
             repo_url: https://github.com/finos/symphony-bdk-java
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
@@ -257,7 +257,7 @@ landscape:
           - logo: symphony-bdk-python.svg
             name: Symphony BDK Python
             item:
-            project: incubating
+            project: active
             homepage_url: https://symphony-bdk-python.finos.org
             repo_url: https://github.com/finos/symphony-bdk-python
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
@@ -267,29 +267,29 @@ landscape:
           - logo: symphony-generator.svg
             name: Symphony Generator
             item:
-            project: incubating
+            project: active
             homepage_url: https://github.com/finos/generator-symphony
             repo_url: https://github.com/finos/generator-symphony
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
               contribution_date: 2022-01-11
-              lead: symphony-soufiane
+              lead: Yannick-Malins
           - logo: symphony-media-bridge.svg
             name: Symphony Media Bridge
             item:
-            project: incubating
+            project: active
             homepage_url: https://github.com/finos/SymphonyMediaBridge
             repo_url: https://github.com/finos/SymphonyMediaBridge
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
             extra:
               contribution_date: 2021-11-23
-              lead: olofkallander
+              lead: RicardoMDomingues
           - logo: symphony-wdk.svg
             name: Symphony WDK
             item:
             additional_repos:
               - repo_url: https://github.com/finos/symphony-wdk-gallery
-            project: incubating
+            project: archived
             homepage_url: https://github.com/finos/symphony-wdk
             repo_url: https://github.com/finos/symphony-wdk
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
