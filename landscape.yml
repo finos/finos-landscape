@@ -284,18 +284,6 @@ landscape:
             extra:
               contribution_date: 2021-11-23
               lead: olofkallander
-          - logo: symphony-wdk.svg
-            name: Symphony WDK
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/symphony-wdk-gallery
-            project: incubating
-            homepage_url: https://github.com/finos/symphony-wdk
-            repo_url: https://github.com/finos/symphony-wdk
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            extra:
-              contribution_date: 2021-09-30
-              lead: Yannick-Malins
   - category:
     name: Platforms & Runtimes
     subcategories:
