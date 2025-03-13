@@ -211,17 +211,6 @@ landscape:
       - subcategory:
         name: Symphony Ecosystem
         items:
-          - logo: jcurl.svg
-            name: JCurl
-            item:
-            project: active
-            homepage_url: https://github.com/finos/JCurl
-            repo_url: https://github.com/finos/JCurl
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            extra:
-              contribution_date: 2017-06-06
-              activation_date: 2020-01-02
-              lead: ldrozdz
           - logo: messageml-utils.svg
             name: MessageML Utilities
             item:
@@ -284,18 +273,6 @@ landscape:
             extra:
               contribution_date: 2021-11-23
               lead: olofkallander
-          - logo: symphony-wdk.svg
-            name: Symphony WDK
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/symphony-wdk-gallery
-            project: incubating
-            homepage_url: https://github.com/finos/symphony-wdk
-            repo_url: https://github.com/finos/symphony-wdk
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
-            extra:
-              contribution_date: 2021-09-30
-              lead: Yannick-Malins
   - category:
     name: Platforms & Runtimes
     subcategories:
