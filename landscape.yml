@@ -412,6 +412,19 @@ landscape:
               activation_date: 2020-07-10
               contribution_date: 2020-03-09
               lead: davidwatkins73
+          - license: Apache License 2.0
+            logo: calm.svg
+            name: Common Architecture Language Model
+            item:
+            project: incubating
+            homepage_url: https://calm.finos.org
+            repo_url: https://github.com/finos/architecture-as-code
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              contribution_date: 2025-04-14
+              lead: rocketstack-matt
+              slack_channels: ["C085UHKL6SJ"]
+              mailing_list: calm@lists.finos.org
   - category:
     name: Data & Business Logic
     subcategories:
