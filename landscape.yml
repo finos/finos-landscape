@@ -17,7 +17,7 @@ landscape:
               contribution_date: 2023-02-26
               lead: ColinEberhardt
               mailing_list: ai-readiness-private@lists.finos.org
-              meeting-search-term: AI
+              meeting_search_term: AI
               tags: ["innovation", "community"]
       - subcategory:
         name: Toolchain
@@ -62,7 +62,7 @@ landscape:
               contribution_date: 2020-10-21
               lead: ashukla13
               mailing_list: devops-mutualization@finos.org
-              meeting-search-term: DevOps
+              meeting_search_term: DevOps
               tags: ["automation", "infrastructure"]
           - logo: git-proxy.svg
             name: Git Proxy
@@ -104,7 +104,7 @@ landscape:
               lead: psmulovics
               mailing_list: osr@finos.org
               slack_channels: ["C01RVPM6YDU"]
-              meeting-search-term: Open Source Readiness
+              meeting_search_term: Open Source Readiness
               tags: ["community"]
       - subcategory:
         name: DEI
@@ -119,7 +119,7 @@ landscape:
             extra:
               contribution_date: 2022-06-01
               lead: paulapaul
-              meeting-search-term: Diversity
+              meeting_search_term: Diversity
               tags: ["community"]
       - subcategory:
         name: Regulation
@@ -146,7 +146,7 @@ landscape:
             extra:
               contribution_date: 2020-10-21
               lead: stephengoldbaum
-              meeting-search-term: Regulation
+              meeting_search_term: Regulation
               tags: ["compliance"]
       - subcategory:
         name: Innovation
@@ -162,7 +162,7 @@ landscape:
             extra:
               contribution_date: 2023-01-24
               lead: psmulovics
-              meeting-search-term: Zenith
+              meeting_search_term: Zenith
               tags: ["innovation"]
   - category:
     name: Applications
@@ -182,7 +182,7 @@ landscape:
             extra:
               contribution_date: 2023-10-03
               lead: AndySmithSL
-              meeting-search-term: A11y
+              meeting_search_term: A11y
               tags: ["ui"]
           - license: Apache License 2.0
             logo: jupyterlab-templates.svg
@@ -335,7 +335,7 @@ landscape:
               lead: kriswest
               slack_channels: ["C01R0P7H5LH", "C01UH66AKJL"]
               mailing_list: fdc3@finos.org
-              meeting-search-term: FDC3
+              meeting_search_term: FDC3
               tags: ["framework"]
           - license: Apache License 2.0
             logo: fdc3-conformance.svg
@@ -360,7 +360,7 @@ landscape:
               contribution_date: 2020-09-15
               activation_date: 2023-05-22
               lead: robmoffat
-              meeting-search-term: Spring Bot
+              meeting_search_term: Spring Bot
               tags: ["collaboration"]
       - subcategory:
         name: Containers
@@ -412,7 +412,7 @@ landscape:
               formation_date: 2023-07-06
               contribution_date: 2023-10-24
               lead: akan
-              meeting-search-term: CCC
+              meeting_search_term: CCC
               tags: ["infrastructure", "compliance"]
           - license: Apache License 2.0
             logo: compliant-financial-infrastruture.svg
@@ -439,7 +439,7 @@ landscape:
               lead: eddie-knight
               slack_channels: ["C01RNUMC2DP"]
               mailing_list: compliant-financial-infrastructure@finos.org
-              meeting-search-term: Compliant Financial Infrastructure
+              meeting_search_term: Compliant Financial Infrastructure
               tags: ["infrastructure", "compliance"]
           - logo: waltz.svg
             name: Waltz
@@ -467,7 +467,7 @@ landscape:
               lead: rocketstack-matt
               slack_channels: ["C085UHKL6SJ"]
               mailing_list: calm@lists.finos.org
-              meeting-search-term: Architecture as Code
+              meeting_search_term: Architecture as Code
               tags: ["automation", "infrastructure"]
   - category:
     name: Data & Business Logic
@@ -488,7 +488,7 @@ landscape:
             extra:
               contribution_date: 2023-02-14
               lead: dshoneisda
-              meeting-search-term: CDM
+              meeting_search_term: CDM
               tags: ["data-modeling"]
           - license: CSLA 1.0
             logo: financial-objects.svg
@@ -630,7 +630,7 @@ landscape:
               lead: stephengoldbaum
               slack_channels: ["C01RDPAMYJW"]
               mailing_list: morphir@finos.org
-              meeting-search-term: Morphir
+              meeting_search_term: Morphir
               tags: ["framework", "data-modeling"]
           - license: Apache License 2.0
             logo: rune.svg
@@ -668,7 +668,7 @@ landscape:
             extra:
               contribution_date: 2023-02-13
               lead: dovops
-              meeting-search-term: TraderX
+              meeting_search_term: TraderX
               tags: ["framework", "data-modeling"]
       - subcategory:
         name: Market Data
