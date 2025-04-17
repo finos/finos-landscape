@@ -17,6 +17,8 @@ landscape:
               contribution_date: 2023-02-26
               lead: ColinEberhardt
               mailing_list: ai-readiness-private@lists.finos.org
+              meeting-search-term: AI
+              tags: ["innovation", "community"]
       - subcategory:
         name: Toolchain
         items:
@@ -30,6 +32,7 @@ landscape:
             extra:
               contribution_date: 2022-10-11
               lead: maoo
+              tags: ["automation", "infrastructure"]
           - license: Apache License 2.0
             logo: htc-grid.svg
             name: High Throughput Compute Grid
@@ -41,6 +44,7 @@ landscape:
             extra:
               contribution_date: 2024-09-03
               lead: kirillsc
+              tags: ["infrastructure", "innovation"]
       - subcategory:
         name: OSS Readiness
         items:
@@ -58,6 +62,8 @@ landscape:
               contribution_date: 2020-10-21
               lead: ashukla13
               mailing_list: devops-mutualization@finos.org
+              meeting-search-term: DevOps
+              tags: ["automation", "infrastructure"]
           - logo: git-proxy.svg
             name: Git Proxy
             item:
@@ -70,6 +76,7 @@ landscape:
               contribution_date: 2020-11-19
               mailing_list: git-proxy@lists.finos.org
               slack_channels: ["C06LXNW0W76"]
+              tags: ["automation"]
           - license: CC-BY-SA-4.0
             logo: innersource.svg
             name: InnerSource Special Interest Group
@@ -83,6 +90,7 @@ landscape:
               contribution_date: 2021-02-01
               lead: danizheleva
               mailing_list: innersource@finos.org
+              tags: ["community"]
           - license: Apache License 2.0
             logo: open-source-readiness.svg
             name: Open source readiness
@@ -96,6 +104,8 @@ landscape:
               lead: psmulovics
               mailing_list: osr@finos.org
               slack_channels: ["C01RVPM6YDU"]
+              meeting-search-term: Open Source Readiness
+              tags: ["community"]
       - subcategory:
         name: DEI
         items:
@@ -109,6 +119,8 @@ landscape:
             extra:
               contribution_date: 2022-06-01
               lead: paulapaul
+              meeting-search-term: Diversity
+              tags: ["community"]
       - subcategory:
         name: Regulation
         items:
@@ -123,6 +135,7 @@ landscape:
               contribution_date: 2022-10-26
               lead: stephengoldbaum
               mailing_list: open-regtech-sig@finos.org
+              tags: ["compliance"]
           - logo: regulation-innovation.svg
             name: Regulation Innovation Special Interest Group
             item:
@@ -133,6 +146,8 @@ landscape:
             extra:
               contribution_date: 2020-10-21
               lead: stephengoldbaum
+              meeting-search-term: Regulation
+              tags: ["compliance"]
       - subcategory:
         name: Innovation
         items:
@@ -147,6 +162,8 @@ landscape:
             extra:
               contribution_date: 2023-01-24
               lead: psmulovics
+              meeting-search-term: Zenith
+              tags: ["innovation"]
   - category:
     name: Applications
     subcategories:
@@ -165,6 +182,8 @@ landscape:
             extra:
               contribution_date: 2023-10-03
               lead: AndySmithSL
+              meeting-search-term: A11y
+              tags: ["ui"]
           - license: Apache License 2.0
             logo: jupyterlab-templates.svg
             name: JupyterLab Templates
@@ -176,6 +195,7 @@ landscape:
             extra:
               contribution_date: 2022-12-20
               lead: timkpaine
+              tags: ["ui", "framework"]
           - logo: perspective.svg
             name: Perspective
             item:
@@ -187,6 +207,7 @@ landscape:
               contribution_date: 2019-04-30
               activation_date: 2020-02-24
               lead: timkpaine
+              tags: ["ui", "framework"]
           - license: Apache License 2.0
             logo: regular-table.svg
             name: Regular Table
@@ -198,6 +219,7 @@ landscape:
             extra:
               contribution_date: 2022-12-20
               lead: texodus
+              tags: ["ui"]
           - logo: vuu.svg
             name: VUU
             item:
@@ -208,6 +230,7 @@ landscape:
             extra:
               contribution_date: 2022-11-09
               lead: chrisjstevo
+              tags: ["ui"]
       - subcategory:
         name: Symphony Ecosystem
         items:
@@ -222,6 +245,7 @@ landscape:
               contribution_date: 2017-05-19
               activation_date: 2020-01-02
               lead: justinesymphony
+              tags: ["collaboration"]
           - logo: symphony-rest-api-spec.svg
             name: REST API Specification
             item:
@@ -233,6 +257,7 @@ landscape:
               contribution_date: 2017-05-04
               activation_date: 2020-01-02
               lead: justinesymphony
+              tags: ["collaboration", "framework"]
           - logo: symphony-bdk-java.svg
             name: Symphony BDK Java
             item:
@@ -243,6 +268,7 @@ landscape:
             extra:
               contribution_date: 2021-02-17
               lead: Yannick-Malins
+              tags: ["collaboration", "framework"]
           - logo: symphony-bdk-python.svg
             name: Symphony BDK Python
             item:
@@ -253,6 +279,7 @@ landscape:
             extra:
               contribution_date: 2021-02-17
               lead: Yannick-Malins
+              tags: ["collaboration", "framework"]
           - logo: symphony-generator.svg
             name: Symphony Generator
             item:
@@ -263,6 +290,7 @@ landscape:
             extra:
               contribution_date: 2022-01-11
               lead: symphony-soufiane
+              tags: ["collaboration", "automation"]
           - logo: symphony-media-bridge.svg
             name: Symphony Media Bridge
             item:
@@ -273,6 +301,7 @@ landscape:
             extra:
               contribution_date: 2021-11-23
               lead: olofkallander
+              tags: ["collaboration"]
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -289,6 +318,7 @@ landscape:
             extra:
               contribution_date: 2022-11-22
               lead: Vivek-Natwest
+              tags: ["framework"]
           - license: Community License Specification
             logo: fdc3.svg
             name: FDC3
@@ -305,6 +335,8 @@ landscape:
               lead: kriswest
               slack_channels: ["C01R0P7H5LH", "C01UH66AKJL"]
               mailing_list: fdc3@finos.org
+              meeting-search-term: FDC3
+              tags: ["framework"]
           - license: Apache License 2.0
             logo: fdc3-conformance.svg
             name: FDC3 Conformance Framework
@@ -316,6 +348,7 @@ landscape:
             extra:
               contribution_date: 2022-06-08
               lead: ColinEberhardt
+              tags: ["framework"]
           - logo: springbot.svg
             name: Spring Bot
             item:
@@ -327,6 +360,8 @@ landscape:
               contribution_date: 2020-09-15
               activation_date: 2023-05-22
               lead: robmoffat
+              meeting-search-term: Spring Bot
+              tags: ["collaboration"]
       - subcategory:
         name: Containers
         items:
@@ -340,6 +375,7 @@ landscape:
             extra:
               contribution_date: 2022-04-26
               lead: nkolba
+              tags: ["framework"]
           - license: Apache License 2.0
             logo: symphony-electron.svg
             name: Symphony Electron
@@ -357,6 +393,7 @@ landscape:
               activation_date: 2020-01-02
               contribution_date: 2016-11-28
               lead: andreaslindvall
+              tags: ["collaboration", "ui"]
   - category:
     name: Infrastructure
     subcategories:
@@ -375,6 +412,8 @@ landscape:
               formation_date: 2023-07-06
               contribution_date: 2023-10-24
               lead: akan
+              meeting-search-term: CCC
+              tags: ["infrastructure", "compliance"]
           - license: Apache License 2.0
             logo: compliant-financial-infrastruture.svg
             name: Compliant Financial Infrastructure
@@ -400,6 +439,8 @@ landscape:
               lead: eddie-knight
               slack_channels: ["C01RNUMC2DP"]
               mailing_list: compliant-financial-infrastructure@finos.org
+              meeting-search-term: Compliant Financial Infrastructure
+              tags: ["infrastructure", "compliance"]
           - logo: waltz.svg
             name: Waltz
             item:
@@ -412,6 +453,7 @@ landscape:
               activation_date: 2020-07-10
               contribution_date: 2020-03-09
               lead: davidwatkins73
+              tags: ["infrastructure"]
           - license: Apache License 2.0
             logo: calm.svg
             name: Common Architecture Language Model
@@ -425,6 +467,8 @@ landscape:
               lead: rocketstack-matt
               slack_channels: ["C085UHKL6SJ"]
               mailing_list: calm@lists.finos.org
+              meeting-search-term: Architecture as Code
+              tags: ["automation", "infrastructure"]
   - category:
     name: Data & Business Logic
     subcategories:
@@ -444,6 +488,8 @@ landscape:
             extra:
               contribution_date: 2023-02-14
               lead: dshoneisda
+              meeting-search-term: CDM
+              tags: ["data-modeling"]
           - license: CSLA 1.0
             logo: financial-objects.svg
             name: Financial Objects
@@ -456,6 +502,7 @@ landscape:
               contribution_date: 2018-04-24
               lead: ffionwiggins
               mailing_list: fo-financial-objects@finos.org
+              tags: ["data-modeling"]
           - license: CSLA 1.0
             logo: fo-product-control-common-template.svg
             name: Product Control Common Template
@@ -467,6 +514,7 @@ landscape:
             extra:
               contribution_date: 2022-03-14
               lead: kenneth-hei
+              tags: ["data-modeling"]
           - logo: timebase-ce.svg
             name: TimeBase CE
             item:
@@ -479,6 +527,7 @@ landscape:
               contribution_date: 2021-07-09
               lead: avavilau
               docker_hub: [ "finos timebase-ce-client", "finos /timebase-ce-server"]
+              tags: ["data-modeling"]
       - subcategory:
         name: Tick & Reference
         items:
@@ -494,6 +543,7 @@ landscape:
               contribution_date: 2021-01-19
               lead: ElaineFraser
               mailing_list: currency-ref-data@finos.org
+              tags: ["reference-data"]
           - logo: security-reference-data.svg
             name: Security Reference Data
             item:
@@ -505,6 +555,7 @@ landscape:
               contribution_date: 2018-11-05
               lead: saileshpandey
               mailing_list: data-tech-sec-ref@finos.org
+              tags: ["reference-data"]
           - logo: finos.svg
             name: kdb+
             item:
@@ -519,6 +570,7 @@ landscape:
               contribution_date: 2018-07-11
               lead: alvin-c-shih
               mailing_list: data-tech-kdb@finos.org
+              tags: ["data-modeling"]
       - subcategory:
         name: Frameworks
         items:
@@ -555,6 +607,7 @@ landscape:
               lead: pierredebelen
               mailing_list: legend@finos.org
               docker_hub: [ "finos legend-studio", "finos legend-sdlc-server",  "finos legend-engine-server"]
+              tags: ["framework", "data-modeling"]
           - license: Apache License 2.0
             logo: morphir.svg
             name: Morphir
@@ -577,6 +630,8 @@ landscape:
               lead: stephengoldbaum
               slack_channels: ["C01RDPAMYJW"]
               mailing_list: morphir@finos.org
+              meeting-search-term: Morphir
+              tags: ["framework", "data-modeling"]
           - license: Apache License 2.0
             logo: rune.svg
             name: Rune
@@ -591,6 +646,7 @@ landscape:
             extra:
               contribution_date: 2024-04-24
               lead: minesh-s-patel
+              tags: ["framework"]
           - logo: tracdap.svg
             name: TRAC d.a.p.
             item:
@@ -601,6 +657,7 @@ landscape:
             extra:
               contribution_date: 2022-03-08
               lead: martin-traverse
+              tags: ["framework", "data-modeling"]
           - logo: traderx.svg
             name: TraderX
             item:
@@ -611,6 +668,8 @@ landscape:
             extra:
               contribution_date: 2023-02-13
               lead: dovops
+              meeting-search-term: TraderX
+              tags: ["framework", "data-modeling"]
       - subcategory:
         name: Market Data
         items:
@@ -629,6 +688,7 @@ landscape:
               contribution_date: 2020-11-09
               activation_date: 2020-11-09
               lead: fquinner
+              tags: ["data-modeling"]
   - category:
     name: Legend
     subcategories:
@@ -643,6 +703,8 @@ landscape:
             homepage_url: http://fo.finos.org
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/cdm
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              tags: ["data-modeling"]
           - license: CSLA 1.0
             logo: security-reference-data.svg
             name: Commodities Reference Data
@@ -651,6 +713,8 @@ landscape:
             homepage_url: http://github.com/finos/secref-data
             repo_url: https://gitlab.com/finosfoundation/legend/financial-objects/commodrefdata
             crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            extra:
+              tags: ["reference-data"]
   - category:
     name: FINOS
     subcategories:
