@@ -12,7 +12,8 @@ landscape:
             project: sig
             homepage_url: https://github.com/finos/ai-readiness
             repo_url: https://github.com/finos/ai-readiness
-            crunchbase: https://www.crunchbase.com/organization/finos-foundation
+            organization:
+              name: FINOS
             extra:
               contribution_date: 2023-02-26
               lead: ColinEberhardt
