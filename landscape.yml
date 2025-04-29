@@ -5,19 +5,21 @@ landscape:
       - subcategory:
         name: AI
         items:
-          - license: Apache License 2.0
+          - item:
+            license: Apache License 2.0
             logo: ai-readiness.svg
             name: AI Readiness
-            item:
             project: sig
-            homepage_url: https://github.com/finos/ai-readiness
+            homepage_url: https://www.finos.org/ai-readiness
             repo_url: https://github.com/finos/ai-readiness
             organization:
               name: FINOS
             extra:
-              contribution_date: 2023-02-26
-              lead: ColinEberhardt
-              mailing_list: ai-readiness-private@lists.finos.org
+              accepted: 2023-02-26
+              slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
+              mailing_list_url: ai-readiness-private@lists.finos.org
+              annotations:
+                lead: ColinEberhardt
       - subcategory:
         name: Toolchain
         items:
