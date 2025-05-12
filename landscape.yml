@@ -20,6 +20,20 @@ landscape:
               mailing_list_url: ai-readiness-private@lists.finos.org
               annotations:
                 lead: ColinEberhardt
+          - item:
+            license: CC-BY-4.0
+            logo: ai-governance-framework.svg
+            name: AI Governance Framework
+            project: incubating
+            homepage_url: https://air-governance-framework.finos.org/
+            repo_url: https://github.com/finos/ai-governance-framework
+            organization:
+              name: FINOS
+            extra:
+              accepted: 2025-04-04
+              mailing_list_url: ai-governance-framework@lists.finos.org
+              annotations:
+                lead: ColinEberhardt
       - subcategory:
         name: Toolchain
         items:
