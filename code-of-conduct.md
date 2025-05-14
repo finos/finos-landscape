@@ -1,3 +1,3 @@
 # Code of Conduct
 
-We follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+We follow the [FINOS Code of Conduct](https://www.finos.org/code-of-conduct).

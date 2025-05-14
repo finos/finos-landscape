@@ -2,7 +2,7 @@
 
 # FINOS Landscape
 
-![FINOS Landscape Logo](https://github.com/finos/finos-landscape/raw/master/images/left-logo.svg?sanitize=true)
+![FINOS Landscape Logo](https://github.com/finos/finos-landscape/raw/main/images/left-logo.svg?sanitize=true)
 
 - [FINOS Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
@@ -88,7 +88,7 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.graphql.org/bestpractices=yes) and [without](https://landscape.graphql.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.graphql.org/bestpractices=yes) and [without](https://landscape.graphql.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/main/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
