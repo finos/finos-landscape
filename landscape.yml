@@ -60,6 +60,25 @@ landscape:
             extra:
               incubating: 2024-09-03
               lead: kirillsc
+          - license: Apache License 2.0
+            logo: fin-ocr.svg
+            name: FIN-OCR
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/fin-ocr
+            repo_url: https://github.com/finos/fin-ocr
+            additional_repos:
+              - repo_url: https://github.com/finos/fin-ocr-rest
+              - repo_url: https://github.com/finos/fin-ocr-browser
+              - repo_url: https://github.com/finos/fin-ocr-train
+              - repo_url: https://github.com/finos/fin-ocr-sdk
+              - repo_url: https://github.com/finos/fin-ocr-cli
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2024-10-04
+              lead: mtnat
+              slack_url: https://finos-lf.slack.com/archives/C08TNJXC98V
       - subcategory:
         name: OSS Readiness
         items:
