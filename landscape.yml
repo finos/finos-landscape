@@ -747,6 +747,21 @@ landscape:
             organization:
               name: FINOS
   - category:
+    name: FINOS Labs
+    subcategories:
+      - subcategory:
+        name: Special Interest Groups
+        items: 
+          - item:
+          license: CSLA 1.0
+          logo: finos.svg
+          name: Distinguished Engineer Community
+          project: Labs
+          homapge_url: https://distinguished-engineer-community.finos.org/
+          repo_url: https://gitlab.com/finos-labs/distinguished-engineer-community
+          organization:
+            name: FINOS
+  - category:
     name: FINOS Members
     subcategories:
       - subcategory:
