@@ -141,12 +141,12 @@ landscape:
       - subcategory:
         name: DEI
         items:
-          - logo: dei-sig.svg
-            name: Diversity Equity & Inclusion Special Interest Group
+          - logo: osta.svg
+            name: Open Source Talent Acceleration Special Interest Group
             item:
             project: sig
-            homepage_url: https://github.com/finos/DEI-SIG
-            repo_url: https://github.com/finos/DEI-SIG
+            homepage_url: https://talent.finos.org/
+            repo_url: https://github.com/finos/open-source-talent-acceleration
             organization:
               name: FINOS
             extra:
