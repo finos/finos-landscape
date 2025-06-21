@@ -28,7 +28,7 @@ jobs:
         with:
           script: |
             const { LANDSCAPE_URL, DATA_FILE, LOGOS_PATH, OWNER, REPO, REF } = process.env
-            const comment = `You can preview your changes by [visiting this link](${LANDSCAPE_URL}/?overlay-data=https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/${DATA_FILE}&overlay-logos=https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/${LOGOS_PATH}&overlay-settings=https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/settings.yml).\n\n> [!NOTE]\n > This feature is still experimental and may not work as expected in some cases. Please report any issues you find!`
+            const comment = `You can preview your changes by [visiting this link](${LANDSCAPE_URL}/?overlay-data=https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/${DATA_FILE}&overlay-logos=https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/${LOGOS_PATH}).\n\n> [!NOTE]\n > This feature is still experimental and may not work as expected in some cases. Please report any issues you find!`
 
             github.rest.issues.createComment({
               issue_number: context.issue.number,
