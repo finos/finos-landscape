@@ -397,6 +397,10 @@ landscape:
             project: incubating
             homepage_url: https://github.com/finos/opengris
             repo_url: https://github.com/finos/opengris
+            additional_repos:
+              - repo_url: https://github.com/finos/opengris-scaler
+              - repo_url: https://github.com/finos/opengris-parfun
+              - repo_url: https://github.com/finos/opengris-pargraph
             organization:
               name: FINOS
             extra:
