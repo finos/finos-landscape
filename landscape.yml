@@ -347,7 +347,7 @@ landscape:
             extra:
               incubating: 2022-11-22
               lead: Vivek-Natwest
-          - license: Community License Specification
+          - license: Community Specification License
             logo: fdc3.svg
             name: FDC3
             item:
@@ -388,6 +388,22 @@ landscape:
               incubating: 2020-09-15
               graduated: 2023-05-22
               lead: robmoffat
+          - license: Community Specification License
+            logo: opengris.svg
+            name: OpenGRIS
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/opengris
+            repo_url: https://github.com/finos/opengris
+            additional_repos:
+              - repo_url: https://github.com/finos/opengris-scaler
+              - repo_url: https://github.com/finos/opengris-parfun
+              - repo_url: https://github.com/finos/opengris-pargraph
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2025-05-13
+              lead: bansalr
       - subcategory:
         name: Containers
         items:
