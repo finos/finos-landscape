@@ -455,33 +455,6 @@ landscape:
               accepted: 2023-07-06
               incubating: 2023-10-24
               lead: akan
-          - license: Apache License 2.0
-            logo: compliant-financial-infrastruture.svg
-            name: Compliant Financial Infrastructure
-            item:
-            additional_repos:
-              - repo_url: https://github.com/finos/terraform-aws-cfi-eks
-              - repo_url: https://github.com/finos/cfi-terraform-template-child-module
-              - repo_url: https://github.com/finos/ansible-cfi-ocp
-              - repo_url: https://github.com/finos/terraform-google-cfi-gke
-              - repo_url: https://github.com/finos/terraform-azurerm-cfi-aks
-              - repo_url: https://github.com/finos/terraform-aws-cfi-dynamodb
-              - repo_url: https://github.com/finos/terraform-aws-cfi-lambda
-              - repo_url: https://github.com/finos/terraform-azurerm-cfi-postgresql
-              - repo_url: https://github.com/finos/terraform-aws-cfi-redshift
-              - repo_url: https://github.com/finos/terraform-aws-cfi-sqs
-              - repo_url: https://github.com/finos/cfi-ansible-aws-rds
-              - repo_url: https://github.com/finos/terraform-azurerm-cfi-abs
-            project: incubating
-            homepage_url: https://github.com/finos/compliant-financial-infrastructure
-            repo_url: https://github.com/finos/compliant-financial-infrastructure
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2019-02-26
-              lead: eddie-knight
-              slack_url: https://finos-lf.slack.com/archives/C01RNUMC2DP
-              mailing_list_url: https://groups.google.com/a/finos.org/g/compliant-financial-infrastructure
           - logo: waltz.svg
             name: Waltz
             item:
