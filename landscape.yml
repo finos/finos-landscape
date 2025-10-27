@@ -224,18 +224,6 @@ landscape:
             extra:
               incubating: 2022-12-20
               lead: timkpaine
-          - logo: perspective.svg
-            name: Perspective
-            item:
-            project: active
-            homepage_url: https://perspective.finos.org
-            repo_url: https://github.com/finos/perspective
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2019-04-30
-              graduated: 2020-02-24
-              lead: timkpaine
           - license: Apache License 2.0
             logo: regular-table.svg
             name: Regular Table
