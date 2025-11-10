@@ -424,6 +424,30 @@ landscape:
               graduated: 2020-01-02
               incubating: 2016-11-28
               lead: andreaslindvall
+      - subcategory:
+        name: Orchestration
+        items:
+          - license: Apache License 2.0
+            logo: fluxnova.svg
+            name: Fluxnova
+            item:
+            project: incubating
+            homepage_url: https://fluxnova.finos.org
+            repo_url: https://github.com/finos/fluxnova-bpm-platform
+            additional_repos:
+              - repo_url: https://github.com/finos/fluxnova-modeler
+              - repo_url: https://github.com/finos/fluxnova-feel-scala
+              - repo_url: https://github.com/finos/fluxnova-bpm-release-parent
+              - repo_url: https://github.com/finos/fluxnova-release-parent
+              - repo_url: https://github.com/finos/fluxnova-docs-manual
+              - repo_url: https://github.com/finos/fluxnova-examples
+              - repo_url: https://github.com/finos/fluxnova-website
+              - repo_url: https://github.com/finos/fluxnova-docs-theme
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2025-11-11
+              lead: HarishMalavade
   - category:
     name: Infrastructure
     subcategories:
