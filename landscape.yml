@@ -427,7 +427,8 @@ landscape:
       - subcategory:
         name: Orchestration
         items:
-          - logo: fluxnova.svg
+          - license: Apache License 2.0
+            logo: fluxnova.svg
             name: Fluxnova
             item:
             project: incubating
@@ -447,7 +448,6 @@ landscape:
             extra:
               incubating: 2025-11-11
               lead: HarishMalavade
-          - license: Apache License 2.0
   - category:
     name: Infrastructure
     subcategories:
