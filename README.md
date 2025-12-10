@@ -20,10 +20,6 @@
 
 This landscape is intended as a map to explore the FINOS Ecosystem, and also shows the member companies of the FINOS Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
-## Current Version
-
-[![FINOS Landscape](https://landscape.finos.org/images/landscape.png)](https://landscape.finos.org/images/landscape.png)
-
 ## Interactive Version
 
 Please see [landscape.finos.org](https://landscape.finos.org).
