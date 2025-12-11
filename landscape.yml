@@ -100,7 +100,7 @@ landscape:
           - logo: git-proxy.svg
             name: Git Proxy
             item:
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/git-proxy
             repo_url: https://github.com/finos/git-proxy
             organization:
@@ -216,7 +216,7 @@ landscape:
             logo: jupyterlab-templates.svg
             name: JupyterLab Templates
             item:
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/jupyterlab_templates
             repo_url: https://github.com/finos/jupyterlab_templates
             organization:
@@ -228,7 +228,7 @@ landscape:
             logo: regular-table.svg
             name: Regular Table
             item:
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/regular-table
             repo_url: https://github.com/finos/regular-table
             organization:
@@ -253,7 +253,7 @@ landscape:
           - logo: messageml-utils.svg
             name: MessageML Utilities
             item:
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/messageml-utils
             repo_url: https://github.com/finos/messageml-utils
             organization:
@@ -265,7 +265,7 @@ landscape:
           - logo: symphony-rest-api-spec.svg
             name: REST API Specification
             item:
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/symphony-api-spec
             repo_url: https://github.com/finos/symphony-api-spec
             organization:
@@ -341,7 +341,7 @@ landscape:
             item:
             additional_repos:
               - repo_url: https://github.com/finos/fdc3-dotnet
-            project: active
+            project: graduated
             homepage_url: https://fdc3.finos.org
             repo_url: https://github.com/finos/fdc3
             organization:
@@ -367,7 +367,7 @@ landscape:
           - logo: springbot.svg
             name: Spring Bot
             item:
-            project: active
+            project: graduated
             homepage_url: https://springbot.finos.org
             repo_url: https://github.com/finos/spring-bot
             organization:
@@ -415,7 +415,7 @@ landscape:
               - repo_url: https://github.com/finos/SwiftSearch
               - repo_url: https://github.com/finos/ScreenShareIndicatorFrame
               - repo_url: https://github.com/finos/SymphonyWindowsHwndHelper
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/SymphonyElectron
             repo_url: https://github.com/finos/SymphonyElectron
             organization:
@@ -470,7 +470,7 @@ landscape:
           - logo: waltz.svg
             name: Waltz
             item:
-            project: active
+            project: graduated
             homepage_url: https://waltz.finos.org
             repo_url: https://github.com/finos/waltz
             organization:
@@ -506,7 +506,7 @@ landscape:
             item:
             additional_repos:
               - repo_url: https://github.com/finos/object-builder
-            project: active
+            project: graduated
             homepage_url: https://github.com/finos/common-domain-model
             repo_url: https://github.com/finos/common-domain-model
             organization:
@@ -644,7 +644,7 @@ landscape:
               - repo_url: https://github.com/finos/morphir-bosque
               - repo_url: https://github.com/finos/morphir-examples
               - repo_url: https://github.com/finos/morphir-scala
-            project: active
+            project: graduated
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
             organization:
@@ -702,7 +702,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/finos/openmama.github.io
               - repo_url: https://github.com/finos/openMAMA-testdata
-            project: active
+            project: graduated
             homepage_url: https://openmama.finos.org
             repo_url: https://github.com/finos/openMAMA
             organization:
