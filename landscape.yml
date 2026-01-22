@@ -49,18 +49,6 @@ landscape:
               incubating: 2022-10-11
               lead: maoo
           - license: Apache License 2.0
-            logo: htc-grid.svg
-            name: High Throughput Compute Grid
-            item:
-            project: incubating
-            homepage_url: https://finos.github.io/htc-grid/
-            repo_url: https://github.com/finos/htc-grid
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2024-09-03
-              lead: kirillsc
-          - license: Apache License 2.0
             logo: fin-ocr.svg
             name: FIN-OCR
             item:
@@ -376,22 +364,6 @@ landscape:
               incubating: 2020-09-15
               graduated: 2023-05-22
               lead: robmoffat
-          - license: Community Specification License
-            logo: opengris.svg
-            name: OpenGRIS
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/opengris
-            repo_url: https://github.com/finos/opengris
-            additional_repos:
-              - repo_url: https://github.com/finos/opengris-scaler
-              - repo_url: https://github.com/finos/opengris-parfun
-              - repo_url: https://github.com/finos/opengris-pargraph
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2025-05-13
-              lead: bansalr
       - subcategory:
         name: Containers
         items:
@@ -448,6 +420,49 @@ landscape:
             extra:
               incubating: 2025-11-11
               lead: HarishMalavade
+      - subcategory:
+        name: Compute
+        items:
+          - license: Apache License 2.0
+            logo: open-resource-broker.svg
+            name: Open Resource Broker
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/open-resource-broker
+            repo_url: https://github.com/finos/open-resource-broker
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2025-09-10
+              lead: cyriaquem
+          - license: Apache License 2.0
+            logo: htc-grid.svg
+            name: High Throughput Compute Grid
+            item:
+            project: incubating
+            homepage_url: https://finos.github.io/htc-grid/
+            repo_url: https://github.com/finos/htc-grid
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2024-09-03
+              lead: kirillsc
+          - license: Community Specification License
+            logo: opengris.svg
+            name: OpenGRIS
+            item:
+            project: incubating
+            homepage_url: https://github.com/finos/opengris
+            repo_url: https://github.com/finos/opengris
+            additional_repos:
+              - repo_url: https://github.com/finos/opengris-scaler
+              - repo_url: https://github.com/finos/opengris-parfun
+              - repo_url: https://github.com/finos/opengris-pargraph
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2025-05-13
+              lead: bansalr
   - category:
     name: Infrastructure
     subcategories:
