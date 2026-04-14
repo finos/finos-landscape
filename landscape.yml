@@ -465,6 +465,18 @@ landscape:
             extra:
               incubating: 2025-05-13
               lead: bansalr
+          - license: Apache License 2.0
+            logo: 5-spot.svg
+            name: 5-Spot Machine Scheduler
+            item:
+            project: incubating
+            homepage_url: https://5spot.finos.org
+            repo_url: https://github.com/finos/5-spot
+            organization:
+              name: FINOS
+            extra:
+              incubating: 2026-04-14
+              lead: ebourgeois
   - category:
     name: Infrastructure
     subcategories:
