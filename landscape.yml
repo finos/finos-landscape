@@ -476,6 +476,8 @@ landscape:
               name: FINOS
             extra:
               incubating: 2026-03-18
+              slack_url: https://finos-lf.slack.com/archives/C0AT1BC94R0
+              mailing_list_url: https://lists.finos.org/g/5spot
               lead: ebourgeois
   - category:
     name: Infrastructure
