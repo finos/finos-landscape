@@ -586,7 +586,8 @@ landscape:
           - license: Apache License 2.0
             logo: tradista.svg
             name: Eclipse Tradista 
-            item:            
+            item:
+            project: non-hosted
             homepage_url: https://www.tradista.finance
             repo_url: https://github.com/eclipse-tradista/tradista
             organization:
