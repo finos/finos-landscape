@@ -583,6 +583,16 @@ landscape:
               incubating: 2021-07-09
               lead: avavilau
               docker_hub: [ "finos timebase-ce-client", "finos /timebase-ce-server"]
+          - license: Apache License 2.0
+            logo: tradista.svg
+            name: Eclipse Tradista 
+            item:            
+            homepage_url: https://www.tradista.finance
+            repo_url: https://github.com/eclipse-tradista/tradista
+            organization:
+              name: Eclipse Foundation
+            extra:
+              lead: oasuncion
       - subcategory:
         name: Tick & Reference
         items:
