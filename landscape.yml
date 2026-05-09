@@ -276,6 +276,7 @@ landscape:
             extra:
               incubating: 2021-02-17
               lead: Yannick-Malins
+              maven_groupid: "org.finos.symphony.bdk"
           - logo: symphony-bdk-python.svg
             name: Symphony BDK Python
             item:
@@ -546,6 +547,7 @@ landscape:
             extra:
               incubating: 2023-02-14
               lead: dshoneisda
+              maven_groupid: "org.finos.cdm"
           - license: CSLA 1.0
             logo: financial-objects.svg
             name: Financial Objects
