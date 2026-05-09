@@ -237,6 +237,7 @@ landscape:
             extra:
               incubating: 2022-11-09
               lead: chrisjstevo
+              maven_groupid: "org.finos.vuu"
       - subcategory:
         name: Symphony Ecosystem
         items:
@@ -663,6 +664,7 @@ landscape:
               lead: pierredebelen
               mailing_list_url: https://groups.google.com/a/finos.org/g/legend
               docker_hub: [ "finos legend-studio", "finos legend-sdlc-server",  "finos legend-engine-server"]
+              maven_groupid: "org.finos.legend"
           - license: Apache License 2.0
             logo: morphir.svg
             name: Morphir
@@ -687,6 +689,7 @@ landscape:
               lead: stephengoldbaum
               slack_url: https://finos-lf.slack.com/archives/C01RDPAMYJW
               mailing_list_url: https://groups.google.com/a/finos.org/g/morphir
+              maven_groupid: "org.finos.morphir"
           - license: Apache License 2.0
             logo: rune.svg
             name: Rune
