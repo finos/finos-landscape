@@ -671,7 +671,7 @@ landscape:
               incubating: 2020-10-19
               lead: pierredebelen
               mailing_list_url: https://groups.google.com/a/finos.org/g/legend
-              docker_hub: ["finos legend-data-cube", "finos legend-query", "finos legend-showcase-server", "finos legend-studio", "finos pylegend", "finos legend-engine-xt-sql-postgres-server", "finos legend-engine-pure-ide-light-http-server" "finos legend-engine-server-http-server"]
+              docker_hub: ["finos legend-data-cube", "finos legend-query", "finos legend-showcase-server", "finos legend-studio", "finos pylegend", "finos legend-engine-xt-sql-postgres-server", "finos legend-engine-pure-ide-light-http-server", "finos legend-engine-server-http-server"]
               maven_groupid: "org.finos.legend"
           - license: Apache License 2.0
             logo: morphir.svg
