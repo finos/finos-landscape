@@ -346,6 +346,7 @@ landscape:
               lead: kriswest
               slack_url: https://finos-lf.slack.com/archives/C01R0P7H5LH
               mailing_list_url: https://groups.google.com/a/finos.org/g/fdc3
+              npmjs: ["finos/fdc3", "finos/fdc3-agent-proxy", "finos/fdc3-commonjs", "finos/fdc3-context", "finos/fdc3-get-agent", "finos/fdc3-schema", "finos/fdc3-standard", "finos/fdc3-web-impl"]
           - license: Apache License 2.0
             logo: fdc3-conformance.svg
             name: FDC3 Conformance Framework
@@ -370,6 +371,7 @@ landscape:
               incubating: 2020-09-15
               graduated: 2023-05-22
               lead: robmoffat
+              maven_groupid: "org.finos.springbot"
       - subcategory:
         name: Containers
         items:
@@ -530,6 +532,7 @@ landscape:
               slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
               mailing_list: calm@lists.finos.org
               docker_hub: [ "finos calm-hub"]
+              npmjs: ["finos/calm-server", "finos/calm-cli"]
   - category:
     name: Data & Business Logic
     subcategories:
@@ -710,6 +713,7 @@ landscape:
             extra:
               incubating: 2024-04-24
               lead: minesh-s-patel
+              pypi: ["rune-runtime"]
           - logo: tracdap.svg
             name: TRAC d.a.p.
             item:
