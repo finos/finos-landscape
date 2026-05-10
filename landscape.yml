@@ -100,6 +100,7 @@ landscape:
               incubating: 2020-11-19
               mailing_list_url: https://lists.finos.org/g/git-proxy
               slack_url: https://finos-lf.slack.com/archives/C06LXNW0W76
+              docker_hub: [ "finos git-proxy"]
           - license: CC-BY-SA-4.0
             logo: innersource.svg
             name: InnerSource Special Interest Group
@@ -202,6 +203,7 @@ landscape:
             extra:
               incubating: 2023-10-03
               lead: AndySmithSL
+              docker_hub: [ "finos a11y-theme-builder"]
           - license: Apache License 2.0
             logo: jupyterlab-templates.svg
             name: JupyterLab Templates
@@ -527,6 +529,7 @@ landscape:
               lead: rocketstack-matt
               slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
               mailing_list: calm@lists.finos.org
+              docker_hub: [ "finos calm-hub"]
   - category:
     name: Data & Business Logic
     subcategories:
@@ -585,7 +588,7 @@ landscape:
               accepted: 2021-03-19
               incubating: 2021-07-09
               lead: avavilau
-              docker_hub: [ "finos timebase-ce-client", "finos /timebase-ce-server"]
+              docker_hub: [ "finos timebase-ce-client", "finos timebase-ce-server"]
       - subcategory:
         name: Tick & Reference
         items:
@@ -665,7 +668,7 @@ landscape:
               incubating: 2020-10-19
               lead: pierredebelen
               mailing_list_url: https://groups.google.com/a/finos.org/g/legend
-              docker_hub: [ "finos legend-studio", "finos legend-sdlc-server",  "finos legend-engine-server"]
+              docker_hub: ["finos legend-data-cube", "finos legend-query", "finos legend-showcase-server", "finos legend-studio", "finos pylegend", "finos legend-engine-xt-sql-postgres-server", "finos legend-engine-pure-ide-light-http-server" "finos legend-engine-server-http-server"]
               maven_groupid: "org.finos.legend"
           - license: Apache License 2.0
             logo: morphir.svg
