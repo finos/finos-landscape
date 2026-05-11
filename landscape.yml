@@ -35,7 +35,7 @@ landscape:
               incubating: 2025-04-04
               mailing_list_url: https://lists.finos.org/g/ai-governance-framework
               annotations:
-                lead: ColinEberhardt
+                # lead: ColinEberhardt
       - subcategory:
         name: Toolchain
         items:
@@ -49,7 +49,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-10-11
-              lead: maoo
+              # lead: maoo
           - license: Apache License 2.0
             logo: fin-ocr.svg
             name: FIN-OCR
@@ -67,7 +67,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2024-10-04
-              lead: mtnat
+              # lead: mtnat
               slack_url: https://finos-lf.slack.com/archives/C08TNJXC98V
       - subcategory:
         name: OSS Readiness
@@ -85,7 +85,7 @@ landscape:
               - repo_url: https://github.com/finos/architecture-as-code
             extra:
               incubating: 2020-10-21
-              lead: ashukla13
+              # lead: ashukla13
               mailing_list_url: https://groups.google.com/a/finos.org/g/devops-mutualization
           - logo: git-proxy.svg
             name: Git Proxy
@@ -96,7 +96,7 @@ landscape:
             organization:
               name: FINOS
             extra:
-              lead: JamieSlome
+              # lead: JamieSlome
               incubating: 2020-11-19
               mailing_list_url: https://lists.finos.org/g/git-proxy
               slack_url: https://finos-lf.slack.com/archives/C06LXNW0W76
@@ -113,7 +113,7 @@ landscape:
             extra:
               slack_url: https://finos-lf.slack.com/archives/C01SYB503QT
               incubating: 2021-02-01
-              lead: danizheleva
+              # lead: danizheleva
               mailing_list_url: https://groups.google.com/a/finos.org/g/innersource
           - license: Apache License 2.0
             logo: open-source-readiness.svg
@@ -126,7 +126,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2018-04-24
-              lead: psmulovics
+              # lead: psmulovics
               mailing_list_url: https://groups.google.com/a/finos.org/g/osr
               slack_url: https://finos-lf.slack.com/archives/C01RVPM6YDU
       - subcategory:
@@ -142,7 +142,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-06-01
-              lead: paulapaul
+              # lead: paulapaul
       - subcategory:
         name: Regulation
         items:
@@ -156,7 +156,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-10-26
-              lead: stephengoldbaum
+              # lead: stephengoldbaum
               mailing_list_url: https://groups.google.com/a/finos.org/g/open-regtech-sig
           - logo: regulation-innovation.svg
             name: Regulation Innovation Special Interest Group
@@ -168,7 +168,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2020-10-21
-              lead: stephengoldbaum
+              # lead: stephengoldbaum
       - subcategory:
         name: Innovation
         items:
@@ -183,7 +183,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2023-01-24
-              lead: psmulovics
+              # lead: psmulovics
   - category:
     name: Applications
     subcategories:
@@ -202,7 +202,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2023-10-03
-              lead: AndySmithSL
+              # lead: AndySmithSL
               docker_hub: [ "finos a11y-theme-builder"]
           - license: Apache License 2.0
             logo: jupyterlab-templates.svg
@@ -215,7 +215,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-12-20
-              lead: timkpaine
+              # lead: timkpaine
           - license: Apache License 2.0
             logo: regular-table.svg
             name: Regular Table
@@ -227,7 +227,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-12-20
-              lead: texodus
+              # lead: texodus
           - logo: vuu.svg
             name: VUU
             item:
@@ -238,7 +238,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-11-09
-              lead: chrisjstevo
+              # lead: chrisjstevo
               maven_groupid: "org.finos.vuu"
       - subcategory:
         name: Symphony Ecosystem
@@ -254,7 +254,7 @@ landscape:
             extra:
               incubating: 2017-05-19
               graduated: 2020-01-02
-              lead: justinesymphony
+              # lead: justinesymphony
           - logo: symphony-rest-api-spec.svg
             name: REST API Specification
             item:
@@ -266,7 +266,7 @@ landscape:
             extra:
               incubating: 2017-05-04
               graduated: 2020-01-02
-              lead: justinesymphony
+              # lead: justinesymphony
           - logo: symphony-bdk-java.svg
             name: Symphony BDK Java
             item:
@@ -277,7 +277,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2021-02-17
-              lead: Yannick-Malins
+              # lead: Yannick-Malins
               maven_groupid: "org.finos.symphony.bdk"
           - logo: symphony-bdk-python.svg
             name: Symphony BDK Python
@@ -289,7 +289,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2021-02-17
-              lead: Yannick-Malins
+              # lead: Yannick-Malins
           - logo: symphony-generator.svg
             name: Symphony Generator
             item:
@@ -300,7 +300,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-01-11
-              lead: symphony-soufiane
+              # lead: symphony-soufiane
           - logo: symphony-media-bridge.svg
             name: Symphony Media Bridge
             item:
@@ -311,7 +311,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2021-11-23
-              lead: olofkallander
+              # lead: olofkallander
   - category:
     name: Platforms & Runtimes
     subcategories:
@@ -328,7 +328,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-11-22
-              lead: Vivek-Natwest
+              # lead: Vivek-Natwest
           - license: Community Specification License
             logo: fdc3.svg
             name: FDC3
@@ -343,7 +343,7 @@ landscape:
             extra:
               incubating: 2018-04-20
               graduated: 2019-07-19
-              lead: kriswest
+              # lead: kriswest
               slack_url: https://finos-lf.slack.com/archives/C01R0P7H5LH
               mailing_list_url: https://groups.google.com/a/finos.org/g/fdc3
               npmjs: ["finos/fdc3", "finos/fdc3-agent-proxy", "finos/fdc3-commonjs", "finos/fdc3-context", "finos/fdc3-get-agent", "finos/fdc3-schema", "finos/fdc3-standard", "finos/fdc3-web-impl"]
@@ -358,7 +358,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-06-08
-              lead: ColinEberhardt
+              # lead: ColinEberhardt
           - logo: springbot.svg
             name: Spring Bot
             item:
@@ -370,7 +370,7 @@ landscape:
             extra:
               incubating: 2020-09-15
               graduated: 2023-05-22
-              lead: robmoffat
+              # lead: robmoffat
               maven_groupid: "org.finos.springbot"
       - subcategory:
         name: Containers
@@ -385,7 +385,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-04-26
-              lead: nkolba
+              # lead: nkolba
           - license: Apache License 2.0
             logo: symphony-electron.svg
             name: Symphony Electron
@@ -403,7 +403,7 @@ landscape:
             extra:
               graduated: 2020-01-02
               incubating: 2016-11-28
-              lead: andreaslindvall
+              # lead: andreaslindvall
       - subcategory:
         name: Orchestration
         items:
@@ -427,7 +427,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2025-11-11
-              lead: HarishMalavade
+              # lead: HarishMalavade
       - subcategory:
         name: Compute / HPC
         items:
@@ -442,7 +442,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2025-09-10
-              lead: cyriaquem
+              # lead: cyriaquem
           - license: Apache License 2.0
             logo: htc-grid.svg
             name: High Throughput Compute Grid
@@ -454,7 +454,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2024-09-03
-              lead: kirillsc
+              # lead: kirillsc
           - license: Community Specification License
             logo: opengris.svg
             name: OpenGRIS
@@ -470,7 +470,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2025-05-13
-              lead: bansalr
+              # lead: bansalr
           - license: Apache License 2.0
             logo: 5-spot.svg
             name: 5-Spot Machine Scheduler
@@ -484,7 +484,7 @@ landscape:
               incubating: 2026-03-18
               slack_url: https://finos-lf.slack.com/archives/C0AT1BC94R0
               mailing_list_url: https://lists.finos.org/g/5spot
-              lead: ebourgeois
+              # lead: ebourgeois
   - category:
     name: Infrastructure
     subcategories:
@@ -503,7 +503,7 @@ landscape:
             extra:
               accepted: 2023-07-06
               incubating: 2023-10-24
-              lead: akan
+              # lead: akan
           - logo: waltz.svg
             name: Waltz
             item:
@@ -516,7 +516,7 @@ landscape:
               slack_url: https://finos-lf.slack.com/archives/C01S1D746TW
               graduated: 2020-07-10
               incubating: 2020-03-09
-              lead: davidwatkins73
+              # lead: davidwatkins73
           - license: Apache License 2.0
             logo: calm.svg
             name: Common Architecture Language Model
@@ -528,7 +528,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2025-04-14
-              lead: rocketstack-matt
+              # lead: rocketstack-matt
               slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
               mailing_list: calm@lists.finos.org
               docker_hub: [ "finos calm-hub"]
@@ -552,7 +552,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2023-02-14
-              lead: dshoneisda
+              # lead: dshoneisda
               maven_groupid: "org.finos.cdm"
           - license: CSLA 1.0
             logo: financial-objects.svg
@@ -565,7 +565,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2018-04-24
-              lead: ffionwiggins
+              # lead: ffionwiggins
               mailing_list_url: https://groups.google.com/a/finos.org/g/fo-financial-objects
           - license: CSLA 1.0
             logo: fo-product-control-common-template.svg
@@ -578,7 +578,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-03-14
-              lead: kenneth-hei
+              # lead: kenneth-hei
           - logo: timebase-ce.svg
             name: TimeBase CE
             item:
@@ -590,7 +590,7 @@ landscape:
             extra:
               accepted: 2021-03-19
               incubating: 2021-07-09
-              lead: avavilau
+              # lead: avavilau
               docker_hub: [ "finos timebase-ce-client", "finos timebase-ce-server"]
       - subcategory:
         name: Tick & Reference
@@ -606,7 +606,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2021-01-19
-              lead: ElaineFraser
+              # lead: ElaineFraser
               mailing_list_url: https://groups.google.com/a/finos.org/g/currency-ref-data
           - logo: security-reference-data.svg
             name: Security Reference Data
@@ -618,7 +618,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2018-11-05
-              lead: saileshpandey
+              # lead: saileshpandey
               mailing_list_url: https://groups.google.com/a/finos.org/g/data-tech-sec-ref
           - logo: finos.svg
             name: kdb+
@@ -633,7 +633,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2018-07-11
-              lead: alvin-c-shih
+              # lead: alvin-c-shih
               mailing_list_url: https://groups.google.com/a/finos.org/g/data-tech-kdb
       - subcategory:
         name: Frameworks
@@ -669,7 +669,7 @@ landscape:
             extra:
               accepted: 2020-01-30
               incubating: 2020-10-19
-              lead: pierredebelen
+              # lead: pierredebelen
               mailing_list_url: https://groups.google.com/a/finos.org/g/legend
               docker_hub: ["finos legend-data-cube", "finos legend-query", "finos legend-showcase-server", "finos legend-studio", "finos pylegend", "finos legend-engine-xt-sql-postgres-server", "finos legend-engine-pure-ide-light-http-server", "finos legend-engine-server-http-server"]
               maven_groupid: "org.finos.legend"
@@ -694,7 +694,7 @@ landscape:
             extra:
               incubating: 2020-08-24
               graduated: 2023-05-09
-              lead: stephengoldbaum
+              # lead: stephengoldbaum
               slack_url: https://finos-lf.slack.com/archives/C01RDPAMYJW
               mailing_list_url: https://groups.google.com/a/finos.org/g/morphir
               maven_groupid: "org.finos.morphir"
@@ -712,7 +712,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2024-04-24
-              lead: minesh-s-patel
+              # lead: minesh-s-patel
               pypi: ["rune-runtime"]
           - logo: tracdap.svg
             name: TRAC d.a.p.
@@ -724,7 +724,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-03-08
-              lead: martin-traverse
+              # lead: martin-traverse
           - logo: traderx.svg
             name: TraderX
             item:
@@ -735,7 +735,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2023-02-13
-              lead: dovops
+              # lead: dovops
       - subcategory:
         name: Market Data
         items:
@@ -754,7 +754,7 @@ landscape:
             extra:
               incubating: 2020-11-09
               graduated: 2020-11-09
-              lead: fquinner
+              # lead: fquinner
   - category:
     name: Legend
     subcategories:
