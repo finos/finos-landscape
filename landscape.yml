@@ -609,18 +609,6 @@ landscape:
               incubating: 2021-01-19
               # lead: ElaineFraser
               mailing_list_url: https://groups.google.com/a/finos.org/g/currency-ref-data
-          - logo: security-reference-data.svg
-            name: Security Reference Data
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/secref-data
-            repo_url: https://github.com/finos/secref-data
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2018-11-05
-              # lead: saileshpandey
-              mailing_list_url: https://groups.google.com/a/finos.org/g/data-tech-sec-ref
           - logo: finos.svg
             name: kdb+
             item:
