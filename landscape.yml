@@ -710,7 +710,8 @@ landscape:
             name: Rune
             item:
             project: incubating
-            homepage_url: https://github.com/finos/rune-dsl
+            homepage_url: https://rune.finos.org
+            repo_url: https://github.com/finos/rune-dsl
             additional_repos:
               - repo_url: https://github.com/finos/rune-dsl
               - repo_url: https://github.com/finos/rune-testing
