@@ -16,7 +16,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2023-02-26
-              slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
+              slack_url: https://finos-lf.slack.com/archives/C09PXJSHSKB
               mailing_list_url: https://lists.finos.org/g/ai-readiness
               annotations:
                 # lead: ColinEberhardt
@@ -87,12 +87,12 @@ landscape:
             extra:
               incubating: 2020-10-21
               # lead: ashukla13
-              mailing_list_url: https://groups.google.com/a/finos.org/g/devops-mutualization
+              mailing_list_url: https://groups.google.com/a/finos.org/g/devops-automation
           - logo: git-proxy.svg
             name: Git Proxy
             item:
             project: graduated
-            homepage_url: https://github.com/finos/git-proxy
+            homepage_url: https://git-proxy.finos.org
             repo_url: https://github.com/finos/git-proxy
             organization:
               name: FINOS
@@ -107,7 +107,7 @@ landscape:
             name: InnerSource Special Interest Group
             item:
             project: sig
-            homepage_url: https://github.com/finos/InnerSource
+            homepage_url: https://innersource.finos.org/
             repo_url: https://github.com/finos/InnerSource
             organization:
               name: FINOS
@@ -121,7 +121,7 @@ landscape:
             name: Open source readiness
             item:
             project: sig
-            homepage_url: https://github.com/finos/open-source-readiness
+            homepage_url: https://osr.finos.org/
             repo_url: https://github.com/finos/open-source-readiness
             organization:
               name: FINOS
@@ -144,6 +144,8 @@ landscape:
             extra:
               incubating: 2022-06-01
               # lead: paulapaul
+              slack_url: https://finos-lf.slack.com/archives/C06PM8B8YCC
+              mailing_list_url: https://groups.google.com/a/finos.org/g/open-source-talent-acceleration
       - subcategory:
         name: Regulation
         items:
@@ -151,7 +153,7 @@ landscape:
             name: Open Reg Tech US LCR
             item:
             project: incubating
-            homepage_url: https://github.com/finos/open-reg-tech-us-lcr
+            homepage_url: https://lcr-interactive.finos.org/
             repo_url: https://github.com/finos/open-reg-tech-us-lcr
             organization:
               name: FINOS
@@ -170,6 +172,7 @@ landscape:
             extra:
               incubating: 2020-10-21
               # lead: stephengoldbaum
+              mailing_list_url: https://groups.google.com/a/finos.org/g/open-regtech-sig
       - subcategory:
         name: Innovation
         items:
@@ -178,13 +181,15 @@ landscape:
             name: Zenith
             item:
             project: sig
-            homepage_url: https://github.com/finos/zenith
+            homepage_url: https://zenith.finos.org/
             repo_url: https://github.com/finos/zenith
             organization:
               name: FINOS
             extra:
               incubating: 2023-01-24
               # lead: psmulovics
+              mailing_list_url: https://lists.finos.org/g/zenith
+              slack_url: https://finos-lf.slack.com/archives/C056Y8BPSDA
   - category:
     name: Applications
     subcategories:
@@ -204,6 +209,7 @@ landscape:
             extra:
               incubating: 2023-10-03
               # lead: AndySmithSL
+              slack_url: https://finos-lf.slack.com/archives/C061D0HDHM2
               docker_hub: [ "finos a11y-theme-builder"]
           - license: Apache License 2.0
             logo: jupyterlab-templates.svg
@@ -240,6 +246,8 @@ landscape:
             extra:
               incubating: 2022-11-09
               # lead: chrisjstevo
+              slack_url: https://finos-lf.slack.com/archives/C05PKG58QQJ
+               mailing_list_url: https://lists.finos.org/g/vuu-announce
               maven_groupid: "org.finos.vuu"
       - subcategory:
         name: Symphony Ecosystem
@@ -387,6 +395,8 @@ landscape:
             extra:
               incubating: 2022-04-26
               # lead: nkolba
+              mailing_list_url: https://lists.finos.org/g/fdc3-sail
+              slack_url: https://finos-lf.slack.com/archives/C03FUTQ1F50
           - license: Apache License 2.0
             logo: symphony-electron.svg
             name: Symphony Electron
@@ -429,6 +439,8 @@ landscape:
             extra:
               incubating: 2025-11-11
               # lead: HarishMalavade
+              slack_url: https://finos-lf.slack.com/archives/C0B3BEDEW1E
+              mailing_list_url: https://lists.finos.org/g/fluxnova
       - subcategory:
         name: Compute / HPC
         items:
@@ -437,7 +449,7 @@ landscape:
             name: Open Resource Broker
             item:
             project: incubating
-            homepage_url: https://github.com/finos/open-resource-broker
+            homepage_url: https://finos.github.io/open-resource-broker/
             repo_url: https://github.com/finos/open-resource-broker
             organization:
               name: FINOS
@@ -472,6 +484,7 @@ landscape:
             extra:
               incubating: 2025-05-13
               # lead: bansalr
+              slack_url: https://finos-lf.slack.com/archives/C09A1DN2RE3
           - license: Apache License 2.0
             logo: 5-spot.svg
             name: 5-Spot Machine Scheduler
@@ -497,7 +510,7 @@ landscape:
             name: Common Cloud Controls
             item:
             project: incubating
-            homepage_url: https://finos.org/common-cloud-controls
+            homepage_url: https://ccc.finos.org/
             repo_url: https://github.com/finos/common-cloud-controls
             organization:
               name: FINOS
@@ -505,6 +518,8 @@ landscape:
               accepted: 2023-07-06
               incubating: 2023-10-24
               # lead: akan
+              mailing_list_url: https://lists.finos.org/g/CCC-Steering-Committee
+              slack_url: https://finos-lf.slack.com/archives/C01RNUMC2DP
           - logo: waltz.svg
             name: Waltz
             item:
@@ -518,6 +533,7 @@ landscape:
               graduated: 2020-07-10
               incubating: 2020-03-09
               # lead: davidwatkins73
+              mailing_list_url: https://lists.finos.org/g/waltz
           - license: Apache License 2.0
             logo: calm.svg
             name: Common Architecture Language Model
@@ -531,7 +547,7 @@ landscape:
               incubating: 2025-04-14
               # lead: rocketstack-matt
               slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
-              mailing_list: calm@lists.finos.org
+              mailing_list_url: https://lists.finos.org/g/calm
               docker_hub: [ "finos calm-hub"]
               npmjs: ["finos/calm-server", "finos/calm-cli"]
   - category:
@@ -547,7 +563,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/finos/object-builder
             project: graduated
-            homepage_url: https://github.com/finos/common-domain-model
+            homepage_url: https://cdm.finos.org/
             repo_url: https://github.com/finos/common-domain-model
             organization:
               name: FINOS
@@ -555,6 +571,8 @@ landscape:
               incubating: 2023-02-14
               # lead: dshoneisda
               maven_groupid: "org.finos.cdm"
+              slack_url: https://finos-lf.slack.com/archives/C077RLHDT89
+              mailing_list_url: https://cdm.finos.org/docs/get-involved
           - license: CSLA 1.0
             logo: financial-objects.svg
             name: Financial Objects
@@ -707,7 +725,7 @@ landscape:
             name: TRAC d.a.p.
             item:
             project: incubating
-            homepage_url: https://trac-platform.readthedocs.io/en/stable/
+            homepage_url: https://tracdap.finos.org/
             repo_url: https://github.com/finos/tracdap
             organization:
               name: FINOS
@@ -718,13 +736,14 @@ landscape:
             name: TraderX
             item:
             project: incubating
-            homepage_url: https://github.com/finos/traderX
+            homepage_url: https://traderx.finos.org/
             repo_url: https://github.com/finos/traderX
             organization:
               name: FINOS
             extra:
               incubating: 2023-02-13
               # lead: dovops
+              slack_url: https://finos-lf.slack.com/archives/C05AV6R4VDF
       - subcategory:
         name: Market Data
         items:
