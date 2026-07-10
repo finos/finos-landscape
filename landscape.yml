@@ -357,18 +357,7 @@ landscape:
               mailing_list_url: https://groups.google.com/a/finos.org/g/fdc3
               npmjs: ["finos/fdc3", "finos/fdc3-agent-proxy", "finos/fdc3-commonjs", "finos/fdc3-context", "finos/fdc3-get-agent", "finos/fdc3-schema", "finos/fdc3-standard", "finos/fdc3-web-impl"]
           - license: Apache License 2.0
-            logo: fdc3-conformance.svg
-            name: FDC3 Conformance Framework
-            item:
-            project: incubating
-            homepage_url: https://fdc3.finos.org
-            repo_url: https://github.com/finos/FDC3-conformance-framework
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2022-06-08
-              # lead: ColinEberhardt
-          - logo: springbot.svg
+            logo: springbot.svg
             name: Spring Bot
             item:
             project: graduated
