@@ -1,0 +1,14 @@
+landscapeName: finos
+landscapeMemberClasses:
+   - name: Platinum Membership
+     category: Platinum
+   - name: Gold Membership
+     category: Gold
+   - name: Silver Membership
+     category: Silver
+   - name: Associate Membership
+     category: Associate
+project: a092M00001JwBlEQAV # FINOS 
+landscapeMemberCategory: FINOS Members
+landscapefile: landscape.yml
+missingcsvfile: missing.csv
