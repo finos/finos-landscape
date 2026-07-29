@@ -530,6 +530,9 @@ landscape:
             project: incubating
             homepage_url: https://calm.finos.org
             repo_url: https://github.com/finos/architecture-as-code
+            additional_repos:
+              - repo_url: https://github.com/finos/calm-schema
+              - repo_url: https://github.com/finos/calm-governance
             organization:
               name: FINOS
             extra:
