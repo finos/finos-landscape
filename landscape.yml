@@ -40,17 +40,6 @@ landscape:
       - subcategory:
         name: Toolchain
         items:
-          - logo: finos-code-scanning.svg
-            name: FINOS Code Scanning
-            item:
-            project: incubating
-            homepage_url: https://github.com/finos/security-scanning
-            repo_url: https://github.com/finos/security-scanning
-            organization:
-              name: FINOS
-            extra:
-              incubating: 2022-10-11
-              # lead: maoo
           - license: Apache License 2.0
             logo: fin-ocr.svg
             name: FIN-OCR
