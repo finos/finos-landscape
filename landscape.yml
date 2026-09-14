@@ -771,6 +771,35 @@ landscape:
             organization:
               name: FINOS
   - category:
+    name: OSERA
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            license: Community Specification License
+            logo: osera.svg
+            name: Remediation Standards
+            project: labs
+            homepage_url: https://http://standards.osera.finos.org/
+            repo_url: https://github.com/finos-osera/remediation-standards
+            organization:
+              name: FINOS
+            extra:
+              lead: dovops
+              slack_url: https://finos-lf.slack.com/archives/C0BRSPGUYQJ
+              mailing_list_url: https://lists.finos.org/g/osera-remediations
+          - item:
+            logo: osera.svg
+            name: Risk Navigator
+            project: labs
+            repo_url: https://github.com/finos-osera/risk-navigator
+            organization:
+              name: FINOS
+            extra:
+              lead: dovops
+              mailing_list_url: https://lists.finos.org/g/osera-risk-navigator
+  - category:
     name: FINOS
     subcategories:
       - subcategory:
