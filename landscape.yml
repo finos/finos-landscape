@@ -786,7 +786,7 @@ landscape:
             organization:
               name: FINOS
             extra:
-              lead: dovops
+              # lead: dovops
               slack_url: https://finos-lf.slack.com/archives/C0BRSPGUYQJ
               mailing_list_url: https://lists.finos.org/g/osera-remediations
           - item:
@@ -798,7 +798,7 @@ landscape:
             organization:
               name: FINOS
             extra:
-              lead: dovops
+              # lead: dovops
               mailing_list_url: https://lists.finos.org/g/osera-risk-navigator
   - category:
     name: FINOS
