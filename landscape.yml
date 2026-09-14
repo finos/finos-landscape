@@ -532,6 +532,33 @@ landscape:
               mailing_list_url: https://lists.finos.org/g/calm
               docker_hub: [ "finos calm-hub"]
               npmjs: ["finos/calm-server", "finos/calm-cli"]
+      - subcategory:
+        name: Supply Chain Resiliency
+        items:
+          - item:
+            license: Community Specification License
+            logo: osera.svg
+            name: Remediation Standards
+            project: incubating
+            homepage_url: https://http://standards.osera.finos.org/
+            repo_url: https://github.com/finos-osera/remediation-standards
+            organization:
+              name: FINOS
+            extra:
+              # lead: dovops
+              slack_url: https://finos-lf.slack.com/archives/C0BRSPGUYQJ
+              mailing_list_url: https://lists.finos.org/g/osera-remediations
+          - item:
+            logo: osera.svg
+            name: Risk Navigator
+            project: incubating
+            repo_url: https://github.com/finos-osera/risk-navigator
+            homepage_url: https://github.com/finos-osera/risk-navigator
+            organization:
+              name: FINOS
+            extra:
+              # lead: dovops
+              mailing_list_url: https://lists.finos.org/g/osera-risk-navigator
   - category:
     name: Data & Business Logic
     subcategories:
