@@ -532,6 +532,20 @@ landscape:
               mailing_list_url: https://lists.finos.org/g/calm
               docker_hub: [ "finos calm-hub"]
               npmjs: ["finos/calm-server", "finos/calm-cli"]
+          - license: Community Specification License
+            logo: sdlc-controls-catalog.svg
+            name: SDLC Common Controls Catalog
+            item:
+            project: incubating
+            homepage_url: https://finos.github.io/sdlc-common-controls/
+            repo_url: https://github.com/finos/sdlc-common-controls
+            organization:
+              name: FINOS
+            extra:
+              accepted: 2026-07-22
+              incubating: 2026-09-29
+              # lead: aaronsearle
+              mailing_list_url: https://lists.finos.org/g/sdlc-framework
       - subcategory:
         name: Supply Chain Resiliency
         items:
