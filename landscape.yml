@@ -6,7 +6,7 @@ landscape:
         name: AI
         items:
           - item:
-            license: Apache License 2.0
+            license: CC-BY-4.0
             logo: ai-readiness.svg
             name: AI Readiness
             project: sig
@@ -37,6 +37,20 @@ landscape:
               mailing_list_url: https://lists.finos.org/g/ai-governance-framework
               annotations:
                 # lead: ColinEberhardt
+          - item:
+            license: Apache License 2.0
+            logo: finos-labs.svg
+            name: Konspekt
+            project: labs
+            homepage_url: https://finos-labs.github.io/konspekt/#1
+            repo_url: https://github.com/finos-labs/konspekt
+            organization:
+              name: FINOS
+            extra:
+              slack_url: https://finos-lf.slack.com/archives/C0BSX90T7UL
+              mailing_list_url: https://lists.finos.org/g/konspekt-general
+              annotations:
+                # lead: denisurusov
       - subcategory:
         name: Toolchain
         items:
