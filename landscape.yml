@@ -135,6 +135,17 @@ landscape:
               # lead: paulapaul
               slack_url: https://finos-lf.slack.com/archives/C06PM8B8YCC
               mailing_list_url: https://groups.google.com/a/finos.org/g/open-source-talent-acceleration
+          - logo: de-sig.svg
+            name: Distinguished Engineer Special Interest Group
+            item:
+            project: sig
+            homepage_url: https://distinguished-engineer-community.finos.org/
+            repo_url: https://github.com/finos-labs/distinguished-engineer-community
+            organization:
+              name: FINOS
+            extra:
+              # lead: MarksandSparks1
+              mailing_list_url: https://lists.finos.org/g/distinguished-engineer-community
       - subcategory:
         name: Regulation
         items:
