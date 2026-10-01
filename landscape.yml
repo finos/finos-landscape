@@ -39,7 +39,7 @@ landscape:
                 # lead: ColinEberhardt
           - item:
             license: Apache License 2.0
-            logo: finos-labs.svg
+            logo: konspekt-labs.svg
             name: Konspekt
             project: labs
             homepage_url: https://finos-labs.github.io/konspekt/#1
@@ -576,7 +576,7 @@ landscape:
         items:
           - item:
             license: Community Specification License
-            logo: osera.svg
+            logo: remediation-standards.svg
             name: Remediation Standards
             project: labs
             homepage_url: https://http://standards.osera.finos.org/
@@ -588,7 +588,7 @@ landscape:
               slack_url: https://finos-lf.slack.com/archives/C0BRSPGUYQJ
               mailing_list_url: https://lists.finos.org/g/osera-remediations
           - item:
-            logo: osera.svg
+            logo: risk-nav.svg
             name: Risk Navigator
             project: labs
             repo_url: https://github.com/finos-osera/risk-navigator
