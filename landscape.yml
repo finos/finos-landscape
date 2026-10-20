@@ -51,6 +51,19 @@ landscape:
               mailing_list_url: https://lists.finos.org/g/konspekt-general
               annotations:
                 # lead: denisurusov
+          - item:
+            license: Apache License 2.0
+            logo: ai-evals.svg
+            name: AI Evaluation Framework
+            project: labs
+            homepage_url: https://github.com/finos-labs/ai-evals-framework
+            repo_url: https://github.com/finos-labs/ai-evals-framework
+            organization:
+              name: FINOS
+            extra:
+              mailing_list_url: https://lists.finos.org/g/ai-evals-framework
+              annotations:
+                # lead: JamieWhitMac
       - subcategory:
         name: Toolchain
         items:
