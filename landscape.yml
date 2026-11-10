@@ -115,6 +115,7 @@ landscape:
             extra:
               # lead: JamieSlome
               incubating: 2020-11-19
+              graduated: 2025-06-11
               mailing_list_url: https://lists.finos.org/g/git-proxy
               slack_url: https://finos-lf.slack.com/archives/C06LXNW0W76
               docker_hub: [ "finos git-proxy"]
@@ -249,6 +250,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-12-20
+              graduated: 2024-03-14
               # lead: timkpaine
           - license: Apache License 2.0
             logo: regular-table.svg
@@ -261,6 +263,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2022-12-20
+              graduated: 2023-05-22
               # lead: texodus
           - logo: vuu.svg
             name: VUU
@@ -451,6 +454,12 @@ landscape:
               - repo_url: https://github.com/finos/fluxnova-examples
               - repo_url: https://github.com/finos/fluxnova-website
               - repo_url: https://github.com/finos/fluxnova-docs-theme
+              - repo_url: https://github.com/finos/fluxnova-control-center
+              - repo_url: https://github.com/finos/fluxnova-plugins
+              - repo_url: https://github.com/finos/fluxnova-modeler-plugins
+              - repo_url: https://github.com/finos/fluxnova-testing-framework
+              - repo_url: https://github.com/finos/fluxnova-deploy
+              - repo_url: https://github.com/finos/fluxnova-ai
             organization:
               name: FINOS
             extra:
@@ -473,6 +482,8 @@ landscape:
             extra:
               incubating: 2025-09-10
               # lead: cyriaquem
+              slack_url: https://finos-lf.slack.com/archives/C0CCG9HHEG5
+              mailing_list_url: https://lists.finos.org/g/open-resource-broker
           - license: Apache License 2.0
             logo: htc-grid.svg
             name: High Throughput Compute Grid
@@ -502,6 +513,7 @@ landscape:
               incubating: 2025-05-13
               # lead: bansalr
               slack_url: https://finos-lf.slack.com/archives/C09A1DN2RE3
+              mailing_list_url: https://lists.finos.org/g/opengris
           - license: Apache License 2.0
             logo: 5-spot.svg
             name: 5-Spot Machine Scheduler
@@ -565,6 +577,7 @@ landscape:
               name: FINOS
             extra:
               incubating: 2025-04-14
+              graduated: 2026-10-07
               # lead: rocketstack-matt
               slack_url: https://finos-lf.slack.com/archives/C085UHKL6SJ
               mailing_list_url: https://lists.finos.org/g/calm
@@ -575,7 +588,7 @@ landscape:
             name: SDLC Common Controls Catalog
             item:
             project: incubating
-            homepage_url: https://finos.github.io/sdlc-common-controls/
+            homepage_url: https://sdlc-common-controls.finos.org/
             repo_url: https://github.com/finos/sdlc-common-controls
             organization:
               name: FINOS
@@ -583,7 +596,7 @@ landscape:
               accepted: 2026-07-22
               incubating: 2026-09-29
               # lead: aaronsearle
-              mailing_list_url: https://lists.finos.org/g/sdlc-framework
+              mailing_list_url: https://lists.finos.org/g/sdlc-common-controls
       - subcategory:
         name: Supply Chain Resiliency
         items:
@@ -622,7 +635,7 @@ landscape:
             name: Common Domain Model
             item:
             additional_repos:
-              - repo_url: https://github.com/finos/object-builder
+              - repo_url: https://github.com/finos/cdm-object-builder
             project: graduated
             homepage_url: https://cdm.finos.org/
             repo_url: https://github.com/finos/common-domain-model
@@ -630,10 +643,11 @@ landscape:
               name: FINOS
             extra:
               incubating: 2023-02-14
+              graduated: 2025-10-15
               # lead: dshoneisda
               maven_groupid: "org.finos.cdm"
               slack_url: https://finos-lf.slack.com/archives/C077RLHDT89
-              mailing_list_url: https://cdm.finos.org/docs/get-involved
+              mailing_list_url: https://lists.finos.org/g/cdm
           - license: CSLA 1.0
             logo: financial-objects.svg
             name: Financial Objects
@@ -719,7 +733,6 @@ landscape:
               - repo_url: https://github.com/finos/legend-depot
               - repo_url: https://github.com/finos/legend-integration-juju
               - repo_url: https://github.com/finos/legend-integration-morphir
-              - repo_url: https://github.com/finos/legend-integration-helm
               - repo_url: https://github.com/finos/legend-juju-bundle
               - repo_url: https://github.com/finos/legend-juju-db-operator
               - repo_url: https://github.com/finos/legend-juju-engine-server-operator
@@ -729,6 +742,9 @@ landscape:
               - repo_url: https://github.com/finos/legend-juju-studio-operator
               - repo_url: https://github.com/finos/legend-community-delta
               - repo_url: https://github.com/finos/pylegend
+              - repo_url: https://github.com/finos/legend-pure-next
+              - repo_url: https://github.com/finos/legend-engine-ide-lsp
+              - repo_url: https://github.com/finos/legend-engine-ide-client-vscode
             project: incubating
             homepage_url: https://legend.finos.org
             repo_url: https://github.com/finos/legend
@@ -750,10 +766,17 @@ landscape:
               - repo_url: https://github.com/finos/morphir-jvm
               - repo_url: https://github.com/finos/morphir-dotnet
               - repo_url: https://github.com/finos/morphir-service
-              - repo_url: https://github.com/finos/morphir-bosque
               - repo_url: https://github.com/finos/morphir-examples
               - repo_url: https://github.com/finos/morphir-scala
               - repo_url: https://github.com/finos/morphir-go
+              - repo_url: https://github.com/finos/morphir-python
+              - repo_url: https://github.com/finos/morphir-rust
+              - repo_url: https://github.com/finos/morphir-typescript
+              - repo_url: https://github.com/finos/morphir-gleam
+              - repo_url: https://github.com/finos/morphir-moonbit
+              - repo_url: https://github.com/finos/morphir-zig
+              - repo_url: https://github.com/finos/morphir-ui
+              - repo_url: https://github.com/finos/morphir-extensions
             project: graduated
             homepage_url: https://morphir.finos.org
             repo_url: https://github.com/finos/morphir
@@ -786,6 +809,20 @@ landscape:
               incubating: 2024-04-24
               # lead: minesh-s-patel
               pypi: ["rune-runtime"]
+          - item:
+            license: Apache License 2.0
+            logo: rune-xsd-model-importer-framework-labs.svg
+            name: Rune XSD Importer
+            project: labs
+            homepage_url: https://github.com/finos-labs/rune-xsd-importer
+            repo_url: https://github.com/finos-labs/rune-xsd-importer
+            organization:
+              name: FINOS
+            extra:
+              accepted: 2026-08-19
+              # lead: manel-martos
+              mailing_list_url: https://lists.finos.org/g/rune-xsd-importer
+              slack_url: https://finos-lf.slack.com/archives/C0CG8UBGF9A
           - logo: tracdap.svg
             name: TRAC d.a.p.
             item:
