@@ -804,6 +804,18 @@ landscape:
               incubating: 2024-04-24
               # lead: minesh-s-patel
               pypi: ["rune-runtime"]
+          - item:
+            license: Apache License 2.0
+            logo: rune.svg
+            name: Rune XSD Importer
+            project: labs
+            homepage_url: https://github.com/finos-labs/rune-xsd-importer
+            repo_url: https://github.com/finos-labs/rune-xsd-importer
+            organization:
+              name: FINOS
+            extra:
+              mailing_list_url: https://lists.finos.org/g/rune-xsd-importer
+              slack_url: https://finos-lf.slack.com/archives/C0CG8UBGF9A
           - logo: tracdap.svg
             name: TRAC d.a.p.
             item:
