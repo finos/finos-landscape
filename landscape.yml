@@ -777,6 +777,10 @@ landscape:
               - repo_url: https://github.com/finos/rune-dsl
               - repo_url: https://github.com/finos/rune-testing
               - repo_url: https://github.com/finos/rune-common
+              - repo_url: https://github.com/finos/rune-python-generator
+              - repo_url: https://github.com/finos/rune-python-runtime
+              - repo_url: https://github.com/finos/rune-csharp-generator
+              - repo_url: https://github.com/finos/rune-csharp-runtime
             organization:
               name: FINOS
             extra:
