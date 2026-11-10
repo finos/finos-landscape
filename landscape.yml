@@ -544,6 +544,7 @@ landscape:
               accepted: 2023-07-06
               incubating: 2023-10-24
               # lead: akan
+              mailing_list_url: https://lists.finos.org/g/CCC-Steering-Committee
               slack_url: https://finos-lf.slack.com/archives/C01RNUMC2DP
           - logo: waltz.svg
             name: Waltz
@@ -618,6 +619,7 @@ landscape:
               name: FINOS
             extra:
               # lead: dovops
+              mailing_list_url: https://lists.finos.org/g/osera-risk-navigator
   - category:
     name: Data & Business Logic
     subcategories:
