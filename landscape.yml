@@ -417,6 +417,19 @@ landscape:
               # lead: nkolba
               mailing_list_url: https://lists.finos.org/g/fdc3-sail
               slack_url: https://finos-lf.slack.com/archives/C03FUTQ1F50
+          - item:
+            license: Apache License 2.0
+            logo: finos-workspace.svg
+            name: FINOS Workspace
+            project: labs
+            homepage_url: https://workspace.finos.org
+            repo_url: https://github.com/finos-labs/finos-workspace
+            organization:
+              name: FINOS
+            extra:
+              accepted: 2026-10-14
+              # lead: saracgil
+              mailing_list_url: https://lists.finos.org/g/workspace-dev
           - license: Apache License 2.0
             logo: symphony-electron.svg
             name: Symphony Electron
